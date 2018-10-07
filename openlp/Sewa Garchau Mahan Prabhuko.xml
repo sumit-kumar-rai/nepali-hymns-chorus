@@ -1,2 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bal Chorus 21(Sewa Garchau Mahan Prabhuko)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>सेवा गर्छौं महान् प्रभुको (४)<br/>गाउँदै प्रभुको प्रशंसा गर (४)<br/>नाच्दै प्रभुको प्रशंसा गर (४)<br/>ताली बजाउँदै प्रशंसा गर (४) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bal Chorus 21(Sewa Garchau Mahan Prabhuko)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>सेवा गर्छौं महान् प्रभुको (४)<br/>गाउँदै प्रभुको प्रशंसा गर (४)<br/>नाच्दै प्रभुको प्रशंसा गर (४)<br/>ताली बजाउँदै प्रशंसा गर (४) </lines>
+		</verse>
+	</lyrics>
+</song>

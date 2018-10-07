@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 234(Udharko Din Cha Aja)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः उद्धारको दिन छ आज नै मित्र समयलाई नपर्ख<br/>अनिश्चित चोलाको भरोसा के छ अहिले नै ढल्न सक्छ ।</lines></verse><verse name="v2"><lines>१. देखी डरलाग्दो दशा पापीको ख्रीष्ट अघि सर्नुभो (२)<br/>सही चोट त्यो श्रापित क्रूसको, मुक्तिद्वार खोल्नुभो (२)</lines></verse><verse name="v3"><lines>२. दिन्छन् प्रभु ख्रीष्ट मुक्ति र शान्ति पछ्ताउने पापीलाई (२)<br/>सित्तैको मुक्ति लिनका निम्ति आऊ आज येशू थाई (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 234(Udharko Din Cha Aja)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः उद्धारको दिन छ आज नै मित्र समयलाई नपर्ख<br/>अनिश्चित चोलाको भरोसा के छ अहिले नै ढल्न सक्छ ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. देखी डरलाग्दो दशा पापीको ख्रीष्ट अघि सर्नुभो (२)<br/>सही चोट त्यो श्रापित क्रूसको, मुक्तिद्वार खोल्नुभो (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. दिन्छन् प्रभु ख्रीष्ट मुक्ति र शान्ति पछ्ताउने पापीलाई (२)<br/>सित्तैको मुक्ति लिनका निम्ति आऊ आज येशू थाई (२) </lines>
+		</verse>
+	</lyrics>
+</song>

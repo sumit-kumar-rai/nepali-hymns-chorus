@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 152(Chadai Dherai Chadai)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>चाँडै, धेरै चाँडै हामी राजालाई भेट्नेछौँ (३)<br/>हल्लेलूयाह, हल्लेलूयाह, हाम्रो राजालाई भेट्नेछौँ</lines></verse><verse name="v2"><lines>खुशी हुनेछौँ, हामी हाम्रो राजालाई भेट्नेछौँ (३)</lines></verse><verse name="v3"><lines>मृत्यु हुँदैन, हामी हाम्रो राजालाई भेट्नेछौँ (३)</lines></verse><verse name="v4"><lines>रुवाइ हुँदैन, हामी हाम्रो राजालाई भेट्नेछौँ (३) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 152(Chadai Dherai Chadai)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>चाँडै, धेरै चाँडै हामी राजालाई भेट्नेछौँ (३)<br/>हल्लेलूयाह, हल्लेलूयाह, हाम्रो राजालाई भेट्नेछौँ</lines>
+		</verse>
+		<verse name="v2">
+			<lines>खुशी हुनेछौँ, हामी हाम्रो राजालाई भेट्नेछौँ (३)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>मृत्यु हुँदैन, हामी हाम्रो राजालाई भेट्नेछौँ (३)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>रुवाइ हुँदैन, हामी हाम्रो राजालाई भेट्नेछौँ (३) </lines>
+		</verse>
+	</lyrics>
+</song>

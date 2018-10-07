@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 28(Sano Doodma Hera)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. सानो डूँडमा हेर भाइ, येशू जन्मे हामीलाई<br/>हेर नम्र बाल औतार तादिको करार अन्सार ।</lines></verse><verse name="v2"><lines>कोः धन्य सुखको दिन आयो धन्य हाम्रो मुक्ति भो<br/>गाऊ संसारका सबै सृष्टि बेथलेहेममा जन्मे ख्रीष्ट ।।</lines></verse><verse name="v3"><lines>२. जसको ठाउँ र सिंहासन करूवीमका बीचमा छन्<br/>जसले सृजे सबै सृष्ट, अहिले डुँडमा प्रभु ख्रीष्ट ।</lines></verse><verse name="v4"><lines>३. गोठाला कुरी बस्दा देखे ज्योति रातैमा<br/>भने दूतले होस् मिलाप जन्मे ख्रीष्ट मेटाउने पाप ।</lines></verse><verse name="v5"><lines>४. प्रिय पुत्र ईश्वरको, प्रेम तपाईंंको कत्रो भो<br/>छोडी स्वर्गीय आनन्द-सुख, सहनुभो संसारको दुःख । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 28(Sano Doodma Hera)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. सानो डूँडमा हेर भाइ, येशू जन्मे हामीलाई<br/>हेर नम्र बाल औतार तादिको करार अन्सार ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>कोः धन्य सुखको दिन आयो धन्य हाम्रो मुक्ति भो<br/>गाऊ संसारका सबै सृष्टि बेथलेहेममा जन्मे ख्रीष्ट ।।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. जसको ठाउँ र सिंहासन करूवीमका बीचमा छन्<br/>जसले सृजे सबै सृष्ट, अहिले डुँडमा प्रभु ख्रीष्ट ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. गोठाला कुरी बस्दा देखे ज्योति रातैमा<br/>भने दूतले होस् मिलाप जन्मे ख्रीष्ट मेटाउने पाप ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. प्रिय पुत्र ईश्वरको, प्रेम तपाईंंको कत्रो भो<br/>छोडी स्वर्गीय आनन्द-सुख, सहनुभो संसारको दुःख । </lines>
+		</verse>
+	</lyrics>
+</song>

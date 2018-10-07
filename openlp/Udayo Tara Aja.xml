@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 48(Udayo Tara Aja)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः उदायो तारा आज, नील गगनको माझ<br/>यो अँधेरी रातलाई, उज्यालो बनाइदियो ।</lines></verse><verse name="v2"><lines>१. गाईको गोठमा पस्रेको प्रभु<br/>पापी जन सबको उद्धार गर्न<br/>जन्मे आज, जन्मे प्रभु जगको त्यो एक्लो डुँडैमा । (२)</lines></verse><verse name="v3"><lines>२. आनन्द मनाऔं यो शुभ रातमा<br/>सुसन्देश सुनाऔं सारा जगतमा जन्मे आज,<br/>जन्मे प्रभु जगमा ज्योतिका हाम्रा राजा (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 48(Udayo Tara Aja)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः उदायो तारा आज, नील गगनको माझ<br/>यो अँधेरी रातलाई, उज्यालो बनाइदियो ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. गाईको गोठमा पस्रेको प्रभु<br/>पापी जन सबको उद्धार गर्न<br/>जन्मे आज, जन्मे प्रभु जगको त्यो एक्लो डुँडैमा । (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. आनन्द मनाऔं यो शुभ रातमा<br/>सुसन्देश सुनाऔं सारा जगतमा जन्मे आज,<br/>जन्मे प्रभु जगमा ज्योतिका हाम्रा राजा (२) </lines>
+		</verse>
+	</lyrics>
+</song>

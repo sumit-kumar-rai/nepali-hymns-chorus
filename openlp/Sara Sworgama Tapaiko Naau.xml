@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 290(Sara Sworgama Tapaiko Naau)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>सारा स्वर्गमा तपाईंको नाउँ अति उच्च छ<br/>सारा स्वर्गमा तपाईंको नाउँ अति उत्तम छ</lines></verse><verse name="v2"><lines>हाम्रो स्तुतिले तपाईंलाई उचाल्दछन्,<br/>हाम्रो शिरहरू तपाईंलाई दण्डवत् गर्दछन् ।</lines></verse><verse name="v3"><lines>म हुँ जो म हुँ, म हुँ जो म हुँ (२) हल्लेलूयाह (४) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 290(Sara Sworgama Tapaiko Naau)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>सारा स्वर्गमा तपाईंको नाउँ अति उच्च छ<br/>सारा स्वर्गमा तपाईंको नाउँ अति उत्तम छ</lines>
+		</verse>
+		<verse name="v2">
+			<lines>हाम्रो स्तुतिले तपाईंलाई उचाल्दछन्,<br/>हाम्रो शिरहरू तपाईंलाई दण्डवत् गर्दछन् ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>म हुँ जो म हुँ, म हुँ जो म हुँ (२) हल्लेलूयाह (४) </lines>
+		</verse>
+	</lyrics>
+</song>

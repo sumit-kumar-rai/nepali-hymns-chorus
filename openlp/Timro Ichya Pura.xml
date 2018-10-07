@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 88(Timro Ichya Pura)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>तिम्रो इच्छा पूरा होस्,<br/>तिम्रो हातमा मेरो जीवन छ</lines></verse><verse name="v2"><lines>म माटो हुँ, तिमी हौ कुमाले,<br/>मलाई बनाउ, मलाई उठाऊ</lines></verse><verse name="v3"><lines>आफ्नो खुशीमा म हिँडिरहेँ, तिम्रो कुरा मैले सुनिनँ<br/>(तर प्रभु, आज म तिम्रो क्रूसलाई उठाउने छु) २ </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 88(Timro Ichya Pura)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>तिम्रो इच्छा पूरा होस्,<br/>तिम्रो हातमा मेरो जीवन छ</lines>
+		</verse>
+		<verse name="v2">
+			<lines>म माटो हुँ, तिमी हौ कुमाले,<br/>मलाई बनाउ, मलाई उठाऊ</lines>
+		</verse>
+		<verse name="v3">
+			<lines>आफ्नो खुशीमा म हिँडिरहेँ, तिम्रो कुरा मैले सुनिनँ<br/>(तर प्रभु, आज म तिम्रो क्रूसलाई उठाउने छु) २ </lines>
+		</verse>
+	</lyrics>
+</song>

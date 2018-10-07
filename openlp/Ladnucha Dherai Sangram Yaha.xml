@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 408(Ladnucha Dherai Sangram Yaha)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः लड्नुछ धेरै सङ्ग्राम यहाँ, आत्माको पहाडमा चढ्नुछ<br/>शक्ति पाई मसीह येशूको बन्नुछ यो जीवनमा ।</lines></verse><verse name="v2"><lines>१. विश्वासका अनेकौं लडाइँहरू संसारमा लडेर जित्नुछ<br/>विद्रोह प्रेमको बोकेर अँगालोमा सबलाई बाँध्नुछ<br/>वीरता नदेखून् मानिसले इनाम प्रभुले दिनेछन् (२)<br/>मर्नुछ धेरै मृत्यु यहाँ, सत्यको साक्षी बनी मर्नुछ<br/>जीवन पाई मसीह येशूको जिउनुछ भई आज नयाँ ।</lines></verse><verse name="v3"><lines>२. अविश्वासका जीवन जिउनेहरू, सबलाई अँगालोमा बाँध्नुछ<br/>रित्तिसकेका जीवनलाई आफ्नो आशिष् यहाँ बाँध्नुछ<br/>बैरी बनून् संसार सारा, शक्तिका राजा साथमा छन् (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 408(Ladnucha Dherai Sangram Yaha)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः लड्नुछ धेरै सङ्ग्राम यहाँ, आत्माको पहाडमा चढ्नुछ<br/>शक्ति पाई मसीह येशूको बन्नुछ यो जीवनमा ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. विश्वासका अनेकौं लडाइँहरू संसारमा लडेर जित्नुछ<br/>विद्रोह प्रेमको बोकेर अँगालोमा सबलाई बाँध्नुछ<br/>वीरता नदेखून् मानिसले इनाम प्रभुले दिनेछन् (२)<br/>मर्नुछ धेरै मृत्यु यहाँ, सत्यको साक्षी बनी मर्नुछ<br/>जीवन पाई मसीह येशूको जिउनुछ भई आज नयाँ ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. अविश्वासका जीवन जिउनेहरू, सबलाई अँगालोमा बाँध्नुछ<br/>रित्तिसकेका जीवनलाई आफ्नो आशिष् यहाँ बाँध्नुछ<br/>बैरी बनून् संसार सारा, शक्तिका राजा साथमा छन् (२) </lines>
+		</verse>
+	</lyrics>
+</song>

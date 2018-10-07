@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 152(Prabhu Hidchau Jati Bachan)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. प्रभु हिँड्छौं जति वचन हुन्छ बत्ती<br/>जसले विश्वास लाउँछ, हर्ष ज्योति पाउँछ ।</lines></verse><verse name="v2"><lines>२. जब शत्रु आउँछ, वचनले सम्झाउँछ<br/>साहस दिने शिक्षा मुक्तिको प्रतीक्षा ।</lines></verse><verse name="v3"><lines>३. आउँदा मेघ अँध्यारो जब घर छ टाढो<br/>यात्री वचन लिन्छ बाटो देखाइदिन्छ ।</lines></verse><verse name="v4"><lines>४. वचन केको तुल्य ? कति बहुमूल्य १<br/>सुख–विलासको कारण मान्छेलाई साधारण ।</lines></verse><verse name="v5"><lines>५. परमेश्वरका कुरा बुझौं वचन पूरा<br/>तपाईंलाई प्रेम गरी बसौं सधैँभरी । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 152(Prabhu Hidchau Jati Bachan)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. प्रभु हिँड्छौं जति वचन हुन्छ बत्ती<br/>जसले विश्वास लाउँछ, हर्ष ज्योति पाउँछ ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. जब शत्रु आउँछ, वचनले सम्झाउँछ<br/>साहस दिने शिक्षा मुक्तिको प्रतीक्षा ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. आउँदा मेघ अँध्यारो जब घर छ टाढो<br/>यात्री वचन लिन्छ बाटो देखाइदिन्छ ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. वचन केको तुल्य ? कति बहुमूल्य १<br/>सुख–विलासको कारण मान्छेलाई साधारण ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>५. परमेश्वरका कुरा बुझौं वचन पूरा<br/>तपाईंलाई प्रेम गरी बसौं सधैँभरी । </lines>
+		</verse>
+	</lyrics>
+</song>

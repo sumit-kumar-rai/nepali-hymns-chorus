@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 127(Gaaun Gaaun Jay Geet)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः गाऔं, गाऔं जय गीत गाऔं, ताली बजाएर गाऔं (२)<br/>येशू राजा बौरिउठे हल्लेलूयाह, रमाएर सुनाऊ समाचार (२)</lines></verse><verse name="v2"><lines>१. कबरमा थियो त्यो ठूलो ढुङ्गा हट्यो हेर कसरी त्यो (२)<br/>रोमीराज्यको मोहर–बन्धन राख्न सक्दैन एकलौते पुत्र ईश्वरको ।</lines></verse><verse name="v3"><lines>२. नरोऊ–नरोऊ, विलाप नगर गालीलमा देऊ समाचार (२)<br/>कि ख्रीष्ट बौरिउठे वचनअनुसार तुरुन्त सुनाऊ यो प्रचार ।</lines></verse><verse name="v4"><lines>३. हन्ना–कैफा पूरानियाको सभा डरले भए परेशान (२)<br/>अन्धकारको शक्ति नष्ट हुनाले साहरो घबरायो शैतान ।</lines></verse><verse name="v5"><lines>४. विश्वासीहरू शिरलाई उँभो उठाऔं आउँदै छन् महाराजा (२)<br/>नरसिङ्ग, सितार र तबला बजाऔं, पुकारौं हल्लेलूयाह । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 127(Gaaun Gaaun Jay Geet)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः गाऔं, गाऔं जय गीत गाऔं, ताली बजाएर गाऔं (२)<br/>येशू राजा बौरिउठे हल्लेलूयाह, रमाएर सुनाऊ समाचार (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. कबरमा थियो त्यो ठूलो ढुङ्गा हट्यो हेर कसरी त्यो (२)<br/>रोमीराज्यको मोहर–बन्धन राख्न सक्दैन एकलौते पुत्र ईश्वरको ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. नरोऊ–नरोऊ, विलाप नगर गालीलमा देऊ समाचार (२)<br/>कि ख्रीष्ट बौरिउठे वचनअनुसार तुरुन्त सुनाऊ यो प्रचार ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. हन्ना–कैफा पूरानियाको सभा डरले भए परेशान (२)<br/>अन्धकारको शक्ति नष्ट हुनाले साहरो घबरायो शैतान ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. विश्वासीहरू शिरलाई उँभो उठाऔं आउँदै छन् महाराजा (२)<br/>नरसिङ्ग, सितार र तबला बजाऔं, पुकारौं हल्लेलूयाह । </lines>
+		</verse>
+	</lyrics>
+</song>

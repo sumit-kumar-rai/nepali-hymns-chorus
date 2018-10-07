@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 347(Hridaya Bheti Chadau)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः हृदय भेटी चढाऔं प्रभुलाई, स्तुति जयगान पनि,<br/>हामी सब सन्तगण मिली २</lines></verse><verse name="v2"><lines>१. पापको भार उठाउन आए ख्रीष्ट नरलोकमा (२)<br/>पापी जन सबको पाप मेटाई (२) जीवन सनातन दिन ।</lines></verse><verse name="v3"><lines>२. असाध्य दुःख उठाए नम्र र दीन बनी (२)<br/>खोली उद्धारको द्वार प्रभुजी (२) अमर आशा दिलाई ।</lines></verse><verse name="v4"><lines>३. धन्य स्वर्गीय यो प्रेम हामी अधर्मीप्रति (२)<br/>नभुलौं फेरि दुष्ट बनेर (२) संसारमा फेरि फर्की ।</lines></verse><verse name="v5"><lines>४. समर्पण गर्छौं तपाईंलाई प्राण, आत्मा, हृदय पनि (२)<br/>रक्षा गर्नुहोस् यो जीवनको (२) विनय छ हाम्रो यही । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 347(Hridaya Bheti Chadau)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः हृदय भेटी चढाऔं प्रभुलाई, स्तुति जयगान पनि,<br/>हामी सब सन्तगण मिली २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. पापको भार उठाउन आए ख्रीष्ट नरलोकमा (२)<br/>पापी जन सबको पाप मेटाई (२) जीवन सनातन दिन ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. असाध्य दुःख उठाए नम्र र दीन बनी (२)<br/>खोली उद्धारको द्वार प्रभुजी (२) अमर आशा दिलाई ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. धन्य स्वर्गीय यो प्रेम हामी अधर्मीप्रति (२)<br/>नभुलौं फेरि दुष्ट बनेर (२) संसारमा फेरि फर्की ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. समर्पण गर्छौं तपाईंलाई प्राण, आत्मा, हृदय पनि (२)<br/>रक्षा गर्नुहोस् यो जीवनको (२) विनय छ हाम्रो यही । </lines>
+		</verse>
+	</lyrics>
+</song>

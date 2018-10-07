@@ -1,2 +1,34 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 134(Yeshu Chadai Aaunuhuncha)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. येशू चाँडै आउनुहुन्छ बादलमा यहूदीहरू आउँदै छन् त्यस बेला (३)<br/>तुरही फुकी जानेछ, त्यस बेला (३) पापीहरू के गर्नेछन् त्यस बेला (३)</lines></verse><verse name="v2"><lines>२. विश्वासी मुर्दा उठ्नेछन् (३) महिमाको शरीर हुन्छ (३)<br/>दुःख शुरू हुन्छ संसारमा (३) हावामा मण्डली जानेछन् (३)</lines></verse><verse name="v3"><lines>३. सबै भक्त भेट हुनेछन् (३) स्वर्गीय मुकुट पाउनेछन् (३)<br/>मेम्नाको भजन हुनेछन् (३) आँशु सबै पुछिदिन्छन् (३)</lines></verse><verse name="v4"><lines>४. येशूलाई दण्डवत् गर्नेछन् (३) जयजयकारको ध्वनि हुन्छन् (३)<br/>जैतुनमा येशू आउनेछन् (३) येशूले राज्य गर्नेछन् (३)</lines></verse><verse name="v5"><lines>५. आखिर न्याय हुनेछ (३) पापी आगोमा जानेछन् (३)<br/>तिमी के हुन माग्छौ (३) पश्चात्ताप गरिहाल (३)</lines></verse><verse name="v6"><lines>६. नयाँ स्वर्ग र नयाँ पृथ्वी (३) जसमा बेहुला–बेहुली बस्छन् (३)<br/>मृत्यु, शोक, कष्ट हुँदैन (३) शैतान फेरि हुनेछैन (३)</lines></verse><verse name="v7"><lines>७. ईश्वर सबमा हुन्छन् (३) हल्लेलूयाह सबले भन्छन् (३)<br/>सधैँ आनन्द हुनेछन् (३) सबै जन तयारी होऊ (३) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 134(Yeshu Chadai Aaunuhuncha)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. येशू चाँडै आउनुहुन्छ बादलमा यहूदीहरू आउँदै छन् त्यस बेला (३)<br/>तुरही फुकी जानेछ, त्यस बेला (३) पापीहरू के गर्नेछन् त्यस बेला (३)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. विश्वासी मुर्दा उठ्नेछन् (३) महिमाको शरीर हुन्छ (३)<br/>दुःख शुरू हुन्छ संसारमा (३) हावामा मण्डली जानेछन् (३)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. सबै भक्त भेट हुनेछन् (३) स्वर्गीय मुकुट पाउनेछन् (३)<br/>मेम्नाको भजन हुनेछन् (३) आँशु सबै पुछिदिन्छन् (३)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. येशूलाई दण्डवत् गर्नेछन् (३) जयजयकारको ध्वनि हुन्छन् (३)<br/>जैतुनमा येशू आउनेछन् (३) येशूले राज्य गर्नेछन् (३)</lines>
+		</verse>
+		<verse name="v5">
+			<lines>५. आखिर न्याय हुनेछ (३) पापी आगोमा जानेछन् (३)<br/>तिमी के हुन माग्छौ (३) पश्चात्ताप गरिहाल (३)</lines>
+		</verse>
+		<verse name="v6">
+			<lines>६. नयाँ स्वर्ग र नयाँ पृथ्वी (३) जसमा बेहुला–बेहुली बस्छन् (३)<br/>मृत्यु, शोक, कष्ट हुँदैन (३) शैतान फेरि हुनेछैन (३)</lines>
+		</verse>
+		<verse name="v7">
+			<lines>७. ईश्वर सबमा हुन्छन् (३) हल्लेलूयाह सबले भन्छन् (३)<br/>सधैँ आनन्द हुनेछन् (३) सबै जन तयारी होऊ (३) </lines>
+		</verse>
+	</lyrics>
+</song>

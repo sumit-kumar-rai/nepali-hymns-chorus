@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 711(Jadaichu Yeshukaha)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः जाँदैछु येशूकहाँ छैन दुःख, दर्द वहाँ (२)<br/>सधैँ हुन्छु महिमा, जाँदैछु येशूकहाँ (२)</lines></verse><verse name="v2"><lines>१. यो शरीर छोडी म उडी जान्छु, अनन्त देशमा (२)<br/>सुनौलो शहरको सुन्दर देशमा महिमित भेषमा (२)</lines></verse><verse name="v3"><lines>२. हेर्दिनँ यहाँ क्षिणिक ज्योति, म आँखा चिम्लन्छु (२)<br/>येशूको महिमित मुहार हेर्दै सधैँ नै रमाउनेछु (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 711(Jadaichu Yeshukaha)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः जाँदैछु येशूकहाँ छैन दुःख, दर्द वहाँ (२)<br/>सधैँ हुन्छु महिमा, जाँदैछु येशूकहाँ (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. यो शरीर छोडी म उडी जान्छु, अनन्त देशमा (२)<br/>सुनौलो शहरको सुन्दर देशमा महिमित भेषमा (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. हेर्दिनँ यहाँ क्षिणिक ज्योति, म आँखा चिम्लन्छु (२)<br/>येशूको महिमित मुहार हेर्दै सधैँ नै रमाउनेछु (२) </lines>
+		</verse>
+	</lyrics>
+</song>

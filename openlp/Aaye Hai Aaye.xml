@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 529(Aaye Hai Aaye)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः आए है आए, आए है येशू संसारमा आए<br/>गए है, हाम्रो पाप मेटिगए (ओ हो आ हा) ४</lines></verse><verse name="v2"><lines>१. दुई हजार वर्षअघि गाईको गोठमा (२)<br/>परमेश्वरको एकलो पुत्र (यसै ठाउँमा) २<br/>मुक्तिदाता (२) तारणहार (मानिस अवतार भए) २<br/>(ओ हो आ हा) २</lines></verse><verse name="v3"><lines>२. हामी सबैको दुःख बुझ्न संसारमा आए (२)<br/>बाटो, सत्य र जीवन सबै (एकै ठाउँ आए) २<br/>येशू राजा (२) हाम्रो माझ (मुक्ति बनी आए) २<br/>(ओ हो आ हा) २ </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 529(Aaye Hai Aaye)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः आए है आए, आए है येशू संसारमा आए<br/>गए है, हाम्रो पाप मेटिगए (ओ हो आ हा) ४</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. दुई हजार वर्षअघि गाईको गोठमा (२)<br/>परमेश्वरको एकलो पुत्र (यसै ठाउँमा) २<br/>मुक्तिदाता (२) तारणहार (मानिस अवतार भए) २<br/>(ओ हो आ हा) २</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. हामी सबैको दुःख बुझ्न संसारमा आए (२)<br/>बाटो, सत्य र जीवन सबै (एकै ठाउँ आए) २<br/>येशू राजा (२) हाम्रो माझ (मुक्ति बनी आए) २<br/>(ओ हो आ हा) २ </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 238(Sathi Din Dherai Dhalisakyo)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः साथी दिन धेरै ढलिसक्यो पश्चात्तापको बेला बितिसक्यो<br/>सुसमाचार सुनाउन जाने हो कि ? क्रूसलाई नै अङ्गाली बस्ने हो ?</lines></verse><verse name="v2"><lines>१. येशूको जीवनलाई हेर, सरलताको सजीव शक्ति हो (२)<br/>साँचो मानव जीवनको मात्र एउटा उदाहरण हो<br/>उहाँकै नजरमा तर हाम्रो अवस्था कस्तोकस्तो छ<br/>सोचिदेऊ एक क्षण आज तिमी स्वर्गीय प्रेम किन सस्तो छ</lines></verse><verse name="v3"><lines>२. भन्छन् सबै मानव यहाँ मातिएर दानव हुन्छ (२)<br/>माया नपाई रुन्छ भने पाएर फेरि सुस्ताउँछ,<br/>माया प्रभुको असीमित छ, चेतना हाम्रो कहाँ हरायो<br/>अनुग्रह उनको सदा छ, जोस हाम्रो किन सेलायो </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 238(Sathi Din Dherai Dhalisakyo)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः साथी दिन धेरै ढलिसक्यो पश्चात्तापको बेला बितिसक्यो<br/>सुसमाचार सुनाउन जाने हो कि ? क्रूसलाई नै अङ्गाली बस्ने हो ?</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. येशूको जीवनलाई हेर, सरलताको सजीव शक्ति हो (२)<br/>साँचो मानव जीवनको मात्र एउटा उदाहरण हो<br/>उहाँकै नजरमा तर हाम्रो अवस्था कस्तोकस्तो छ<br/>सोचिदेऊ एक क्षण आज तिमी स्वर्गीय प्रेम किन सस्तो छ</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. भन्छन् सबै मानव यहाँ मातिएर दानव हुन्छ (२)<br/>माया नपाई रुन्छ भने पाएर फेरि सुस्ताउँछ,<br/>माया प्रभुको असीमित छ, चेतना हाम्रो कहाँ हरायो<br/>अनुग्रह उनको सदा छ, जोस हाम्रो किन सेलायो </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 704(Dekhcu Lakhau Koti)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः देख्छु लाखौं कोटी मान्छे, नर्कतर्फ फालिएको<br/>सुन्छु म सधैं करुणा-चीत्कार (बचाऊ) ३ भनेको २</lines></verse><verse name="v2"><lines>१. जाऊ, सुनाइदेऊ सुसमाचार, सित्तैंमा तिमीले पाएको (२)<br/>(थुमा येशू सबैको निम्ति) २, क्रूसमा बलि भएको ।</lines></verse><verse name="v3"><lines>२. लोभ, अधर्म, पाप, मृत्युलाई ख्रीष्टले क्रूसमा टाँसिदिए (२)<br/>(मानव मनको मैलो माझ्न) २, अनमोल रगत बगाए ।</lines></verse><verse name="v4"><lines>३. जसले हृदयबाट विश्वास गरी ख्रीष्टलाई स्वीकार्छ (२)<br/>(तिनले तत्काल मुक्ति पाउँछन्) २, पवित्र आत्माको छाप लाग्छ । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 704(Dekhcu Lakhau Koti)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः देख्छु लाखौं कोटी मान्छे, नर्कतर्फ फालिएको<br/>सुन्छु म सधैं करुणा-चीत्कार (बचाऊ) ३ भनेको २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. जाऊ, सुनाइदेऊ सुसमाचार, सित्तैंमा तिमीले पाएको (२)<br/>(थुमा येशू सबैको निम्ति) २, क्रूसमा बलि भएको ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. लोभ, अधर्म, पाप, मृत्युलाई ख्रीष्टले क्रूसमा टाँसिदिए (२)<br/>(मानव मनको मैलो माझ्न) २, अनमोल रगत बगाए ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. जसले हृदयबाट विश्वास गरी ख्रीष्टलाई स्वीकार्छ (२)<br/>(तिनले तत्काल मुक्ति पाउँछन्) २, पवित्र आत्माको छाप लाग्छ । </lines>
+		</verse>
+	</lyrics>
+</song>

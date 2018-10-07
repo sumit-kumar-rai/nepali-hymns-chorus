@@ -1,2 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 68(Ma Uccha Parnechu)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>म उच्च पार्नेछु त्यो नाउँ (२)<br/>म झण्डाझैँ उच्च पार्छु आकाशमा<br/>म उच्च पार्नेछु त्यो नाउँ । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 68(Ma Uccha Parnechu)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>म उच्च पार्नेछु त्यो नाउँ (२)<br/>म झण्डाझैँ उच्च पार्छु आकाशमा<br/>म उच्च पार्नेछु त्यो नाउँ । </lines>
+		</verse>
+	</lyrics>
+</song>

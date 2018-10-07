@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 746(Mahan Biswastata Pita)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. महान् विश्वस्तता पिता तपाईंको, तपाईंमा फेरिने छायाँ छैन ।<br/>जस्ताको त्यस्तै नै रहनुहुन्छ, कृपाको अन्त कहिल्यै हुँदैन ।</lines></verse><verse name="v2"><lines>कोः महान् विश्वस्तता महान् विश्वस्तता हरेक विहान नयाँ दया देखाई<br/>पुर्र्‍याउनुभो अभाव मेरो तपाईंले, महान् विश्वस्तता हुन्छ मलाई ।</lines></verse><verse name="v3"><lines>२. रहुन्जेल पृथ्वी बीउ छर्ने र कटनी, ग्रीष्म र शिशिर जून तारा र घाम<br/>सारा प्रकृति साथ दिन्छन् गवाही तपाईंको कृपा विश्वस्तता प्रेम ।</lines></verse><verse name="v4"><lines>३. पापको क्षमा अनि खपुवा शान्ति साहस र अगुवाइ दिने तपाईं<br/>आजको शक्ति र भोलीलाई आशा आशिष् प्रशस्त रहन्छन् मलाई । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 746(Mahan Biswastata Pita)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. महान् विश्वस्तता पिता तपाईंको, तपाईंमा फेरिने छायाँ छैन ।<br/>जस्ताको त्यस्तै नै रहनुहुन्छ, कृपाको अन्त कहिल्यै हुँदैन ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>कोः महान् विश्वस्तता महान् विश्वस्तता हरेक विहान नयाँ दया देखाई<br/>पुर्र्‍याउनुभो अभाव मेरो तपाईंले, महान् विश्वस्तता हुन्छ मलाई ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. रहुन्जेल पृथ्वी बीउ छर्ने र कटनी, ग्रीष्म र शिशिर जून तारा र घाम<br/>सारा प्रकृति साथ दिन्छन् गवाही तपाईंको कृपा विश्वस्तता प्रेम ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. पापको क्षमा अनि खपुवा शान्ति साहस र अगुवाइ दिने तपाईं<br/>आजको शक्ति र भोलीलाई आशा आशिष् प्रशस्त रहन्छन् मलाई । </lines>
+		</verse>
+	</lyrics>
+</song>

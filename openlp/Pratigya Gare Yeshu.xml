@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 339(Pratigya Gare Yeshu)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. प्रतिज्ञा गरेँ, येशू म सेवा गर्नेछु<br/>मसँग सधैँ बस्नोस्, हे साथी र प्रभु,<br/>लडाइँदेखि डराउन्नँ नजिक हुनुभए<br/>तपाईंको पथ बिराउन्नँ पाउ डोर्र्‍याउनुभए ।</lines></verse><verse name="v2"><lines>२. छेउ मेरो बस्नोस् येशू, सांसारिक मायाले<br/>फसाउँछ मलाई सधैँ लोभ्याउने सोरले<br/>छन् शत्रु चारैतिर मनभित्र छन् पनि<br/>हे येशू, आई प्राणलाई जोगाउनोस् पापदेखि ।</lines></verse><verse name="v3"><lines>३. स्वार्थको झगडादेखि ईष्र्याको आँधीमा<br/>म स्वर तपाईंको सुनूँ मधुर, शान्त, सफा<br/>मलाई चेतावनी, साहस वा हप्की होस् प्रभु<br/>बोली मलाई सुनाउनोस् हे रक्षक प्राणैको ।</lines></verse><verse name="v4"><lines>४. हे येशू, यो प्रतिज्ञा चेलालाई दिइयो कि<br/>'जहाँ म छु, हुनेछौ त्यहाँ तिमी पनि'<br/>हे येशू, वचन दिएँ म सेवा गर्नेछु<br/>तपाईंको पछि लागूँ हे साथी र प्रभु । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 339(Pratigya Gare Yeshu)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. प्रतिज्ञा गरेँ, येशू म सेवा गर्नेछु<br/>मसँग सधैँ बस्नोस्, हे साथी र प्रभु,<br/>लडाइँदेखि डराउन्नँ नजिक हुनुभए<br/>तपाईंको पथ बिराउन्नँ पाउ डोर्र्‍याउनुभए ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. छेउ मेरो बस्नोस् येशू, सांसारिक मायाले<br/>फसाउँछ मलाई सधैँ लोभ्याउने सोरले<br/>छन् शत्रु चारैतिर मनभित्र छन् पनि<br/>हे येशू, आई प्राणलाई जोगाउनोस् पापदेखि ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. स्वार्थको झगडादेखि ईष्र्याको आँधीमा<br/>म स्वर तपाईंको सुनूँ मधुर, शान्त, सफा<br/>मलाई चेतावनी, साहस वा हप्की होस् प्रभु<br/>बोली मलाई सुनाउनोस् हे रक्षक प्राणैको ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. हे येशू, यो प्रतिज्ञा चेलालाई दिइयो कि<br/>'जहाँ म छु, हुनेछौ त्यहाँ तिमी पनि'<br/>हे येशू, वचन दिएँ म सेवा गर्नेछु<br/>तपाईंको पछि लागूँ हे साथी र प्रभु । </lines>
+		</verse>
+	</lyrics>
+</song>

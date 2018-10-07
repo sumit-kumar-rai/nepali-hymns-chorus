@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 4(Ramau Dharmi Ho)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः रमाऊ धर्मी हो यहवेमा नम्रलाई सुहाउँछ उनको स्तुति (२)</lines></verse><verse name="v2"><lines>१. वीणा बजाउँदै दण्डवत् गर सितार दश तारको बजाई गाऊ (२)<br/>ठूलो गान यहवेलाई गाऊ स्वर ठूलो गरी बजाऊ ।</lines></verse><verse name="v3"><lines>२. यहवेको वचन सोझै छ काम सर्व सच्चाइमा हुँदै छ (२)<br/>निया-धर्मलाई स्नेह गर्दछ, करुणाले पृथ्वी भरिएको छ ।</lines></verse><verse name="v4"><lines>३. यहवेको वचनले आकाश बनियो मुखैको स्वासले सर्व सेना (२)<br/>जसले समुद्र थुपर्र्‍याउँछ, गहिराइलाई ढुकुटीमा राख्दछ । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 4(Ramau Dharmi Ho)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः रमाऊ धर्मी हो यहवेमा नम्रलाई सुहाउँछ उनको स्तुति (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. वीणा बजाउँदै दण्डवत् गर सितार दश तारको बजाई गाऊ (२)<br/>ठूलो गान यहवेलाई गाऊ स्वर ठूलो गरी बजाऊ ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. यहवेको वचन सोझै छ काम सर्व सच्चाइमा हुँदै छ (२)<br/>निया-धर्मलाई स्नेह गर्दछ, करुणाले पृथ्वी भरिएको छ ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. यहवेको वचनले आकाश बनियो मुखैको स्वासले सर्व सेना (२)<br/>जसले समुद्र थुपर्र्‍याउँछ, गहिराइलाई ढुकुटीमा राख्दछ । </lines>
+		</verse>
+	</lyrics>
+</song>

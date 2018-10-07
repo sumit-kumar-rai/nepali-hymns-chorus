@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 567(Himali Hawaile Yo Sundar)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः हिमाली हावैले यो सुन्दर देशमा सुसन्देश ल्याउँदछ (२)<br/>यो सन्देश सुनेर मनैमा गुने जीवन पाउँदछ<br/>हिमाली हावैले यो सुन्दर देशमा सुसन्देश ल्याउँदछ,<br/>हिमाली हावैले ...</lines></verse><verse name="v2"><lines>१. आजको रीति धर्म र कर्म बुझ्दैन यो मर्म (२)<br/>दुःखको देशमा नहुने भाग्य पापको यो शर्म नि दाजै पापको यो शर्म<br/>हिमाली हावैले यो सुन्दर देशमा सुसन्देश ल्याउँदछ ।</lines></verse><verse name="v3"><lines>२. जीवनको सन्देश आजको बाटो लेऊ येशू प्रभुमा (२)<br/>त्यागेर संसार शान्तिको जीवन जिउनुछ उनैमा, नि लै लै जिउनुछ उनैमा<br/>हिमाली हावैले यो सुन्दर देशमा सुसन्देश ल्याउँदछ ।</lines></verse><verse name="v4"><lines>३. येशूको वाणी जीवनको पानी सित्तैमा पिउनुछ (२)<br/>विश्वास गरी सत्यले भरी अनन्त जिउनुछ, नि लै लै अनन्त जिउनुछ ।<br/>हिमाली हावैले यो सुन्दर देशमा सुसन्देश ल्याउँदछ । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 567(Himali Hawaile Yo Sundar)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः हिमाली हावैले यो सुन्दर देशमा सुसन्देश ल्याउँदछ (२)<br/>यो सन्देश सुनेर मनैमा गुने जीवन पाउँदछ<br/>हिमाली हावैले यो सुन्दर देशमा सुसन्देश ल्याउँदछ,<br/>हिमाली हावैले ...</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. आजको रीति धर्म र कर्म बुझ्दैन यो मर्म (२)<br/>दुःखको देशमा नहुने भाग्य पापको यो शर्म नि दाजै पापको यो शर्म<br/>हिमाली हावैले यो सुन्दर देशमा सुसन्देश ल्याउँदछ ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. जीवनको सन्देश आजको बाटो लेऊ येशू प्रभुमा (२)<br/>त्यागेर संसार शान्तिको जीवन जिउनुछ उनैमा, नि लै लै जिउनुछ उनैमा<br/>हिमाली हावैले यो सुन्दर देशमा सुसन्देश ल्याउँदछ ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. येशूको वाणी जीवनको पानी सित्तैमा पिउनुछ (२)<br/>विश्वास गरी सत्यले भरी अनन्त जिउनुछ, नि लै लै अनन्त जिउनुछ ।<br/>हिमाली हावैले यो सुन्दर देशमा सुसन्देश ल्याउँदछ । </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 150(Hosanna Hosanaa)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>होसत्रा, होसत्रा, होसत्रा महिमा स्तुति प्रशंसा<br/>आज अनि सदासर्वदा, आमेन् २</lines></verse><verse name="v2"><lines>होसत्रा, होसत्रा, होसत्रा महिमा स्तुति<br/>प्रशंसा, आज अनि सर्वदा २</lines></verse><verse name="v3"><lines>आऔँ हामी सबै मिली गाऔँ स्तुति उनैको (२)<br/>उनैलाई भक्ति आदर महिमा सधैँ चढाऔँ हाम्रो जीवनमा (२)</lines></verse><verse name="v4"><lines>होसन्ना हल्लेलूयाह (२) होशन्ना, महिमा, स्तुति,<br/>प्रशंसा हल्लेलूयाह, प्रशंसा आज अनि सर्वदा । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 150(Hosanna Hosanaa)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>होसत्रा, होसत्रा, होसत्रा महिमा स्तुति प्रशंसा<br/>आज अनि सदासर्वदा, आमेन् २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>होसत्रा, होसत्रा, होसत्रा महिमा स्तुति<br/>प्रशंसा, आज अनि सर्वदा २</lines>
+		</verse>
+		<verse name="v3">
+			<lines>आऔँ हामी सबै मिली गाऔँ स्तुति उनैको (२)<br/>उनैलाई भक्ति आदर महिमा सधैँ चढाऔँ हाम्रो जीवनमा (२)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>होसन्ना हल्लेलूयाह (२) होशन्ना, महिमा, स्तुति,<br/>प्रशंसा हल्लेलूयाह, प्रशंसा आज अनि सर्वदा । </lines>
+		</verse>
+	</lyrics>
+</song>

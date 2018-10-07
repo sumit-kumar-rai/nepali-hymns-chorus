@@ -1,2 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 701(Mero Lagi Yeshu Timile)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः मेरो लागि येशू तिमीले कति पिडा सह्यौ मानिसले थुके<br/>तिमीलाई कोर्रा लगाए तिमीलाई मेरो नै निम्ति प्रभु तिमीले,<br/>मलाई बचाउन प्रभु तिमीले (आफैलाई क्रूसमा टाँगिदियौ) २<br/>मेरो निम्ति... मेरो निम्ति... मेरो निम्ति । २</lines></verse><verse name="v2"><lines>सिकाउ येशू मलाई तिमी जस्तै हुन क्रूसको<br/>त्यो पिडा सहेर पनि मानिसलाई क्षमा दिन<br/>कसरी तिमीले सक्यौ मेरो लागि यो सबै गर्न<br/>कोखबाट बगेको रगतमा मलाई तिमीले धोयौ<br/>भक्कानो फुटेर आउँछ मनमा, मन पग्लेर भरिन्छ गहमा<br/>जब डुब्छु तिम्रो मायामा, प्रभु येशू तिम्रो मायामा । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 701(Mero Lagi Yeshu Timile)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः मेरो लागि येशू तिमीले कति पिडा सह्यौ मानिसले थुके<br/>तिमीलाई कोर्रा लगाए तिमीलाई मेरो नै निम्ति प्रभु तिमीले,<br/>मलाई बचाउन प्रभु तिमीले (आफैलाई क्रूसमा टाँगिदियौ) २<br/>मेरो निम्ति... मेरो निम्ति... मेरो निम्ति । २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>सिकाउ येशू मलाई तिमी जस्तै हुन क्रूसको<br/>त्यो पिडा सहेर पनि मानिसलाई क्षमा दिन<br/>कसरी तिमीले सक्यौ मेरो लागि यो सबै गर्न<br/>कोखबाट बगेको रगतमा मलाई तिमीले धोयौ<br/>भक्कानो फुटेर आउँछ मनमा, मन पग्लेर भरिन्छ गहमा<br/>जब डुब्छु तिम्रो मायामा, प्रभु येशू तिम्रो मायामा । </lines>
+		</verse>
+	</lyrics>
+</song>

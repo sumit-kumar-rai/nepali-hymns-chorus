@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 639(Ma Eklo Chu Yeshu)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः म एक्लो छु येशू साथ देऊ मलाई प्रभु<br/>मेरो एकान्तमा साथ तिम्रो पाउन सकूँ (२)</lines></verse><verse name="v2"><lines>१. रोइरहेँ थिएँ यो एकलो जीवनमा<br/>अब हाँस्न चाहन्छु तिमीमा २<br/>मर्दै गरेको यो जीवनदेखि अब बाँच्न चाहन्छु तिमीमा<br/>सहारा तिम्रो पाएर म त खुशी छु प्रभु (२)</lines></verse><verse name="v3"><lines>२. म त डुुब्दै गरेको एउटा नाउ<br/>साथ तिम्रो पाऊँ येशू २<br/>जीवनको यो भूँमरीमा कसरी म पार पाऊँ येशू<br/>तिमी छौ यो जीवनमा तिमी विना कहाँ जाऔ येशू (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 639(Ma Eklo Chu Yeshu)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः म एक्लो छु येशू साथ देऊ मलाई प्रभु<br/>मेरो एकान्तमा साथ तिम्रो पाउन सकूँ (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. रोइरहेँ थिएँ यो एकलो जीवनमा<br/>अब हाँस्न चाहन्छु तिमीमा २<br/>मर्दै गरेको यो जीवनदेखि अब बाँच्न चाहन्छु तिमीमा<br/>सहारा तिम्रो पाएर म त खुशी छु प्रभु (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. म त डुुब्दै गरेको एउटा नाउ<br/>साथ तिम्रो पाऊँ येशू २<br/>जीवनको यो भूँमरीमा कसरी म पार पाऊँ येशू<br/>तिमी छौ यो जीवनमा तिमी विना कहाँ जाऔ येशू (२) </lines>
+		</verse>
+	</lyrics>
+</song>

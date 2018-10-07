@@ -1,2 +1,31 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 472(Khristkaha Aau Sathi)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः ख्रीष्टकहाँ आऊ साथी, येशूकहाँ आऊ साथी<br/>जीवनको जल लिन, आफ्नो प्यास मेटिलिन ।</lines></verse><verse name="v2"><lines>१. जीवनको जल उनै हुन् युगयुग तृप्ति दिने (२)<br/>उनलाई यदि पियौ भने तिमी कहिल्यै प्यासा बन्दैनौ युगानयुगसम्म नै ।</lines></verse><verse name="v3"><lines>२. जीवनको बाटो उनै हुन् स्वर्ग राज्यमा पुर्र्‍याइदिने (२)<br/>उनलाई यदि चुन्यौ भने पिताकहाँ निश्चय पुग्नेछौ युगानयुग राज्य गर्नलाई ।</lines></verse><verse name="v4"><lines>३. जीवनको रोटी उनै हुन् भोको दिललाई तृप्ति दिने (२)<br/>उनलाई तिमी खायौ भने तिमी कहिल्यै भोको बन्दैनौ युगानुयुगसम्मलाई ।</lines></verse><verse name="v5"><lines>४. एउटा मात्रै ढोका उनै हुन् स्वर्गराज्यमा प्रवेश गर्नलाई (२)<br/>यही बाटो पस्यौ भने निश्चय तिमी स्वर्ग पुग्नेछौ असीम सुखको भागी हुनलाई ।</lines></verse><verse name="v6"><lines>५. एउटा मात्र सत्य येशू हुन् सारा जगको उद्धार गर्नलाई (२)<br/>यदि उनलाई अपनायौ भने अनन्त दण्डबाट उम्कन्छौ, उनीसँग सदा रहनेछौ । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 472(Khristkaha Aau Sathi)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः ख्रीष्टकहाँ आऊ साथी, येशूकहाँ आऊ साथी<br/>जीवनको जल लिन, आफ्नो प्यास मेटिलिन ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. जीवनको जल उनै हुन् युगयुग तृप्ति दिने (२)<br/>उनलाई यदि पियौ भने तिमी कहिल्यै प्यासा बन्दैनौ युगानयुगसम्म नै ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. जीवनको बाटो उनै हुन् स्वर्ग राज्यमा पुर्र्‍याइदिने (२)<br/>उनलाई यदि चुन्यौ भने पिताकहाँ निश्चय पुग्नेछौ युगानयुग राज्य गर्नलाई ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. जीवनको रोटी उनै हुन् भोको दिललाई तृप्ति दिने (२)<br/>उनलाई तिमी खायौ भने तिमी कहिल्यै भोको बन्दैनौ युगानुयुगसम्मलाई ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. एउटा मात्रै ढोका उनै हुन् स्वर्गराज्यमा प्रवेश गर्नलाई (२)<br/>यही बाटो पस्यौ भने निश्चय तिमी स्वर्ग पुग्नेछौ असीम सुखको भागी हुनलाई ।</lines>
+		</verse>
+		<verse name="v6">
+			<lines>५. एउटा मात्र सत्य येशू हुन् सारा जगको उद्धार गर्नलाई (२)<br/>यदि उनलाई अपनायौ भने अनन्त दण्डबाट उम्कन्छौ, उनीसँग सदा रहनेछौ । </lines>
+		</verse>
+	</lyrics>
+</song>

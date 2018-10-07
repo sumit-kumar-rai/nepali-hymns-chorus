@@ -1,2 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 317(Kati Hola Mulya Ragat Yeshuko)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कति होला मूल्य रगत येशूको ? कति होला मूल्य येशूको प्रेमको ?<br/>के चुकाउन सक्छौ यो मूल्य तिम्रो सुन र चाँदीले<br/>तिम्रो विद्या र ज्ञानले ?</lines></verse><verse name="v2"><lines>क्रूसलाई हेर मुटुमा हात राखी सम्झन येशूको प्रेमलाई,<br/>सम्झन येशूको कष्टलाई<br/>आऊ, सबै जातिकहाँ जाऊँ, येशूको नाउँलाई उचालौँ,<br/>येशूको प्रेम प्रचारौँ । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 317(Kati Hola Mulya Ragat Yeshuko)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कति होला मूल्य रगत येशूको ? कति होला मूल्य येशूको प्रेमको ?<br/>के चुकाउन सक्छौ यो मूल्य तिम्रो सुन र चाँदीले<br/>तिम्रो विद्या र ज्ञानले ?</lines>
+		</verse>
+		<verse name="v2">
+			<lines>क्रूसलाई हेर मुटुमा हात राखी सम्झन येशूको प्रेमलाई,<br/>सम्झन येशूको कष्टलाई<br/>आऊ, सबै जातिकहाँ जाऊँ, येशूको नाउँलाई उचालौँ,<br/>येशूको प्रेम प्रचारौँ । </lines>
+		</verse>
+	</lyrics>
+</song>

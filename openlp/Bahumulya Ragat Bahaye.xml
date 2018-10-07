@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 538(Bahumulya Ragat Bahaye)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. बहुमूल्य रगत बहाए तिम्रो लागि मरे, तिमीलाई मुक्त गराउन<br/>र जीवन दिनलाई मेरो प्राण तिम्रैलागि दिएँ मलाई के दिएका छौ ? (२)</lines></verse><verse name="v2"><lines>२. महिमित सिंहासनलाई छोडेँ, परदेशी हुनलाई चम्किलो स्वर्ग त्यागेँ,<br/>संसारको रात रहनलाई, तिम्रैलागि मैले सब त्यागेँ, के त्यागेका छौ तिमीले ? (२)</lines></verse><verse name="v3"><lines>३. वर्णन गर्न असम्भव कष्ट मैले भोगेँ तिम्रै आत्मा वचाउन तितो संकष्ट भोगेँ,<br/>तिम्रै लागि यी सबै भोगेँ, के भोगेंका छौ तिमीले ? (२)</lines></verse><verse name="v4"><lines>४. दिँदछु पूर्ण मुक्ति सिँत्तैँमा तिमीलाई, दिँदछु मेरो शान्ति<br/>र विश्राम प्रशस्त बहुमूल्य दान मैले दिएको छु, मलाई के दिएका छौ ? (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 538(Bahumulya Ragat Bahaye)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. बहुमूल्य रगत बहाए तिम्रो लागि मरे, तिमीलाई मुक्त गराउन<br/>र जीवन दिनलाई मेरो प्राण तिम्रैलागि दिएँ मलाई के दिएका छौ ? (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. महिमित सिंहासनलाई छोडेँ, परदेशी हुनलाई चम्किलो स्वर्ग त्यागेँ,<br/>संसारको रात रहनलाई, तिम्रैलागि मैले सब त्यागेँ, के त्यागेका छौ तिमीले ? (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. वर्णन गर्न असम्भव कष्ट मैले भोगेँ तिम्रै आत्मा वचाउन तितो संकष्ट भोगेँ,<br/>तिम्रै लागि यी सबै भोगेँ, के भोगेंका छौ तिमीले ? (२)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. दिँदछु पूर्ण मुक्ति सिँत्तैँमा तिमीलाई, दिँदछु मेरो शान्ति<br/>र विश्राम प्रशस्त बहुमूल्य दान मैले दिएको छु, मलाई के दिएका छौ ? (२) </lines>
+		</verse>
+	</lyrics>
+</song>

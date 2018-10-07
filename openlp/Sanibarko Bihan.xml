@@ -1,2 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bal Chorus 1(Sanibarko Bihan)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>शनिबारको बिहान साथीसङ्गी आए<br/>खेल्न-डुल्न जाऔँ भनी तात्र मलाई लागे,<br/>जात्रँ-जात्रँ खेल्न-डुल्न, जान्छु सन्डे स्कूलमा (२)<br/>येशूले बोलाएका आवाज सुत्र (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bal Chorus 1(Sanibarko Bihan)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>शनिबारको बिहान साथीसङ्गी आए<br/>खेल्न-डुल्न जाऔँ भनी तात्र मलाई लागे,<br/>जात्रँ-जात्रँ खेल्न-डुल्न, जान्छु सन्डे स्कूलमा (२)<br/>येशूले बोलाएका आवाज सुत्र (२) </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 675(Jiwanko Kehi Bhar Chaina)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः जीवनको केही भर छैन पलभरमा बितिजान्छ<br/>अनिश्चित यात्रा के हुने कसो हुने थाहा छैन (२)</lines></verse><verse name="v2"><lines>१. हरेकको भरोसा केही छैन भोलिको सपना देख्नु के ? (२)<br/>आजलाई साथ पाउन नसके भोलिलाई आशा गर्नु के ?<br/>मानिसको केही भर छैन क्षण भरमा पग्लिदिन्छ<br/>भएमा आफ्नो नभए बिरानो मीठो बोल्दै धोका दिन्छ ।</lines></verse><verse name="v3"><lines>२. देखाउँछन् आशा मान्छे यहाँ अनि मूर्तिझैँ बनेर बाँचिदिन्छन् (२)<br/>सिसाझैँ हृदयलाई तोडिदिएर जिउँदो लासझैँ बनाइदिन्छन्<br/>खोलाझैँ जीवन बगिरहेछ महासागरमा पुग्नलाई<br/>धुँवाझैँ जीवन उडिरहेछ नील गगनमा हराउनलाई । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 675(Jiwanko Kehi Bhar Chaina)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः जीवनको केही भर छैन पलभरमा बितिजान्छ<br/>अनिश्चित यात्रा के हुने कसो हुने थाहा छैन (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. हरेकको भरोसा केही छैन भोलिको सपना देख्नु के ? (२)<br/>आजलाई साथ पाउन नसके भोलिलाई आशा गर्नु के ?<br/>मानिसको केही भर छैन क्षण भरमा पग्लिदिन्छ<br/>भएमा आफ्नो नभए बिरानो मीठो बोल्दै धोका दिन्छ ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. देखाउँछन् आशा मान्छे यहाँ अनि मूर्तिझैँ बनेर बाँचिदिन्छन् (२)<br/>सिसाझैँ हृदयलाई तोडिदिएर जिउँदो लासझैँ बनाइदिन्छन्<br/>खोलाझैँ जीवन बगिरहेछ महासागरमा पुग्नलाई<br/>धुँवाझैँ जीवन उडिरहेछ नील गगनमा हराउनलाई । </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 125(Jaya Hos Tapaiko Yeshu)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. जय होस् तपाईंको, येशू गौरवमय पाउनुभो अनन्त मृत्युमा विजय<br/>चम्किलो स्वर्गदूतले ढुङ्गा पल्टाए, जहाँ तपाईंको लाश थियो, कात्रो मात्र थियो ।</lines></verse><verse name="v2"><lines>कोः जय होस् तपाईंको, येशू गौरवमय पाउनुभो अनन्त मृत्युमा विजय ।</lines></verse><verse name="v3"><lines>२. लौ जिउँदो येशू कबरदेखि आई पाप र दुःख मेटाउँछन् भेटी हामीलाई<br/>ख्रीष्टीय मण्डली गरोस् प्रभुको जयजय हटिगयो सबलाई मृत्यु कालको भय</lines></verse><verse name="v4"><lines>३. पूरो भरोसा राख्छौं, तारणहार हे प्रतापी प्रभु दिनुहोस् गोहार<br/>जयवन्तभन्दा जयवन्त हामी सब बनौँ मृत्यु खोला तरी स्वर्गधाम पसौं । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 125(Jaya Hos Tapaiko Yeshu)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. जय होस् तपाईंको, येशू गौरवमय पाउनुभो अनन्त मृत्युमा विजय<br/>चम्किलो स्वर्गदूतले ढुङ्गा पल्टाए, जहाँ तपाईंको लाश थियो, कात्रो मात्र थियो ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>कोः जय होस् तपाईंको, येशू गौरवमय पाउनुभो अनन्त मृत्युमा विजय ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. लौ जिउँदो येशू कबरदेखि आई पाप र दुःख मेटाउँछन् भेटी हामीलाई<br/>ख्रीष्टीय मण्डली गरोस् प्रभुको जयजय हटिगयो सबलाई मृत्यु कालको भय</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. पूरो भरोसा राख्छौं, तारणहार हे प्रतापी प्रभु दिनुहोस् गोहार<br/>जयवन्तभन्दा जयवन्त हामी सब बनौँ मृत्यु खोला तरी स्वर्गधाम पसौं । </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 479(Hamro Yo Jiwan Gham Chaya)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः हाम्रो यो जीवन घाम-छायाँ मात्र हो, हाम्रो यो जीवन बगेको खोला हो<br/>फर्केर आउँदैन बितेको जीवन यो, रोएर फिर्दैन गएको यौवन यो ।</lines></verse><verse name="v2"><lines>१. मिलेरजुलेर सबैले जयजयकार मनाऔं<br/>हाँसेरगाएर सबैले प्रभुको वचन सुनाऔ ।</lines></verse><verse name="v3"><lines>२. आजलाई अनि भोलिलाई स्वर्गको मार्ग बनाऔं<br/>सम्झाउँदै-बुझाउँदै अरूलाई प्रभुको वचन सुनाऔं । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 479(Hamro Yo Jiwan Gham Chaya)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः हाम्रो यो जीवन घाम-छायाँ मात्र हो, हाम्रो यो जीवन बगेको खोला हो<br/>फर्केर आउँदैन बितेको जीवन यो, रोएर फिर्दैन गएको यौवन यो ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. मिलेरजुलेर सबैले जयजयकार मनाऔं<br/>हाँसेरगाएर सबैले प्रभुको वचन सुनाऔ ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. आजलाई अनि भोलिलाई स्वर्गको मार्ग बनाऔं<br/>सम्झाउँदै-बुझाउँदै अरूलाई प्रभुको वचन सुनाऔं । </lines>
+		</verse>
+	</lyrics>
+</song>

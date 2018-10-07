@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 163(Hajarau Jibro Bhaya Hunthyo)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. हजारौं जिब्रो भए हुन्थ्यो भज्न ख्रीष्ट तारणहार,<br/>जो राजा, ईश्वर हुन् मेरो होस् उनको जयजयकार ।</lines></verse><verse name="v2"><lines>२. हे प्रभु ईश्वर दयालु सघाउनुहोस् मलाई,<br/>पृथ्वीभरि गरूँ भनी येशू नामको बढाई ।</lines></verse><verse name="v3"><lines>३. येशू नामले हटाउँछ डर मेटाइन्छ दुःख,<br/>सुनिन्छ पापीलाई मीठो हो जीवन, शान्ति सुख ।</lines></verse><verse name="v4"><lines>४. छुटकारा दिई कैदीलाई पाप–शक्ति तोड्दछन्<br/>उनको रगतले शुद्ध भएँ मजस्तो घृणित जन ।</lines></verse><verse name="v5"><lines>५. येशूको वाणी सुनेर नवजीवन पाउँछ लाश,<br/>रमाउँछन् दुःखित चुर्ण मन दीन गर्दछन् विश्वास । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 163(Hajarau Jibro Bhaya Hunthyo)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. हजारौं जिब्रो भए हुन्थ्यो भज्न ख्रीष्ट तारणहार,<br/>जो राजा, ईश्वर हुन् मेरो होस् उनको जयजयकार ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. हे प्रभु ईश्वर दयालु सघाउनुहोस् मलाई,<br/>पृथ्वीभरि गरूँ भनी येशू नामको बढाई ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. येशू नामले हटाउँछ डर मेटाइन्छ दुःख,<br/>सुनिन्छ पापीलाई मीठो हो जीवन, शान्ति सुख ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. छुटकारा दिई कैदीलाई पाप–शक्ति तोड्दछन्<br/>उनको रगतले शुद्ध भएँ मजस्तो घृणित जन ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>५. येशूको वाणी सुनेर नवजीवन पाउँछ लाश,<br/>रमाउँछन् दुःखित चुर्ण मन दीन गर्दछन् विश्वास । </lines>
+		</verse>
+	</lyrics>
+</song>

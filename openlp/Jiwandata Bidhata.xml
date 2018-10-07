@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 262(Jiwandata Bidhata)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः जीवनदाता विधाता, आउँदछु तिम्रो शरणमा,<br/>पर्दछु येशू शरण, जीवनदाता विधाता ।</lines></verse><verse name="v2"><lines>१. क्लेशित पापी यो अन्धकार भवमा (२) भड्किरहेछु पापी जीवनमा<br/>दूर तिमीदेखि भएँ, पापको राहमा कदम बढाएँ (२)<br/>परिणाम ठोकर खाएँ, पिता पछताउँदै शरणमा तिम्रो म आएँ</lines></verse><verse name="v3"><lines>२. तिमी करुणामय पिता म अधर्म (२) दीन दोहाई मेरो प्रभु सुनिलेऊ<br/>रक्षा जीवनको गरिदेऊ धोई प्रभु तिम्रो रगतले (२)<br/>योग्य पात्र बनाइलेऊ, पिता निवेदन हृदयको मेरो सुनिदेऊ । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 262(Jiwandata Bidhata)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः जीवनदाता विधाता, आउँदछु तिम्रो शरणमा,<br/>पर्दछु येशू शरण, जीवनदाता विधाता ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. क्लेशित पापी यो अन्धकार भवमा (२) भड्किरहेछु पापी जीवनमा<br/>दूर तिमीदेखि भएँ, पापको राहमा कदम बढाएँ (२)<br/>परिणाम ठोकर खाएँ, पिता पछताउँदै शरणमा तिम्रो म आएँ</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. तिमी करुणामय पिता म अधर्म (२) दीन दोहाई मेरो प्रभु सुनिलेऊ<br/>रक्षा जीवनको गरिदेऊ धोई प्रभु तिम्रो रगतले (२)<br/>योग्य पात्र बनाइलेऊ, पिता निवेदन हृदयको मेरो सुनिदेऊ । </lines>
+		</verse>
+	</lyrics>
+</song>

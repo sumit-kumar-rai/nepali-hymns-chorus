@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 588(Janma Bhayo Yeshu Rajako)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः जन्म भयो येशू राजाको बेथलेहेम गाउँमा<br/>स्वर्ग छोडी आउनुभयो मान्छेको भेषमा ।</lines></verse><verse name="v2"><lines>१. हामी पापीलाई मुक्ति दिनलाई जन्म लिनुभयो यही धरतीमा (२)<br/>अन्धकारमा ज्योति बनेर आउनुभयो येशू (यो संसारमा) २</lines></verse><verse name="v3"><lines>२. परमेश्वर पुत्र भएर पनि गाईको गोठमा जन्मनुभयो (२)<br/>साँचो परमेश्वर चिनाउन भनेर स्वर्गबाट (ओर्लिआउनुभो) २ </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 588(Janma Bhayo Yeshu Rajako)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः जन्म भयो येशू राजाको बेथलेहेम गाउँमा<br/>स्वर्ग छोडी आउनुभयो मान्छेको भेषमा ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. हामी पापीलाई मुक्ति दिनलाई जन्म लिनुभयो यही धरतीमा (२)<br/>अन्धकारमा ज्योति बनेर आउनुभयो येशू (यो संसारमा) २</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. परमेश्वर पुत्र भएर पनि गाईको गोठमा जन्मनुभयो (२)<br/>साँचो परमेश्वर चिनाउन भनेर स्वर्गबाट (ओर्लिआउनुभो) २ </lines>
+		</verse>
+	</lyrics>
+</song>

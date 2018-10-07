@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 501(Sihasanma Birajman Hune)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः सिंहासनमा विराजमान हुने, परमेश्वरको प्रजा हामी<br/>आऊ उनलाई पुजौं भक्ति साथ, कहिल्यै छोड्ने छैनन् हाम्रो हात (२)</lines></verse><verse name="v2"><lines>१. उहाँको रगतले धोइ पखालेको पवित्र जाति<br/>आदर, प्रशंसा, योग्य परमेश्वरको पुजाहारी हामी २<br/>(सनातनदेखि सनातनसम्म) २ आऊ उनलाई पुजौं...</lines></verse><verse name="v3"><lines>२. झरि, घाम र छायाँको सामना गरौं आज हामी<br/>सबै नयाँ भएको स्वदेशमा जानेछौं हामी २<br/>(बादल पारिको उहाँको देशमा) २ आऊ उनलाई पुजौं... </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 501(Sihasanma Birajman Hune)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः सिंहासनमा विराजमान हुने, परमेश्वरको प्रजा हामी<br/>आऊ उनलाई पुजौं भक्ति साथ, कहिल्यै छोड्ने छैनन् हाम्रो हात (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. उहाँको रगतले धोइ पखालेको पवित्र जाति<br/>आदर, प्रशंसा, योग्य परमेश्वरको पुजाहारी हामी २<br/>(सनातनदेखि सनातनसम्म) २ आऊ उनलाई पुजौं...</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. झरि, घाम र छायाँको सामना गरौं आज हामी<br/>सबै नयाँ भएको स्वदेशमा जानेछौं हामी २<br/>(बादल पारिको उहाँको देशमा) २ आऊ उनलाई पुजौं... </lines>
+		</verse>
+	</lyrics>
+</song>

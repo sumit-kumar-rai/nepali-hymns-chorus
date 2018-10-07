@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 377(Ma Yeshuko Sath Jyotima)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. म येशूको साथ ज्योतिमा हिँड्छु दिन र रात उनको पछि म हिँड्नेछु<br/>पछि हिँड्नेछु जय पाउनेछु येशू ख्रीष्ट मेरो बलिदान ।</lines></verse><verse name="v2"><lines>कोः हिँड्दैहिँड्दै ज्योतिमा येशूको साथ, हिँड्दैहिँड्दै समात्छु येशूको हात<br/>ज्योतिमा हिँड्नेछु जय पाउनेछु, येशू ख्रीष्ट मेरो बलिदान ।</lines></verse><verse name="v3"><lines>२. म येशूको साथ ज्योतिमा हिँड्छु अन्धकारमा पनि म डराउँदिनँ<br/>कदम बढाउँछु मनले गाउनेछु येशू ख्रीष्ट मेरो बलिदान ।</lines></verse><verse name="v4"><lines>३. म येशूको साथ ज्योतिमा हिँड्छु हेर्दैहेर्दै सब दिन गोहार पाउनेछु<br/>शोक या खुसी होस् नजिक छन् मेरो येशू ख्रीष्ट मेरो बलिदान ।</lines></verse><verse name="v5"><lines>४. म येशूको साथ ज्योतिमा हिँड्छु आफ्नो आँखा उनमा म लगाउनेछु<br/>हातमा छन् क्रूस, झण्डा छन् अद्भूत, येशू ख्रीष्ट मेरो बलिदान । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 377(Ma Yeshuko Sath Jyotima)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. म येशूको साथ ज्योतिमा हिँड्छु दिन र रात उनको पछि म हिँड्नेछु<br/>पछि हिँड्नेछु जय पाउनेछु येशू ख्रीष्ट मेरो बलिदान ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>कोः हिँड्दैहिँड्दै ज्योतिमा येशूको साथ, हिँड्दैहिँड्दै समात्छु येशूको हात<br/>ज्योतिमा हिँड्नेछु जय पाउनेछु, येशू ख्रीष्ट मेरो बलिदान ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. म येशूको साथ ज्योतिमा हिँड्छु अन्धकारमा पनि म डराउँदिनँ<br/>कदम बढाउँछु मनले गाउनेछु येशू ख्रीष्ट मेरो बलिदान ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. म येशूको साथ ज्योतिमा हिँड्छु हेर्दैहेर्दै सब दिन गोहार पाउनेछु<br/>शोक या खुसी होस् नजिक छन् मेरो येशू ख्रीष्ट मेरो बलिदान ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. म येशूको साथ ज्योतिमा हिँड्छु आफ्नो आँखा उनमा म लगाउनेछु<br/>हातमा छन् क्रूस, झण्डा छन् अद्भूत, येशू ख्रीष्ट मेरो बलिदान । </lines>
+		</verse>
+	</lyrics>
+</song>

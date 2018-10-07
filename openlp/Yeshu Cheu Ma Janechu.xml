@@ -1,2 +1,34 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 283(Yeshu Cheu Ma Janechu)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. येशू छेउ म जानेछु ज्योतिमा, ज्योतिमा<br/>उनकै साथ म हिँड्नेछु, उनकै ज्योतिमा ।</lines></verse><verse name="v2"><lines>कोः हिँड्नेछु म ज्योतिमा, ज्योतिमा, ज्योतिमा<br/>हिँड्नेछु म ज्योतिमा, उनकै ज्योतिमा ।</lines></verse><verse name="v3"><lines>२. क्षमा निश्चय पाउनेछु ज्योतिमा, ज्योतिमा<br/>सबै पापलाई छोड्नेछु उनकै ज्योतिमा ।</lines></verse><verse name="v4"><lines>३. ख्रीष्टकै सेवा गर्नेछु ज्योतिमा, ज्योतिमा<br/>सबै सामर्थ पाउनेछु उनकै ज्योतिमा ।</lines></verse><verse name="v5"><lines>४. शैतान गर्न सक्छ के ? ज्योतिमा, ज्योतिमा<br/>जयवन्त हुनेछु निश्चय उनकै ज्योतिमा ।</lines></verse><verse name="v6"><lines>५. मृत्यु जब आउनेछ ज्योतिमा, ज्योतिमा<br/>मलाई के को डर हुन्छ उनकै ज्योतिमा ।</lines></verse><verse name="v7"><lines>६. जब स्वर्गमा पुगूँला ज्योतिमा, ज्योतिमा<br/>तब आनन्द मनाउँला उनकै ज्योतिमा । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 283(Yeshu Cheu Ma Janechu)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. येशू छेउ म जानेछु ज्योतिमा, ज्योतिमा<br/>उनकै साथ म हिँड्नेछु, उनकै ज्योतिमा ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>कोः हिँड्नेछु म ज्योतिमा, ज्योतिमा, ज्योतिमा<br/>हिँड्नेछु म ज्योतिमा, उनकै ज्योतिमा ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. क्षमा निश्चय पाउनेछु ज्योतिमा, ज्योतिमा<br/>सबै पापलाई छोड्नेछु उनकै ज्योतिमा ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. ख्रीष्टकै सेवा गर्नेछु ज्योतिमा, ज्योतिमा<br/>सबै सामर्थ पाउनेछु उनकै ज्योतिमा ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. शैतान गर्न सक्छ के ? ज्योतिमा, ज्योतिमा<br/>जयवन्त हुनेछु निश्चय उनकै ज्योतिमा ।</lines>
+		</verse>
+		<verse name="v6">
+			<lines>५. मृत्यु जब आउनेछ ज्योतिमा, ज्योतिमा<br/>मलाई के को डर हुन्छ उनकै ज्योतिमा ।</lines>
+		</verse>
+		<verse name="v7">
+			<lines>६. जब स्वर्गमा पुगूँला ज्योतिमा, ज्योतिमा<br/>तब आनन्द मनाउँला उनकै ज्योतिमा । </lines>
+		</verse>
+	</lyrics>
+</song>

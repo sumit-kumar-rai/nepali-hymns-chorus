@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 465(Nabin Saalko Pratham Dinma)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः नवीन सालको प्रथम दिनमा हर्ष हामी आज मनाऔं<br/>यही समय प्रभु याद लिई नवीन हामी जीवन अपनाऔं ।</lines></verse><verse name="v2"><lines>१. प्रभु येशू उद्धारकर्ता अद्भुत् त्राता तारणहार<br/>उनको करुणा याद सदा लिई नवीन हामी जीवन अप्नाऔं ।</lines></verse><verse name="v3"><lines>२. प्रभु हामी शरण पर्छौं सबै जीवन अर्पण गछौं<br/>तपाईं सेवा सदाभर नै कामना मनमा यही रहोस् । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 465(Nabin Saalko Pratham Dinma)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः नवीन सालको प्रथम दिनमा हर्ष हामी आज मनाऔं<br/>यही समय प्रभु याद लिई नवीन हामी जीवन अपनाऔं ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. प्रभु येशू उद्धारकर्ता अद्भुत् त्राता तारणहार<br/>उनको करुणा याद सदा लिई नवीन हामी जीवन अप्नाऔं ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. प्रभु हामी शरण पर्छौं सबै जीवन अर्पण गछौं<br/>तपाईं सेवा सदाभर नै कामना मनमा यही रहोस् । </lines>
+		</verse>
+	</lyrics>
+</song>

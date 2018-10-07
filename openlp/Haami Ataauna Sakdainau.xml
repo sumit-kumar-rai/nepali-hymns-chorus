@@ -1,2 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 208(Haami Ataauna Sakdainau)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>हामी अटाउन सक्तैनौँ तपाईं महान् प्रभुलाई<br/>हामी बुझ्न सक्तैनौँ तपाईं उदेकको प्रभुलाई<br/>हामीमा शक्ति छैन, भाषा छैन, वर्णन गर्न तपाईं प्रभुको ।<br/>तपाईंको महिमामा हेर्छौं र दण्डवत् गर्छौं सदा<br/>तपाईंको कामलाईं हेर्छौं र दण्डवत् गर्छौं सदा । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 208(Haami Ataauna Sakdainau)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>हामी अटाउन सक्तैनौँ तपाईं महान् प्रभुलाई<br/>हामी बुझ्न सक्तैनौँ तपाईं उदेकको प्रभुलाई<br/>हामीमा शक्ति छैन, भाषा छैन, वर्णन गर्न तपाईं प्रभुको ।<br/>तपाईंको महिमामा हेर्छौं र दण्डवत् गर्छौं सदा<br/>तपाईंको कामलाईं हेर्छौं र दण्डवत् गर्छौं सदा । </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 167(Shalom Sathi Ho)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>शालोम, साथी हो (२) शालोम, शालोम (२)<br/>प्रभुको शान्ति तिमीसँग होस् (२) शालोम, शालोम । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 167(Shalom Sathi Ho)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>शालोम, साथी हो (२) शालोम, शालोम (२)<br/>प्रभुको शान्ति तिमीसँग होस् (२) शालोम, शालोम । </lines>
+		</verse>
+	</lyrics>
+</song>

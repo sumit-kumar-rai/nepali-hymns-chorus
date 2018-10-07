@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 158(Yahawya Ko Lagi Jayjay)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. यहवेको लागि जयजय गरौं, आनन्दसाथ उनको सेवा गरौं<br/>गाउँदै गाउँदै उनको सामु आऔं यहवे ईश्वर भनी जानौं ।</lines></verse><verse name="v2"><lines>कोः उनी हाम्रो सृजनहार, उनी हाम्रो तारणहार<br/>उनी हाम्रो पालनहार, सुन्छन् उनले हाम्रो पुकार ।</lines></verse><verse name="v3"><lines>२. उनको खर्कका हामी भेडा हौं, धन्यवाद गर्दै ढोकाभित्र पसौं,<br/>स्तुति गर्दै आँगनमा पसौं, धन्य भनौं उनको नामलाई ।</lines></verse><verse name="v4"><lines>३. यहवे महान् प्रभु भलो छन् उनको करुणा सदा रहन्छ,<br/>उनको सच्चाई पुस्तापुस्तामा अमर यो रहनेछ । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 158(Yahawya Ko Lagi Jayjay)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. यहवेको लागि जयजय गरौं, आनन्दसाथ उनको सेवा गरौं<br/>गाउँदै गाउँदै उनको सामु आऔं यहवे ईश्वर भनी जानौं ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>कोः उनी हाम्रो सृजनहार, उनी हाम्रो तारणहार<br/>उनी हाम्रो पालनहार, सुन्छन् उनले हाम्रो पुकार ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. उनको खर्कका हामी भेडा हौं, धन्यवाद गर्दै ढोकाभित्र पसौं,<br/>स्तुति गर्दै आँगनमा पसौं, धन्य भनौं उनको नामलाई ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. यहवे महान् प्रभु भलो छन् उनको करुणा सदा रहन्छ,<br/>उनको सच्चाई पुस्तापुस्तामा अमर यो रहनेछ । </lines>
+		</verse>
+	</lyrics>
+</song>

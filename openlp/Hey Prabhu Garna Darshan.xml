@@ -1,2 +1,31 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 344(Hey Prabhu Garna Darshan)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः हे प्रभु गर्न दर्शन तिम्रो, आएका छौं हामी आशा लगाई</lines></verse><verse name="v2"><lines>१. मनलाई आफ्नोतिर लगाइदेऊ (२) नापबिना आशिष् खनाइदेऊ</lines></verse><verse name="v3"><lines>२. आफ्नो पूर्ण ज्ञान दिनुहोस् (२) स्वर्गीय वाणी आज सुनाउनुहोस्</lines></verse><verse name="v4"><lines>३. खाली होस् प्रभु हृदय मेरो (२) मोह लोभ अरू क्रोध मेटाइदेऊ</lines></verse><verse name="v5"><lines>४. सबै अशुद्धतालाई धोइदेऊ (२) क्रूसको मुनि स्नान गराइदेऊ</lines></verse><verse name="v6"><lines>५. क्रूसको वेदीमा आदर साथ आउँछौं (२) तन-मन-धन सबै भेटी चढाउँछौं </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 344(Hey Prabhu Garna Darshan)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः हे प्रभु गर्न दर्शन तिम्रो, आएका छौं हामी आशा लगाई</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. मनलाई आफ्नोतिर लगाइदेऊ (२) नापबिना आशिष् खनाइदेऊ</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. आफ्नो पूर्ण ज्ञान दिनुहोस् (२) स्वर्गीय वाणी आज सुनाउनुहोस्</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. खाली होस् प्रभु हृदय मेरो (२) मोह लोभ अरू क्रोध मेटाइदेऊ</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. सबै अशुद्धतालाई धोइदेऊ (२) क्रूसको मुनि स्नान गराइदेऊ</lines>
+		</verse>
+		<verse name="v6">
+			<lines>५. क्रूसको वेदीमा आदर साथ आउँछौं (२) तन-मन-धन सबै भेटी चढाउँछौं </lines>
+		</verse>
+	</lyrics>
+</song>

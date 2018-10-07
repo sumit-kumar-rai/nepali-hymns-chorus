@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 297(Yedi Mero Aafnai Naau)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>यदि मेरो आफ्नै नाउँ दिएको मेरो प्रजाले नम्र भएर प्रार्थना गर्छ,<br/>मेरो मुहार खोजी आफ्नो दुष्ट मार्गहरूबाट फर्कन्छ,<br/>तब म स्वर्गबाट तिनीहरूको प्रार्थना सुत्रेछु, तिनीहरूको पाप क्षमा गर्नेछु<br/>तिनीहरूको देशलाई म फेरि अघिजस्तै स्वस्थ पार्नेछु</lines></verse><verse name="v2"><lines>कोः माग त तिमीले पाउनेछौ, खोज त तिमीले भेटाउनेछौ<br/>घचघचाऊ ढोका उघारिनेछ (२)</lines></verse><verse name="v3"><lines>फसलको प्रभुलाई प्रार्थना गर, उहाँको फसलमा खेतालाहरू पठाऊन्<br/>रुँदै छर्नेहरूले आनन्दले कटनी गर्नेछन्, रुँदै बिरुवा रोप्नेले<br/>आफ्नो बिटा बोकेर आनन्दसँग घर फर्कनेछ (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 297(Yedi Mero Aafnai Naau)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>यदि मेरो आफ्नै नाउँ दिएको मेरो प्रजाले नम्र भएर प्रार्थना गर्छ,<br/>मेरो मुहार खोजी आफ्नो दुष्ट मार्गहरूबाट फर्कन्छ,<br/>तब म स्वर्गबाट तिनीहरूको प्रार्थना सुत्रेछु, तिनीहरूको पाप क्षमा गर्नेछु<br/>तिनीहरूको देशलाई म फेरि अघिजस्तै स्वस्थ पार्नेछु</lines>
+		</verse>
+		<verse name="v2">
+			<lines>कोः माग त तिमीले पाउनेछौ, खोज त तिमीले भेटाउनेछौ<br/>घचघचाऊ ढोका उघारिनेछ (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>फसलको प्रभुलाई प्रार्थना गर, उहाँको फसलमा खेतालाहरू पठाऊन्<br/>रुँदै छर्नेहरूले आनन्दले कटनी गर्नेछन्, रुँदै बिरुवा रोप्नेले<br/>आफ्नो बिटा बोकेर आनन्दसँग घर फर्कनेछ (२) </lines>
+		</verse>
+	</lyrics>
+</song>

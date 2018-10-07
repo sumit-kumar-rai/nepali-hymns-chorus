@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 427(Ma Papko Bata Choddaichu)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. म पापको बाटो छोड्दछु, जहाँ धेरै मान्छे मर्दछन्<br/>स्वर्गको घरलाई खोज्दछु यहाँ बस्ने मेरो छैन मन ।</lines></verse><verse name="v2"><lines>कोः यो दुनियाँ मेरो घर होइन, साँच्चै यो मेरो घर होइन<br/>यस दुनियाँमा आराम छैन, यो दुनियाँ मेरो घर होइन ।</lines></verse><verse name="v3"><lines>२. मान्छेले रोक्न खोज्दछन्, न प्रार्थना गर्न दिंदछन्<br/>तिनका बातलाई सुन्दिनँ म, स्वर्गको घरलाई खोज्छु म ।</lines></verse><verse name="v4"><lines>३. मसँग पापीहरू आऊ, स्वर्ग देशमा हामीहरू जाऔं<br/>र बस्न अब छिट्टै आऊ, स्वर्गको घरलाई खोज्न जाऔं । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 427(Ma Papko Bata Choddaichu)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. म पापको बाटो छोड्दछु, जहाँ धेरै मान्छे मर्दछन्<br/>स्वर्गको घरलाई खोज्दछु यहाँ बस्ने मेरो छैन मन ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>कोः यो दुनियाँ मेरो घर होइन, साँच्चै यो मेरो घर होइन<br/>यस दुनियाँमा आराम छैन, यो दुनियाँ मेरो घर होइन ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. मान्छेले रोक्न खोज्दछन्, न प्रार्थना गर्न दिंदछन्<br/>तिनका बातलाई सुन्दिनँ म, स्वर्गको घरलाई खोज्छु म ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. मसँग पापीहरू आऊ, स्वर्ग देशमा हामीहरू जाऔं<br/>र बस्न अब छिट्टै आऊ, स्वर्गको घरलाई खोज्न जाऔं । </lines>
+		</verse>
+	</lyrics>
+</song>

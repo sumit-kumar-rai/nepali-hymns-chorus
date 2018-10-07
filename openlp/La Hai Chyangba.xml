@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 243(La Hai Chyangba)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः लहै च्याङ्बा केही भन्छु सुनिदेऊ है चित्त लगाई<br/>येशूको प्रेमलाई बुझेर मनभित्र गुनिलेऊ है ।</lines></verse><verse name="v2"><lines>१. स्वर्गको सुख-चैन छाडी मानिसको रूप लिई (२)<br/>बचाउन भनी हामीलाई हाम्रो बदली मर्नुभयो (२)</lines></verse><verse name="v3"><lines>२. ईश्वरको नजरमा च्याङ्गबा हामी सबै पापी छौं है (२)<br/>हाम्रो पाप धुनलाई येशूको रगत आलै छ है (२)</lines></verse><verse name="v4"><lines>३. संसारबाट मुक्ति पाई स्वर्ग सुखमा बस्ने हो भने (२)<br/>लहै च्याङ्गबा तिमी पनि येशूमा विश्वास गर है (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 243(La Hai Chyangba)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः लहै च्याङ्बा केही भन्छु सुनिदेऊ है चित्त लगाई<br/>येशूको प्रेमलाई बुझेर मनभित्र गुनिलेऊ है ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. स्वर्गको सुख-चैन छाडी मानिसको रूप लिई (२)<br/>बचाउन भनी हामीलाई हाम्रो बदली मर्नुभयो (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. ईश्वरको नजरमा च्याङ्गबा हामी सबै पापी छौं है (२)<br/>हाम्रो पाप धुनलाई येशूको रगत आलै छ है (२)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. संसारबाट मुक्ति पाई स्वर्ग सुखमा बस्ने हो भने (२)<br/>लहै च्याङ्गबा तिमी पनि येशूमा विश्वास गर है (२) </lines>
+		</verse>
+	</lyrics>
+</song>

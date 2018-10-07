@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 95(Prabhu Aatma Khanyaunos)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>प्रभु, आत्मा खन्याउनोस् संसारका सब मानिसहरूमा<br/>तपाईंका छोराछोरीले बोलून् अगमवाणी<br/>सपना र दर्शन पठाई, आफ्नो हृदय दर्साउनुहोस्, विश्वास बढिरहेछ,<br/>स्वर्गले गुञ्जाओस् तपाईंको आउने दिन ।</lines></verse><verse name="v2"><lines>अब ठूलो जगाउने काम हुनेछ<br/>अब ठूलो जागृति आउनेछ यस देशमा<br/>अब ठूलो जगाउने काम हुनेछ<br/>(र ज-जसले येशूलाई पुकार्छन् ती सब बाँच्नेछन्) २</lines></verse><verse name="v3"><lines>प्रभु, आत्मा खन्याउनुहोस् संसारका सब राष्ट्रहरूमा<br/>तपाईंको महिमा देखेर ती सबले दण्डवत् गरुन्,<br/>प्रभु, देखाउनुहोस् शक्ति, स्वर्ग-पृथ्वी हल्लाई,<br/>संसार पर्खिरहेछ, सृष्टिले देखून् तपाईंको आउने दिन । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 95(Prabhu Aatma Khanyaunos)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>प्रभु, आत्मा खन्याउनोस् संसारका सब मानिसहरूमा<br/>तपाईंका छोराछोरीले बोलून् अगमवाणी<br/>सपना र दर्शन पठाई, आफ्नो हृदय दर्साउनुहोस्, विश्वास बढिरहेछ,<br/>स्वर्गले गुञ्जाओस् तपाईंको आउने दिन ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>अब ठूलो जगाउने काम हुनेछ<br/>अब ठूलो जागृति आउनेछ यस देशमा<br/>अब ठूलो जगाउने काम हुनेछ<br/>(र ज-जसले येशूलाई पुकार्छन् ती सब बाँच्नेछन्) २</lines>
+		</verse>
+		<verse name="v3">
+			<lines>प्रभु, आत्मा खन्याउनुहोस् संसारका सब राष्ट्रहरूमा<br/>तपाईंको महिमा देखेर ती सबले दण्डवत् गरुन्,<br/>प्रभु, देखाउनुहोस् शक्ति, स्वर्ग-पृथ्वी हल्लाई,<br/>संसार पर्खिरहेछ, सृष्टिले देखून् तपाईंको आउने दिन । </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 688(Khristko Maya Boki)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः ख्रीष्टको माया बोकी रहुँला हृदयमा सजाएर (२)<br/>उनको साथ कहिलै नछोडी ख्रीष्टमा बाँचौला (२)</lines></verse><verse name="v2"><lines>१. ख्रीष्टले जीवन चढाइदिए गलगथाको माटोमा<br/>ख्रीष्ट येशू मरी दिए तिम्रो हाम्रो साटोमा (२)<br/>नभुलौ है क्रूसको फेदीलाई हृदयमा सजाएर (२)</lines></verse><verse name="v3"><lines>२. ख्रीष्टको दुःखलाई सम्झेर ल्याउँदा मन मेरो कल्पिन्छ<br/>उनको प्रेमलाई सम्झेर ल्याउँदा आँखामा आँसु छल्किन्छ (२)<br/>नभुलौँ है क्रूसको फेदीलाई हृदयमा सजाएर (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 688(Khristko Maya Boki)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः ख्रीष्टको माया बोकी रहुँला हृदयमा सजाएर (२)<br/>उनको साथ कहिलै नछोडी ख्रीष्टमा बाँचौला (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. ख्रीष्टले जीवन चढाइदिए गलगथाको माटोमा<br/>ख्रीष्ट येशू मरी दिए तिम्रो हाम्रो साटोमा (२)<br/>नभुलौ है क्रूसको फेदीलाई हृदयमा सजाएर (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. ख्रीष्टको दुःखलाई सम्झेर ल्याउँदा मन मेरो कल्पिन्छ<br/>उनको प्रेमलाई सम्झेर ल्याउँदा आँखामा आँसु छल्किन्छ (२)<br/>नभुलौँ है क्रूसको फेदीलाई हृदयमा सजाएर (२) </lines>
+		</verse>
+	</lyrics>
+</song>

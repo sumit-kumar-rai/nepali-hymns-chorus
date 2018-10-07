@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 721(Suna Daju Bhai Ho)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः सुन दाजु भाइ हो, यो जीवन हाम्रो<br/>फूल जस्तो झरेर जाने हो ।<br/>जीवनलाई गोड्ने थोकहरू<br/>संसारमा छाडेर जाने हो ।<br/>किनकि हामी यहाँ दुई दिनको पाहुना हौँ ।<br/>एक दिन त मर्नु नै पर्ने हो (२)</lines></verse><verse name="v2"><lines>१. संसारमा हामीलाई ईश्वरले नै पठाए<br/>जन्मसँगै मानिसलाई मृत्यु उनले दिएनन्<br/>संसारमा दिएनन्, तर शरीरमा मात्र मर्नेलाई,<br/>जीवनको मुकुट राखिदिए<br/>आत्मामा पनि मर्नेलाई आगो र गन्धक राखिदिए ।</lines></verse><verse name="v3"><lines>कोः सुन दिदी बहिनी, यो शरीर हाम्रो<br/>माटोमै मिलेर जाने हो ।<br/>माटोको शरीरलाई गोड्ने थोकहरू<br/>संसारमा छाडेर जाने हो ।<br/>किनकि हामी यहाँ दुई दिनको पाहुना हौँ ।</lines></verse><verse name="v4"><lines>२. जन्म मृत्यु बीचको समय, जो हाम्रो हातमा छ<br/>सुकर्मले यो समय बिताई<br/>अनन्त जीवन जिउनु छ ।<br/>परमेश्वरको अनुग्रह दान, जो तोडा दिएको छ ।<br/>सदुपयोग गरी दौड जिती, जीवनको मुकुट पाउनु छ । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 721(Suna Daju Bhai Ho)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः सुन दाजु भाइ हो, यो जीवन हाम्रो<br/>फूल जस्तो झरेर जाने हो ।<br/>जीवनलाई गोड्ने थोकहरू<br/>संसारमा छाडेर जाने हो ।<br/>किनकि हामी यहाँ दुई दिनको पाहुना हौँ ।<br/>एक दिन त मर्नु नै पर्ने हो (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. संसारमा हामीलाई ईश्वरले नै पठाए<br/>जन्मसँगै मानिसलाई मृत्यु उनले दिएनन्<br/>संसारमा दिएनन्, तर शरीरमा मात्र मर्नेलाई,<br/>जीवनको मुकुट राखिदिए<br/>आत्मामा पनि मर्नेलाई आगो र गन्धक राखिदिए ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>कोः सुन दिदी बहिनी, यो शरीर हाम्रो<br/>माटोमै मिलेर जाने हो ।<br/>माटोको शरीरलाई गोड्ने थोकहरू<br/>संसारमा छाडेर जाने हो ।<br/>किनकि हामी यहाँ दुई दिनको पाहुना हौँ ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>२. जन्म मृत्यु बीचको समय, जो हाम्रो हातमा छ<br/>सुकर्मले यो समय बिताई<br/>अनन्त जीवन जिउनु छ ।<br/>परमेश्वरको अनुग्रह दान, जो तोडा दिएको छ ।<br/>सदुपयोग गरी दौड जिती, जीवनको मुकुट पाउनु छ । </lines>
+		</verse>
+	</lyrics>
+</song>

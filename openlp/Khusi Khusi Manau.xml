@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 29(Khusi Khusi Manau)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>खुशी-खुशी मनाऔँ, खुशी-खुशी मनाऔँ (२)<br/>भन-भन, प्रभु येशू ख्रीष्टको जय (२)</lines></verse><verse name="v2"><lines>मेरो लागि आए, मेरोलागि जिए (२)<br/>मेरो लागि येशूले दुःख उठाए (२)</lines></verse><verse name="v3"><lines>मेरो लागि मारिएथे, मेरोलागि गाडिएथे (२)<br/>मेरो लागि बौरीउठे, मेरा हुन् येशू (२)</lines></verse><verse name="v4"><lines>म येशूको हुँ, हामी येशूका हौँ ।</lines></verse><verse name="v5"><lines>खुशी-खुशी मनाऔँ, खुशी-खुशी मनाऔँ (२)<br/>भन-भन, प्रभु येशू ख्रीष्टको जय (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 29(Khusi Khusi Manau)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>खुशी-खुशी मनाऔँ, खुशी-खुशी मनाऔँ (२)<br/>भन-भन, प्रभु येशू ख्रीष्टको जय (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>मेरो लागि आए, मेरोलागि जिए (२)<br/>मेरो लागि येशूले दुःख उठाए (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>मेरो लागि मारिएथे, मेरोलागि गाडिएथे (२)<br/>मेरो लागि बौरीउठे, मेरा हुन् येशू (२)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>म येशूको हुँ, हामी येशूका हौँ ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>खुशी-खुशी मनाऔँ, खुशी-खुशी मनाऔँ (२)<br/>भन-भन, प्रभु येशू ख्रीष्टको जय (२) </lines>
+		</verse>
+	</lyrics>
+</song>

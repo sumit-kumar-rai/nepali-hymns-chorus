@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 267(Krushako Cheuma Aauchu)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. क्रूसको छेउमा आउँछु त्यसमा आशा पाउँदछु<br/>जसमा भयो बलिदान जसले हुन्छ मेरो त्राण ।</lines></verse><verse name="v2"><lines>कोः येशूमा म राख्छु आश बलि भयो क्रूसमा खास<br/>क्रूसको आशिष् मलाई देऊ मेरो गह्रौं भारी लेऊ ।</lines></verse><verse name="v3"><lines>२. म ता पापी क्लेशित थिएँ आफ्ना कर्मले दुःखित थिएँ<br/>खोज्दथें त्राणको उपाय जान्दिनथें सत् सहाय ।</lines></verse><verse name="v4"><lines>३. प्रभु येशू मेरो नाथ म समात्छु उनकै हात<br/>खालि येशू सत् औतार येशूदेखि छ उद्धार । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 267(Krushako Cheuma Aauchu)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. क्रूसको छेउमा आउँछु त्यसमा आशा पाउँदछु<br/>जसमा भयो बलिदान जसले हुन्छ मेरो त्राण ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>कोः येशूमा म राख्छु आश बलि भयो क्रूसमा खास<br/>क्रूसको आशिष् मलाई देऊ मेरो गह्रौं भारी लेऊ ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. म ता पापी क्लेशित थिएँ आफ्ना कर्मले दुःखित थिएँ<br/>खोज्दथें त्राणको उपाय जान्दिनथें सत् सहाय ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. प्रभु येशू मेरो नाथ म समात्छु उनकै हात<br/>खालि येशू सत् औतार येशूदेखि छ उद्धार । </lines>
+		</verse>
+	</lyrics>
+</song>

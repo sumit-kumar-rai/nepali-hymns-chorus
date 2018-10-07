@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 432(Upasthit Khristko Chayama)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः उपस्थित ख्रीष्टको छायाँमा बाँचिरहेको छु यहाँ<br/>उनैको अद्भूत मायामा हाँसिरहेको छु यहाँ<br/>उनैको कोमल कृपामा गाइरहेको छु यहाँ ।</lines></verse><verse name="v2"><lines>१. जीवनमा एक दिन रात पर्छ यहाँ, मस्त निदाउँछु<br/>कलवरीपारि सुन्दर बिहान मानिस ब्यूँझन्छ<br/>मनोहर भागमा स्वर्गीय राजमा जयवन्तको गीत गाउँछु<br/>येशूको मुहार आफ्नैअघि देखेर रमाउँछु ।</lines></verse><verse name="v3"><lines>२. हिराले जडी तयार गरी राखेको सहरमा<br/>मणी जडेका सहरका ढोका बाटा छन् सुनौला<br/>हिँड्नेछु सदा येशूको साथमा सन्तगण लहरमा<br/>हातहातमा येशूको साथ बस्नेछु सर्वदा ।</lines></verse><verse name="v4"><lines>३. संसारको दुःख केही पनि होइन स्वर्गको सुखमा<br/>सतावट पनि केही पनि होइन स्वर्गको महिमामा<br/>सन्मान र मुकुट मिल्नेछन् मलाई त्यो पूर्ण मिलनमा<br/>बिहानका तारा ख्रीष्ट मेरा प्यारा पुज्नेछु सर्वदा । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 432(Upasthit Khristko Chayama)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः उपस्थित ख्रीष्टको छायाँमा बाँचिरहेको छु यहाँ<br/>उनैको अद्भूत मायामा हाँसिरहेको छु यहाँ<br/>उनैको कोमल कृपामा गाइरहेको छु यहाँ ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. जीवनमा एक दिन रात पर्छ यहाँ, मस्त निदाउँछु<br/>कलवरीपारि सुन्दर बिहान मानिस ब्यूँझन्छ<br/>मनोहर भागमा स्वर्गीय राजमा जयवन्तको गीत गाउँछु<br/>येशूको मुहार आफ्नैअघि देखेर रमाउँछु ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. हिराले जडी तयार गरी राखेको सहरमा<br/>मणी जडेका सहरका ढोका बाटा छन् सुनौला<br/>हिँड्नेछु सदा येशूको साथमा सन्तगण लहरमा<br/>हातहातमा येशूको साथ बस्नेछु सर्वदा ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. संसारको दुःख केही पनि होइन स्वर्गको सुखमा<br/>सतावट पनि केही पनि होइन स्वर्गको महिमामा<br/>सन्मान र मुकुट मिल्नेछन् मलाई त्यो पूर्ण मिलनमा<br/>बिहानका तारा ख्रीष्ट मेरा प्यारा पुज्नेछु सर्वदा । </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 77(Hosanna Jor Hosanna)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. होशन्ना, जोर होशन्ना गाउँथे बालक साना<br/>गुञ्ज्यो खुसीको स्तुति अल्गो भवन भरी ।<br/>येशू जसले आशिष् दिए सबका प्यारा भए<br/>गाए स्तुति बालकले उत्तम सादा तौरले ।</lines></verse><verse name="v2"><lines>२. पछ्याए भीड साथ लागी जैतुन डाँडाबाटै<br/>खजुरको पात हल्लाउँदै चर्काे स्वर निकाल्दै ।<br/>स्वर्गदूतले गरे स्तुति नीलो आकाशदेखि<br/>उच्च स्थानमा होशन्ना पितालाई महिमा ।</lines></verse><verse name="v3"><lines>३. स्वर्गमा होशन्ना हो, गाऔं गीत पुरानो यो<br/>ख्रीष्ट हाम्रा मुक्तिदाता स्वर्गका प्रभु राजा ।<br/>सधैँ स्तुति गर्न पाऔं तन-मन र स्वर सब लाऔं<br/>उनको शान्तिको राज्यमा अनन्त हर्ष मनाऔं । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 77(Hosanna Jor Hosanna)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. होशन्ना, जोर होशन्ना गाउँथे बालक साना<br/>गुञ्ज्यो खुसीको स्तुति अल्गो भवन भरी ।<br/>येशू जसले आशिष् दिए सबका प्यारा भए<br/>गाए स्तुति बालकले उत्तम सादा तौरले ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. पछ्याए भीड साथ लागी जैतुन डाँडाबाटै<br/>खजुरको पात हल्लाउँदै चर्काे स्वर निकाल्दै ।<br/>स्वर्गदूतले गरे स्तुति नीलो आकाशदेखि<br/>उच्च स्थानमा होशन्ना पितालाई महिमा ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. स्वर्गमा होशन्ना हो, गाऔं गीत पुरानो यो<br/>ख्रीष्ट हाम्रा मुक्तिदाता स्वर्गका प्रभु राजा ।<br/>सधैँ स्तुति गर्न पाऔं तन-मन र स्वर सब लाऔं<br/>उनको शान्तिको राज्यमा अनन्त हर्ष मनाऔं । </lines>
+		</verse>
+	</lyrics>
+</song>

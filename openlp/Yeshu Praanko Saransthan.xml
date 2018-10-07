@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 301(Yeshu Praanko Saransthan)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. येशू प्राणको शरणस्थान म तपाईंकहाँ भागिआऊँ<br/>चल्दा बाढी, मेघ, तुफान, आँधीदेखि आड म पाऊँ,<br/>जीवन कष्ट रहुञ्ज्याल रक्षा गर्नोस् मेरो प्राण<br/>जब आउँछ मृत्युकाल पसूँ स्वर्गीय आश्रयस्थान ।<br/> </lines></verse><verse name="v2"><lines>२. मैले हार-गुहार नपाई तपाईंमाथि निर्भर छु<br/>एक्लै नछोडी मलाई शान्ति दिनुहोस् प्रभु,<br/>मेरो आशा तपाईंमा, मलाई सघाउने तपाईं<br/>ढाकी आफ्नो छायाँमा आश्रय दिनुहोस् मलाई ।<br/> </lines></verse><verse name="v3"><lines>३. येशू खाली तपाईंलाई म अपनाउन चाहन्छु<br/>मनको आपद्, दुःख हटाई लौ डोर्र्‍याउनुहोस्, प्रभु,<br/>म ता सब अशुद्ध छु, भरेको पाप कपटले<br/>तपाईं पवित्र प्रभु भरेको अनुग्रहले ।<br/> </lines></verse><verse name="v4"><lines>४. मेरो पापलाई ढाक्नुछ, माफ प्रशस्त तपाईंमा<br/>दया-खोला बगेर पारिराखोस् मन सफा,<br/>जीवनदाता लौ मलाई पिउन दिनुहोस् जीवित जल<br/>मनमा बन्नोस् मूल तपाईं उम्रिरहोस् सदाकाल । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 301(Yeshu Praanko Saransthan)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. येशू प्राणको शरणस्थान म तपाईंकहाँ भागिआऊँ<br/>चल्दा बाढी, मेघ, तुफान, आँधीदेखि आड म पाऊँ,<br/>जीवन कष्ट रहुञ्ज्याल रक्षा गर्नोस् मेरो प्राण<br/>जब आउँछ मृत्युकाल पसूँ स्वर्गीय आश्रयस्थान ।<br/> </lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. मैले हार-गुहार नपाई तपाईंमाथि निर्भर छु<br/>एक्लै नछोडी मलाई शान्ति दिनुहोस् प्रभु,<br/>मेरो आशा तपाईंमा, मलाई सघाउने तपाईं<br/>ढाकी आफ्नो छायाँमा आश्रय दिनुहोस् मलाई ।<br/> </lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. येशू खाली तपाईंलाई म अपनाउन चाहन्छु<br/>मनको आपद्, दुःख हटाई लौ डोर्र्‍याउनुहोस्, प्रभु,<br/>म ता सब अशुद्ध छु, भरेको पाप कपटले<br/>तपाईं पवित्र प्रभु भरेको अनुग्रहले ।<br/> </lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. मेरो पापलाई ढाक्नुछ, माफ प्रशस्त तपाईंमा<br/>दया-खोला बगेर पारिराखोस् मन सफा,<br/>जीवनदाता लौ मलाई पिउन दिनुहोस् जीवित जल<br/>मनमा बन्नोस् मूल तपाईं उम्रिरहोस् सदाकाल । </lines>
+		</verse>
+	</lyrics>
+</song>

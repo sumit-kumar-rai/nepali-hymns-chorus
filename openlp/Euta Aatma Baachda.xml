@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 630(Euta Aatma Baachda)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः एउटा आत्मा बाँच्दा यहाँ स्वर्गमा रमाहट हुन्छन् भने<br/>एउटा आत्मा भड्कँदा पनि स्वर्गमा सबै नै शोकित हुन्छन् (२)<br/>धिक्कार छ (३) (त्यो मानिसलाई जसद्वारा आत्मा भड्कन्छन्) २</lines></verse><verse name="v2"><lines>१. उसको घिच्रोमा जाँतोको माला पहिराइदिनु<br/>कहिले ननिस्कने गरी समुद्रमा फालिदिनु<br/>परमेश्वरको नियम तोडेर आफ्नो नियम चलाउनेहरू<br/>सत्यको मण्डलीभित्र झूटको खेत गर्नेहरू<br/>यस्ता मान्छे यस जगत्मा जन्मनु अभिषाप भयो<br/>मण्डलीलाई पाप भयो ।</lines></verse><verse name="v3"><lines>२. परमेश्वरको मनको चाह सबैले मुक्ति पाउन्<br/>योजना उनको हामीलाई स्वर्गमा सँगै रहून्<br/>रगतको मूल्य चुकाई बचाइएका उनका जन<br/>भड्कीएर जान्छ भने दुःखित हुन्छ ख्रीष्टको मन<br/>जुन मानिसले काम बिगार्छ श्राप उसलाई पर्दछ<br/>तड्पि तड्पि मर्दछ । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 630(Euta Aatma Baachda)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः एउटा आत्मा बाँच्दा यहाँ स्वर्गमा रमाहट हुन्छन् भने<br/>एउटा आत्मा भड्कँदा पनि स्वर्गमा सबै नै शोकित हुन्छन् (२)<br/>धिक्कार छ (३) (त्यो मानिसलाई जसद्वारा आत्मा भड्कन्छन्) २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. उसको घिच्रोमा जाँतोको माला पहिराइदिनु<br/>कहिले ननिस्कने गरी समुद्रमा फालिदिनु<br/>परमेश्वरको नियम तोडेर आफ्नो नियम चलाउनेहरू<br/>सत्यको मण्डलीभित्र झूटको खेत गर्नेहरू<br/>यस्ता मान्छे यस जगत्मा जन्मनु अभिषाप भयो<br/>मण्डलीलाई पाप भयो ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. परमेश्वरको मनको चाह सबैले मुक्ति पाउन्<br/>योजना उनको हामीलाई स्वर्गमा सँगै रहून्<br/>रगतको मूल्य चुकाई बचाइएका उनका जन<br/>भड्कीएर जान्छ भने दुःखित हुन्छ ख्रीष्टको मन<br/>जुन मानिसले काम बिगार्छ श्राप उसलाई पर्दछ<br/>तड्पि तड्पि मर्दछ । </lines>
+		</verse>
+	</lyrics>
+</song>

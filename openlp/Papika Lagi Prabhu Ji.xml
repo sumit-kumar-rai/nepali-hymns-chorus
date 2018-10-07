@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 117(Papika Lagi Prabhu Ji)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः पापीका लागि प्रभुज्यू (२) क्रूसैमा बलि भए<br/>निष्कलङ्क रगत बहाई पापीलाई मुक्ति दिए (२)</lines></verse><verse name="v2"><lines>१. भुलिरहेछौ दुष्ट यो जगतमा दाइ हो, डुबिरहेछौ प्रति दिन पापमा<br/>पापलाई लुकाई राखेर दाइ हो, पाउनेछौ कसरी अमर जीवन यो ?</lines></verse><verse name="v3"><lines>२. पापको बोझाले लादिएका हो, दाइ हो, आऊ येशूकहाँ विश्राम प्राप्त गर्न<br/>दीन जनलाई उनले मनमा चैन दिन्छन्, ईश्वरका पुत्र येशूको करार छ (२)</lines></verse><verse name="v4"><lines>३. चौडा नै हो बाटो नरककुण्ड पुग्ने दाइ हो, साँघुरो छ मार्ग स्वर्गीयमा पुग्ने<br/>येशू एकमात्र साँचो बाटो हुन्, उनैले केवल स्वर्गीय पुर्‌याउँछन् (२)</lines></verse><verse name="v5"><lines>४. बिताइरहेछौं छायाँतुल्य जीवन दाइ हो, दुःख अशान्ति पापले भरपूर यो<br/>दीन भई उनको खुनले पाप धोइ माग तिमीले तुरुन्तै मुक्तिदान पाउनेछौ (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 117(Papika Lagi Prabhu Ji)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः पापीका लागि प्रभुज्यू (२) क्रूसैमा बलि भए<br/>निष्कलङ्क रगत बहाई पापीलाई मुक्ति दिए (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. भुलिरहेछौ दुष्ट यो जगतमा दाइ हो, डुबिरहेछौ प्रति दिन पापमा<br/>पापलाई लुकाई राखेर दाइ हो, पाउनेछौ कसरी अमर जीवन यो ?</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. पापको बोझाले लादिएका हो, दाइ हो, आऊ येशूकहाँ विश्राम प्राप्त गर्न<br/>दीन जनलाई उनले मनमा चैन दिन्छन्, ईश्वरका पुत्र येशूको करार छ (२)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. चौडा नै हो बाटो नरककुण्ड पुग्ने दाइ हो, साँघुरो छ मार्ग स्वर्गीयमा पुग्ने<br/>येशू एकमात्र साँचो बाटो हुन्, उनैले केवल स्वर्गीय पुर्‌याउँछन् (२)</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. बिताइरहेछौं छायाँतुल्य जीवन दाइ हो, दुःख अशान्ति पापले भरपूर यो<br/>दीन भई उनको खुनले पाप धोइ माग तिमीले तुरुन्तै मुक्तिदान पाउनेछौ (२) </lines>
+		</verse>
+	</lyrics>
+</song>

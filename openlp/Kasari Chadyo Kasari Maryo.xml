@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 499(Kasari Chadyo Kasari Maryo)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः कसरी चढ्यो कसरी मर्र्‍यो कलवरी क्रूसैमा (२)</lines></verse><verse name="v2"><lines>१. पिताको प्रेमलाई प्रमाण गर्न स्वर्ग धाम छोड्नुभो<br/>हामी पापीलाई बचाउन भनी जीवन दिनुभो ।</lines></verse><verse name="v3"><lines>२. क्रूसैमा चढी रगत बगाई पाप नष्ट गर्नुभो<br/>पाप र श्राप नष्ट गरेर मुक्तिलाई ल्याउनुभो ।</lines></verse><verse name="v4"><lines>३. धन्य होस् तिम्रो, हे मुक्तिदाता र गुणानुवाद होस्<br/>जयजयकार तिम्रो, प्रशंसा तिम्रो, अनन्त होइरहोस् । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 499(Kasari Chadyo Kasari Maryo)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः कसरी चढ्यो कसरी मर्र्‍यो कलवरी क्रूसैमा (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. पिताको प्रेमलाई प्रमाण गर्न स्वर्ग धाम छोड्नुभो<br/>हामी पापीलाई बचाउन भनी जीवन दिनुभो ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. क्रूसैमा चढी रगत बगाई पाप नष्ट गर्नुभो<br/>पाप र श्राप नष्ट गरेर मुक्तिलाई ल्याउनुभो ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. धन्य होस् तिम्रो, हे मुक्तिदाता र गुणानुवाद होस्<br/>जयजयकार तिम्रो, प्रशंसा तिम्रो, अनन्त होइरहोस् । </lines>
+		</verse>
+	</lyrics>
+</song>

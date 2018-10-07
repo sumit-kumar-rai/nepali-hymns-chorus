@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 429(Durdur Yas Lokko Mit)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. दूरदूर यस लोकको मित ख्रीष्ट मेरा हुन्<br/>दूरदूर यस लोकको सुख ख्रीष्ट मेरा हुन्<br/>जङ्गल अँध्यारो छ, यस लोकमा छैन चैन<br/>जुन ख्रीष्टमा मात्र छ ख्रीष्ट मेरा हुन् ।</lines></verse><verse name="v2"><lines>२. मलाई जाँच नगर्न ख्रीष्ट मेरा हुन्<br/>सधैँभरि बस्न ख्रीष्ट मेरा हुन्<br/>मट्टीको यो शरीर बनेको एक दिनलाई<br/>जुन ख्रीष्टमा मात्र छ ख्रीष्ट मेरा हुन् ।</lines></verse><verse name="v3"><lines>३. हेर्दिनँ संसारलाई ख्रीष्ट मेरा हुन्<br/>हेर्छु म स्वर्गलाई ख्रीष्ट मेरा हुन्<br/>त्यस ठाउँमा पुग्न पाऔं जहाँ सदा विश्राम<br/>सदैव बस्न पाऔं ख्रीष्ट मेरा हुन् । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 429(Durdur Yas Lokko Mit)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. दूरदूर यस लोकको मित ख्रीष्ट मेरा हुन्<br/>दूरदूर यस लोकको सुख ख्रीष्ट मेरा हुन्<br/>जङ्गल अँध्यारो छ, यस लोकमा छैन चैन<br/>जुन ख्रीष्टमा मात्र छ ख्रीष्ट मेरा हुन् ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. मलाई जाँच नगर्न ख्रीष्ट मेरा हुन्<br/>सधैँभरि बस्न ख्रीष्ट मेरा हुन्<br/>मट्टीको यो शरीर बनेको एक दिनलाई<br/>जुन ख्रीष्टमा मात्र छ ख्रीष्ट मेरा हुन् ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. हेर्दिनँ संसारलाई ख्रीष्ट मेरा हुन्<br/>हेर्छु म स्वर्गलाई ख्रीष्ट मेरा हुन्<br/>त्यस ठाउँमा पुग्न पाऔं जहाँ सदा विश्राम<br/>सदैव बस्न पाऔं ख्रीष्ट मेरा हुन् । </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 604(Jiwan Cha Hamro Thorai)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः जीवन छ हाम्रो थोरै दिनको<br/>वाफझैँ जीवनलाई लिएर<br/>(घमण्ड गर्नु व्यर्थ छ, व्यर्थ छ) २</lines></verse><verse name="v2"><lines>१. संसार हाम्रो स्थायी घर होइन, एक दिन यसलाई छोड्नै पर्छ (२)<br/>आफ्ना सारा धन, मान र इज्जत यहीँ छोडी जानुछ (२)<br/>खाली हात आयौँ, खाली हात लिई, रित्तो भइ जानुछ (२)</lines></verse><verse name="v3"><lines>२. संसार अब चाँडै नाश हुनेछ, क्रोध परमेश्वरको खनिने छ (२)<br/>तब बादलमा दूतगणको साथमा येशू ओर्ली आउनेछन् (२)<br/>विश्वास गरी उद्धार पाउनेहरू उनीसाथ जानेछन् (२)</lines></verse><verse name="v4"><lines>३. ख्रीष्ट येशूको अवाइ दैलोमै छ, चिन्ह पूरा भइरहेका छन् (२)<br/>दीन र चूर्ण हृदय लिएर येशूको शरणमा आऔँ<br/>उनका सन्तगणसाथ स्वर्गमा राज्य गर्नलाई (२)</lines></verse><verse name="v5"><lines>४. संसारका सारा थोकलाई जाँची सक्यौं, एक खेप ख्रीष्टलाई जाँची हेर (२)<br/>असल रहेछन् या खराब रहेछन् तिमीले थाहा पाउनेछौ (२)<br/>संसारमा तिमीले तृप्ति पाउँदैनौ, केवल ख्रीष्टमा पाउनेछौ (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 604(Jiwan Cha Hamro Thorai)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः जीवन छ हाम्रो थोरै दिनको<br/>वाफझैँ जीवनलाई लिएर<br/>(घमण्ड गर्नु व्यर्थ छ, व्यर्थ छ) २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. संसार हाम्रो स्थायी घर होइन, एक दिन यसलाई छोड्नै पर्छ (२)<br/>आफ्ना सारा धन, मान र इज्जत यहीँ छोडी जानुछ (२)<br/>खाली हात आयौँ, खाली हात लिई, रित्तो भइ जानुछ (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. संसार अब चाँडै नाश हुनेछ, क्रोध परमेश्वरको खनिने छ (२)<br/>तब बादलमा दूतगणको साथमा येशू ओर्ली आउनेछन् (२)<br/>विश्वास गरी उद्धार पाउनेहरू उनीसाथ जानेछन् (२)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. ख्रीष्ट येशूको अवाइ दैलोमै छ, चिन्ह पूरा भइरहेका छन् (२)<br/>दीन र चूर्ण हृदय लिएर येशूको शरणमा आऔँ<br/>उनका सन्तगणसाथ स्वर्गमा राज्य गर्नलाई (२)</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. संसारका सारा थोकलाई जाँची सक्यौं, एक खेप ख्रीष्टलाई जाँची हेर (२)<br/>असल रहेछन् या खराब रहेछन् तिमीले थाहा पाउनेछौ (२)<br/>संसारमा तिमीले तृप्ति पाउँदैनौ, केवल ख्रीष्टमा पाउनेछौ (२) </lines>
+		</verse>
+	</lyrics>
+</song>

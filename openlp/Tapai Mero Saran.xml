@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 278(Tapai Mero Saran)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. तपाईं मेरो शरण, मेरो बलियो किल्ला, खाँचोमा मेरो साथी, मेरो प्रभु (२)</lines></verse><verse name="v2"><lines>कोः सारा हृदयले पुज्छु तपाईंलाई, सारा जीवनले खोज्छु तपाईंलाई<br/>तन, मन, धनले सेवा गर्छु, म यहाँ छु, म यहाँ छु, प्रभु (३) म यहाँ छु</lines></verse><verse name="v3"><lines>२. तपार्इं मुक्तिदाता, मेरो चङ्गाइकर्ता, खाँचोमा मेरो शक्ति, मेरो प्रभु ।</lines></verse><verse name="v4"><lines>३. तपाईं मेरो गोठालो, मेरो शक्ति र बल, तपाईं मेरो आश्रय, मेरो प्रभु । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 278(Tapai Mero Saran)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. तपाईं मेरो शरण, मेरो बलियो किल्ला, खाँचोमा मेरो साथी, मेरो प्रभु (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>कोः सारा हृदयले पुज्छु तपाईंलाई, सारा जीवनले खोज्छु तपाईंलाई<br/>तन, मन, धनले सेवा गर्छु, म यहाँ छु, म यहाँ छु, प्रभु (३) म यहाँ छु</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. तपार्इं मुक्तिदाता, मेरो चङ्गाइकर्ता, खाँचोमा मेरो शक्ति, मेरो प्रभु ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. तपाईं मेरो गोठालो, मेरो शक्ति र बल, तपाईं मेरो आश्रय, मेरो प्रभु । </lines>
+		</verse>
+	</lyrics>
+</song>

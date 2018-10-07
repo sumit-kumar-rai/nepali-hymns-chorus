@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 23(Kokro Unko Chaina)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. कोक्रो उनको छैन डुँड् नै ओछ्यान भो सानो प्रभु येशू गोठमा पस्रिए<br/>स्वर्गदेखि ताराहरू उनलाई हेर्दै गए सानो प्रभु येशू परालमा सुते ।</lines></verse><verse name="v2"><lines>२. गाई–गोरु कराए, बालक ब्युँझिए, न उनी कराए न कैले रोए<br/>हे प्रभु, प्यार गर्छु, स्वर्गबाट हेर्नू र बिहानैसम्म मसँग रहनू ।</lines></verse><verse name="v3"><lines>३. प्यार गर्नुहोस् मलाई यो बिन्ती गर्छु अनन्तसम्म हुनुहोस् नजिक प्रभु<br/>आशिष् सबलाई दिई सबको रक्षा गर्नाेस्<br/>हामीलाई स्वर्गलोकमा बस्न योग्य पार्नाेस् । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 23(Kokro Unko Chaina)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. कोक्रो उनको छैन डुँड् नै ओछ्यान भो सानो प्रभु येशू गोठमा पस्रिए<br/>स्वर्गदेखि ताराहरू उनलाई हेर्दै गए सानो प्रभु येशू परालमा सुते ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. गाई–गोरु कराए, बालक ब्युँझिए, न उनी कराए न कैले रोए<br/>हे प्रभु, प्यार गर्छु, स्वर्गबाट हेर्नू र बिहानैसम्म मसँग रहनू ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. प्यार गर्नुहोस् मलाई यो बिन्ती गर्छु अनन्तसम्म हुनुहोस् नजिक प्रभु<br/>आशिष् सबलाई दिई सबको रक्षा गर्नाेस्<br/>हामीलाई स्वर्गलोकमा बस्न योग्य पार्नाेस् । </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,31 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 195(Aau Sabai Muktilai Khojau)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः आऊ सबै, मुक्तिलाई खोजौँ मुक्ति पाई, स्वर्गमा राज गरौं ।</lines></verse><verse name="v2"><lines>१. हामी सबै पापी थियौं जान लाग्यौं नाशमा (२)<br/>नाशदेखि बचाउनलाई येशू आए जगमा (२)</lines></verse><verse name="v3"><lines>२. येशू तपाईं जगमा आई गर्नुभयो प्रेम (२)<br/>प्रेम गरी बस्नुभयो आज हाम्रो सँगमा (२)</lines></verse><verse name="v4"><lines>३. रोगीहरू विश्वास गर्दै आए उनको छेउमा (२)<br/>विश्वास गरी निको भई गए आफ्ना घरमा (२)</lines></verse><verse name="v5"><lines>४. हामी सबै पापी भयौं जान्छौं क्यारे नाशमा (२)<br/>नाशदेखि बचाउनलाई येशू मरे क्रूसमा (२)</lines></verse><verse name="v6"><lines>५. मानिसको पाप लिई टाँसिदिए क्रूसमा (२)<br/>क्रूसमा चढी रगत बहाई बौरिउठे अन्तमा (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 195(Aau Sabai Muktilai Khojau)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः आऊ सबै, मुक्तिलाई खोजौँ मुक्ति पाई, स्वर्गमा राज गरौं ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. हामी सबै पापी थियौं जान लाग्यौं नाशमा (२)<br/>नाशदेखि बचाउनलाई येशू आए जगमा (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. येशू तपाईं जगमा आई गर्नुभयो प्रेम (२)<br/>प्रेम गरी बस्नुभयो आज हाम्रो सँगमा (२)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. रोगीहरू विश्वास गर्दै आए उनको छेउमा (२)<br/>विश्वास गरी निको भई गए आफ्ना घरमा (२)</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. हामी सबै पापी भयौं जान्छौं क्यारे नाशमा (२)<br/>नाशदेखि बचाउनलाई येशू मरे क्रूसमा (२)</lines>
+		</verse>
+		<verse name="v6">
+			<lines>५. मानिसको पाप लिई टाँसिदिए क्रूसमा (२)<br/>क्रूसमा चढी रगत बहाई बौरिउठे अन्तमा (२) </lines>
+		</verse>
+	</lyrics>
+</song>

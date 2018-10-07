@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 460(Aau Sabai Geet Gaau)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. आऊ सबै गीत गाऔं है, हल्लेलूयाह आमेन<br/>होस् बढाइ येशूकै, हल्लेलूयाह आमेन<br/>स्वर र मन उचाली सिंहासनको अघि<br/>मन पर्दो छ स्तुति, हल्लेलूयाह आमेन ।</lines></verse><verse name="v2"><lines>२. मन उँभो उचाल्दै, हल्लेलूयाह आमेन<br/>खुब आकाश गर्जाउँदै, हल्लेलूयाह आमेन<br/>ख्रीष्ट हाम्रा मित्र हुन, हामीमा उत्रन्छन्<br/>प्रेम उनको टुङ्दैन, हल्लेलूयाह आमेन</lines></verse><verse name="v3"><lines>३. गुण गाऔं प्रभुको, हल्लेलूयाह आमेन<br/>शक्ति भर जीवनको हल्लेलूयाह आमेन<br/>स्वर्गमा पुगौंला, उनैलाई भेटौंला,<br/>सधैँ नै गीत गाऔंला, हल्लेलूयाह आमेन </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 460(Aau Sabai Geet Gaau)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. आऊ सबै गीत गाऔं है, हल्लेलूयाह आमेन<br/>होस् बढाइ येशूकै, हल्लेलूयाह आमेन<br/>स्वर र मन उचाली सिंहासनको अघि<br/>मन पर्दो छ स्तुति, हल्लेलूयाह आमेन ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. मन उँभो उचाल्दै, हल्लेलूयाह आमेन<br/>खुब आकाश गर्जाउँदै, हल्लेलूयाह आमेन<br/>ख्रीष्ट हाम्रा मित्र हुन, हामीमा उत्रन्छन्<br/>प्रेम उनको टुङ्दैन, हल्लेलूयाह आमेन</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. गुण गाऔं प्रभुको, हल्लेलूयाह आमेन<br/>शक्ति भर जीवनको हल्लेलूयाह आमेन<br/>स्वर्गमा पुगौंला, उनैलाई भेटौंला,<br/>सधैँ नै गीत गाऔंला, हल्लेलूयाह आमेन </lines>
+		</verse>
+	</lyrics>
+</song>

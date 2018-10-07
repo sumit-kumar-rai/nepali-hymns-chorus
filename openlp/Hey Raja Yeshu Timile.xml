@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 394(Hey Raja Yeshu Timile)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः हे राजा येशू तिमीले हाम्रो आत्मालाई जिलायौ<br/>पापको जरो संसारको बन्धन निष्फल तुल्यायौ ।</lines></verse><verse name="v2"><lines>१. गर्जने सिंहको तर्साउने बोली चुपचाप गरायौ<br/>थुनाका कैदी मानव जाति निर्बन्ध तुल्यायौ (२)<br/>रगतको मोल तिरी कलभरी क्रूसैले, ख्रीष्टको प्रेमले ।</lines></verse><verse name="v3"><lines>२. मिश्र नै देशको फिरौनको शासन चकनाचुर भैगयो<br/>प्रतिज्ञा मुलुक कनानमा आज जय-ध्वनी सुनियो (२)<br/>काँढाको मुकुट हाम्रो शिरमा श्रीपेच भैगयो । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 394(Hey Raja Yeshu Timile)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः हे राजा येशू तिमीले हाम्रो आत्मालाई जिलायौ<br/>पापको जरो संसारको बन्धन निष्फल तुल्यायौ ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. गर्जने सिंहको तर्साउने बोली चुपचाप गरायौ<br/>थुनाका कैदी मानव जाति निर्बन्ध तुल्यायौ (२)<br/>रगतको मोल तिरी कलभरी क्रूसैले, ख्रीष्टको प्रेमले ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. मिश्र नै देशको फिरौनको शासन चकनाचुर भैगयो<br/>प्रतिज्ञा मुलुक कनानमा आज जय-ध्वनी सुनियो (२)<br/>काँढाको मुकुट हाम्रो शिरमा श्रीपेच भैगयो । </lines>
+		</verse>
+	</lyrics>
+</song>

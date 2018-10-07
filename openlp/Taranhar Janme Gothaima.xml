@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 597(Taranhar Janme Gothaima)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः तारणहार जन्मे गोठैमा तिम्रो जीवनको लागि<br/>आउनुभो संसारैमा फेरि आज जन्मे रातैमा<br/>आयौं हामी हजुरकै अघि, यो सन्देश भनिदिनलाई ।</lines></verse><verse name="v2"><lines>१. पैयूँ फुल्यो हाँगैभरि, डाँडाहरू ढाकिए लालुपातेको लालीले (२)<br/>कता-कता (२) जाडो लाग्यो बडादिनको चिसो हावाले फेरि आज ।</lines></verse><verse name="v3"><lines>२. तारा चम्के रातैभरि, सन्देश यो भनिदिए स्वर्गदूतले (२)<br/>(नडराऊ है) २ बेथलेहेममा मुक्तिदाता जन्मिएका छन् फेरि आज । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 597(Taranhar Janme Gothaima)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः तारणहार जन्मे गोठैमा तिम्रो जीवनको लागि<br/>आउनुभो संसारैमा फेरि आज जन्मे रातैमा<br/>आयौं हामी हजुरकै अघि, यो सन्देश भनिदिनलाई ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. पैयूँ फुल्यो हाँगैभरि, डाँडाहरू ढाकिए लालुपातेको लालीले (२)<br/>कता-कता (२) जाडो लाग्यो बडादिनको चिसो हावाले फेरि आज ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. तारा चम्के रातैभरि, सन्देश यो भनिदिए स्वर्गदूतले (२)<br/>(नडराऊ है) २ बेथलेहेममा मुक्तिदाता जन्मिएका छन् फेरि आज । </lines>
+		</verse>
+	</lyrics>
+</song>

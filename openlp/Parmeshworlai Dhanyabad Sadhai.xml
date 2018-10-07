@@ -1,2 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 533(Parmeshworlai Dhanyabad Sadhai)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. परमेश्वरलाई धन्यवाद सधैँ चढाउँछौं<br/>यस दिनमा आज यी दुईलाई ल्याउँछौं २<br/>तादिका परमेश्वर आज पनि उही<br/>दिनुभएको प्रतिज्ञालाई पूरो गर्नुहुन्छ नै २</lines></verse><verse name="v2"><lines>२. उपस्थिति जो त्यो थियो बगैँचा अदनमा<br/>आनन्द लिएर आउनुभो हाम्रो यस हृदयमा<br/>खोज्ने साथी जीवनको काम हो यो तपाईंको<br/>भविष्य बनाउने सब योजना हो तपाईंको (तपाईंको) २ </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 533(Parmeshworlai Dhanyabad Sadhai)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. परमेश्वरलाई धन्यवाद सधैँ चढाउँछौं<br/>यस दिनमा आज यी दुईलाई ल्याउँछौं २<br/>तादिका परमेश्वर आज पनि उही<br/>दिनुभएको प्रतिज्ञालाई पूरो गर्नुहुन्छ नै २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. उपस्थिति जो त्यो थियो बगैँचा अदनमा<br/>आनन्द लिएर आउनुभो हाम्रो यस हृदयमा<br/>खोज्ने साथी जीवनको काम हो यो तपाईंको<br/>भविष्य बनाउने सब योजना हो तपाईंको (तपाईंको) २ </lines>
+		</verse>
+	</lyrics>
+</song>

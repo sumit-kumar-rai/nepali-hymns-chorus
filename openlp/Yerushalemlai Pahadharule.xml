@@ -1,2 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 110(Yerushalemlai Pahadharule)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>यरुशलेमलाई पहाड़हरूले घेरेझैँ<br/>प्रभु घेर्छन् आफ्ना मानिसहरूलाई</lines></verse><verse name="v2"><lines>घेर्नुहोस् हामीलाई प्रभु (२)<br/>तपाईंको उपस्थितिमा ल्याई,<br/>घेर्नुहोस् हामीलाई प्रभु । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 110(Yerushalemlai Pahadharule)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>यरुशलेमलाई पहाड़हरूले घेरेझैँ<br/>प्रभु घेर्छन् आफ्ना मानिसहरूलाई</lines>
+		</verse>
+		<verse name="v2">
+			<lines>घेर्नुहोस् हामीलाई प्रभु (२)<br/>तपाईंको उपस्थितिमा ल्याई,<br/>घेर्नुहोस् हामीलाई प्रभु । </lines>
+		</verse>
+	</lyrics>
+</song>

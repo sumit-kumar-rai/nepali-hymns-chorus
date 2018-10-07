@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 449(Yeshuko  Ma Hu Patho)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. येशूको म हुँ पाठो हृदय खुसी छ मेरो<br/>प्रेम येशूले मलाई गर्छन् राम्रो वरदान मलाई दिन्छन्<br/>पालन-पोषण गर्दछन् नाउँबाट बोलाउँदछन् ।</lines></verse><verse name="v2"><lines>२. मेरो दैनिक जीवनमा भोक र तिर्खा जान्दिनँ<br/>हूल भेडाको उनको जहाँ, राम्रो हरियो चरन त्यहाँ<br/>लाग्छ मलाई प्यास जहिले, झर्ना देखाउँछन् उनले ।</lines></verse><verse name="v3"><lines>३. जीवनभर आनन्दित छु, आशिषित यस झुण्डमा छु<br/>पाउँछु गोठाला चराउने, मृत्युपछि जीवन दिने<br/>मलाई स्वर्गमा पुर्र्‍याउँछन्, भाग्यमानी हुन्छु म । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 449(Yeshuko  Ma Hu Patho)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. येशूको म हुँ पाठो हृदय खुसी छ मेरो<br/>प्रेम येशूले मलाई गर्छन् राम्रो वरदान मलाई दिन्छन्<br/>पालन-पोषण गर्दछन् नाउँबाट बोलाउँदछन् ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. मेरो दैनिक जीवनमा भोक र तिर्खा जान्दिनँ<br/>हूल भेडाको उनको जहाँ, राम्रो हरियो चरन त्यहाँ<br/>लाग्छ मलाई प्यास जहिले, झर्ना देखाउँछन् उनले ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. जीवनभर आनन्दित छु, आशिषित यस झुण्डमा छु<br/>पाउँछु गोठाला चराउने, मृत्युपछि जीवन दिने<br/>मलाई स्वर्गमा पुर्र्‍याउँछन्, भाग्यमानी हुन्छु म । </lines>
+		</verse>
+	</lyrics>
+</song>

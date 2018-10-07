@@ -1,2 +1,43 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 413(Hey Yonah Uthera Jaau)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः हे योनाह उठेर जाऊ न निनवेह प्रचार गर्नलाई ।</lines></verse><verse name="v2"><lines>१. निनवेह पापी सहर जान योनाहलाई मन परेन<br/>जहाज चढी तर्शीश भाग्यो ईश्वरलाई मानेन ।</lines></verse><verse name="v3"><lines>२. समुद्रमा नै ठूलो आँधी ईश्वरले पठाइदिए<br/>अफसोस लागी आफ्नो पापलाई योनाहले मानिलिए ।</lines></verse><verse name="v4"><lines>३. जहाजीले फालिदिए पानीमा योनाहलाई<br/>प्रभु ईश्वरले दिएको माछाले स्वाट्ट निल्यो उसलाई ।</lines></verse><verse name="v5"><lines>४. माछाको पेटमा ईश्वरलाई सम्झी योनाहले बिन्ती गर्र्‍यो<br/>पाखा पुगी तेस्रो दिनमा माछाले उसलाई उगेल्यो ।</lines></verse><verse name="v6"><lines>५. दोस्रो पल्ट ईश्वरको वचन योनाहलाई सम्झाउन आयो<br/>तीन दिनको बाटो हिंडेर गयो निनवेहमा करायो ।</lines></verse><verse name="v7"><lines>६. निनवेह सहर पापीहरूले ईश्वरको वचन टेरे<br/>पापदेखि फर्की प्रार्थना गरे ईश्वरले माफी दिए ।</lines></verse><verse name="v8"><lines>७. उनीहरूलाई ईश्वरको निगाह योनाहलाई मन परेन<br/>पापी मानिसलाई किन बचाउनु योनाहले बुझ्न सकेन ।</lines></verse><verse name="v9"><lines>८. योनाहभन्दा महान् येशू यस संसारमा आए<br/>स्वर्ग छोडी सुख त्यागी हाम्रो लागि मरे ।</lines></verse><verse name="v10"><lines>९. पापी मानिस भए पनि हामीलाई छ निगाह<br/>ख्रीष्टको रक्तले शुद्ध भई हामीले पायौं क्षमा । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 413(Hey Yonah Uthera Jaau)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः हे योनाह उठेर जाऊ न निनवेह प्रचार गर्नलाई ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. निनवेह पापी सहर जान योनाहलाई मन परेन<br/>जहाज चढी तर्शीश भाग्यो ईश्वरलाई मानेन ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. समुद्रमा नै ठूलो आँधी ईश्वरले पठाइदिए<br/>अफसोस लागी आफ्नो पापलाई योनाहले मानिलिए ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. जहाजीले फालिदिए पानीमा योनाहलाई<br/>प्रभु ईश्वरले दिएको माछाले स्वाट्ट निल्यो उसलाई ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. माछाको पेटमा ईश्वरलाई सम्झी योनाहले बिन्ती गर्र्‍यो<br/>पाखा पुगी तेस्रो दिनमा माछाले उसलाई उगेल्यो ।</lines>
+		</verse>
+		<verse name="v6">
+			<lines>५. दोस्रो पल्ट ईश्वरको वचन योनाहलाई सम्झाउन आयो<br/>तीन दिनको बाटो हिंडेर गयो निनवेहमा करायो ।</lines>
+		</verse>
+		<verse name="v7">
+			<lines>६. निनवेह सहर पापीहरूले ईश्वरको वचन टेरे<br/>पापदेखि फर्की प्रार्थना गरे ईश्वरले माफी दिए ।</lines>
+		</verse>
+		<verse name="v8">
+			<lines>७. उनीहरूलाई ईश्वरको निगाह योनाहलाई मन परेन<br/>पापी मानिसलाई किन बचाउनु योनाहले बुझ्न सकेन ।</lines>
+		</verse>
+		<verse name="v9">
+			<lines>८. योनाहभन्दा महान् येशू यस संसारमा आए<br/>स्वर्ग छोडी सुख त्यागी हाम्रो लागि मरे ।</lines>
+		</verse>
+		<verse name="v10">
+			<lines>९. पापी मानिस भए पनि हामीलाई छ निगाह<br/>ख्रीष्टको रक्तले शुद्ध भई हामीले पायौं क्षमा । </lines>
+		</verse>
+	</lyrics>
+</song>

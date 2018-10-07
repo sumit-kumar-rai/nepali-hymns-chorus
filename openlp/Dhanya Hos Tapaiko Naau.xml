@@ -1,2 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 201(Dhanya Hos Tapaiko Naau)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>धन्य होस् तपाईंको नाउँ (४),<br/>(तपाईं हाम्रो चट्टान) २ हाम्रो प्रभु २</lines></verse><verse name="v2"><lines>येशूले राज्य गर्छन् पृथ्वीमा (४),<br/>(यो विश्व नै परमप्रभुको हातमा छ) ४ </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 201(Dhanya Hos Tapaiko Naau)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>धन्य होस् तपाईंको नाउँ (४),<br/>(तपाईं हाम्रो चट्टान) २ हाम्रो प्रभु २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>येशूले राज्य गर्छन् पृथ्वीमा (४),<br/>(यो विश्व नै परमप्रभुको हातमा छ) ४ </lines>
+		</verse>
+	</lyrics>
+</song>

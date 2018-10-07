@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 343(Sikaunuhos Sangat Garna)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. सिकाउनुहोस् संगत गर्न तपाईंको दिन व दिन हे मेरो नाथ<br/>गराउनोस् शान्त हलचल हृदयको याद गर्न तपाईंको साथ<br/>बोल्नुहोस् तब तयार म हुन्छु (२) सुन्न त्यो मृदू आवाज<br/>गर्नुहोस् गोहार मसीही जीवन बिताउन बिनालाज (२)</lines></verse><verse name="v2"><lines>२. चाहन्छु प्रभु, हिँड्न बाटोमा तपाईंको दिन प्रतिदिन<br/>स्वार्थको कारण याद मलाई हुन्छ, छु अति शक्तिहीन<br/>सिकाउनुहोस् प्रभु, गर्नु है सेवा (२) नबनी अपस्वार्थी<br/>बढाइँ होस् आज प्रभु येशूको, बनूँ म निःस्वार्थी (२)</lines></verse><verse name="v3"><lines>३. निश्चयता प्रभु आज मलाई छ भएको छु मृत्यु पार<br/>पवित्र आत्मा र प्रतिज्ञाका भएँ म भागिदार<br/>ल्याउनुहोस् प्रभु तोडी देह मेरो (२) तपाईंको सिद्धता<br/>केवल प्रकाश होस्, ज्योति तपाईंको मेरो यस जीवनमा (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 343(Sikaunuhos Sangat Garna)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. सिकाउनुहोस् संगत गर्न तपाईंको दिन व दिन हे मेरो नाथ<br/>गराउनोस् शान्त हलचल हृदयको याद गर्न तपाईंको साथ<br/>बोल्नुहोस् तब तयार म हुन्छु (२) सुन्न त्यो मृदू आवाज<br/>गर्नुहोस् गोहार मसीही जीवन बिताउन बिनालाज (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. चाहन्छु प्रभु, हिँड्न बाटोमा तपाईंको दिन प्रतिदिन<br/>स्वार्थको कारण याद मलाई हुन्छ, छु अति शक्तिहीन<br/>सिकाउनुहोस् प्रभु, गर्नु है सेवा (२) नबनी अपस्वार्थी<br/>बढाइँ होस् आज प्रभु येशूको, बनूँ म निःस्वार्थी (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. निश्चयता प्रभु आज मलाई छ भएको छु मृत्यु पार<br/>पवित्र आत्मा र प्रतिज्ञाका भएँ म भागिदार<br/>ल्याउनुहोस् प्रभु तोडी देह मेरो (२) तपाईंको सिद्धता<br/>केवल प्रकाश होस्, ज्योति तपाईंको मेरो यस जीवनमा (२) </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 22(Suna Sworgadutko Gaan)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. सुन स्वर्गदूतको गान, होस् औतारी ख्रीष्टको मान<br/>पृथ्वीमाथि भो मिलाप, गरे माफ ईश्वरले पाप ।<br/>सबै देशका लोक रमाऊ, दूत सँगसँगै जयजय गाऊ<br/>सबैपट्टि होस् प्रचार, बेथलेहेममा ख्रीष्ट औतार ।</lines></verse><verse name="v2"><lines>कोः सुन स्वर्गदूतको गान, होस् औतारी ख्रीष्टको मान ।</lines></verse><verse name="v3"><lines>२. ख्रीष्ट सब स्वर्गले पुजेको ख्रीष्ट प्रभु जो सधैँको<br/>पूरो समय आयो जब, कन्येदेखि जन्मे तब ।<br/>ईश्वर जिउधारी भो, धन्य औतार ईश्वरको<br/>धन्य ख्रीष्ट गराउने मेल, धन्य ख्रीष्ट इम्मानुएल ।</lines></verse><verse name="v4"><lines>३. धन्य कुशलको प्रधान, धर्मका सूर्यलाई प्रणाम<br/>ज्योति, जीवन जगतलाई दिन हुनुभो उदय ।<br/>छोडी आफ्नो परमधाम, औतार भई गरे काम<br/>मान्छे जात नमर्नलाई, जीवन नयाँजन्म पाई । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 22(Suna Sworgadutko Gaan)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. सुन स्वर्गदूतको गान, होस् औतारी ख्रीष्टको मान<br/>पृथ्वीमाथि भो मिलाप, गरे माफ ईश्वरले पाप ।<br/>सबै देशका लोक रमाऊ, दूत सँगसँगै जयजय गाऊ<br/>सबैपट्टि होस् प्रचार, बेथलेहेममा ख्रीष्ट औतार ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>कोः सुन स्वर्गदूतको गान, होस् औतारी ख्रीष्टको मान ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. ख्रीष्ट सब स्वर्गले पुजेको ख्रीष्ट प्रभु जो सधैँको<br/>पूरो समय आयो जब, कन्येदेखि जन्मे तब ।<br/>ईश्वर जिउधारी भो, धन्य औतार ईश्वरको<br/>धन्य ख्रीष्ट गराउने मेल, धन्य ख्रीष्ट इम्मानुएल ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. धन्य कुशलको प्रधान, धर्मका सूर्यलाई प्रणाम<br/>ज्योति, जीवन जगतलाई दिन हुनुभो उदय ।<br/>छोडी आफ्नो परमधाम, औतार भई गरे काम<br/>मान्छे जात नमर्नलाई, जीवन नयाँजन्म पाई । </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 141(Mero Mit Yeshu Mahimit)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः मेरो मित येशू महिमित बादलमा मलाई लिनलाई आउँदै छन् (२)<br/>शहनाइको स्वरले पृथ्वी ढाकी मलाई लिनलाई आउँदै छन् (२)</lines></verse><verse name="v2"><lines>१. निराश–निराश रूपहरूमा मुस्कानको छवी झल्कनेछ (२)<br/>तुरहीको स्वरमा सृष्टि भरी गुञ्जिनेछ (२)</lines></verse><verse name="v3"><lines>२. दुःख र व्यथा बोकेको सृष्टि तुरहीको लयमा गाउँनेछ (२)<br/>दुःखको सागर बनेको मुहारमा हाँसोको रेखा देखिनेछ (२)</lines></verse><verse name="v4"><lines>३. सबै आँखाले देख्नेछ, सबै कानले सुन्नेछ (२)<br/>तर येशूमा जो जीवित छ महिमित बादलमा पुग्नेछ (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 141(Mero Mit Yeshu Mahimit)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः मेरो मित येशू महिमित बादलमा मलाई लिनलाई आउँदै छन् (२)<br/>शहनाइको स्वरले पृथ्वी ढाकी मलाई लिनलाई आउँदै छन् (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. निराश–निराश रूपहरूमा मुस्कानको छवी झल्कनेछ (२)<br/>तुरहीको स्वरमा सृष्टि भरी गुञ्जिनेछ (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. दुःख र व्यथा बोकेको सृष्टि तुरहीको लयमा गाउँनेछ (२)<br/>दुःखको सागर बनेको मुहारमा हाँसोको रेखा देखिनेछ (२)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. सबै आँखाले देख्नेछ, सबै कानले सुन्नेछ (२)<br/>तर येशूमा जो जीवित छ महिमित बादलमा पुग्नेछ (२) </lines>
+		</verse>
+	</lyrics>
+</song>

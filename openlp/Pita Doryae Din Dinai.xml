@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 459(Pita Doryae Din Dinai)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. पिता डोर्र्‍याई दिन-दिनै तपाईंका इच्छामा नै<br/>स्वच्छ, शुद्ध मन दिई सत्य सिकाउनोस् मलाई ।</lines></verse><verse name="v2"><lines>२. विपदमा दिई साहस, बसी छेउ रक्षा गर्नोस्<br/>निर्भय राख्नुहोस्, मलाई ममा प्रेम दृष्टि लगाई ।</lines></verse><verse name="v3"><lines>३. परीक्षाका सबै दिनमा दृढता दिनुहोस् मनमा<br/>जब हुन्छु सामर्थहीन, रक्षा गर्नुहोस् त्यो दिन ।</lines></verse><verse name="v4"><lines>४. हुन्छु खुसी आशिष् पाई, नभुलूँ म तपार्इंलाई<br/>हुन्छन् हर्षित सबै जना चिनेर तपाईंको मन ।</lines></verse><verse name="v5"><lines>५. जे-जे राम्रो छ गर्छु, तपाईंको बालक हुन्छु<br/>आउँछु जब स्वर्गमा बस्छु सधैँ नै वहाँ । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 459(Pita Doryae Din Dinai)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. पिता डोर्र्‍याई दिन-दिनै तपाईंका इच्छामा नै<br/>स्वच्छ, शुद्ध मन दिई सत्य सिकाउनोस् मलाई ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. विपदमा दिई साहस, बसी छेउ रक्षा गर्नोस्<br/>निर्भय राख्नुहोस्, मलाई ममा प्रेम दृष्टि लगाई ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. परीक्षाका सबै दिनमा दृढता दिनुहोस् मनमा<br/>जब हुन्छु सामर्थहीन, रक्षा गर्नुहोस् त्यो दिन ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. हुन्छु खुसी आशिष् पाई, नभुलूँ म तपार्इंलाई<br/>हुन्छन् हर्षित सबै जना चिनेर तपाईंको मन ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>५. जे-जे राम्रो छ गर्छु, तपाईंको बालक हुन्छु<br/>आउँछु जब स्वर्गमा बस्छु सधैँ नै वहाँ । </lines>
+		</verse>
+	</lyrics>
+</song>

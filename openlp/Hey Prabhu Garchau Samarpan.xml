@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 184(Hey Prabhu Garchau Samarpan)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. हे प्रभु गर्छौं समर्पण विश्वास र प्रार्थनासाथ<br/>बाल–बच्चा हाम्रा तपाईंलाई लौ लिनोस् ईश्वर नाथ ।</lines></verse><verse name="v2"><lines>२. तपाईंले आफ्नो मण्डलीलाई दिनुभयो करार<br/>त्यसमा यिनै भाग लिएर पाउन् सबै उद्धार ।</lines></verse><verse name="v3"><lines>३. यस पृथ्वीमा डुल्दाखेरि प्रेम गरेर तपाईं<br/>अङ्गालो हाल्नु हुदथ्यो बाल–बच्चाहरूलाई ।</lines></verse><verse name="v4"><lines>४. ऐले पनि दिलाउनु होस् अनुग्रहको यो वर<br/>हामी र हाम्रा बच्चालाई हे दयालु ईश्वर ।</lines></verse><verse name="v5"><lines>५. बाल रहुञ्जेल जोगाउनुहोस् सांसारिक लोभदेखि<br/>र धार्मिक पथमा ल्याउनुहोस् तिनलाई जीवनभरि । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 184(Hey Prabhu Garchau Samarpan)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. हे प्रभु गर्छौं समर्पण विश्वास र प्रार्थनासाथ<br/>बाल–बच्चा हाम्रा तपाईंलाई लौ लिनोस् ईश्वर नाथ ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. तपाईंले आफ्नो मण्डलीलाई दिनुभयो करार<br/>त्यसमा यिनै भाग लिएर पाउन् सबै उद्धार ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. यस पृथ्वीमा डुल्दाखेरि प्रेम गरेर तपाईं<br/>अङ्गालो हाल्नु हुदथ्यो बाल–बच्चाहरूलाई ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. ऐले पनि दिलाउनु होस् अनुग्रहको यो वर<br/>हामी र हाम्रा बच्चालाई हे दयालु ईश्वर ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>५. बाल रहुञ्जेल जोगाउनुहोस् सांसारिक लोभदेखि<br/>र धार्मिक पथमा ल्याउनुहोस् तिनलाई जीवनभरि । </lines>
+		</verse>
+	</lyrics>
+</song>

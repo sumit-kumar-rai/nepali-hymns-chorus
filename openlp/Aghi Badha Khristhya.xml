@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 140(Aghi Badha Khristhya)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः अघि बढ, ख्रीष्टीय जवान हो<br/>समयलाई नपर्ख भाइ हो (हाम्रा दुलहा आउँदै छन्) २</lines></verse><verse name="v2"><lines>१. अन्तिम चिन्ह देखिंदै छ, भविष्यवाणी पूरा हुँदै छ, (२)<br/>सांसारिक जीवनलाई त्यागी आऊ प्रभुमा नयाँ भई (२)</lines></verse><verse name="v3"><lines>२. जीवन प्रभुमा अर्पण गरी सम्पूर्ण वचन पालन गरी (२)<br/>प्रभुको त्यो क्रूस उठाई अघि बढ उनमा भई (२)</lines></verse><verse name="v4"><lines>३. जयवन्त जीवन बिताउँदै जाऊ प्रभुको काममा व्यस्त भई<br/>उनमा सदा आशा राख्दै बढ अझ थकित नभई । (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 140(Aghi Badha Khristhya)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः अघि बढ, ख्रीष्टीय जवान हो<br/>समयलाई नपर्ख भाइ हो (हाम्रा दुलहा आउँदै छन्) २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. अन्तिम चिन्ह देखिंदै छ, भविष्यवाणी पूरा हुँदै छ, (२)<br/>सांसारिक जीवनलाई त्यागी आऊ प्रभुमा नयाँ भई (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. जीवन प्रभुमा अर्पण गरी सम्पूर्ण वचन पालन गरी (२)<br/>प्रभुको त्यो क्रूस उठाई अघि बढ उनमा भई (२)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. जयवन्त जीवन बिताउँदै जाऊ प्रभुको काममा व्यस्त भई<br/>उनमा सदा आशा राख्दै बढ अझ थकित नभई । (२) </lines>
+		</verse>
+	</lyrics>
+</song>

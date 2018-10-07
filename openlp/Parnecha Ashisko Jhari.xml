@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 332(Parnecha Ashisko Jhari)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. पर्नेछ आशिषको झरी, प्रेमको प्रतिज्ञालाई मान<br/>हुन्छन् समय जीउँनी दिने ख्रीष्ट मुक्तिदाताको दान ।</lines></verse><verse name="v2"><lines>कोः आशिष्को झरी आशिष्को झरी पठाऊ<br/>दयाको थोपो चुहुन्छ आशिष्को झरी पठाऊ ।</lines></verse><verse name="v3"><lines>२. पर्नेछ आशिष्को झरी जीवनमा होस् शक्ति-बल<br/>सबैमा उत्पन्न गराउँछ पवित्र आत्माको फल ।</lines></verse><verse name="v4"><lines>३. पर्नेछ आशिष्को झरी हामीमा प्रभु पठाऊ<br/>दिएर आत्माको भरपूर वचनको तेजले जगाऊ ।</lines></verse><verse name="v5"><lines>४. पर्नेछ आशिष्को झरी होस् आजदेखि शुरु<br/>हामीले आज पाप मान्छौं सुन्नुहोस् बिन्ती येशू । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 332(Parnecha Ashisko Jhari)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. पर्नेछ आशिषको झरी, प्रेमको प्रतिज्ञालाई मान<br/>हुन्छन् समय जीउँनी दिने ख्रीष्ट मुक्तिदाताको दान ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>कोः आशिष्को झरी आशिष्को झरी पठाऊ<br/>दयाको थोपो चुहुन्छ आशिष्को झरी पठाऊ ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. पर्नेछ आशिष्को झरी जीवनमा होस् शक्ति-बल<br/>सबैमा उत्पन्न गराउँछ पवित्र आत्माको फल ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. पर्नेछ आशिष्को झरी हामीमा प्रभु पठाऊ<br/>दिएर आत्माको भरपूर वचनको तेजले जगाऊ ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. पर्नेछ आशिष्को झरी होस् आजदेखि शुरु<br/>हामीले आज पाप मान्छौं सुन्नुहोस् बिन्ती येशू । </lines>
+		</verse>
+	</lyrics>
+</song>

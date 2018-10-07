@@ -1,2 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 185(Jo Biswas Garcha)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. जो विश्वास गर्छ बप्तिस्मा लिन्छ त्यो उद्धार पाउनेछ<br/>ख्रीष्टको मृत्युमा लिई बप्तिस्मा नयाँ सृष्टि हुन्छ ।<br/>ख्रीष्ट येशूद्वारा पाई छुट्कारा पुग्नेछ स्वर्गमा<br/>जहाँ निष्पापी मण्डली प्रतापीसँग हुन्छ खडा ।</lines></verse><verse name="v2"><lines>२. एक मनका भई बिन्ती चढाई आयौं हे परमेश्वर<br/>दयाको साथमा पवित्र आत्मा दिनुहोस् महान् वर<br/>येशूको मरण सद्गुण सम्झेर पाप क्षमादान दिनोस्<br/>अनन्त जीवन पाऔं भनेर उन्नति दैनिक होस् । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 185(Jo Biswas Garcha)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. जो विश्वास गर्छ बप्तिस्मा लिन्छ त्यो उद्धार पाउनेछ<br/>ख्रीष्टको मृत्युमा लिई बप्तिस्मा नयाँ सृष्टि हुन्छ ।<br/>ख्रीष्ट येशूद्वारा पाई छुट्कारा पुग्नेछ स्वर्गमा<br/>जहाँ निष्पापी मण्डली प्रतापीसँग हुन्छ खडा ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. एक मनका भई बिन्ती चढाई आयौं हे परमेश्वर<br/>दयाको साथमा पवित्र आत्मा दिनुहोस् महान् वर<br/>येशूको मरण सद्गुण सम्झेर पाप क्षमादान दिनोस्<br/>अनन्त जीवन पाऔं भनेर उन्नति दैनिक होस् । </lines>
+		</verse>
+	</lyrics>
+</song>

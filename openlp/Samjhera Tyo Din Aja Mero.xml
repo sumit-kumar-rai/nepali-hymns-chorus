@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 640(Samjhera Tyo Din Aja Mero)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः सम्झेर त्यो दिन आज मेरो, परेली भिजेको छ (२)<br/>प्रभु येशूलाई रोपेको भाला, मुटुमा बिजेको छ (२)</lines></verse><verse name="v2"><lines>१. कति दुःख भयो होला क्रूसको भारी बोक्दा कति पीडा भयो होला<br/>हात पाउमा काँटी ठोक्दा (२)<br/>हाँसी हाँसी प्रभुुले प्राण त्याग्नुभो (म जस्तो पापीलाई जीवन दिनुभो) २</lines></verse><verse name="v3"><lines>२. मानिसलाई माया गरी आफै धोका पाउनुभयो<br/>तै पनि खुशी भई क्षमा पनि गर्नुभयो (२) साँच्ची नै प्रभु मायाकै खानी हुन्<br/>हो (मजस्तो तुच्छलाई अङ्गालो हाल्नुभो) २ </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 640(Samjhera Tyo Din Aja Mero)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः सम्झेर त्यो दिन आज मेरो, परेली भिजेको छ (२)<br/>प्रभु येशूलाई रोपेको भाला, मुटुमा बिजेको छ (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. कति दुःख भयो होला क्रूसको भारी बोक्दा कति पीडा भयो होला<br/>हात पाउमा काँटी ठोक्दा (२)<br/>हाँसी हाँसी प्रभुुले प्राण त्याग्नुभो (म जस्तो पापीलाई जीवन दिनुभो) २</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. मानिसलाई माया गरी आफै धोका पाउनुभयो<br/>तै पनि खुशी भई क्षमा पनि गर्नुभयो (२) साँच्ची नै प्रभु मायाकै खानी हुन्<br/>हो (मजस्तो तुच्छलाई अङ्गालो हाल्नुभो) २ </lines>
+		</verse>
+	</lyrics>
+</song>

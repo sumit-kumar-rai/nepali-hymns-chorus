@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 360(Topfod Gari Jodnuhos Feri)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः तोड-फोड गरी जोड्नहोस् फेरि ख्रीष्ट स्वयं जिउनुहोस्<br/>सृष्टि अघिको इच्छा तपाईंको, हे प्रभु, पूर्ण होस् ।</lines></verse><verse name="v2"><lines>१. स्वार्थमय जीवन जिएर कति तपाईंलाई रुवाएँ (२)<br/>तपाईंको आज्ञा तोडेर मैले धेर काँडा उमारें<br/>ती काँडाबाट एक मुकुट बनाई प्रभुलाई पहिर्र्‍याएँ<br/>पाप गर्दै यहाँ बाँचेर कैयौं बार क्रूसमा चढाएँ ।</lines></verse><verse name="v3"><lines>२. जिउन चाहन्नँ हारेको जीवन ख्रीष्टरहित भएर (२)<br/>जिउन चाहन्छु जयवन्त जीवन ख्रीष्टभित्र भएर<br/>यसकारण प्रभु हारपूर्ण जीवन तपाईंलाई अर्पन्छु<br/>मेरो सट्टामा येशू जिउनहोस् यो विनय बिसाउँछु । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 360(Topfod Gari Jodnuhos Feri)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः तोड-फोड गरी जोड्नहोस् फेरि ख्रीष्ट स्वयं जिउनुहोस्<br/>सृष्टि अघिको इच्छा तपाईंको, हे प्रभु, पूर्ण होस् ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. स्वार्थमय जीवन जिएर कति तपाईंलाई रुवाएँ (२)<br/>तपाईंको आज्ञा तोडेर मैले धेर काँडा उमारें<br/>ती काँडाबाट एक मुकुट बनाई प्रभुलाई पहिर्र्‍याएँ<br/>पाप गर्दै यहाँ बाँचेर कैयौं बार क्रूसमा चढाएँ ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. जिउन चाहन्नँ हारेको जीवन ख्रीष्टरहित भएर (२)<br/>जिउन चाहन्छु जयवन्त जीवन ख्रीष्टभित्र भएर<br/>यसकारण प्रभु हारपूर्ण जीवन तपाईंलाई अर्पन्छु<br/>मेरो सट्टामा येशू जिउनहोस् यो विनय बिसाउँछु । </lines>
+		</verse>
+	</lyrics>
+</song>

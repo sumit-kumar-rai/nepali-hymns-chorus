@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 321(Hamra Sworgiya Iswor Pita)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. हाम्रा स्वर्गीय ईश्वर पिता, नाउँ तपाईंको पवित्र होस्<br/>राज्य तपाईंको छिटो आओस्, इच्छा पूरो गरिओस्<br/>जस्तो स्वर्गमा, जस्तो स्वर्गमा (त्यस्तै पृथ्वीमा होस्) २</lines></verse><verse name="v2"><lines>२. हाम्रो दिन-दिनको भोजन दया गरी दिनुहोस्<br/>अपराध हाम्रो दया गरी क्षमा बक्सिदिनुहोस्<br/>जस्तो हामी, जस्तो हामी (क्षमा गर्छौं सबैलाई) २</lines></verse><verse name="v3"><lines>३. हामी सबैलाई परीक्षा र दुष्टदेखि बचाउनोस्<br/>किनभने यी तपाईंका राज्य, पराक्रम महिमा होस्<br/>सदासर्वदा, सदासर्वदा (आमेन, आमेन यसो होस्) २ </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 321(Hamra Sworgiya Iswor Pita)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. हाम्रा स्वर्गीय ईश्वर पिता, नाउँ तपाईंको पवित्र होस्<br/>राज्य तपाईंको छिटो आओस्, इच्छा पूरो गरिओस्<br/>जस्तो स्वर्गमा, जस्तो स्वर्गमा (त्यस्तै पृथ्वीमा होस्) २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. हाम्रो दिन-दिनको भोजन दया गरी दिनुहोस्<br/>अपराध हाम्रो दया गरी क्षमा बक्सिदिनुहोस्<br/>जस्तो हामी, जस्तो हामी (क्षमा गर्छौं सबैलाई) २</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. हामी सबैलाई परीक्षा र दुष्टदेखि बचाउनोस्<br/>किनभने यी तपाईंका राज्य, पराक्रम महिमा होस्<br/>सदासर्वदा, सदासर्वदा (आमेन, आमेन यसो होस्) २ </lines>
+		</verse>
+	</lyrics>
+</song>

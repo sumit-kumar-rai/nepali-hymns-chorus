@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 71(Dhanya Udharak Karunasagar)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. धन्य उद्धारक करुणासागर, अग्घोर दयालु स्वतन्त्रता<br/>मजस्तो निर्धाको तपाईं अडेस, आउँदै छु प्रभु तपाईं छेउमा ।</lines></verse><verse name="v2"><lines>कोः धन्य उद्धारक, उदेक उद्धारक, बुद्धिका धारा सनातनका<br/>आशा विश्वासका प्रकाश उनैका, ख्रीष्ट मुक्तिदाताकै प्रशंसा ।</lines></verse><verse name="v3"><lines>२. धन्य उद्धारक डर कत्ति छैन, तपाईंमा पाउँछौं शरण, रक्षा<br/>खुसी भई पुज्छु र विश्वास गर्छु, स्थिर भई आउँछु तपाईं छेउमा ।</lines></verse><verse name="v4"><lines>३. धन्य उद्धारक, कृपालु कोमल, अहिले सर्वदै रहन ममा<br/>तपाईं सहायक ढाल र रक्षक, समाती राख्नोस् तपाईं छेउमा । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 71(Dhanya Udharak Karunasagar)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. धन्य उद्धारक करुणासागर, अग्घोर दयालु स्वतन्त्रता<br/>मजस्तो निर्धाको तपाईं अडेस, आउँदै छु प्रभु तपाईं छेउमा ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>कोः धन्य उद्धारक, उदेक उद्धारक, बुद्धिका धारा सनातनका<br/>आशा विश्वासका प्रकाश उनैका, ख्रीष्ट मुक्तिदाताकै प्रशंसा ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. धन्य उद्धारक डर कत्ति छैन, तपाईंमा पाउँछौं शरण, रक्षा<br/>खुसी भई पुज्छु र विश्वास गर्छु, स्थिर भई आउँछु तपाईं छेउमा ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. धन्य उद्धारक, कृपालु कोमल, अहिले सर्वदै रहन ममा<br/>तपाईं सहायक ढाल र रक्षक, समाती राख्नोस् तपाईं छेउमा । </lines>
+		</verse>
+	</lyrics>
+</song>

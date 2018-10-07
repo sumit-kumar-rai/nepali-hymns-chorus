@@ -1,2 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 293(Malai Tapaiko Muhar)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>मलाई तपाईंको मुहार देखाउनुहोस् (२)<br/>येशू, तपाईंको मुहार मलाई देखाउनुहोस्, (२)<br/>तपाईंको सुन्दरतालाई हेर्न तपाईंको मुहारलाई सधैँ नियाल्न (२)<br/>येशू, तपाईंको मुहार ममा चम्काउनुहोस् (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 293(Malai Tapaiko Muhar)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>मलाई तपाईंको मुहार देखाउनुहोस् (२)<br/>येशू, तपाईंको मुहार मलाई देखाउनुहोस्, (२)<br/>तपाईंको सुन्दरतालाई हेर्न तपाईंको मुहारलाई सधैँ नियाल्न (२)<br/>येशू, तपाईंको मुहार ममा चम्काउनुहोस् (२) </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 329(Yeshu Saba Tapailai)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>येशू सब तपाईंलाई, म र मेरा जो जति सब तपाईंलाई (२)<br/>योजना, मेरो आकांक्षा, सब चढाउँदछु तपाईंको हातमा (२)<br/>साँचो छुटकारा तपाईंको इच्छामा,<br/>हामी रोज्दछौँ तपाईंको योजना ।<br/>येशू सब&amp;hellip; </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 329(Yeshu Saba Tapailai)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>येशू सब तपाईंलाई, म र मेरा जो जति सब तपाईंलाई (२)<br/>योजना, मेरो आकांक्षा, सब चढाउँदछु तपाईंको हातमा (२)<br/>साँचो छुटकारा तपाईंको इच्छामा,<br/>हामी रोज्दछौँ तपाईंको योजना ।<br/>येशू सब&amp;hellip; </lines>
+		</verse>
+	</lyrics>
+</song>

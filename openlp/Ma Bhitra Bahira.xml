@@ -1,2 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bal Chorus 9(Ma Bhitra Bahira)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>म भित्र, बाहिर, माथि, तल सधैँ खुसी छु (२)<br/>जब येशू आउनुभो, मेरो पाप सब धुनुभो<br/>म भित्र, बाहिर, माथि, तल, सधैँ खुसी छु । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bal Chorus 9(Ma Bhitra Bahira)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>म भित्र, बाहिर, माथि, तल सधैँ खुसी छु (२)<br/>जब येशू आउनुभो, मेरो पाप सब धुनुभो<br/>म भित्र, बाहिर, माथि, तल, सधैँ खुसी छु । </lines>
+		</verse>
+	</lyrics>
+</song>

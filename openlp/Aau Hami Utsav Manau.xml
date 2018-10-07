@@ -1,2 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 84(Aau Hami Utsav Manau)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>आऊ, हामी उत्सव मनाऔँ,<br/>उत्सव मनाऔँ प्रेमदानको लागि<br/>ईश्वर-पुत्रले प्रेम गरी जीवन दिए,</lines></verse><verse name="v2"><lines>स्तुति चढ़ाउँदछौँ कसैले नदिने आनन्द दिनुभो,<br/>भेटी लिएर आउँदछौँ, उत्सवको स्तुतिमा,<br/>(आऊ हामी उत्सव मनाऔँ) २, (उत्सव मनाउँदै गाऔँ) २ राजालाई । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 84(Aau Hami Utsav Manau)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>आऊ, हामी उत्सव मनाऔँ,<br/>उत्सव मनाऔँ प्रेमदानको लागि<br/>ईश्वर-पुत्रले प्रेम गरी जीवन दिए,</lines>
+		</verse>
+		<verse name="v2">
+			<lines>स्तुति चढ़ाउँदछौँ कसैले नदिने आनन्द दिनुभो,<br/>भेटी लिएर आउँदछौँ, उत्सवको स्तुतिमा,<br/>(आऊ हामी उत्सव मनाऔँ) २, (उत्सव मनाउँदै गाऔँ) २ राजालाई । </lines>
+		</verse>
+	</lyrics>
+</song>

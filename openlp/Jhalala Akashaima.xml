@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 592(Jhalala Akashaima)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः झलल (३) आकाशैमा, सुसन्देश छ है यो चिसो रातैमा<br/>इम्मानुएल पस्रिनुभो बेथलेहेम गाईको गोठैमा ।</lines></verse><verse name="v2"><lines>१. डुँडैको कोक्रो, परालको ओछ्यान, कोमल बालक सत्कार छ उनलाई<br/>बाटो, सत्य र जीवन येशू आउनुभो संसारैमा, बेथलेहेम गाईको गोठैमा ।</lines></verse><verse name="v3"><lines>२. चढाउन जीवन भेटीस्वरूप, प्यारो येशूको चरणमा<br/>सुरङ्गसाथमा बसन्त बहार आशिषित झरी बनी बर्सिरहनेछ । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 592(Jhalala Akashaima)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः झलल (३) आकाशैमा, सुसन्देश छ है यो चिसो रातैमा<br/>इम्मानुएल पस्रिनुभो बेथलेहेम गाईको गोठैमा ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. डुँडैको कोक्रो, परालको ओछ्यान, कोमल बालक सत्कार छ उनलाई<br/>बाटो, सत्य र जीवन येशू आउनुभो संसारैमा, बेथलेहेम गाईको गोठैमा ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. चढाउन जीवन भेटीस्वरूप, प्यारो येशूको चरणमा<br/>सुरङ्गसाथमा बसन्त बहार आशिषित झरी बनी बर्सिरहनेछ । </lines>
+		</verse>
+	</lyrics>
+</song>

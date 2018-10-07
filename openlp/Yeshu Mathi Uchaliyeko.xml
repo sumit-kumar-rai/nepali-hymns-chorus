@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 94(Yeshu Mathi Uchaliyeko)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>(येशू माथि उचालिएका देख्न चाहन्छौँ यो देशमा<br/>सबैले यो सत्य जानेको, उनी हुन् बाटो स्वर्गको) २</lines></verse><verse name="v2"><lines>(चाहन्छौँ (देख्नलाई) २ येशू उचालिएका) २</lines></verse><verse name="v3"><lines>पाइला-पाइला टेकी अघि बढ्छौँ, जग्गा आफ्नो बनाउँदै<br/>प्रार्थना हो यो शक्तिशाली हतियार<br/>किल्लाहरू फोर्दै (भत्काउने) २ </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 94(Yeshu Mathi Uchaliyeko)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>(येशू माथि उचालिएका देख्न चाहन्छौँ यो देशमा<br/>सबैले यो सत्य जानेको, उनी हुन् बाटो स्वर्गको) २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>(चाहन्छौँ (देख्नलाई) २ येशू उचालिएका) २</lines>
+		</verse>
+		<verse name="v3">
+			<lines>पाइला-पाइला टेकी अघि बढ्छौँ, जग्गा आफ्नो बनाउँदै<br/>प्रार्थना हो यो शक्तिशाली हतियार<br/>किल्लाहरू फोर्दै (भत्काउने) २ </lines>
+		</verse>
+	</lyrics>
+</song>

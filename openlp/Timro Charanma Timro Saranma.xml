@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 346(Timro Charanma Timro Saranma)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः तिम्रो चरणमा, तिम्रो शरणमा, तिम्रो चरणमा, तिम्रो शरणमा ।</lines></verse><verse name="v2"><lines>१. आयौं प्रभु भेटी चढाउँदै, भेटी आराधना चढाउँदै भन्छौं<br/>शक्ति देऊ प्रभु राज्य बढाउन, येशू नाम फैलाउन (२)</lines></verse><verse name="v3"><lines>२. तिम्रो शरणको दास हामी भई, पवित्र आत्मा लिई अघि बढ्दै<br/>सुतेको भाइलाई जगाउँदै, हराएको आत्मालाई खोजिल्याउँदै<br/>बढाउँछौं तिम्रो राज्यलाई, येशू नाम फैलाउँछौं (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 346(Timro Charanma Timro Saranma)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः तिम्रो चरणमा, तिम्रो शरणमा, तिम्रो चरणमा, तिम्रो शरणमा ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. आयौं प्रभु भेटी चढाउँदै, भेटी आराधना चढाउँदै भन्छौं<br/>शक्ति देऊ प्रभु राज्य बढाउन, येशू नाम फैलाउन (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. तिम्रो शरणको दास हामी भई, पवित्र आत्मा लिई अघि बढ्दै<br/>सुतेको भाइलाई जगाउँदै, हराएको आत्मालाई खोजिल्याउँदै<br/>बढाउँछौं तिम्रो राज्यलाई, येशू नाम फैलाउँछौं (२) </lines>
+		</verse>
+	</lyrics>
+</song>

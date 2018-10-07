@@ -1,2 +1,31 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 296(Hey Aaha)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः हे आह, आह लौ भेडा फर्केर आऊ है गोठैमा<br/>छैनन् अरू गोठाला, माया गर्ने गोठाला ।</lines></verse><verse name="v2"><lines>१. आफ्नै बाटोमा लागेछौ, सांसारिक काँढामा अल्झेछौ<br/>अँध्यारो हुन लाग्दै छ, लौ हे तिम्रो स्वर सुनाउन ।</lines></verse><verse name="v3"><lines>२. ज्यामीले हेरेको भान पार्छ, जोखिममा तिमीलाई छोड्नेछ<br/>डाकाहरू आउँदै छन्, झट्टै तिम्रो स्वर सुन्न पाऊँ ।</lines></verse><verse name="v4"><lines>३. शत्रु खतम पारेको छ है मैले, भेडा हो<br/>तिमीलाई खोज्दै छु, झट्टै तिम्रो स्वर सुन्न पाऊँ ।</lines></verse><verse name="v5"><lines>४. तिमीलाई खोज्दा चोट लाग्यो, मेरो मरण पनि भो<br/>काललाई मिची जिउँदो छु, स्वर तिम्रो सुन्न चाहन्छु ।</lines></verse><verse name="v6"><lines>५. म हुँ जाती गोठालो, माया गर्ने गोठालो<br/>नयाँ सृष्टिको हुँ जेठो, येशू नाम हो मेरो । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 296(Hey Aaha)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः हे आह, आह लौ भेडा फर्केर आऊ है गोठैमा<br/>छैनन् अरू गोठाला, माया गर्ने गोठाला ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. आफ्नै बाटोमा लागेछौ, सांसारिक काँढामा अल्झेछौ<br/>अँध्यारो हुन लाग्दै छ, लौ हे तिम्रो स्वर सुनाउन ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. ज्यामीले हेरेको भान पार्छ, जोखिममा तिमीलाई छोड्नेछ<br/>डाकाहरू आउँदै छन्, झट्टै तिम्रो स्वर सुन्न पाऊँ ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. शत्रु खतम पारेको छ है मैले, भेडा हो<br/>तिमीलाई खोज्दै छु, झट्टै तिम्रो स्वर सुन्न पाऊँ ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. तिमीलाई खोज्दा चोट लाग्यो, मेरो मरण पनि भो<br/>काललाई मिची जिउँदो छु, स्वर तिम्रो सुन्न चाहन्छु ।</lines>
+		</verse>
+		<verse name="v6">
+			<lines>५. म हुँ जाती गोठालो, माया गर्ने गोठालो<br/>नयाँ सृष्टिको हुँ जेठो, येशू नाम हो मेरो । </lines>
+		</verse>
+	</lyrics>
+</song>

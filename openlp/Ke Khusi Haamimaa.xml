@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bal Chorus 32(Ke Khusi Haamimaa)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>हो, हो, हो, हो, होसत्रा, हा, हा, हा, हा, हल्लेलूयाह<br/>हि, हि, हि, हि यो के खुशी, हामीमा आनन्द प्रभुको छ</lines></verse><verse name="v2"><lines>म मेरो प्रभुलाई प्रेम गर्छु, मेरो सानो मन-प्राण-शरीरले,<br/>म आफ्नै छिमेकीलाई प्रेम गर्छु, म आफूलाई प्रेम गरेझैँ,</lines></verse><verse name="v3"><lines>हो,हो, हो, नुन हौँ हामी संसारको, बत्ती रातमा चम्कने,<br/>शहर डाँडामाथिको, हामीमा आनन्द प्रभुको छ ।</lines></verse><verse name="v4"><lines>हो, हो, हो ... </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bal Chorus 32(Ke Khusi Haamimaa)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>हो, हो, हो, हो, होसत्रा, हा, हा, हा, हा, हल्लेलूयाह<br/>हि, हि, हि, हि यो के खुशी, हामीमा आनन्द प्रभुको छ</lines>
+		</verse>
+		<verse name="v2">
+			<lines>म मेरो प्रभुलाई प्रेम गर्छु, मेरो सानो मन-प्राण-शरीरले,<br/>म आफ्नै छिमेकीलाई प्रेम गर्छु, म आफूलाई प्रेम गरेझैँ,</lines>
+		</verse>
+		<verse name="v3">
+			<lines>हो,हो, हो, नुन हौँ हामी संसारको, बत्ती रातमा चम्कने,<br/>शहर डाँडामाथिको, हामीमा आनन्द प्रभुको छ ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>हो, हो, हो ... </lines>
+		</verse>
+	</lyrics>
+</song>

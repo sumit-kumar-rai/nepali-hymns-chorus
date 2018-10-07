@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 404(Jo Huncha Sahashi)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. जो हुन्छ साहसी ऊ यता आओस्<br/>जेसुकै हवस् गत विश्वासी हवस्, हुँदैन निराश<br/>ऊ रहन्छ स्थिर सदा र गर्नेछ इच्छा स्वर्ग-यात्रा गर्न ।</lines></verse><verse name="v2"><lines>२. जोजो उसलाई सुनाउँछन् कथा डरलाग्दो<br/>आफैलाई भुलाउँछन् बल बढ्छ उसको न सिंहदेखि भय,<br/>न शत्रुदेखि डर, उसको छ अधिकार स्वर्ग यात्रा गर्न ।</lines></verse><verse name="v3"><lines>३. न भूत न शैतानले उसलाई तर्साउँछ,<br/>ऊ जीवन अन्त्यमा अनन्त पाउँछ<br/>सब शङ्का मेटियो, डर छैन मान्छेको,<br/>दिन-रात बल गर्छ ऊ, स्वर्ग यात्रा गर्न । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 404(Jo Huncha Sahashi)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. जो हुन्छ साहसी ऊ यता आओस्<br/>जेसुकै हवस् गत विश्वासी हवस्, हुँदैन निराश<br/>ऊ रहन्छ स्थिर सदा र गर्नेछ इच्छा स्वर्ग-यात्रा गर्न ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. जोजो उसलाई सुनाउँछन् कथा डरलाग्दो<br/>आफैलाई भुलाउँछन् बल बढ्छ उसको न सिंहदेखि भय,<br/>न शत्रुदेखि डर, उसको छ अधिकार स्वर्ग यात्रा गर्न ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. न भूत न शैतानले उसलाई तर्साउँछ,<br/>ऊ जीवन अन्त्यमा अनन्त पाउँछ<br/>सब शङ्का मेटियो, डर छैन मान्छेको,<br/>दिन-रात बल गर्छ ऊ, स्वर्ग यात्रा गर्न । </lines>
+		</verse>
+	</lyrics>
+</song>

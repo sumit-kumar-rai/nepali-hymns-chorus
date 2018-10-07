@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 637(Mitho Sapana Liyera)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः मीठो सपना लिएर, नवीन आशा बोकेर (२)<br/>मुक्तिदाता प्रभु येशूको शुभसन्देश लिएर<br/>म बाँचिरहेछु म हाँसिरहेछु (२)</lines></verse><verse name="v2"><lines>१. म बाँड्न चाहन्छु यी खुशीहरू जो मैले येशूूबाट पाएको छु (२)<br/>म भन्न चाहन्छु यी संसारलाई येशूकै मायामा बाँचेको छु ।</lines></verse><verse name="v3"><lines>२. देखाउन सकूँ म यी स्वरुपलाई प्रतिबिम्ब बनाई म आफैलाई (२)<br/>हेर्न सकून् जगतले आज मेरो जीवनमा ख्रीष्ट येशूलाई । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 637(Mitho Sapana Liyera)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः मीठो सपना लिएर, नवीन आशा बोकेर (२)<br/>मुक्तिदाता प्रभु येशूको शुभसन्देश लिएर<br/>म बाँचिरहेछु म हाँसिरहेछु (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. म बाँड्न चाहन्छु यी खुशीहरू जो मैले येशूूबाट पाएको छु (२)<br/>म भन्न चाहन्छु यी संसारलाई येशूकै मायामा बाँचेको छु ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. देखाउन सकूँ म यी स्वरुपलाई प्रतिबिम्ब बनाई म आफैलाई (२)<br/>हेर्न सकून् जगतले आज मेरो जीवनमा ख्रीष्ट येशूलाई । </lines>
+		</verse>
+	</lyrics>
+</song>

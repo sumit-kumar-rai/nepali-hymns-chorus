@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 626(Yeshu Bina Ho)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः येशू विना हो...ओ...ओ... (२)<br/>(पूर्ण रहन्न हाम्रो जीवन हो...ओ...) (२)</lines></verse><verse name="v2"><lines>१. वचनले प्यास मेट्न, कति आए कति गए प्रेम दिई प्यास मेट्न,<br/>येशू मात्र धर्तीमा आए (२) येशू विना हो...ओ...ओ... (२)<br/>प्यास मेटिन्न जीवनको, हो...ओ... (२)</lines></verse><verse name="v3"><lines>२. दुखियालाई आँसु पुछ्न, कति आए कति गए थाकेकालाई विश्राम दिन,<br/>येशू मात्र धर्तीमा आए (२) येशू विना हो...ओ...ओ... (२)<br/>थकाई मेटिन्न जीवनको, हो...ओ... (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 626(Yeshu Bina Ho)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः येशू विना हो...ओ...ओ... (२)<br/>(पूर्ण रहन्न हाम्रो जीवन हो...ओ...) (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. वचनले प्यास मेट्न, कति आए कति गए प्रेम दिई प्यास मेट्न,<br/>येशू मात्र धर्तीमा आए (२) येशू विना हो...ओ...ओ... (२)<br/>प्यास मेटिन्न जीवनको, हो...ओ... (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. दुखियालाई आँसु पुछ्न, कति आए कति गए थाकेकालाई विश्राम दिन,<br/>येशू मात्र धर्तीमा आए (२) येशू विना हो...ओ...ओ... (२)<br/>थकाई मेटिन्न जीवनको, हो...ओ... (२) </lines>
+		</verse>
+	</lyrics>
+</song>

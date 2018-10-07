@@ -1,2 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 203(Aau Aau Yeshukaha Aau)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः आऊ, आऊ, येशूकहाँ आऊ उनले डाक्दै छन् अहिले<br/>थाकेको सबै भारीले थिचेको पापदेखि मुक्ति उनैमा पाउँछौ ।<br/><br/>१. येशू ख्रीष्टले डाकेको सुनेर ध्यान नदिएको किन ?<br/>संसारमा दुःख कति सहन्छौ मिहिनत गर्छौ चैन पाउँदैनौ ।<br/><br/>२. डाक्दैछन् अहिले भाइ ठाउँ खाली छ मौका पाउँदैनौ फेरि<br/>बेला छैन दिन बिती जान्छ संसारमा अँध्यारोले छोप्छ ।<br/><br/>३. येशू ख्रीष्टको नाउँदेखि बाहेक मुक्ति पाउँदैनौं कहिल्यै<br/>उनैमा छ सब पापदेखि छुटकारा दिन सक्छन् खुसी उनले मात्र भाइ । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 203(Aau Aau Yeshukaha Aau)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः आऊ, आऊ, येशूकहाँ आऊ उनले डाक्दै छन् अहिले<br/>थाकेको सबै भारीले थिचेको पापदेखि मुक्ति उनैमा पाउँछौ ।<br/><br/>१. येशू ख्रीष्टले डाकेको सुनेर ध्यान नदिएको किन ?<br/>संसारमा दुःख कति सहन्छौ मिहिनत गर्छौ चैन पाउँदैनौ ।<br/><br/>२. डाक्दैछन् अहिले भाइ ठाउँ खाली छ मौका पाउँदैनौ फेरि<br/>बेला छैन दिन बिती जान्छ संसारमा अँध्यारोले छोप्छ ।<br/><br/>३. येशू ख्रीष्टको नाउँदेखि बाहेक मुक्ति पाउँदैनौं कहिल्यै<br/>उनैमा छ सब पापदेखि छुटकारा दिन सक्छन् खुसी उनले मात्र भाइ । </lines>
+		</verse>
+	</lyrics>
+</song>

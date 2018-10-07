@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 284(Ma Rakhchu Papko Boj)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. म राख्छु पापको बोझ निर्दोष ख्रीष्ट थुमामा<br/>ख्रीष्टले सब पाप उठाउँदछन्, पाप बोझ सबैका,<br/>म आफ्नो दोष सब ल्याउँछु दोष मेट्ने येशूकहाँ<br/>र उनले धोइदेऊन् म बडो पापीलाई ।</lines></verse><verse name="v2"><lines>२. म आफ्ना घटी राख्छु भरपूर ख्रीष्ट येशूमा<br/>जो मेरो निको पार्ने र प्राण उद्धारदाता,<br/>म आफ्नो शोक सब ल्याउँछु र फिक्री येशूकहाँ<br/>जो मेरो सादर दिने भई साझे सब दुःखमा ।</lines></verse><verse name="v3"><lines>३. म प्राण बिसाइदिन्छु येशूको काखैमा<br/>उनले अङ्गालो मार्छन् मलाई अडेस दिँदा,<br/>येशूको नाउँ छ प्रिय ख्रीष्ट र इम्मानुएल<br/>फैलाइँदा यस नाउँले गराउँछ मोहित दिल ।</lines></verse><verse name="v4"><lines>४. म येशूजस्तो होऊँ, दीन, प्रेमी, दयालु<br/>म येशूजस्तो होऊँ, बालक होऊँ, पिताको,<br/>म येशूसम्म पुगूँ स्वर्ग दूतगण भए ठाउँ<br/>र सबैसँग मिली निरन्तर स्तुति गाऊँ । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 284(Ma Rakhchu Papko Boj)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. म राख्छु पापको बोझ निर्दोष ख्रीष्ट थुमामा<br/>ख्रीष्टले सब पाप उठाउँदछन्, पाप बोझ सबैका,<br/>म आफ्नो दोष सब ल्याउँछु दोष मेट्ने येशूकहाँ<br/>र उनले धोइदेऊन् म बडो पापीलाई ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. म आफ्ना घटी राख्छु भरपूर ख्रीष्ट येशूमा<br/>जो मेरो निको पार्ने र प्राण उद्धारदाता,<br/>म आफ्नो शोक सब ल्याउँछु र फिक्री येशूकहाँ<br/>जो मेरो सादर दिने भई साझे सब दुःखमा ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. म प्राण बिसाइदिन्छु येशूको काखैमा<br/>उनले अङ्गालो मार्छन् मलाई अडेस दिँदा,<br/>येशूको नाउँ छ प्रिय ख्रीष्ट र इम्मानुएल<br/>फैलाइँदा यस नाउँले गराउँछ मोहित दिल ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. म येशूजस्तो होऊँ, दीन, प्रेमी, दयालु<br/>म येशूजस्तो होऊँ, बालक होऊँ, पिताको,<br/>म येशूसम्म पुगूँ स्वर्ग दूतगण भए ठाउँ<br/>र सबैसँग मिली निरन्तर स्तुति गाऊँ । </lines>
+		</verse>
+	</lyrics>
+</song>

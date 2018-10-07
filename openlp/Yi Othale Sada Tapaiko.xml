@@ -1,2 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 153(Yi Othale Sada Tapaiko)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>यी ओठले सदा तपाईंको प्रशंसा गाइरहून्<br/>यी आँखाले सदा तपाईंलाई खोजिरहून्,<br/>मेरो यो हृदयले सदा तपाईंको प्यारको चाहना गरोस्<br/>यी मेरो दुइ हातहरूले प्रेमको खातिर सेवा गरुन्</lines></verse><verse name="v2"><lines>परम परमेश्वरलाई धन्यवाद सदा<br/>मर्नुभो क्रूसमा मजस्तोले गर्दा<br/>भुल्ने म छैन प्रेमको बलिदान<br/>प्रशंसा जयजयकार ईश्वर महान् (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 153(Yi Othale Sada Tapaiko)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>यी ओठले सदा तपाईंको प्रशंसा गाइरहून्<br/>यी आँखाले सदा तपाईंलाई खोजिरहून्,<br/>मेरो यो हृदयले सदा तपाईंको प्यारको चाहना गरोस्<br/>यी मेरो दुइ हातहरूले प्रेमको खातिर सेवा गरुन्</lines>
+		</verse>
+		<verse name="v2">
+			<lines>परम परमेश्वरलाई धन्यवाद सदा<br/>मर्नुभो क्रूसमा मजस्तोले गर्दा<br/>भुल्ने म छैन प्रेमको बलिदान<br/>प्रशंसा जयजयकार ईश्वर महान् (२) </lines>
+		</verse>
+	</lyrics>
+</song>

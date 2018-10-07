@@ -1,2 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bal Chorus 3(Ye Naani Asal Sochna)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>ए नानी, असल सोच्न येशूबाट सिक,<br/>ए नानी, असल बोल्न येशूबाट सिक<br/>ए नानी, प्रार्थना गर्न येशूबाट सिक,<br/>ए नानी, मीठो बोल्न येशूबाट सिक<br/>ए नानी, नम्र बत्र येशूबाट सिक,<br/>ए नानी, क्षमा गर्न येशूबाट सिक<br/>ए नानी, सेवा गर्न येशूबाट सिक,<br/>ए नानी, दया गर्न येशूबाट सिक<br/>ए नानी, माया गर्न येशूबाट सिक,<br/>ए नानी, शैतानलाई जित्न येशूबाट सिक<br/>ए नानी, सबै असल गुणहरू येशूबाटै सिक </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bal Chorus 3(Ye Naani Asal Sochna)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>ए नानी, असल सोच्न येशूबाट सिक,<br/>ए नानी, असल बोल्न येशूबाट सिक<br/>ए नानी, प्रार्थना गर्न येशूबाट सिक,<br/>ए नानी, मीठो बोल्न येशूबाट सिक<br/>ए नानी, नम्र बत्र येशूबाट सिक,<br/>ए नानी, क्षमा गर्न येशूबाट सिक<br/>ए नानी, सेवा गर्न येशूबाट सिक,<br/>ए नानी, दया गर्न येशूबाट सिक<br/>ए नानी, माया गर्न येशूबाट सिक,<br/>ए नानी, शैतानलाई जित्न येशूबाट सिक<br/>ए नानी, सबै असल गुणहरू येशूबाटै सिक </lines>
+		</verse>
+	</lyrics>
+</song>

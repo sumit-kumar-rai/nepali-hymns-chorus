@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 120(Aja Ji Uthe Yeshu)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. आज जी उठे येशू नै, हल्लेलूयाह, हाम्रो बडा दिनमा, जय हल्लेलूयाह ।<br/>जसले क्रूसमा दिए प्राण, हल्लेलूयाह हाम्रो लागि गरे त्राण हल्लेलूयाह ।</lines></verse><verse name="v2"><lines>२. गाऔं धन्यवादको गान हल्लेलूयाह स्वर्गको राजा ख्रीष्टको मान हल्लेलूयाह ।<br/>क्रूस चिहानको बोके भार हल्लेलूयाह उनको बाटो छ उद्धार हल्लेलूयाह ।</lines></verse><verse name="v3"><lines>३. सहे उनले दुःख नै हल्लेलूयाह मलाई मुक्ति दिनलाई हल्लेलूयाह ।<br/>अब स्वर्गमा राजा भई हल्लेलूयाह दूतले गाउँछन् उनको जय हल्लेलूयाह । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 120(Aja Ji Uthe Yeshu)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. आज जी उठे येशू नै, हल्लेलूयाह, हाम्रो बडा दिनमा, जय हल्लेलूयाह ।<br/>जसले क्रूसमा दिए प्राण, हल्लेलूयाह हाम्रो लागि गरे त्राण हल्लेलूयाह ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. गाऔं धन्यवादको गान हल्लेलूयाह स्वर्गको राजा ख्रीष्टको मान हल्लेलूयाह ।<br/>क्रूस चिहानको बोके भार हल्लेलूयाह उनको बाटो छ उद्धार हल्लेलूयाह ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. सहे उनले दुःख नै हल्लेलूयाह मलाई मुक्ति दिनलाई हल्लेलूयाह ।<br/>अब स्वर्गमा राजा भई हल्लेलूयाह दूतले गाउँछन् उनको जय हल्लेलूयाह । </lines>
+		</verse>
+	</lyrics>
+</song>

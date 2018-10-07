@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 168(Yeshu Mero Prabhu Jandachu)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. येशू मेरो प्रभु भनी जान्दछु पापमय इच्छा मेरो यसर्थ मार्दछु<br/>येशू मुक्तिदाता हे त्राणकर्ता मेरो प्यारो ख्रीष्टलाई प्रेम गर्छु सदा ।</lines></verse><verse name="v2"><lines>२. उदेकको प्रेम प्रभु मलाई गर्नुभो क्रूसको असीम दुःख सही मर्नुभो<br/>सबै मेरो लागि कस्तो प्रेम प्रभु येशूलाई प्रेम गर्छु यसैले सदा ।</lines></verse><verse name="v3"><lines>३. स्तुति जीवनभरि गर्दै रहन्छु र प्रेममा तपाईंको सधैँ रहन्छु<br/>छायाँ मृतको पर्छ जब, जीवनमा प्यार गर्छु तपाईंलाई हे येशू सदा ।</lines></verse><verse name="v4"><lines>४. गुञ्जोस् भवन उज्ज्वल स्तुतिले मेरो, विश्राम पाई अनन्त जीवन आनन्दको<br/>लाई मुकुट चम्किलो गाउँछु महिमा, मेरो प्यारो ख्रीष्टलाई प्रेम गर्छु सदा । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 168(Yeshu Mero Prabhu Jandachu)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. येशू मेरो प्रभु भनी जान्दछु पापमय इच्छा मेरो यसर्थ मार्दछु<br/>येशू मुक्तिदाता हे त्राणकर्ता मेरो प्यारो ख्रीष्टलाई प्रेम गर्छु सदा ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. उदेकको प्रेम प्रभु मलाई गर्नुभो क्रूसको असीम दुःख सही मर्नुभो<br/>सबै मेरो लागि कस्तो प्रेम प्रभु येशूलाई प्रेम गर्छु यसैले सदा ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. स्तुति जीवनभरि गर्दै रहन्छु र प्रेममा तपाईंको सधैँ रहन्छु<br/>छायाँ मृतको पर्छ जब, जीवनमा प्यार गर्छु तपाईंलाई हे येशू सदा ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. गुञ्जोस् भवन उज्ज्वल स्तुतिले मेरो, विश्राम पाई अनन्त जीवन आनन्दको<br/>लाई मुकुट चम्किलो गाउँछु महिमा, मेरो प्यारो ख्रीष्टलाई प्रेम गर्छु सदा । </lines>
+		</verse>
+	</lyrics>
+</song>

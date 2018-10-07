@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 589(Prabhu Yeshuko Janma Bhayo)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः प्रभु येशूको जन्म भयो गाईको गोठैमा,<br/>पापीलाई भनी आए प्रभु मान्छेको चोलामा (२)<br/>ज्योतिषीहरू अघि बढे तारालाई हेरेर<br/>दर्शन गरी, चढाए भेटी दण्डवत् गरेर ।</lines></verse><verse name="v2"><lines>१. अचम्मित भए गोठालाहरू स्वर्गदूतलाई देखेर<br/>खबर दिन गए सबै नै साह्रै नै खुसी भएर २<br/>पिताको आज्ञा पूरा गर्न आउनुभयो येशू संसारमा (२)</lines></verse><verse name="v3"><lines>२. हामीलाई पुत्र दिनुभयो स्वर्गका पिता परमेश्वरले<br/>पापको बोझ उठाउन जन्म लिनुभयो येशूले २</lines></verse><verse name="v4"><lines>३. आउनुभयो येशू हामी सबैलाई मुक्तिको बाटो देखाउन<br/>जन्मे गोठमा सबैलाई साँचो (परमेश्वर चिनाउन) २ </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 589(Prabhu Yeshuko Janma Bhayo)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः प्रभु येशूको जन्म भयो गाईको गोठैमा,<br/>पापीलाई भनी आए प्रभु मान्छेको चोलामा (२)<br/>ज्योतिषीहरू अघि बढे तारालाई हेरेर<br/>दर्शन गरी, चढाए भेटी दण्डवत् गरेर ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. अचम्मित भए गोठालाहरू स्वर्गदूतलाई देखेर<br/>खबर दिन गए सबै नै साह्रै नै खुसी भएर २<br/>पिताको आज्ञा पूरा गर्न आउनुभयो येशू संसारमा (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. हामीलाई पुत्र दिनुभयो स्वर्गका पिता परमेश्वरले<br/>पापको बोझ उठाउन जन्म लिनुभयो येशूले २</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. आउनुभयो येशू हामी सबैलाई मुक्तिको बाटो देखाउन<br/>जन्मे गोठमा सबैलाई साँचो (परमेश्वर चिनाउन) २ </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 35(Herana Akasma Tarako)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः हेरन आकाशमा ताराको उज्यालो<br/>नवजात प्रभुको दर्शन गर्न नगर बियाँलो (२)</lines></verse><verse name="v2"><lines>१. ईश्वरको वचन पूरो गर्नलाई आए प्रभु जगमा (२)<br/>मानवको सबै दुःख बुझनलाई पस्रिए डुँडैमा (२)<br/>गोठालाहरू छक्क परे जब (२) देखे स्वर्गदूतलाई<br/>ढाडस पाई रमाई गए खबर दिनलाई (२)</lines></verse><verse name="v3"><lines>२. तारालाई आफ्नो लक्ष्य बनाई बढे ज्योतिषीगण (२)<br/>भेटी चढाए दर्शन पाई गराए आनन्दित मन (२)<br/>पापी जनको तारणहार (२) मानिसको रूपमा<br/>ख्याल नराखी डाँडाकाँडा बढौँ सबै प्रभुमा (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 35(Herana Akasma Tarako)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः हेरन आकाशमा ताराको उज्यालो<br/>नवजात प्रभुको दर्शन गर्न नगर बियाँलो (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. ईश्वरको वचन पूरो गर्नलाई आए प्रभु जगमा (२)<br/>मानवको सबै दुःख बुझनलाई पस्रिए डुँडैमा (२)<br/>गोठालाहरू छक्क परे जब (२) देखे स्वर्गदूतलाई<br/>ढाडस पाई रमाई गए खबर दिनलाई (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. तारालाई आफ्नो लक्ष्य बनाई बढे ज्योतिषीगण (२)<br/>भेटी चढाए दर्शन पाई गराए आनन्दित मन (२)<br/>पापी जनको तारणहार (२) मानिसको रूपमा<br/>ख्याल नराखी डाँडाकाँडा बढौँ सबै प्रभुमा (२) </lines>
+		</verse>
+	</lyrics>
+</song>

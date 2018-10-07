@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 369(Ma Atti Nirbal Tapai Prabal)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. म अति निर्बल, तपाईं प्रबल कसरी हुनु पार ?<br/>न देवी-देवता, येशू नाउँ एउटा, नावै छ तारणहार ।</lines></verse><verse name="v2"><lines>२. तुफानै भारी नाउ छ वारि, गराइदेऊ मलाई पार<br/>भवसागर तर्न केही शक्ति छैन, उपाय देऊ तारणहार ।</lines></verse><verse name="v3"><lines>३. यो नाउ भारी गरिदेऊ वारि बिन्ती छ बारम्बार<br/>सबले जानोस् सबले मानोस् येशू नाउँ तारणहार ।</lines></verse><verse name="v4"><lines>४. संसारैभरि पापको भारी, उद्धार देऊ दीनानाथ<br/>बिलख रुन्छौं, शरण पर्छौं, आउँदछौं तपाईंसाथ ।</lines></verse><verse name="v5"><lines>५. तपाईं प्रेमी, तपाईं न्यायी जगत्का पालनहार<br/>आत्मा देऊ प्रभु, सबैलाई बुझ्ने, तपाईं तारणहार । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 369(Ma Atti Nirbal Tapai Prabal)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. म अति निर्बल, तपाईं प्रबल कसरी हुनु पार ?<br/>न देवी-देवता, येशू नाउँ एउटा, नावै छ तारणहार ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. तुफानै भारी नाउ छ वारि, गराइदेऊ मलाई पार<br/>भवसागर तर्न केही शक्ति छैन, उपाय देऊ तारणहार ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. यो नाउ भारी गरिदेऊ वारि बिन्ती छ बारम्बार<br/>सबले जानोस् सबले मानोस् येशू नाउँ तारणहार ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. संसारैभरि पापको भारी, उद्धार देऊ दीनानाथ<br/>बिलख रुन्छौं, शरण पर्छौं, आउँदछौं तपाईंसाथ ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>५. तपाईं प्रेमी, तपाईं न्यायी जगत्का पालनहार<br/>आत्मा देऊ प्रभु, सबैलाई बुझ्ने, तपाईं तारणहार । </lines>
+		</verse>
+	</lyrics>
+</song>

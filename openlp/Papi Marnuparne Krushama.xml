@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 609(Papi Marnuparne Krushama)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः पापी मर्नुपर्ने क्रूसमा धर्मी येशू बलि भए (२)<br/>मानव हितका लागि उनले सबै दुःख पीडा सहे,<br/>एकजनाको बलिदानले सबै जनाको उद्धार भयो,<br/>रगत बग्यो निर्दोषको दोषी सबलाई माफी भयो (२)</lines></verse><verse name="v2"><lines>१. आएथे ख्रीष्ट संसारमा जहिले बलिदान हुनलाई (२)<br/>मर्नु नै पर्र्‍यो क्रूसमा उनी पाप सबैको धुनलाई<br/>क्रूसको पीडा संसारको घृणा येशूले सहिदिए<br/>पापीको खोटमा कोर्राको चोटमा बलि नै भइदिए (२)</lines></verse><verse name="v3"><lines>२. त्यागेथे प्राण पहिरेर मुकुट शिरमा काँडाको (२)<br/>कसरी चुकाऔं प्रभुको ऋण कलवरी त्यो डाँडाको<br/>क्रूसको कथा क्रूसको व्यथा दोहोरिन नपाओस्<br/>पापीका लागि धर्मीजन मर्ने दिन फेरि नआओस् (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 609(Papi Marnuparne Krushama)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः पापी मर्नुपर्ने क्रूसमा धर्मी येशू बलि भए (२)<br/>मानव हितका लागि उनले सबै दुःख पीडा सहे,<br/>एकजनाको बलिदानले सबै जनाको उद्धार भयो,<br/>रगत बग्यो निर्दोषको दोषी सबलाई माफी भयो (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. आएथे ख्रीष्ट संसारमा जहिले बलिदान हुनलाई (२)<br/>मर्नु नै पर्र्‍यो क्रूसमा उनी पाप सबैको धुनलाई<br/>क्रूसको पीडा संसारको घृणा येशूले सहिदिए<br/>पापीको खोटमा कोर्राको चोटमा बलि नै भइदिए (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. त्यागेथे प्राण पहिरेर मुकुट शिरमा काँडाको (२)<br/>कसरी चुकाऔं प्रभुको ऋण कलवरी त्यो डाँडाको<br/>क्रूसको कथा क्रूसको व्यथा दोहोरिन नपाओस्<br/>पापीका लागि धर्मीजन मर्ने दिन फेरि नआओस् (२) </lines>
+		</verse>
+	</lyrics>
+</song>

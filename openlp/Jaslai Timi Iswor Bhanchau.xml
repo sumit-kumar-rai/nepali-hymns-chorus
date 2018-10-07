@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 714(Jaslai Timi Iswor Bhanchau)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः जसलाई तिमी ईश्वर भन्छौ जान्दछौ के उहाँलाई ?<br/>नौलो टाडो, मानवदेखि ठान्दछौ के उहाँलाई ? जसलाई तिमी...</lines></verse><verse name="v2"><lines>१. कहाँ ? किन ? कसरी ? के ? प्रश्नले भेट्टाइन्न<br/>ज्ञान, बुद्धि र सम्पत्तिले, किन बुझन सकिन्न ।</lines></verse><verse name="v3"><lines>२. ईश्वर हाम्रा सृष्टिकर्ता, खान, लाउन जुटाउने<br/>तातो र चिसो ऋतु दिने, दिन र रातको दान दिने ।</lines></verse><verse name="v4"><lines>३. खोजी गर्दै मानव बनी लिनुभयो येशू नाम,<br/>मरेकालाई जीवन दिने तिम्रा ईश्वर येशू नाम । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 714(Jaslai Timi Iswor Bhanchau)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः जसलाई तिमी ईश्वर भन्छौ जान्दछौ के उहाँलाई ?<br/>नौलो टाडो, मानवदेखि ठान्दछौ के उहाँलाई ? जसलाई तिमी...</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. कहाँ ? किन ? कसरी ? के ? प्रश्नले भेट्टाइन्न<br/>ज्ञान, बुद्धि र सम्पत्तिले, किन बुझन सकिन्न ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. ईश्वर हाम्रा सृष्टिकर्ता, खान, लाउन जुटाउने<br/>तातो र चिसो ऋतु दिने, दिन र रातको दान दिने ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. खोजी गर्दै मानव बनी लिनुभयो येशू नाम,<br/>मरेकालाई जीवन दिने तिम्रा ईश्वर येशू नाम । </lines>
+		</verse>
+	</lyrics>
+</song>

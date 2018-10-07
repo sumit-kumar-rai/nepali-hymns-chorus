@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bal Chorus 49(Bihanai Prathana Gara)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>बिहानै प्रार्थना गर, दिउँसो प्रार्थना गर<br/>बेलुका प्रार्थना गर, तिम्रो मनलाई स्थिर राख्न ।</lines></verse><verse name="v2"><lines>बिहानी प्रार्थनाको उत्तर दिन्छन्, दिउँसो प्रार्थनाको उत्तर दिन्छन्,<br/>बेलुकी प्रार्थनाको उत्तर दिन्छन्, तिम्रो मनलाई स्थिर राख ।</lines></verse><verse name="v3"><lines>येशू बिहानै आउनसक्छन्, येशू दिउँसो आउनसक्छन्,<br/>येशू बेलुकी आउनसक्छन्, तिम्रो मनलाई स्थिर राख (३) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bal Chorus 49(Bihanai Prathana Gara)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>बिहानै प्रार्थना गर, दिउँसो प्रार्थना गर<br/>बेलुका प्रार्थना गर, तिम्रो मनलाई स्थिर राख्न ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>बिहानी प्रार्थनाको उत्तर दिन्छन्, दिउँसो प्रार्थनाको उत्तर दिन्छन्,<br/>बेलुकी प्रार्थनाको उत्तर दिन्छन्, तिम्रो मनलाई स्थिर राख ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>येशू बिहानै आउनसक्छन्, येशू दिउँसो आउनसक्छन्,<br/>येशू बेलुकी आउनसक्छन्, तिम्रो मनलाई स्थिर राख (३) </lines>
+		</verse>
+	</lyrics>
+</song>

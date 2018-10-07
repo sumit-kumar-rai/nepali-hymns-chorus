@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 633(Bethlehem Gaoima Daudko)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः बेथलेहेम गावैँमा दाऊदको शहरैमा (२)<br/>जन्मिए मुक्तिदाता तिम्रो हाम्रो लागि (२)</lines></verse><verse name="v2"><lines>१. मानिसको चोला बोकी आउनुभो धर्तीमा<br/>पापलाई बोकी मर्नुभयो कलवरीको क्रूसैमा (२)<br/>आफैलाई रित्याई आज बचाउनुभो तिमी हामीलाई (२)</lines></verse><verse name="v3"><lines>२. मुक्ति दिने कोही छैन यो पापी संसारमा,<br/>स्वर्ग लाने कोही छैन यो पापी जगतमा (२)<br/>येशू जन्मे धर्तीमा स्वर्ग लान तिमी हामीलाई (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 633(Bethlehem Gaoima Daudko)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः बेथलेहेम गावैँमा दाऊदको शहरैमा (२)<br/>जन्मिए मुक्तिदाता तिम्रो हाम्रो लागि (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. मानिसको चोला बोकी आउनुभो धर्तीमा<br/>पापलाई बोकी मर्नुभयो कलवरीको क्रूसैमा (२)<br/>आफैलाई रित्याई आज बचाउनुभो तिमी हामीलाई (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. मुक्ति दिने कोही छैन यो पापी संसारमा,<br/>स्वर्ग लाने कोही छैन यो पापी जगतमा (२)<br/>येशू जन्मे धर्तीमा स्वर्ग लान तिमी हामीलाई (२) </lines>
+		</verse>
+	</lyrics>
+</song>

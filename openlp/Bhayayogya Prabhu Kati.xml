@@ -1,2 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 209(Bhayayogya Prabhu Kati)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>भययोग्य प्रभु कति महान् (४),</lines></verse><verse name="v2"><lines>भर्नुहोस् मलाईं तपाईंको भयले<br/>भर्नुहोस् मलाईं तपाईंको प्रेमले,<br/>तपाईंलाई धन्यको भन्छु<br/>तपाईंको बाटो म हेर्छु (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 209(Bhayayogya Prabhu Kati)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>भययोग्य प्रभु कति महान् (४),</lines>
+		</verse>
+		<verse name="v2">
+			<lines>भर्नुहोस् मलाईं तपाईंको भयले<br/>भर्नुहोस् मलाईं तपाईंको प्रेमले,<br/>तपाईंलाई धन्यको भन्छु<br/>तपाईंको बाटो म हेर्छु (२) </lines>
+		</verse>
+	</lyrics>
+</song>

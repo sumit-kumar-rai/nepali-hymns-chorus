@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 36(Ananda Manau Ra Harsa Manau)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः आनन्द मनाऔं र हर्ष मनाऔं,<br/>सारा दुनियाँलाई सुसमाचार सुनाऔं ।</lines></verse><verse name="v2"><lines>१. उठ दाजु भाइ हो, हेर तारालाई<br/>येशूजीको जन्म भयो, उठ, दर्शनलाई ।</lines></verse><verse name="v3"><lines>२. उठ दिदीबहिनी, हेर तारालाई<br/>येशूजीको जन्म भयो, उठ, दर्शनलाई । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 36(Ananda Manau Ra Harsa Manau)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः आनन्द मनाऔं र हर्ष मनाऔं,<br/>सारा दुनियाँलाई सुसमाचार सुनाऔं ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. उठ दाजु भाइ हो, हेर तारालाई<br/>येशूजीको जन्म भयो, उठ, दर्शनलाई ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. उठ दिदीबहिनी, हेर तारालाई<br/>येशूजीको जन्म भयो, उठ, दर्शनलाई । </lines>
+		</verse>
+	</lyrics>
+</song>

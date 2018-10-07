@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 32(Daaduko Saharma Gaiko)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. दाऊदको सहरमा गाईको एउटा गोठ थियो<br/>बालक आमाले सुताउँदा कोक्रो भयो डुँडैको<br/>मरियम नम्र आमाचाहिँ येशू बालक उनकै ।</lines></verse><verse name="v2"><lines>२. येशू बालक सबका स्वामी संसार आए औतार भई<br/>उनको बास गोठमा अनि उनको कोक्रो त्यो डुँडै<br/>कङ्गाल अनि हेला यो मुक्तिदाता हुनुभो ।</lines></verse><verse name="v3"><lines>३. येशू सानै बालकदेखि दीन र आज्ञाकारी थे<br/>आमाचाहिँलाई प्रेमले हेरी जसको काखमा सुत्दथे<br/>ख्रीष्टीय बालक होऔं यस्तै आज्ञाकारी येशूझैँ ।</lines></verse><verse name="v4"><lines>४. हामीजस्तै बालक भए, दिनदिन बढ्थे हामीझैँ<br/>कमजोर अनि लाचार थिए, रुनु हाँस्नु सब उस्तै<br/>हाम्रो दुःखमा दुःखित छन्, हाम्रो सुखमा सुखी छन् । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 32(Daaduko Saharma Gaiko)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. दाऊदको सहरमा गाईको एउटा गोठ थियो<br/>बालक आमाले सुताउँदा कोक्रो भयो डुँडैको<br/>मरियम नम्र आमाचाहिँ येशू बालक उनकै ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. येशू बालक सबका स्वामी संसार आए औतार भई<br/>उनको बास गोठमा अनि उनको कोक्रो त्यो डुँडै<br/>कङ्गाल अनि हेला यो मुक्तिदाता हुनुभो ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. येशू सानै बालकदेखि दीन र आज्ञाकारी थे<br/>आमाचाहिँलाई प्रेमले हेरी जसको काखमा सुत्दथे<br/>ख्रीष्टीय बालक होऔं यस्तै आज्ञाकारी येशूझैँ ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. हामीजस्तै बालक भए, दिनदिन बढ्थे हामीझैँ<br/>कमजोर अनि लाचार थिए, रुनु हाँस्नु सब उस्तै<br/>हाम्रो दुःखमा दुःखित छन्, हाम्रो सुखमा सुखी छन् । </lines>
+		</verse>
+	</lyrics>
+</song>

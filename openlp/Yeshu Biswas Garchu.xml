@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 307(Yeshu Biswas Garchu)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. येशू, विश्वास गर्छु खालि तपाईंमा<br/>दोषी असहाय म तपाईं त्राणकर्ता<br/>पृथ्वी स्वर्गमा छैन कोही तपाईंजस्तो<br/>मजस्तो पापीको लागि मर्नुभो ।</lines></verse><verse name="v2"><lines>२. येशू विश्वास गर्छु नाममा सत अपार<br/>नाम दिएका दूतले 'येशू तारणहार'<br/>नाम जो लेखिएको थियो लाजको क्रूसमाथि<br/>पापी आऊ त्यस नाममा दृढ विश्वास राखी ।</lines></verse><verse name="v3"><lines>३. येशू विश्वास गर्छु तपाईंलाई सम्झी<br/>प्रेम र दयापूर्ण घुम्नुभो पृथ्वी<br/>रोगी, दीन-दरिद्र पापी घिनलाग्दा<br/>सबले निगाह पायौं मुक्तिदाताको ।</lines></verse><verse name="v4"><lines>४. येशू विश्वास गर्छु वाणी तपाईंकै<br/>'म हटाउन्नँ कहिल्यै आउँछ जोसुकै'<br/>रगत छ अमूल्य, सत्य छ करार<br/>उद्धारको हुन् आधार येशू तारणहार । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 307(Yeshu Biswas Garchu)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. येशू, विश्वास गर्छु खालि तपाईंमा<br/>दोषी असहाय म तपाईं त्राणकर्ता<br/>पृथ्वी स्वर्गमा छैन कोही तपाईंजस्तो<br/>मजस्तो पापीको लागि मर्नुभो ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. येशू विश्वास गर्छु नाममा सत अपार<br/>नाम दिएका दूतले 'येशू तारणहार'<br/>नाम जो लेखिएको थियो लाजको क्रूसमाथि<br/>पापी आऊ त्यस नाममा दृढ विश्वास राखी ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. येशू विश्वास गर्छु तपाईंलाई सम्झी<br/>प्रेम र दयापूर्ण घुम्नुभो पृथ्वी<br/>रोगी, दीन-दरिद्र पापी घिनलाग्दा<br/>सबले निगाह पायौं मुक्तिदाताको ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. येशू विश्वास गर्छु वाणी तपाईंकै<br/>'म हटाउन्नँ कहिल्यै आउँछ जोसुकै'<br/>रगत छ अमूल्य, सत्य छ करार<br/>उद्धारको हुन् आधार येशू तारणहार । </lines>
+		</verse>
+	</lyrics>
+</song>

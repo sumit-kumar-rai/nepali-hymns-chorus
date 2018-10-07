@@ -1,2 +1,37 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 156(Hey Prabhu Sworga Ra Jagatka)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. हे प्रभु, स्वर्ग र जगतका तपाईंको स्तुति महिमा ।<br/>योग्य धन्यवाद असाद्धे छ हे सर्वदाता ।</lines></verse><verse name="v2"><lines>२. घाम हावा फूल र फल निरोग जस जस वरदानको गर्‌यौं भोग<br/>ती सबका मानौं गुण सब लोग हे सर्वदाता ।</lines></verse><verse name="v3"><lines>३. संसारको लागि दिनुभो दान आफ्नै एक्ले पुत्रको<br/>झन् सब थोक दिनुहोला हो हे सर्वदाता ।</lines></verse><verse name="v4"><lines>४. दिनुभो अझै आत्मा दान र देओस् सब सच्चाइको ज्ञान ।<br/>बदाइदिई नयाँ मन भई फलदाता ।</lines></verse><verse name="v5"><lines>५. पापमोचन पायौं प्राण उद्धार अनुग्रह रीत स्वर्गाधिकार ।<br/>योग्य साटो दिऊँ कुन प्रकार हे स्वर्गदाता ।</lines></verse><verse name="v6"><lines>६. हराइन्छ खर्च अपस्वार्थका जो ऋण तपाईंलाई दिउँला ।<br/>त्यो मात्र रहन्छ सदा हे सर्वदाता ।</lines></verse><verse name="v7"><lines>७. जुन धन दिउँला तपाईंलाई बढाइन्छ सय गुणा सय ।<br/>तपाईंलाई दिन्छौं त रमाई हे सर्वदाता ।</lines></verse><verse name="v8"><lines>८. तपाईंले जीवन दिनुभो चढाऊँ बलि जिउँदो ।<br/>तपाईंको दानको साटो यो हे सर्वदाता । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 156(Hey Prabhu Sworga Ra Jagatka)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. हे प्रभु, स्वर्ग र जगतका तपाईंको स्तुति महिमा ।<br/>योग्य धन्यवाद असाद्धे छ हे सर्वदाता ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. घाम हावा फूल र फल निरोग जस जस वरदानको गर्‌यौं भोग<br/>ती सबका मानौं गुण सब लोग हे सर्वदाता ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. संसारको लागि दिनुभो दान आफ्नै एक्ले पुत्रको<br/>झन् सब थोक दिनुहोला हो हे सर्वदाता ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. दिनुभो अझै आत्मा दान र देओस् सब सच्चाइको ज्ञान ।<br/>बदाइदिई नयाँ मन भई फलदाता ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>५. पापमोचन पायौं प्राण उद्धार अनुग्रह रीत स्वर्गाधिकार ।<br/>योग्य साटो दिऊँ कुन प्रकार हे स्वर्गदाता ।</lines>
+		</verse>
+		<verse name="v6">
+			<lines>६. हराइन्छ खर्च अपस्वार्थका जो ऋण तपाईंलाई दिउँला ।<br/>त्यो मात्र रहन्छ सदा हे सर्वदाता ।</lines>
+		</verse>
+		<verse name="v7">
+			<lines>७. जुन धन दिउँला तपाईंलाई बढाइन्छ सय गुणा सय ।<br/>तपाईंलाई दिन्छौं त रमाई हे सर्वदाता ।</lines>
+		</verse>
+		<verse name="v8">
+			<lines>८. तपाईंले जीवन दिनुभो चढाऊँ बलि जिउँदो ।<br/>तपाईंको दानको साटो यो हे सर्वदाता । </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 285(Maile Yeshu Mitra Paye)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. मैले येशू मित्र पाएँ, जो मेरो सब थोक हो,<br/>मेरो आत्माको लागि के उत्तम वर ।<br/>त्यो सुन्दर फूल बाटोको, बिहानको त्यो तारा<br/>मलाई शुद्ध चङ्गा पार्ने उत्तम वर,<br/>अफसोसमा मेरो हर्ष, दुःखमा मेरो आशा<br/>भन्छन् उनले सोच फिर्की नगर ।</lines></verse><verse name="v2"><lines>कोः त्यो सुन्दर फूल बाटोको, बिहानको त्यो तारा ।<br/>कति उत्तम त्यो वर मेरो आत्माको ।</lines></verse><verse name="v3"><lines>२. उनले मेरो दुःख सब लिए, सबै अफसोस पनि<br/>परीक्षामा मेरो छ गढ बलियो ।<br/>सब उनको लागि बिर्सें, मेरो हृदयदेखि<br/>उनको सँगमा बस्नलाई मलाई लिए,<br/>संसारले मलाई छोड्दा, शैतानले दुःख दिंदा<br/>ख्रीष्ट प्रभु हुन्छन् साथमा, शोक नगर ।</lines></verse><verse name="v4"><lines>३. मलाई छोड्नेछैनन् कैले, न भुल्नेछन् मलाई<br/>विश्वासमा बसी मान्नेछु उनैलाई ।<br/>अग्नीको देवलभित्र, केही मलाई डर छैन<br/>मन्ना दिन्छन् भोकाएको आत्मालाई,<br/>मुकुटले पहिर्र्‍याउँदा दर्शन म गर्नेछु,<br/>बग्दछ जहाँ नदी आनन्दको । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 285(Maile Yeshu Mitra Paye)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. मैले येशू मित्र पाएँ, जो मेरो सब थोक हो,<br/>मेरो आत्माको लागि के उत्तम वर ।<br/>त्यो सुन्दर फूल बाटोको, बिहानको त्यो तारा<br/>मलाई शुद्ध चङ्गा पार्ने उत्तम वर,<br/>अफसोसमा मेरो हर्ष, दुःखमा मेरो आशा<br/>भन्छन् उनले सोच फिर्की नगर ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>कोः त्यो सुन्दर फूल बाटोको, बिहानको त्यो तारा ।<br/>कति उत्तम त्यो वर मेरो आत्माको ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. उनले मेरो दुःख सब लिए, सबै अफसोस पनि<br/>परीक्षामा मेरो छ गढ बलियो ।<br/>सब उनको लागि बिर्सें, मेरो हृदयदेखि<br/>उनको सँगमा बस्नलाई मलाई लिए,<br/>संसारले मलाई छोड्दा, शैतानले दुःख दिंदा<br/>ख्रीष्ट प्रभु हुन्छन् साथमा, शोक नगर ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. मलाई छोड्नेछैनन् कैले, न भुल्नेछन् मलाई<br/>विश्वासमा बसी मान्नेछु उनैलाई ।<br/>अग्नीको देवलभित्र, केही मलाई डर छैन<br/>मन्ना दिन्छन् भोकाएको आत्मालाई,<br/>मुकुटले पहिर्र्‍याउँदा दर्शन म गर्नेछु,<br/>बग्दछ जहाँ नदी आनन्दको । </lines>
+		</verse>
+	</lyrics>
+</song>

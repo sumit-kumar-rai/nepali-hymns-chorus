@@ -1,2 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bal Chorus 23(Ek Sano Diyo)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>एक सानो, दुई सानो, तीन सानो माछा<br/>चार सानो, पाँच सानो, छ सानो माछा<br/>सात सानो, आठ सानो, नौ सानो माछा घोर समुन्द्रमा,<br/>नाउमा पत्रुस, याकूब, यूहन्ना (३) घोर समुद्रमा,<br/>रातभरि जाल हाने केही पनि पाएनन् (३) घोर समुन्द्रमा<br/>येशू झीलमाथि हिँड़्दैआए (३) घोर समन्द्रमा,<br/>येशूले भन्नुभयो, फेरि जाल हान (३) घोर समन्द्रमा,<br/>उनीहरूले धेरै माछा पक्रे (३) घोर समुन्द्रमा,<br/>हामी पनि येशूको आज्ञा मानौं (३) हाम्रो जीवनमा । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bal Chorus 23(Ek Sano Diyo)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>एक सानो, दुई सानो, तीन सानो माछा<br/>चार सानो, पाँच सानो, छ सानो माछा<br/>सात सानो, आठ सानो, नौ सानो माछा घोर समुन्द्रमा,<br/>नाउमा पत्रुस, याकूब, यूहन्ना (३) घोर समुद्रमा,<br/>रातभरि जाल हाने केही पनि पाएनन् (३) घोर समुन्द्रमा<br/>येशू झीलमाथि हिँड़्दैआए (३) घोर समन्द्रमा,<br/>येशूले भन्नुभयो, फेरि जाल हान (३) घोर समन्द्रमा,<br/>उनीहरूले धेरै माछा पक्रे (३) घोर समुन्द्रमा,<br/>हामी पनि येशूको आज्ञा मानौं (३) हाम्रो जीवनमा । </lines>
+		</verse>
+	</lyrics>
+</song>

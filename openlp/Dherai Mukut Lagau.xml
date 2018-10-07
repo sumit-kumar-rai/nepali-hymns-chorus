@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 748(Dherai Mukut Lagau)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. धेरै मुकुट लगाउ सिंहासन विराजमान<br/>ईश्वरको थूमा येशूमा गएर स्तुति गान<br/>लौ उठ मेरो प्राण उनको प्रताप सुनाई<br/>जो तेरो लागि दिए ज्यान सदा सर्वदालाई ।</lines></verse><verse name="v2"><lines>२. ईश्वरको पुत्रको शिरमा राजमुकुट लाऊ<br/>जगको सृष्टिभन्दा अघि परमेश्वर हुनुभो<br/>मानिसको पुत्र भई दुःख कष्ट सब सही<br/>क्रूसमा सबै अपनाउनु भो कि उहाँमा पाउँ शान्ति ।</lines></verse><verse name="v3"><lines>३. जीवनको प्रभुको शिरमा राजमुकुट लाऊ<br/>मृत्युमाथि जयवन्त भई सबलाई बचाउनुभो<br/>मरणदेखि उठी येशूले दिनुभो<br/>अनन्त जीवन हामीलाई, मृत्युलाई मार्नुभो ।</lines></verse><verse name="v4"><lines>४. शान्तिको प्रभुको शिरमा राजमुकुट लाऊ<br/>जगत्मा लडाइँको सट्टा होस् प्रार्थना र स्तुति<br/>उहाँको राज ... </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 748(Dherai Mukut Lagau)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. धेरै मुकुट लगाउ सिंहासन विराजमान<br/>ईश्वरको थूमा येशूमा गएर स्तुति गान<br/>लौ उठ मेरो प्राण उनको प्रताप सुनाई<br/>जो तेरो लागि दिए ज्यान सदा सर्वदालाई ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. ईश्वरको पुत्रको शिरमा राजमुकुट लाऊ<br/>जगको सृष्टिभन्दा अघि परमेश्वर हुनुभो<br/>मानिसको पुत्र भई दुःख कष्ट सब सही<br/>क्रूसमा सबै अपनाउनु भो कि उहाँमा पाउँ शान्ति ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. जीवनको प्रभुको शिरमा राजमुकुट लाऊ<br/>मृत्युमाथि जयवन्त भई सबलाई बचाउनुभो<br/>मरणदेखि उठी येशूले दिनुभो<br/>अनन्त जीवन हामीलाई, मृत्युलाई मार्नुभो ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. शान्तिको प्रभुको शिरमा राजमुकुट लाऊ<br/>जगत्मा लडाइँको सट्टा होस् प्रार्थना र स्तुति<br/>उहाँको राज ... </lines>
+		</verse>
+	</lyrics>
+</song>

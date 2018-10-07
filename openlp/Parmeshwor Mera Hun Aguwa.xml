@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 372(Parmeshwor Mera Hun Aguwa)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. परमेश्वर मेरा हुन् अगुवा, यो सुन्नु कस्तो सान्त्वना<br/>जे जति गरूँ, जाऊँ जता परमेश्वर मेरा हुन् अगुवा ।</lines></verse><verse name="v2"><lines>कोः परमेश्वर मेरा हुन् अगुवा, मलाई डोर्र्‍याउँदछन् सदा<br/>म उनको पछि लागूँला कारण परमेश्वर हुन् अगुवा ।</lines></verse><verse name="v3"><lines>२. भव सागर कहिले शान्त छ र कहिले आँधी चल्दछ<br/>वा आपदमा वा सुख चैनमा, परमेश्वर मेरा हुन् अगुवा ।</lines></verse><verse name="v4"><lines>३. समात्छु म तपाईंको हात नगरूँ गनगनाइको बात<br/>जे परे होस् रमाऊँ सदा कि ईश्वर मेरा हुन् अगुवा ।</lines></verse><verse name="v5"><lines>४. आउँदा पृथ्वीको कामको अन्त, अनुग्रहद्वारा भई जयवन्त<br/>निर्भय म तर्छु मृत-खोला धामसम्म ईश्वर हुन् अगुवा । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 372(Parmeshwor Mera Hun Aguwa)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. परमेश्वर मेरा हुन् अगुवा, यो सुन्नु कस्तो सान्त्वना<br/>जे जति गरूँ, जाऊँ जता परमेश्वर मेरा हुन् अगुवा ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>कोः परमेश्वर मेरा हुन् अगुवा, मलाई डोर्र्‍याउँदछन् सदा<br/>म उनको पछि लागूँला कारण परमेश्वर हुन् अगुवा ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. भव सागर कहिले शान्त छ र कहिले आँधी चल्दछ<br/>वा आपदमा वा सुख चैनमा, परमेश्वर मेरा हुन् अगुवा ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. समात्छु म तपाईंको हात नगरूँ गनगनाइको बात<br/>जे परे होस् रमाऊँ सदा कि ईश्वर मेरा हुन् अगुवा ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. आउँदा पृथ्वीको कामको अन्त, अनुग्रहद्वारा भई जयवन्त<br/>निर्भय म तर्छु मृत-खोला धामसम्म ईश्वर हुन् अगुवा । </lines>
+		</verse>
+	</lyrics>
+</song>

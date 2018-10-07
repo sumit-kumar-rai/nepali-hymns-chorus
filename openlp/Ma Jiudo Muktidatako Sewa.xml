@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 126(Ma Jiudo Muktidatako Sewa)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. म जिउँदो मुक्तिदाताको सेवा गर्दछु येशू संसारमा हुन्छन् भनेर जान्दछु<br/>म देख्छु उनको दया म सुन्छु, उनको स्वर र साथमा बस्ने येशू गर्छन् गोहार ।</lines></verse><verse name="v2"><lines>कोः जिउँदो, जिउँदो छन् येशू ख्रीष्ट जिउँदो,<br/>होस् अगुवाइ, दिन्छन् मलाई र संगति मीठो<br/>(जिउँदो) २ उतार्न पापदेखि,<br/>म कसरी निश्चय जान्दछु मनमै जिउँछन् उनी ।</lines></verse><verse name="v3"><lines>२. म चारैतिर हेरी प्यार उनको देख्दछु, दुःख परे पनि आशा म गरिरहन्छु<br/>यस लोकको आँधी सागरमा हुन्छन् अगुवा, आउनेछन् फेरि येशू ख्रीष्ट अन्त्यमा ।</lines></verse><verse name="v4"><lines>३. (रमाऊ) २ विश्वासी गीतमा गरी प्रचार ख्रीष्ट महाराजालाई होस् अनन्त जयजयकार<br/>हर खोज्ने उनको लक्ष्य भेट्टाउने उनको आड ख्रीष्टमात्र गर्छन् भलो उद्धार र प्यार । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 126(Ma Jiudo Muktidatako Sewa)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. म जिउँदो मुक्तिदाताको सेवा गर्दछु येशू संसारमा हुन्छन् भनेर जान्दछु<br/>म देख्छु उनको दया म सुन्छु, उनको स्वर र साथमा बस्ने येशू गर्छन् गोहार ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>कोः जिउँदो, जिउँदो छन् येशू ख्रीष्ट जिउँदो,<br/>होस् अगुवाइ, दिन्छन् मलाई र संगति मीठो<br/>(जिउँदो) २ उतार्न पापदेखि,<br/>म कसरी निश्चय जान्दछु मनमै जिउँछन् उनी ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. म चारैतिर हेरी प्यार उनको देख्दछु, दुःख परे पनि आशा म गरिरहन्छु<br/>यस लोकको आँधी सागरमा हुन्छन् अगुवा, आउनेछन् फेरि येशू ख्रीष्ट अन्त्यमा ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. (रमाऊ) २ विश्वासी गीतमा गरी प्रचार ख्रीष्ट महाराजालाई होस् अनन्त जयजयकार<br/>हर खोज्ने उनको लक्ष्य भेट्टाउने उनको आड ख्रीष्टमात्र गर्छन् भलो उद्धार र प्यार । </lines>
+		</verse>
+	</lyrics>
+</song>

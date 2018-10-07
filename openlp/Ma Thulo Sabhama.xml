@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 192(Ma Thulo Sabhama)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>म ठूलो सभामा उद्धारको सुसमाचार सुनाउनेछु<br/>मेरा ओठहरू म बन्द गर्ने छैनँ</lines></verse><verse name="v2"><lines>म मेरो हृदयमा तपाईंको धार्मिकतालाई लुकाउँदिनँ<br/>तपाईंको विश्वासयोग्यता म घोषण गर्नेछु</lines></verse><verse name="v3"><lines>तपाईंको प्रेम, सत्यता म सदा गाउनेछु<br/>तपाईंको प्रेम, कृपामा हर्षित हुनेछु<br/>र गाउनेछु, सुरक्षित छु यो प्रेममा (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 192(Ma Thulo Sabhama)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>म ठूलो सभामा उद्धारको सुसमाचार सुनाउनेछु<br/>मेरा ओठहरू म बन्द गर्ने छैनँ</lines>
+		</verse>
+		<verse name="v2">
+			<lines>म मेरो हृदयमा तपाईंको धार्मिकतालाई लुकाउँदिनँ<br/>तपाईंको विश्वासयोग्यता म घोषण गर्नेछु</lines>
+		</verse>
+		<verse name="v3">
+			<lines>तपाईंको प्रेम, सत्यता म सदा गाउनेछु<br/>तपाईंको प्रेम, कृपामा हर्षित हुनेछु<br/>र गाउनेछु, सुरक्षित छु यो प्रेममा (२) </lines>
+		</verse>
+	</lyrics>
+</song>

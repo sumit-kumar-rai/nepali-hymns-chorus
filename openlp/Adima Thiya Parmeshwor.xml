@@ -1,2 +1,34 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 11(Adima Thiya Parmeshwor)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. आदिमा थिए परमेश्वर, सब थोक छ दिनमा सृजे<br/>सोमवार बनाए, उज्यालो, मंगलवार आकाश सृजे ।</lines></verse><verse name="v2"><lines>कोः हल्लेलूयाह (३) यहवे गाऊ हल्लेलूयाह यहवे ।</lines></verse><verse name="v3"><lines>२. बुधवार बनस्पति, खानी, सृजे सागर र भूमि<br/>बिहीवार घाम, जून, तारा, बादल, वज्र, वर्षा, बिजुली ।</lines></verse><verse name="v4"><lines>३. शुक्रवार साना-ठूला जन्तु बगिहिँड्ने सागरमा<br/>त्यही दिन उड्ने सबै पंक्षी, चीलधरि र भुसुना ।</lines></verse><verse name="v5"><lines>४. शनिवार धरतीमाथि हिँड्ने वन-पशु र घरैया<br/>सृजे मानिस आफ्नै रूपमा, दिए अधिकार सब थोकमा ।</lines></verse><verse name="v6"><lines>५. छ दिनमा काम भो समाप्त, सातौँ दिन बिसाउनुभो<br/>आइतवार बिसाऊ तिमी पनि अनि सेवा गर मेरो ।</lines></verse><verse name="v7"><lines>६. आदि अन्त सर्वशक्तिमान यहवे राजा सर्वमहान्<br/>नर-नारी, बालक-वृद्ध गाऔं उनको स्तुतिगान । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 11(Adima Thiya Parmeshwor)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. आदिमा थिए परमेश्वर, सब थोक छ दिनमा सृजे<br/>सोमवार बनाए, उज्यालो, मंगलवार आकाश सृजे ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>कोः हल्लेलूयाह (३) यहवे गाऊ हल्लेलूयाह यहवे ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. बुधवार बनस्पति, खानी, सृजे सागर र भूमि<br/>बिहीवार घाम, जून, तारा, बादल, वज्र, वर्षा, बिजुली ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. शुक्रवार साना-ठूला जन्तु बगिहिँड्ने सागरमा<br/>त्यही दिन उड्ने सबै पंक्षी, चीलधरि र भुसुना ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. शनिवार धरतीमाथि हिँड्ने वन-पशु र घरैया<br/>सृजे मानिस आफ्नै रूपमा, दिए अधिकार सब थोकमा ।</lines>
+		</verse>
+		<verse name="v6">
+			<lines>५. छ दिनमा काम भो समाप्त, सातौँ दिन बिसाउनुभो<br/>आइतवार बिसाऊ तिमी पनि अनि सेवा गर मेरो ।</lines>
+		</verse>
+		<verse name="v7">
+			<lines>६. आदि अन्त सर्वशक्तिमान यहवे राजा सर्वमहान्<br/>नर-नारी, बालक-वृद्ध गाऔं उनको स्तुतिगान । </lines>
+		</verse>
+	</lyrics>
+</song>

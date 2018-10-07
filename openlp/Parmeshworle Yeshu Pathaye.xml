@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 245(Parmeshworle Yeshu Pathaye)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. परमेश्वरले येशू पठाए पाप क्षमा चङ्गाइ दिनलाई<br/>जिए-मरे क्षमाको लागि रित्तो चिहान जीवित येशूको प्रमाण छ ।</lines></verse><verse name="v2"><lines>कोः येशू जीवित भएको कारण भोलिको डर हटिगयो<br/>कारण भविष्य उनले सम्हाल्छन् र मेरो जीवनलाई सार्थक बनाउँदछन् ।</lines></verse><verse name="v3"><lines>२. नयाँ बालकले आनन्द ल्याउँछ खुसी गौरव थपिन्छ<br/>अझ उहाँको जीवितताले अनिश्चित भविष्य सबै सुरक्षित छ ।</lines></verse><verse name="v4"><lines>३. मृत्यु नदी तरेर जाँदा अन्तिम लडाइँ-सङ्घर्ष साथ<br/>मृत्युपछि विजय पाउँदा उहाँको महिमाको ज्योति म देख्नेछु । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 245(Parmeshworle Yeshu Pathaye)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. परमेश्वरले येशू पठाए पाप क्षमा चङ्गाइ दिनलाई<br/>जिए-मरे क्षमाको लागि रित्तो चिहान जीवित येशूको प्रमाण छ ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>कोः येशू जीवित भएको कारण भोलिको डर हटिगयो<br/>कारण भविष्य उनले सम्हाल्छन् र मेरो जीवनलाई सार्थक बनाउँदछन् ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. नयाँ बालकले आनन्द ल्याउँछ खुसी गौरव थपिन्छ<br/>अझ उहाँको जीवितताले अनिश्चित भविष्य सबै सुरक्षित छ ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. मृत्यु नदी तरेर जाँदा अन्तिम लडाइँ-सङ्घर्ष साथ<br/>मृत्युपछि विजय पाउँदा उहाँको महिमाको ज्योति म देख्नेछु । </lines>
+		</verse>
+	</lyrics>
+</song>

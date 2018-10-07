@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 180(Hey Ishwor Jay Hos Tapaiko)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. हे ईश्वर जय होस् तपाईंको दान आज धेरै दिनुभो<br/>हे ईश्वर पिता अब मलाई ठीक राख्नोस् मुठिमा बचाई ।</lines></verse><verse name="v2"><lines>२. माफ गर्नोस् कारण येशूको सब पाप मद्वारा आज जे भो<br/>ईश्वर र भाइको मेल नपाई म नगरूँ आज रात सुताई ।</lines></verse><verse name="v3"><lines>३. सिकाउनुहोस् यसै जिउँनलाई म ठानुँ मर्नु सुत्नुझैँ<br/>सिकाउनुहोस् यसै मर्नलाई म बौरिउठूँ सुखमय भई ।</lines></verse><verse name="v4"><lines>४. निज काखमा सुताउनोस् मलाई आफैले मेरा आँखा चिम्ल्याई<br/>र जागूँ ज्यास्ति बलियो भई तपाईंको सेवा गर्नलाई ।</lines></verse><verse name="v5"><lines>५. सकिनँ सुत्न भने त म गरूँ भलो सोच–चिन्ता<br/>हे पिता, पुत्र, आत्माज्यू तपाईं नेै माथि ध्यान गरूँ । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 180(Hey Ishwor Jay Hos Tapaiko)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. हे ईश्वर जय होस् तपाईंको दान आज धेरै दिनुभो<br/>हे ईश्वर पिता अब मलाई ठीक राख्नोस् मुठिमा बचाई ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. माफ गर्नोस् कारण येशूको सब पाप मद्वारा आज जे भो<br/>ईश्वर र भाइको मेल नपाई म नगरूँ आज रात सुताई ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. सिकाउनुहोस् यसै जिउँनलाई म ठानुँ मर्नु सुत्नुझैँ<br/>सिकाउनुहोस् यसै मर्नलाई म बौरिउठूँ सुखमय भई ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. निज काखमा सुताउनोस् मलाई आफैले मेरा आँखा चिम्ल्याई<br/>र जागूँ ज्यास्ति बलियो भई तपाईंको सेवा गर्नलाई ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>५. सकिनँ सुत्न भने त म गरूँ भलो सोच–चिन्ता<br/>हे पिता, पुत्र, आत्माज्यू तपाईं नेै माथि ध्यान गरूँ । </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 189(Tapaiko Aadar Garne Chahana)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>तपाईंको आदर गर्ने चाहना<br/>सम्पूर्ण हृदयको आराधना</lines></verse><verse name="v2"><lines>ममा भएका सबले म स्तुति गर्छु<br/>मेरा सबै भक्ति छ तपाईंमा</lines></verse><verse name="v3"><lines>प्रभु, अर्पण गर्छु मेरो हृदय र प्राण<br/>तपाईंको लागि जिउँछु</lines></verse><verse name="v4"><lines>हरेक श्वास लिँदा जागा भएको बेला<br/>तपाईंले चाहे झैँ होस् ममा (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 189(Tapaiko Aadar Garne Chahana)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>तपाईंको आदर गर्ने चाहना<br/>सम्पूर्ण हृदयको आराधना</lines>
+		</verse>
+		<verse name="v2">
+			<lines>ममा भएका सबले म स्तुति गर्छु<br/>मेरा सबै भक्ति छ तपाईंमा</lines>
+		</verse>
+		<verse name="v3">
+			<lines>प्रभु, अर्पण गर्छु मेरो हृदय र प्राण<br/>तपाईंको लागि जिउँछु</lines>
+		</verse>
+		<verse name="v4">
+			<lines>हरेक श्वास लिँदा जागा भएको बेला<br/>तपाईंले चाहे झैँ होस् ममा (२) </lines>
+		</verse>
+	</lyrics>
+</song>

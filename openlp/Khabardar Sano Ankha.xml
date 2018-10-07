@@ -1,2 +1,31 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 445(Khabardar Sano Ankha)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. खबरदार, सानो आँखा के हेर्छ (२)</lines></verse><verse name="v2"><lines>कोः तिम्रो स्वर्गे बाबुले तल हेर्छन् प्यारले,<br/>खबरदार ! सानो आँखा के हेर्छ ।</lines></verse><verse name="v3"><lines>२. खबरदार ! सानो कान के सुन्छ (२)</lines></verse><verse name="v4"><lines>३. खबरदार ! सानो हात के गर्छ (२)</lines></verse><verse name="v5"><lines>४. खबरदार ! सानो मन के सोच्छ (२)</lines></verse><verse name="v6"><lines>५. खबरदार ! साना पाउ कहाँ जान्छ (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 445(Khabardar Sano Ankha)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. खबरदार, सानो आँखा के हेर्छ (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>कोः तिम्रो स्वर्गे बाबुले तल हेर्छन् प्यारले,<br/>खबरदार ! सानो आँखा के हेर्छ ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. खबरदार ! सानो कान के सुन्छ (२)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. खबरदार ! सानो हात के गर्छ (२)</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. खबरदार ! सानो मन के सोच्छ (२)</lines>
+		</verse>
+		<verse name="v6">
+			<lines>५. खबरदार ! साना पाउ कहाँ जान्छ (२) </lines>
+		</verse>
+	</lyrics>
+</song>

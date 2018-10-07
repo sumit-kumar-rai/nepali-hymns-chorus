@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 91(Chadauchu Prabhu Dhanyabad)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः चढाउँछु प्रभु धन्यवाद आज, क्रूसको त्यो प्रेमको निम्ति<br/>थुकाइ र कुटाइ सहनुभो जति, ती सब थिए मेरै निम्ति (२)</lines></verse><verse name="v2"><lines>१. काँडे मुकुट पहिरी शिरमा, हात-पाउलाई जडी क्रूसमा (२)<br/>हुनुभो बलि मेरो नै निम्ति, निर्दोष पाठोको रूपमा (२)</lines></verse><verse name="v3"><lines>२. पीडा तपाईंलाई शान्ति मलाई, क्रूस तपाईंको मुकुट मेरो (२)<br/>मृत्यु तपाईंलाई, जीवन मलाई, प्रेम मलाई किन यस्तो ? (२)</lines></verse><verse name="v4"><lines>३. देख्छु महिमित स्वर्ग मेरो, तर होइन कमाइ मेरो (२)<br/>हर्षाश्रु झार्दै प्रशंसा गर्छु, यो ता हो दान तपाईंको (२)</lines></verse><verse name="v5"><lines>४. घृणित पापलाई गर्छु घृणा, कारण यही हो लाने क्रूसमा (२)<br/>सजाउँछु सिंहासन, प्रभु हृदयमा, रहनुहोस् प्रभु यसमा (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 91(Chadauchu Prabhu Dhanyabad)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः चढाउँछु प्रभु धन्यवाद आज, क्रूसको त्यो प्रेमको निम्ति<br/>थुकाइ र कुटाइ सहनुभो जति, ती सब थिए मेरै निम्ति (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. काँडे मुकुट पहिरी शिरमा, हात-पाउलाई जडी क्रूसमा (२)<br/>हुनुभो बलि मेरो नै निम्ति, निर्दोष पाठोको रूपमा (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. पीडा तपाईंलाई शान्ति मलाई, क्रूस तपाईंको मुकुट मेरो (२)<br/>मृत्यु तपाईंलाई, जीवन मलाई, प्रेम मलाई किन यस्तो ? (२)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. देख्छु महिमित स्वर्ग मेरो, तर होइन कमाइ मेरो (२)<br/>हर्षाश्रु झार्दै प्रशंसा गर्छु, यो ता हो दान तपाईंको (२)</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. घृणित पापलाई गर्छु घृणा, कारण यही हो लाने क्रूसमा (२)<br/>सजाउँछु सिंहासन, प्रभु हृदयमा, रहनुहोस् प्रभु यसमा (२) </lines>
+		</verse>
+	</lyrics>
+</song>

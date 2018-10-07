@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 624(Tapaiko Pakhetaka Chayamuni)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. तपाईको पखेटाका छायामुनि मलाई लुकाउनुहोस्<br/>र आँखाका नानीलाई झैँ मलाई सधै रक्षा गर्नुहोस्<br/>अनि म धार्मिकतामा तपाईंको मुख हेर्नेछु<br/>र तपाईंको रुपको दर्शनले सन्तुष्ट हुनेछु र रमाउनेछु ।</lines></verse><verse name="v2"><lines>कोः माथि माथि माथि माथि माथि चील झैँ म उड्नेछु (४)</lines></verse><verse name="v3"><lines>२. तपाईंको पखेटाका छायामुनि मलाई लुकाउनुहोस्<br/>र आँखाका नानीलाई झैँ मलाई सधै रक्षा गर्नुहोस्<br/>अनि म धार्मिकतामा तपाईंको मुख हेर्नेछु<br/>र तपाईंको रुपको दर्शनले सन्तुष्ट हुनेछु र रमाउनेछु । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 624(Tapaiko Pakhetaka Chayamuni)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. तपाईको पखेटाका छायामुनि मलाई लुकाउनुहोस्<br/>र आँखाका नानीलाई झैँ मलाई सधै रक्षा गर्नुहोस्<br/>अनि म धार्मिकतामा तपाईंको मुख हेर्नेछु<br/>र तपाईंको रुपको दर्शनले सन्तुष्ट हुनेछु र रमाउनेछु ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>कोः माथि माथि माथि माथि माथि चील झैँ म उड्नेछु (४)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. तपाईंको पखेटाका छायामुनि मलाई लुकाउनुहोस्<br/>र आँखाका नानीलाई झैँ मलाई सधै रक्षा गर्नुहोस्<br/>अनि म धार्मिकतामा तपाईंको मुख हेर्नेछु<br/>र तपाईंको रुपको दर्शनले सन्तुष्ट हुनेछु र रमाउनेछु । </lines>
+		</verse>
+	</lyrics>
+</song>

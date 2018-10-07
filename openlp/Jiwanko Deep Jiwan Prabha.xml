@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 348(Jiwanko Deep Jiwan Prabha)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः जीवनको दीप, जीवन प्रभा चिरानन्द प्रकाश देऊ<br/>हृदय मेरो लिएर नवीन आत्मिक बनाइदेऊ (२)</lines></verse><verse name="v2"><lines>१. अन्तरात्माले मेरो विनय यही गर्दछ (२)<br/>कलङ्क सब धोएर मसीही जीवन बनाइदेऊ ।</lines></verse><verse name="v3"><lines>२. जीवन अरुणको रोशनी ल्याई यो मेरो हृदयकाशमा (२)<br/>आत्मामा नव उमङ्ग देऊ, हे प्रभु बिन्ती सुनिलेऊ ।</lines></verse><verse name="v4"><lines>३. आशा, विश्वास र प्रेममा स्थिर रहने शक्ति देऊ (२)<br/>जीवन-यात्रा शेष भए आत्मा यो ग्रहण गरिलेऊ । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 348(Jiwanko Deep Jiwan Prabha)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः जीवनको दीप, जीवन प्रभा चिरानन्द प्रकाश देऊ<br/>हृदय मेरो लिएर नवीन आत्मिक बनाइदेऊ (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. अन्तरात्माले मेरो विनय यही गर्दछ (२)<br/>कलङ्क सब धोएर मसीही जीवन बनाइदेऊ ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. जीवन अरुणको रोशनी ल्याई यो मेरो हृदयकाशमा (२)<br/>आत्मामा नव उमङ्ग देऊ, हे प्रभु बिन्ती सुनिलेऊ ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. आशा, विश्वास र प्रेममा स्थिर रहने शक्ति देऊ (२)<br/>जीवन-यात्रा शेष भए आत्मा यो ग्रहण गरिलेऊ । </lines>
+		</verse>
+	</lyrics>
+</song>

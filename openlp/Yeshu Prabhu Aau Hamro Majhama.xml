@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 470(Yeshu Prabhu Aau Hamro Majhama)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः येशू प्रभु आऊ हाम्रो माझमा, जीवन मेरो लेऊ तिम्रो हातमा<br/>ओठको होइन यो भक्ति, हृदयको हो यो पुकार, आ ...</lines></verse><verse name="v2"><lines>१. यात्रा मेरो दुई दिनको, सास मेरो छिनभरको (२)<br/>चूप लागूँ कसरी ? गीत नगाऊँ कसरी ?<br/>यति ठूलो मुक्तिमा नरमाऊँ कसरी ?</lines></verse><verse name="v3"><lines>२. वचन तिम्रो पढेर, प्रार्थना सधैँ गरेर (२)<br/>आराधनाको जिन्दगी मेरो बितोस् यसरी<br/>अन्धकारमा जूनझैँ चम्कोस् साक्षी त्यसरी । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 470(Yeshu Prabhu Aau Hamro Majhama)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः येशू प्रभु आऊ हाम्रो माझमा, जीवन मेरो लेऊ तिम्रो हातमा<br/>ओठको होइन यो भक्ति, हृदयको हो यो पुकार, आ ...</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. यात्रा मेरो दुई दिनको, सास मेरो छिनभरको (२)<br/>चूप लागूँ कसरी ? गीत नगाऊँ कसरी ?<br/>यति ठूलो मुक्तिमा नरमाऊँ कसरी ?</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. वचन तिम्रो पढेर, प्रार्थना सधैँ गरेर (२)<br/>आराधनाको जिन्दगी मेरो बितोस् यसरी<br/>अन्धकारमा जूनझैँ चम्कोस् साक्षी त्यसरी । </lines>
+		</verse>
+	</lyrics>
+</song>

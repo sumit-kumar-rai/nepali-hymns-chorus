@@ -1,2 +1,31 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 572(Badhau Hami Khristya Raajdut)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. बढौँ हामी ख्रीष्टीय राजदूत हो, क्रूसको निशानातिर हामी,<br/>अघि बढौँ खीष्टिय राजदूत हो (२)</lines></verse><verse name="v2"><lines>२. अन्धकारमा हामीहरू उदाहरणको जीवन बनेर (२)<br/>वचनको पालन गरेर (२)</lines></verse><verse name="v3"><lines>३. येशू ख्रीष्टको सन्देश बोकेर हामी ख्रीष्टीयान उठ्नुपर्छ है (२)<br/>अरूहरूका आत्मा बचाउन (२)</lines></verse><verse name="v4"><lines>४. सुसमाचार ख्रीष्टको सुनाऊँ है (२) मरेकालाई जीवन दिऊँ है (२)<br/>प्रभुका सन्तान बनौँ है (२)</lines></verse><verse name="v5"><lines>५. प्रभुको आज्ञा मानौँ है, विश्वासीलाई चेला बनाऊँ है (२)<br/>प्रभुबाट इनाम कमाऊँ है (२)</lines></verse><verse name="v6"><lines>अघि बढौँ ख्रीष्टीय राजदूत हो (२) वचनको पालन गरेर (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 572(Badhau Hami Khristya Raajdut)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. बढौँ हामी ख्रीष्टीय राजदूत हो, क्रूसको निशानातिर हामी,<br/>अघि बढौँ खीष्टिय राजदूत हो (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. अन्धकारमा हामीहरू उदाहरणको जीवन बनेर (२)<br/>वचनको पालन गरेर (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. येशू ख्रीष्टको सन्देश बोकेर हामी ख्रीष्टीयान उठ्नुपर्छ है (२)<br/>अरूहरूका आत्मा बचाउन (२)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. सुसमाचार ख्रीष्टको सुनाऊँ है (२) मरेकालाई जीवन दिऊँ है (२)<br/>प्रभुका सन्तान बनौँ है (२)</lines>
+		</verse>
+		<verse name="v5">
+			<lines>५. प्रभुको आज्ञा मानौँ है, विश्वासीलाई चेला बनाऊँ है (२)<br/>प्रभुबाट इनाम कमाऊँ है (२)</lines>
+		</verse>
+		<verse name="v6">
+			<lines>अघि बढौँ ख्रीष्टीय राजदूत हो (२) वचनको पालन गरेर (२) </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 719(Paramprabhuka Sworgiya Ichhya)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः परमप्रभुका स्वर्गीय इच्छा, पूरा गर्ने उनका सेवक हो<br/>परमप्रभुलाई धन्य भन, परमप्रभुलाई धन्य भन ।</lines></verse><verse name="v2"><lines>१. अनुग्रहमा तिमीलाई चुनेर, आफ्नो साथमा सहकर्मी बनाए<br/>नयाँ करारको सेवक बनाई मण्डली निर्माणको सेवा दिए २ </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 719(Paramprabhuka Sworgiya Ichhya)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः परमप्रभुका स्वर्गीय इच्छा, पूरा गर्ने उनका सेवक हो<br/>परमप्रभुलाई धन्य भन, परमप्रभुलाई धन्य भन ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. अनुग्रहमा तिमीलाई चुनेर, आफ्नो साथमा सहकर्मी बनाए<br/>नयाँ करारको सेवक बनाई मण्डली निर्माणको सेवा दिए २ </lines>
+		</verse>
+	</lyrics>
+</song>

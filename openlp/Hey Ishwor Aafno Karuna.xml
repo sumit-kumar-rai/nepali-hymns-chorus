@@ -1,2 +1,34 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 260(Hey Ishwor Aafno Karuna)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. हे ईश्वर आफ्नो करुणाअन्सार अनुग्रह गर्नुहोस्<br/>कोमल कृपान्सार अपराध मेरा मेटाइदिनुहोस् ।</lines></verse><verse name="v2"><lines>२. मलाई नै मेरा अधर्मबाट सफासँग धुनोस्<br/>मलाई हे ईश्वर मेरा पापबाट शुद्ध है गर्नुहोस् ।</lines></verse><verse name="v3"><lines>३. किनकि आफ्ना अपराधहरू स्वीकार गर्छु म<br/>पाप मेरो सदासर्वदा प्रभु मेरै साम्नेमा छ ।</lines></verse><verse name="v4"><lines>४. गरेको छु नि पाप मैले खाली तपाईंकै विरुद्धमा<br/>गरेछु त्यही, जो छ खराबी तपाईंको दृष्टिमा ।</lines></verse><verse name="v5"><lines>५. हेर्नुहोस् लौ म उत्पन्न पनि भएँ अधर्ममा<br/>आमाले मलाई गर्भधारण गरिन् है पापैमा ।</lines></verse><verse name="v6"><lines>६. अन्तस्करणमा हेर्नुहोस् तपाईं खोज्नुहुन्छ सत्य<br/>र भित्री मनमा ज्ञान जान्ने मलाई तुल्याउनुहुनेछ ।</lines></verse><verse name="v7"><lines>७. हिसपले मलाई मस्काउनुहोस् हुनेछु म सफा<br/>धुनुहोस् मलाई अनि म सेतो हुनेछु हिउँभन्दा । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 260(Hey Ishwor Aafno Karuna)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. हे ईश्वर आफ्नो करुणाअन्सार अनुग्रह गर्नुहोस्<br/>कोमल कृपान्सार अपराध मेरा मेटाइदिनुहोस् ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. मलाई नै मेरा अधर्मबाट सफासँग धुनोस्<br/>मलाई हे ईश्वर मेरा पापबाट शुद्ध है गर्नुहोस् ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. किनकि आफ्ना अपराधहरू स्वीकार गर्छु म<br/>पाप मेरो सदासर्वदा प्रभु मेरै साम्नेमा छ ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. गरेको छु नि पाप मैले खाली तपाईंकै विरुद्धमा<br/>गरेछु त्यही, जो छ खराबी तपाईंको दृष्टिमा ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>५. हेर्नुहोस् लौ म उत्पन्न पनि भएँ अधर्ममा<br/>आमाले मलाई गर्भधारण गरिन् है पापैमा ।</lines>
+		</verse>
+		<verse name="v6">
+			<lines>६. अन्तस्करणमा हेर्नुहोस् तपाईं खोज्नुहुन्छ सत्य<br/>र भित्री मनमा ज्ञान जान्ने मलाई तुल्याउनुहुनेछ ।</lines>
+		</verse>
+		<verse name="v7">
+			<lines>७. हिसपले मलाई मस्काउनुहोस् हुनेछु म सफा<br/>धुनुहोस् मलाई अनि म सेतो हुनेछु हिउँभन्दा । </lines>
+		</verse>
+	</lyrics>
+</song>

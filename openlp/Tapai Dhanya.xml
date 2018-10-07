@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 260(Tapai Dhanya)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः तपाईं धन्य (३) (तपाईं धन्य) २</lines></verse><verse name="v2"><lines>१. आकाशमा उड़्ने पंक्षी तपाईंले बनाउनुभो<br/>जमीनमा हिँड़्ने मानिस तपाईंले रच्नुभो ।</lines></verse><verse name="v3"><lines>२. पानीमुनि बस्ने प्राणी तपाईंले बनाउनुभो<br/>प्रकृतिको सुन्दर हिमाल तपाईंले राख्नुभो । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 260(Tapai Dhanya)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः तपाईं धन्य (३) (तपाईं धन्य) २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. आकाशमा उड़्ने पंक्षी तपाईंले बनाउनुभो<br/>जमीनमा हिँड़्ने मानिस तपाईंले रच्नुभो ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. पानीमुनि बस्ने प्राणी तपाईंले बनाउनुभो<br/>प्रकृतिको सुन्दर हिमाल तपाईंले राख्नुभो । </lines>
+		</verse>
+	</lyrics>
+</song>

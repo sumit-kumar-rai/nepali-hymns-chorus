@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 697(Prabhu Ma Tapaiko Charanma)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः प्रभु म तपाईंको चरणमा, आउँदछु भारी व्यथा बोकी,<br/>झुकाउँछु कमजोर यस शिरलाई, पश्चात्तापी मनको आँसु पोखी ।</lines></verse><verse name="v2"><lines>१. हिँड्न सकिनँ, गाह्रो भयो, उत्साह जाँगर हटेर गयो,<br/>मन यो चञ्चल, छैन स्थिर, बग्न थालेकाछन् व्यथा, पिर ।<br/>प्रार्थना गर्छु तपाईं प्रभुमा, डोर्र्‍याउनोस् प्रभु कदम कदममा ।</lines></verse><verse name="v3"><lines>२. सिकाउनोस् प्रभु, हिँड्न वचनमा, भरोसा गर्न, तपाईं प्रभुमा,<br/>कमजोर देह यो सामथ्र्य छैन, तपाईं विना म हिँड्न सक्दिन ।<br/>प्रार्थना गर्छु तपाईं प्रभुमा, डोर्र्‍याउनोस् प्रभु कदम कदममा । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 697(Prabhu Ma Tapaiko Charanma)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः प्रभु म तपाईंको चरणमा, आउँदछु भारी व्यथा बोकी,<br/>झुकाउँछु कमजोर यस शिरलाई, पश्चात्तापी मनको आँसु पोखी ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. हिँड्न सकिनँ, गाह्रो भयो, उत्साह जाँगर हटेर गयो,<br/>मन यो चञ्चल, छैन स्थिर, बग्न थालेकाछन् व्यथा, पिर ।<br/>प्रार्थना गर्छु तपाईं प्रभुमा, डोर्र्‍याउनोस् प्रभु कदम कदममा ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. सिकाउनोस् प्रभु, हिँड्न वचनमा, भरोसा गर्न, तपाईं प्रभुमा,<br/>कमजोर देह यो सामथ्र्य छैन, तपाईं विना म हिँड्न सक्दिन ।<br/>प्रार्थना गर्छु तपाईं प्रभुमा, डोर्र्‍याउनोस् प्रभु कदम कदममा । </lines>
+		</verse>
+	</lyrics>
+</song>

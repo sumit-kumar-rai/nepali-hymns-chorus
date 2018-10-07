@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 305(Mero Jiwanko Sath Nath)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः मेरो जीवनको साथ नाथ प्रभु येशू<br/>जो मेरो हरेक पलको साँचो मित्र हुन् ।</lines></verse><verse name="v2"><lines>१. जिन्दगी यो पापी मेरोमा स्नेहको बहार ल्याई<br/>जीवनको मूल्य बुझाई, दिए त्राण मलाई (२)<br/>दियो त्राण मलाई असीम प्रेम देखाई ।</lines></verse><verse name="v3"><lines>२. द्वेष पापीको यो संसारमा प्रभु ख्रीष्टको पुकार<br/>थकित र कष्टित लोक आऊ पापको बोझा ल्याऊ (२)<br/>पापको बोझा ल्याऊ दिनेछन् विश्राम तिमीलाई ।</lines></verse><verse name="v4"><lines>३. हृदय खोलेर आऊ विश्वास येशूमा लगाऊ<br/>दिन्छन् मुक्ति तिमीलाई पापको बोझा हटाई (२)<br/>पापको बोझा हटाई ज्योतिको प्रकाश गराई । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 305(Mero Jiwanko Sath Nath)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः मेरो जीवनको साथ नाथ प्रभु येशू<br/>जो मेरो हरेक पलको साँचो मित्र हुन् ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. जिन्दगी यो पापी मेरोमा स्नेहको बहार ल्याई<br/>जीवनको मूल्य बुझाई, दिए त्राण मलाई (२)<br/>दियो त्राण मलाई असीम प्रेम देखाई ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. द्वेष पापीको यो संसारमा प्रभु ख्रीष्टको पुकार<br/>थकित र कष्टित लोक आऊ पापको बोझा ल्याऊ (२)<br/>पापको बोझा ल्याऊ दिनेछन् विश्राम तिमीलाई ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. हृदय खोलेर आऊ विश्वास येशूमा लगाऊ<br/>दिन्छन् मुक्ति तिमीलाई पापको बोझा हटाई (२)<br/>पापको बोझा हटाई ज्योतिको प्रकाश गराई । </lines>
+		</verse>
+	</lyrics>
+</song>

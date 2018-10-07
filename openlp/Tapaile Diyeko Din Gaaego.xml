@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 179(Tapaile Diyeko Din Gaaego)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. तपाईंले दिएको दिन गइगयो अब आज्ञा दियौ हवस् रात<br/>बिहान तपाईंको स्तुति गायौं बिसाऔं पनि स्तुति साथ ।</lines></verse><verse name="v2"><lines>२. होस् धन्यवाद तपाईंको मण्डली भूमण्डल घुम्दा–घुम्दामा<br/>न दिउँसो नता राती सुती सब भूलोकभर बस्छ पहरा ।</lines></verse><verse name="v3"><lines>३. सब महाद्विप र टापुहुँदो बिहानले दिन पुर्‌याउँदछ<br/>कहिल्यै नटुँग्ने बिन्ती गर्दा न गीतको स्वर चुप हुँदछ ।</lines></verse><verse name="v4"><lines>४. जब हामी सुत्छौं हाम्रा भाइ तब जाग्दछन् अर्को अद्र्धमा<br/>र घण्टाघण्टा अर्का जनले उचाल्दछन् नाउँ प्रभुका ।</lines></verse><verse name="v5"><lines>५. आमेन हे प्रभु राज्य तपाईंको टल्दैन राज्य संसारका झैँ<br/>तै स्याँठ्ठै न मानिञ्ज्यालसम्म अनन्त बढ्दै छ बढ्दै । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 179(Tapaile Diyeko Din Gaaego)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. तपाईंले दिएको दिन गइगयो अब आज्ञा दियौ हवस् रात<br/>बिहान तपाईंको स्तुति गायौं बिसाऔं पनि स्तुति साथ ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. होस् धन्यवाद तपाईंको मण्डली भूमण्डल घुम्दा–घुम्दामा<br/>न दिउँसो नता राती सुती सब भूलोकभर बस्छ पहरा ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. सब महाद्विप र टापुहुँदो बिहानले दिन पुर्‌याउँदछ<br/>कहिल्यै नटुँग्ने बिन्ती गर्दा न गीतको स्वर चुप हुँदछ ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. जब हामी सुत्छौं हाम्रा भाइ तब जाग्दछन् अर्को अद्र्धमा<br/>र घण्टाघण्टा अर्का जनले उचाल्दछन् नाउँ प्रभुका ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>५. आमेन हे प्रभु राज्य तपाईंको टल्दैन राज्य संसारका झैँ<br/>तै स्याँठ्ठै न मानिञ्ज्यालसम्म अनन्त बढ्दै छ बढ्दै । </lines>
+		</verse>
+	</lyrics>
+</song>

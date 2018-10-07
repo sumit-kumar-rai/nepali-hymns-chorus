@@ -1,2 +1,37 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 494(Sunnuhos Chimeki Hamro Yo)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः सुन्नुहोस् छिमेकी हाम्रो यो दुनियाँमा को होला सुन न (२)</lines></verse><verse name="v2"><lines>१. एक प्रौढ यात्री यरूशलेमदेखि जाँदैथ्यो यरिहो<br/>जाँदा है जाँदा बाटोमा परे हातमा डाँकुको ।</lines></verse><verse name="v3"><lines>२. अध्मरो पारी लुटपाट पारी जङ्गलमा फ्याँकियो<br/>आपद्मा पर्दा कोही थिएन त्यसको सुसारे-गोहार ।</lines></verse><verse name="v4"><lines>३. त्यो बाटो एउटा पुजारी गयो हेरेर घबरायो<br/>म हुँ पुजारी कदापि छुन्नँ सम्झेर डरायो ।</lines></verse><verse name="v5"><lines>४. पुजारी गयो, तब लेवी आयो त्यो बाटो भएर<br/>डरले आँखा तर्काई उसै सहरमा भागिगो ।</lines></verse><verse name="v6"><lines>५. अन्तैमा सामरी जातैको तुच्छ आएर टिठायो<br/>मलम पट्टी घाउँमा बाँधी गधामा चढायो ।</lines></verse><verse name="v7"><lines>६. सरायमा लगे, स्यार-सुसार गरे, खटाए सियारे<br/>छिमेकी को हुन् भनन त्यसको कष्टमा गोहारे ।</lines></verse><verse name="v8"><lines>७. येशू हुन् हाम्रा सदैव छिमेकी कष्टमा स्याहार्ने<br/>पापको घाउमा औषधि बाँधी स्वर्गीय, पुर्र्‍याउने । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 494(Sunnuhos Chimeki Hamro Yo)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः सुन्नुहोस् छिमेकी हाम्रो यो दुनियाँमा को होला सुन न (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. एक प्रौढ यात्री यरूशलेमदेखि जाँदैथ्यो यरिहो<br/>जाँदा है जाँदा बाटोमा परे हातमा डाँकुको ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. अध्मरो पारी लुटपाट पारी जङ्गलमा फ्याँकियो<br/>आपद्मा पर्दा कोही थिएन त्यसको सुसारे-गोहार ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. त्यो बाटो एउटा पुजारी गयो हेरेर घबरायो<br/>म हुँ पुजारी कदापि छुन्नँ सम्झेर डरायो ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. पुजारी गयो, तब लेवी आयो त्यो बाटो भएर<br/>डरले आँखा तर्काई उसै सहरमा भागिगो ।</lines>
+		</verse>
+		<verse name="v6">
+			<lines>५. अन्तैमा सामरी जातैको तुच्छ आएर टिठायो<br/>मलम पट्टी घाउँमा बाँधी गधामा चढायो ।</lines>
+		</verse>
+		<verse name="v7">
+			<lines>६. सरायमा लगे, स्यार-सुसार गरे, खटाए सियारे<br/>छिमेकी को हुन् भनन त्यसको कष्टमा गोहारे ।</lines>
+		</verse>
+		<verse name="v8">
+			<lines>७. येशू हुन् हाम्रा सदैव छिमेकी कष्टमा स्याहार्ने<br/>पापको घाउमा औषधि बाँधी स्वर्गीय, पुर्र्‍याउने । </lines>
+		</verse>
+	</lyrics>
+</song>

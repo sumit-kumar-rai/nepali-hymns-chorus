@@ -1,2 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 19(Krusaima Krusaima Malai)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>क्रूसैमा क्रूसैमा मलाई परेथ्यो ज्योति मेरो पापको भारी हटिगो<br/>त्यहाँ विश्वास गरी मैले पाएँ दृष्टि र अहिलेको जीवन खुशी भो । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 19(Krusaima Krusaima Malai)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>क्रूसैमा क्रूसैमा मलाई परेथ्यो ज्योति मेरो पापको भारी हटिगो<br/>त्यहाँ विश्वास गरी मैले पाएँ दृष्टि र अहिलेको जीवन खुशी भो । </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 338(Ma Tapaiko Hu)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. म तपाईंको हुँ, कति प्यार मलाई प्रभु ख्रीष्ट दर्शाउनुभो<br/>तर विश्वासद्वारा तपाईंको छेउ आउने तृष्णा गर्दछु ।</lines></verse><verse name="v2"><lines>कोः मलाई नजिक, नजिक हे प्रभु ल्याउनोस् आफ्नो क्रूसको छेउ<br/>मलाई (नजिक) ३ हे प्रभु, आफ्नो घायल शरीरको छेउ ।</lines></verse><verse name="v3"><lines>२. ईश्वरको अनुग्रहको शक्तिले म प्रभुको काम गरूँ<br/>इच्छा मेरो तपाईंकोमा मिलाई ईश्वरमा आशा राखूँ ।</lines></verse><verse name="v4"><lines>३. जब प्रार्थनामा मित्रसँग झैँ तपाईंसँग बोल्छु म<br/>तब आउँदा तपाईंको सम्मुखमा मलाई कति आनन्द छ ।</lines></verse><verse name="v5"><lines>४. म नमरूञ्जेल प्रेमको अनुभव गर्न सक्तिनँ पूरा<br/>म नबसुञ्जेल ख्रीष्टको संगतमा मेरो मेट्दैन तृष्णा । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 338(Ma Tapaiko Hu)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. म तपाईंको हुँ, कति प्यार मलाई प्रभु ख्रीष्ट दर्शाउनुभो<br/>तर विश्वासद्वारा तपाईंको छेउ आउने तृष्णा गर्दछु ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>कोः मलाई नजिक, नजिक हे प्रभु ल्याउनोस् आफ्नो क्रूसको छेउ<br/>मलाई (नजिक) ३ हे प्रभु, आफ्नो घायल शरीरको छेउ ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. ईश्वरको अनुग्रहको शक्तिले म प्रभुको काम गरूँ<br/>इच्छा मेरो तपाईंकोमा मिलाई ईश्वरमा आशा राखूँ ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. जब प्रार्थनामा मित्रसँग झैँ तपाईंसँग बोल्छु म<br/>तब आउँदा तपाईंको सम्मुखमा मलाई कति आनन्द छ ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. म नमरूञ्जेल प्रेमको अनुभव गर्न सक्तिनँ पूरा<br/>म नबसुञ्जेल ख्रीष्टको संगतमा मेरो मेट्दैन तृष्णा । </lines>
+		</verse>
+	</lyrics>
+</song>

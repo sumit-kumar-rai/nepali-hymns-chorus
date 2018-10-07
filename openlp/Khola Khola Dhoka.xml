@@ -1,2 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 214(Khola Khola Dhoka)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः खोल खोल ढोका, खोल्दैनौ किन नी<br/>प्रभु आए तिमीलाई मुक्तिदान दिन नी ।<br/><br/>१. पछुताऊ गर, शुद्ध गर आऊ न सबै ढिलो नगर (२)<br/>प्रभु ख्रीष्टले तारिदिन्छन् विश्वास गर पापलाई नगर ।<br/><br/>२. बुद्धिमानी म छु ज्ञानी भन्छन् सबै संसार (२)<br/>शान्ति दिने, मुक्ति दिने भन्छन् प्रभु येशू तारणहार ।<br/><br/>३. मुक्तिदाता आउनुभयो संसारमा ज्योति बनेर (२)<br/>दाजु-भाइ, दिदी-बहिनी आऊ न सबै विश्वास गरेर ।<br/><br/>४. क्रूसमाथि चढ्नुभयो हाम्रो प्रभु येशू विचरा (२)<br/>स्तुति गर्छु चरणमा पर्छु आउँदै छु म पापी अघोर ।<br/><br/>५. दाजु-भाइ, दिदी-बहिनी बस्छौ किन शान्त भएर (२)<br/>बेला छैन बितिगयो कति बस्छौ पापै गरेर । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 214(Khola Khola Dhoka)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः खोल खोल ढोका, खोल्दैनौ किन नी<br/>प्रभु आए तिमीलाई मुक्तिदान दिन नी ।<br/><br/>१. पछुताऊ गर, शुद्ध गर आऊ न सबै ढिलो नगर (२)<br/>प्रभु ख्रीष्टले तारिदिन्छन् विश्वास गर पापलाई नगर ।<br/><br/>२. बुद्धिमानी म छु ज्ञानी भन्छन् सबै संसार (२)<br/>शान्ति दिने, मुक्ति दिने भन्छन् प्रभु येशू तारणहार ।<br/><br/>३. मुक्तिदाता आउनुभयो संसारमा ज्योति बनेर (२)<br/>दाजु-भाइ, दिदी-बहिनी आऊ न सबै विश्वास गरेर ।<br/><br/>४. क्रूसमाथि चढ्नुभयो हाम्रो प्रभु येशू विचरा (२)<br/>स्तुति गर्छु चरणमा पर्छु आउँदै छु म पापी अघोर ।<br/><br/>५. दाजु-भाइ, दिदी-बहिनी बस्छौ किन शान्त भएर (२)<br/>बेला छैन बितिगयो कति बस्छौ पापै गरेर । </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 556(Biujha Biujha Hai)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः ब्यूँझ-ब्यूँझ है हे ख्रीष्टीय सन्तान हो,<br/>जाग-जाग है हे ख्रीष्टीय युवा हो<br/>जाग है, ब्यूँझ है, ढिलो नगर (ख्रीष्टीय युवा हो) २</lines></verse><verse name="v2"><lines>१. जीवनमा नैराश्य र हुरी-बतास र आँधी आउँछ<br/>तर्साउने चट्याङ अनि कालो बाक्लो बादल छाउँछ ।<br/>सतावटको छालसँगै, रगतको आहालसँगै, सिङ्गो हिमालसँगै<br/>येशूको साथ-साथै, जाग है, उठ है (हे ख्रीष्टीय युवा हो) २</lines></verse><verse name="v3"><lines>२. सुस्ताउने बेला होइन, सुस्केरामा जिउनुहुन्न<br/>तर्साउने बादल अनि कालो बाक्लो बादल छाउँछ<br/>सलल बगाउँदै, हातमा हात मिलाउँदै<br/>फुट्नेहरूलाई जुटाउँदै, सुत्नेहरूलाई जगाउँदै उठ है । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 556(Biujha Biujha Hai)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः ब्यूँझ-ब्यूँझ है हे ख्रीष्टीय सन्तान हो,<br/>जाग-जाग है हे ख्रीष्टीय युवा हो<br/>जाग है, ब्यूँझ है, ढिलो नगर (ख्रीष्टीय युवा हो) २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. जीवनमा नैराश्य र हुरी-बतास र आँधी आउँछ<br/>तर्साउने चट्याङ अनि कालो बाक्लो बादल छाउँछ ।<br/>सतावटको छालसँगै, रगतको आहालसँगै, सिङ्गो हिमालसँगै<br/>येशूको साथ-साथै, जाग है, उठ है (हे ख्रीष्टीय युवा हो) २</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. सुस्ताउने बेला होइन, सुस्केरामा जिउनुहुन्न<br/>तर्साउने बादल अनि कालो बाक्लो बादल छाउँछ<br/>सलल बगाउँदै, हातमा हात मिलाउँदै<br/>फुट्नेहरूलाई जुटाउँदै, सुत्नेहरूलाई जगाउँदै उठ है । </lines>
+		</verse>
+	</lyrics>
+</song>

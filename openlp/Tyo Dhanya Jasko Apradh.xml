@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 286(Tyo Dhanya Jasko Apradh)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः त्यो धन्य जसको अपराध क्षमा गरियो<br/>र जसको सबै पाप पनि ढाकियो ।</lines></verse><verse name="v2"><lines>१. प्रभु जसको पापलाई लेखा लिँदैनन्<br/>त्यो धन्य जसको दिलमा केही कपट छैन ।</lines></verse><verse name="v3"><lines>२. जबसम्म चुप रहे मेरा हाडहरू<br/>कराउँदै-कराउँदै सबै मक्किए ।</lines></verse><verse name="v4"><lines>३. दिनमा अनि रातमा हे मेरो ईश्वर<br/>तपाईंको हात ममाथि भारी थियो ।</lines></verse><verse name="v5"><lines>४. अँ, बोसो पनि मेरो पग्लिगयो<br/>जिउको सबै रस पनि सुकिगयो । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 286(Tyo Dhanya Jasko Apradh)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः त्यो धन्य जसको अपराध क्षमा गरियो<br/>र जसको सबै पाप पनि ढाकियो ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. प्रभु जसको पापलाई लेखा लिँदैनन्<br/>त्यो धन्य जसको दिलमा केही कपट छैन ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. जबसम्म चुप रहे मेरा हाडहरू<br/>कराउँदै-कराउँदै सबै मक्किए ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. दिनमा अनि रातमा हे मेरो ईश्वर<br/>तपाईंको हात ममाथि भारी थियो ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. अँ, बोसो पनि मेरो पग्लिगयो<br/>जिउको सबै रस पनि सुकिगयो । </lines>
+		</verse>
+	</lyrics>
+</song>

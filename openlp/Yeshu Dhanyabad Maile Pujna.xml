@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 482(Yeshu Dhanyabad Maile Pujna)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः येशू धन्यवाद मैले पुज्नुपर्दैन न आकाश, न पृथ्वीका आकृतिहरू<br/>तिमीले चिनाइदियौ साँचो परमेश्वरलाई । येशू धन्यवाद ।</lines></verse><verse name="v2"><lines>१. पहाड, नदी, जङ्गल र बादल तिम्रा सृष्टि हुन् (२)<br/>कसरी पुजूँ मैले तिम्रा हातका रचनाहरू ?<br/>तिमीले बताइदियौ आदि-अन्त तिमी नै हौ (२)</lines></verse><verse name="v3"><lines>२. तोडूँ कति मेरो जीवनलाई मुक्तिको खोजीमा (२)<br/>पूण्य गरे भन्छु, छैन शान्ति मेरो आत्मामा<br/>तिमीले देखाइदियौ बाटो सत्य र जीवन (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 482(Yeshu Dhanyabad Maile Pujna)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः येशू धन्यवाद मैले पुज्नुपर्दैन न आकाश, न पृथ्वीका आकृतिहरू<br/>तिमीले चिनाइदियौ साँचो परमेश्वरलाई । येशू धन्यवाद ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. पहाड, नदी, जङ्गल र बादल तिम्रा सृष्टि हुन् (२)<br/>कसरी पुजूँ मैले तिम्रा हातका रचनाहरू ?<br/>तिमीले बताइदियौ आदि-अन्त तिमी नै हौ (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. तोडूँ कति मेरो जीवनलाई मुक्तिको खोजीमा (२)<br/>पूण्य गरे भन्छु, छैन शान्ति मेरो आत्मामा<br/>तिमीले देखाइदियौ बाटो सत्य र जीवन (२) </lines>
+		</verse>
+	</lyrics>
+</song>

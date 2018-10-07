@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 144(Khristh Yeshu Jagat)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. ख्रीष्ट येशू जगत छोड्दामा दिइगए बिदा भई<br/>एक शान्तिदाता अगुवा सँग बस्नलाई ।</lines></verse><verse name="v2"><lines>२. सब चिन्ता उनले थाप्दछन् दूर गर्दछन् सब डर<br/>र स्वर्गका कुरा बोल्दछन् जीवन अमर ।</lines></verse><verse name="v3"><lines>३. र हाम्रो भलाइ जति भो र हाम्रो सबै जय<br/>र सोच पिताको कुराको हुन् उनैको ।</lines></verse><verse name="v4"><lines>४. हे आत्मा, सब अनुग्रहका होस् दृष्टि दयाको<br/>र हाम्रो अयोग्य हृदयमा बास तपाईंको ।</lines></verse><verse name="v5"><lines>५. होस् पिता पुत्रको बढाइ होस् पनि आत्माको<br/>होस् स्तुति, महिमा तीनलाई जो एकै हो । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 144(Khristh Yeshu Jagat)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. ख्रीष्ट येशू जगत छोड्दामा दिइगए बिदा भई<br/>एक शान्तिदाता अगुवा सँग बस्नलाई ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. सब चिन्ता उनले थाप्दछन् दूर गर्दछन् सब डर<br/>र स्वर्गका कुरा बोल्दछन् जीवन अमर ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. र हाम्रो भलाइ जति भो र हाम्रो सबै जय<br/>र सोच पिताको कुराको हुन् उनैको ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. हे आत्मा, सब अनुग्रहका होस् दृष्टि दयाको<br/>र हाम्रो अयोग्य हृदयमा बास तपाईंको ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>५. होस् पिता पुत्रको बढाइ होस् पनि आत्माको<br/>होस् स्तुति, महिमा तीनलाई जो एकै हो । </lines>
+		</verse>
+	</lyrics>
+</song>

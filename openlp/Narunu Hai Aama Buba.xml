@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 700(Narunu Hai Aama Buba)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः नरुनु है हे आमा बाबा (२)<br/>तिम्रो छोरो मरेको होइन प्रभुले लानु भएको (२)</lines></verse><verse name="v2"><lines>१. म त प्रभुको घरमा सुखसँग छु<br/>प्रभुको मीठो मीठो भजन सधैँ गाउँदछु (२)<br/>प्रभुको न्यानो अङ्गालोमा आमा तिम्रै ममता पाउँदछु ।</lines></verse><verse name="v3"><lines>२. म छुइनँ भनेर संसारमा लौन तिमी हरेस नखाओ<br/>एक दिन त सबै उनकै राज्यमा अवश्य भेट्नेछौँ (२)<br/>यही आशामा बस्नु है सबै प्रभुको आगमन नजीक छ । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 700(Narunu Hai Aama Buba)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः नरुनु है हे आमा बाबा (२)<br/>तिम्रो छोरो मरेको होइन प्रभुले लानु भएको (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. म त प्रभुको घरमा सुखसँग छु<br/>प्रभुको मीठो मीठो भजन सधैँ गाउँदछु (२)<br/>प्रभुको न्यानो अङ्गालोमा आमा तिम्रै ममता पाउँदछु ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. म छुइनँ भनेर संसारमा लौन तिमी हरेस नखाओ<br/>एक दिन त सबै उनकै राज्यमा अवश्य भेट्नेछौँ (२)<br/>यही आशामा बस्नु है सबै प्रभुको आगमन नजीक छ । </lines>
+		</verse>
+	</lyrics>
+</song>

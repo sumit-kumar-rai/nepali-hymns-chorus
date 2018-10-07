@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 741(Hey Prithvima Bhayeka Manisharu)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः हे पृथ्वीमा भएका मानिसहरू, हे चन्द्र सूर्य र ताराहरू<br/>हे बादल अनि वर्षाहरू, परमप्रभुको महिमा गर<br/>आफ्नो सृष्टिकर्ताको महिमा गर (२)<br/>हल्लेलूयाह, होसन्ना ईश्वरलाई महिमा (२)</lines></verse><verse name="v2"><lines>१. नदी, पोखरी, समुन्द्र, सागर हे सबै जलका प्राणीहरू<br/>बन-जङ्गल र बँगैचाभित्र हिँड्ने र घस्रने जन्तुहरू<br/>आफ्नो सृष्टिकर्ताको महिमा गर ।</lines></verse><verse name="v3"><lines>२. आकाशभरिका पंक्षीहरू, हे राजाहरू सारा जातिहरू<br/>न्यायी बनेका भारदारहरू, जवान, बालक र वृद्धहरू<br/>आफ्नो सृष्टिकर्ताको महिमा गर ।</lines></verse><verse name="v4"><lines>३. उच्च हिमाल र हरियाली पर्वत, सम्म भूमि र चट्टानहरू<br/>आँधी तुफान र आगो असिना, फल बृक्ष र देवदारहरू,<br/>आफ्नो सृष्टिकर्ताको महिमा गर ।</lines></verse><verse name="v5"><lines>४. उहाँले आज्ञा गर्नुभयो र ती सबै कुरा सृष्टि भयो<br/>उहाँले तिनलाई सधैँको लागि अटल विधि दिनुभयो ।<br/>अनि रहिरहने बनाउनुभयो । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 741(Hey Prithvima Bhayeka Manisharu)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः हे पृथ्वीमा भएका मानिसहरू, हे चन्द्र सूर्य र ताराहरू<br/>हे बादल अनि वर्षाहरू, परमप्रभुको महिमा गर<br/>आफ्नो सृष्टिकर्ताको महिमा गर (२)<br/>हल्लेलूयाह, होसन्ना ईश्वरलाई महिमा (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. नदी, पोखरी, समुन्द्र, सागर हे सबै जलका प्राणीहरू<br/>बन-जङ्गल र बँगैचाभित्र हिँड्ने र घस्रने जन्तुहरू<br/>आफ्नो सृष्टिकर्ताको महिमा गर ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. आकाशभरिका पंक्षीहरू, हे राजाहरू सारा जातिहरू<br/>न्यायी बनेका भारदारहरू, जवान, बालक र वृद्धहरू<br/>आफ्नो सृष्टिकर्ताको महिमा गर ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. उच्च हिमाल र हरियाली पर्वत, सम्म भूमि र चट्टानहरू<br/>आँधी तुफान र आगो असिना, फल बृक्ष र देवदारहरू,<br/>आफ्नो सृष्टिकर्ताको महिमा गर ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. उहाँले आज्ञा गर्नुभयो र ती सबै कुरा सृष्टि भयो<br/>उहाँले तिनलाई सधैँको लागि अटल विधि दिनुभयो ।<br/>अनि रहिरहने बनाउनुभयो । </lines>
+		</verse>
+	</lyrics>
+</song>

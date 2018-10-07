@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 300(Kalbari Dadako Tyo Krushma)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. कलवरी डाँडाको त्यो क्रूसमा जहाँ ख्रीष्ट टाँगिए<br/>कत्रो उदेकको त्यो प्रेम उनले ममा प्रकट गराए,<br/>उनको हृदय छेडियो, हातमा किलाको दाग<br/>पाउ किलाले जो घोचियो, मेरो र तिम्रो यो भाग ।</lines></verse><verse name="v2"><lines>कोः धन्य हो पाठो ईश्वरको स्तुति प्रभुको<br/>येशूको गाउँदै रहनेछु यश सदा, उनको जय होस्</lines></verse><verse name="v3"><lines>२. बाँच्ने उपाय अरू नदेख्दा म क्रूसमा गएँ<br/>ख्रीष्टले आफ्नो दयाको हातले मलाई चङ्गा गराए,<br/>उदेकको बदलाव ममा ल्याउनुभो ख्रीष्टले<br/>हृदयको दुःख निकालेर आफ्नो शान्ति दिए ।</lines></verse><verse name="v4"><lines>३. आऊ हे मित्र ख्रीष्ट प्रभुमा उनले बोलाउँछन्<br/>हृदय अशान्तिले भरेको पापले दबेको जीवन,<br/>पाप क्षमा र शान्ति ख्रीष्ट दिनेछन् उसलाई<br/>अरू कोही दाता छैन प्रभु मसीह सिवाय । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 300(Kalbari Dadako Tyo Krushma)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. कलवरी डाँडाको त्यो क्रूसमा जहाँ ख्रीष्ट टाँगिए<br/>कत्रो उदेकको त्यो प्रेम उनले ममा प्रकट गराए,<br/>उनको हृदय छेडियो, हातमा किलाको दाग<br/>पाउ किलाले जो घोचियो, मेरो र तिम्रो यो भाग ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>कोः धन्य हो पाठो ईश्वरको स्तुति प्रभुको<br/>येशूको गाउँदै रहनेछु यश सदा, उनको जय होस्</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. बाँच्ने उपाय अरू नदेख्दा म क्रूसमा गएँ<br/>ख्रीष्टले आफ्नो दयाको हातले मलाई चङ्गा गराए,<br/>उदेकको बदलाव ममा ल्याउनुभो ख्रीष्टले<br/>हृदयको दुःख निकालेर आफ्नो शान्ति दिए ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. आऊ हे मित्र ख्रीष्ट प्रभुमा उनले बोलाउँछन्<br/>हृदय अशान्तिले भरेको पापले दबेको जीवन,<br/>पाप क्षमा र शान्ति ख्रीष्ट दिनेछन् उसलाई<br/>अरू कोही दाता छैन प्रभु मसीह सिवाय । </lines>
+		</verse>
+	</lyrics>
+</song>

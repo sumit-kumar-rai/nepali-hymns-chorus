@@ -1,2 +1,31 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 336(Linos Prabhu Mero Jyan)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. लिनोस् प्रभु मेरो ज्यान, होस् तपाईंलाई बलिदान<br/>लिनोस् हरेक दिन र क्षण सधैँ स्तुतिमा बितून् ।</lines></verse><verse name="v2"><lines>२. लिनोस् मेरा हात, प्रभु लाउनोस् काममा तपाईंको<br/>लिनोस् मेरा पाउ, प्रभु आफ्नो पथमा हिंडाउन ।</lines></verse><verse name="v3"><lines>३. लिनोस् मेरो स्वर, प्रभु, तपाईंको बढाइँँ गर्छु<br/>लिनोस् मेरा ओठ, प्रभु, होस् सुवचन भरेको ।</lines></verse><verse name="v4"><lines>४. लिनोस् मेरो धन, प्रभु, सब तपाईंलाई बुझाउँछु<br/>लिनोस् बुद्धि, ज्ञान, प्रभु, वशमा ल्याई तपाईंको ।</lines></verse><verse name="v5"><lines>५. लिनोस् इच्छा, हे प्रभु, आफ्नैसित मिलाउन<br/>लिनोस् मन आफ्नै ठान्नोस् तपाईंको सिंहासन होस् ।</lines></verse><verse name="v6"><lines>६. लिनोस् मेरो प्रेम, प्रभु, चरणमा म खन्याउँछु<br/>लिनोस् तन-मन-धन, प्रभु, ख्रीष्टकै लागि जिउनेछु । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 336(Linos Prabhu Mero Jyan)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. लिनोस् प्रभु मेरो ज्यान, होस् तपाईंलाई बलिदान<br/>लिनोस् हरेक दिन र क्षण सधैँ स्तुतिमा बितून् ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. लिनोस् मेरा हात, प्रभु लाउनोस् काममा तपाईंको<br/>लिनोस् मेरा पाउ, प्रभु आफ्नो पथमा हिंडाउन ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. लिनोस् मेरो स्वर, प्रभु, तपाईंको बढाइँँ गर्छु<br/>लिनोस् मेरा ओठ, प्रभु, होस् सुवचन भरेको ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. लिनोस् मेरो धन, प्रभु, सब तपाईंलाई बुझाउँछु<br/>लिनोस् बुद्धि, ज्ञान, प्रभु, वशमा ल्याई तपाईंको ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>५. लिनोस् इच्छा, हे प्रभु, आफ्नैसित मिलाउन<br/>लिनोस् मन आफ्नै ठान्नोस् तपाईंको सिंहासन होस् ।</lines>
+		</verse>
+		<verse name="v6">
+			<lines>६. लिनोस् मेरो प्रेम, प्रभु, चरणमा म खन्याउँछु<br/>लिनोस् तन-मन-धन, प्रभु, ख्रीष्टकै लागि जिउनेछु । </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 147(Ishwor Yaha Upasthit)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. ईश्वर यहाँ उपस्थित छौं आशिष् अहिले दिनलाई<br/>मेघले हेर घेर्दै आयो इच्छा पूरो होस् तिम्रै ।</lines></verse><verse name="v2"><lines>कोः हामी स्वर्गे बप्तिस्मा माग्छौं घनघोर वृष्टि गर<br/>प्रिय येशू पर्खंदै छौं मन जगाऊ यही पहर ।</lines></verse><verse name="v3"><lines>२. अनुभव भो उपस्थित छौं भैगो पवित्र भूमि<br/>तर अझै बढ्ता माग्छौं आउनोस् मनमा यस घरी ।</lines></verse><verse name="v4"><lines>३. उपस्थित छ अब बिन्ती छ ल्याउँदै छौं अब विश्वासलाई<br/>आत्मा आज जलाऊ मनमा अहिले आफ्नो हात बढाई ।</lines></verse><verse name="v5"><lines>४. प्यारसित हृदय अब देख्दछौं अहिले खोल भण्डारलाई<br/>एउटा गराऊ वृष्टि ठूलो आशिष अहिले देऊ पठाई । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 147(Ishwor Yaha Upasthit)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. ईश्वर यहाँ उपस्थित छौं आशिष् अहिले दिनलाई<br/>मेघले हेर घेर्दै आयो इच्छा पूरो होस् तिम्रै ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>कोः हामी स्वर्गे बप्तिस्मा माग्छौं घनघोर वृष्टि गर<br/>प्रिय येशू पर्खंदै छौं मन जगाऊ यही पहर ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. अनुभव भो उपस्थित छौं भैगो पवित्र भूमि<br/>तर अझै बढ्ता माग्छौं आउनोस् मनमा यस घरी ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. उपस्थित छ अब बिन्ती छ ल्याउँदै छौं अब विश्वासलाई<br/>आत्मा आज जलाऊ मनमा अहिले आफ्नो हात बढाई ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. प्यारसित हृदय अब देख्दछौं अहिले खोल भण्डारलाई<br/>एउटा गराऊ वृष्टि ठूलो आशिष अहिले देऊ पठाई । </lines>
+		</verse>
+	</lyrics>
+</song>

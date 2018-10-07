@@ -1,2 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 271(Parmeshwor Pita Kati Mahan)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. परमेश्वर पिता कति महान् हाम्रा मित्र विश्वासी पालनहार<br/>उनको शक्ति र प्रेम छन् समान् छन् दुवै अनन्त र अपार ।</lines></verse><verse name="v2"><lines>२. ख्रीष्ट आदि र अन्त हुन् उनी जसले आत्मा पुर्र्‍याउँछन् स्वर्गमा<br/>आशिष् सम्झँदा गरौं स्तुति भविष्यको लागि भरोसा । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 271(Parmeshwor Pita Kati Mahan)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. परमेश्वर पिता कति महान् हाम्रा मित्र विश्वासी पालनहार<br/>उनको शक्ति र प्रेम छन् समान् छन् दुवै अनन्त र अपार ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. ख्रीष्ट आदि र अन्त हुन् उनी जसले आत्मा पुर्र्‍याउँछन् स्वर्गमा<br/>आशिष् सम्झँदा गरौं स्तुति भविष्यको लागि भरोसा । </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 116(Dekheka Chau K Timile)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः देखेका छौ के तिमीले, मेरो मुक्तिदातालाई<br/>सुनेका छौ के तिमीले उनको मधुर बाणीलाई (२)</lines></verse><verse name="v2"><lines>१. धर्मीलाई त होइन तर, बचाउन आए पापीलाई,<br/>मृत्युदेखि पार तारी, अनन्त जीवन दिनलाई (२)</lines></verse><verse name="v3"><lines>२. हामीलाई पीर के छ, चढे येशू क्रूसमा,<br/>हात–खुट्टा झुण्डिए, काँटीको गहिरो चोटसाथ (२)</lines></verse><verse name="v4"><lines>३. शिरबाट बग्यो रगत, उनिए भाला कोखामा,<br/>निर्दोष थिए प्रभुजी सहनु थियो हाम्रो पाप (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 116(Dekheka Chau K Timile)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः देखेका छौ के तिमीले, मेरो मुक्तिदातालाई<br/>सुनेका छौ के तिमीले उनको मधुर बाणीलाई (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. धर्मीलाई त होइन तर, बचाउन आए पापीलाई,<br/>मृत्युदेखि पार तारी, अनन्त जीवन दिनलाई (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. हामीलाई पीर के छ, चढे येशू क्रूसमा,<br/>हात–खुट्टा झुण्डिए, काँटीको गहिरो चोटसाथ (२)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. शिरबाट बग्यो रगत, उनिए भाला कोखामा,<br/>निर्दोष थिए प्रभुजी सहनु थियो हाम्रो पाप (२) </lines>
+		</verse>
+	</lyrics>
+</song>

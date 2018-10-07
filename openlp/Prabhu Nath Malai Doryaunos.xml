@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 381(Prabhu Nath Malai Doryaunos)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. प्रभु नाथ मलाई डोर्र्‍याउनोस् यात्री मरुभूमिमा<br/>म त निर्बल, लौ समाउनोस् आफ्नो बलवान बाहुलीमा,<br/>स्वर्गीय रोटी, स्वर्गीय रोटी (मलाई दिनुहोस् सदा) २</lines></verse><verse name="v2"><lines>२. खोल्नोस् जिउँदो पानी धारा खोला बग्न दिनुहोस्<br/>आगो, मेघको खाँबोद्वारा मलाई नित्य डोर्र्‍याउनोस्,<br/>वीर उद्धारक, वीर उद्धारक, (ढाल र गोहार बन्नुहोस्) २</lines></verse><verse name="v3"><lines>३. मृत्यु नदी तीर पुगेर म नमानूँ डर चिन्ता<br/>नरक मरण नदेखेर कुशलसाथ धाम पुगूँला,<br/>स्तुति गाना, स्तुति गाना (गाउँछु तपाईंलाई सदा) २ </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 381(Prabhu Nath Malai Doryaunos)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. प्रभु नाथ मलाई डोर्र्‍याउनोस् यात्री मरुभूमिमा<br/>म त निर्बल, लौ समाउनोस् आफ्नो बलवान बाहुलीमा,<br/>स्वर्गीय रोटी, स्वर्गीय रोटी (मलाई दिनुहोस् सदा) २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. खोल्नोस् जिउँदो पानी धारा खोला बग्न दिनुहोस्<br/>आगो, मेघको खाँबोद्वारा मलाई नित्य डोर्र्‍याउनोस्,<br/>वीर उद्धारक, वीर उद्धारक, (ढाल र गोहार बन्नुहोस्) २</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. मृत्यु नदी तीर पुगेर म नमानूँ डर चिन्ता<br/>नरक मरण नदेखेर कुशलसाथ धाम पुगूँला,<br/>स्तुति गाना, स्तुति गाना (गाउँछु तपाईंलाई सदा) २ </lines>
+		</verse>
+	</lyrics>
+</song>

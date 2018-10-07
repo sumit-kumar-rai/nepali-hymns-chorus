@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 736(Futera Hoina Jutera Ek Bhai)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः फुटेर होइन जुटेर एक भई हामी मिलेर<br/>प्रभुको महिमा गर्नुछ काँधमा काँध मिलाएर (२)<br/>फुटेर होइन जुटेर ।</lines></verse><verse name="v2"><lines>१. न्यायको दिन आउँदैछ तपाईं र हाम्रो बीचमा (२)<br/>अबेर अब नगरौँ है जीवन चढाऔँ ख्रीष्टमा (२)<br/>फुटेर होइन जुटेर ।</lines></verse><verse name="v3"><lines>२. विश्वासी भई बाँचेर, हुँदैन अब बसेर (२)<br/>सुनाउन सन्देश येशूको, उठौँ न कम्मर कसेर (२)<br/>फुटेर होइन जुटेर । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 736(Futera Hoina Jutera Ek Bhai)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः फुटेर होइन जुटेर एक भई हामी मिलेर<br/>प्रभुको महिमा गर्नुछ काँधमा काँध मिलाएर (२)<br/>फुटेर होइन जुटेर ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. न्यायको दिन आउँदैछ तपाईं र हाम्रो बीचमा (२)<br/>अबेर अब नगरौँ है जीवन चढाऔँ ख्रीष्टमा (२)<br/>फुटेर होइन जुटेर ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. विश्वासी भई बाँचेर, हुँदैन अब बसेर (२)<br/>सुनाउन सन्देश येशूको, उठौँ न कम्मर कसेर (२)<br/>फुटेर होइन जुटेर । </lines>
+		</verse>
+	</lyrics>
+</song>

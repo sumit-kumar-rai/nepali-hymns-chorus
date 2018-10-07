@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 223(Pabitra Banaunuhos Yeshu Malai)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>पवित्र बनाउनुहोस्, येशू मलाई,<br/>ताकि तपाईंलाई देख्न सकूँ</lines></verse><verse name="v2"><lines>पवित्र बनाउनोस्, येशू मलाई,<br/>ताकि तपाईंलाई ग्रहण गर्न सकूँ</lines></verse><verse name="v3"><lines>पवित्र बनाउनोस्, येशू मलाई,<br/>ताकि तपाईंको सेवा गर्न सकूँ</lines></verse><verse name="v4"><lines>पवित्र येशूको क्रूसले, पवित्र येशूको रगतले<br/>पवित्र येशूको मृत्युले, पवित्र येशूको जीवनले । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 223(Pabitra Banaunuhos Yeshu Malai)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>पवित्र बनाउनुहोस्, येशू मलाई,<br/>ताकि तपाईंलाई देख्न सकूँ</lines>
+		</verse>
+		<verse name="v2">
+			<lines>पवित्र बनाउनोस्, येशू मलाई,<br/>ताकि तपाईंलाई ग्रहण गर्न सकूँ</lines>
+		</verse>
+		<verse name="v3">
+			<lines>पवित्र बनाउनोस्, येशू मलाई,<br/>ताकि तपाईंको सेवा गर्न सकूँ</lines>
+		</verse>
+		<verse name="v4">
+			<lines>पवित्र येशूको क्रूसले, पवित्र येशूको रगतले<br/>पवित्र येशूको मृत्युले, पवित्र येशूको जीवनले । </lines>
+		</verse>
+	</lyrics>
+</song>

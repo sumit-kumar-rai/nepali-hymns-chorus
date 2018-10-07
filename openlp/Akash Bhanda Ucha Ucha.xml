@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 510(Akash Bhanda Ucha Ucha)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः आकाशभन्दा उच्च-उच्च छ नाउँ, सागरभन्दा गहिरो-गहिरो छ प्रेम,<br/>आसमानभन्दा विशाल-विशाल अनुग्रह छ हाम्रो प्रभु येशूको,<br/>यसैले गर्छौं प्रशंसा, गाउँछौं महिमा उनै येशूको (२)</lines></verse><verse name="v2"><lines>१. वाक्यले व्यक्त नहुने, भन्नलाई शब्द नपुग्ने प्रेम,<br/>आदिदेखि अहिलेसम्म समयले साक्षी दिएको प्रेम,<br/>स्वर्ग छोडी आउनुभो, क्रूसैमा मर्नुभो,<br/>मृत्युलाई जित्नुभो, हामीलाई मुक्ति दिनलाई ।<br/>यसैले गर्छौं प्रशंसा, गाउँछौं महिमा उनै येशूको (२)</lines></verse><verse name="v3"><lines>२. सारा सृष्टिले ढोग्नेछ, सबै घुँडाहरू टेक्नेछन्,<br/>निर्बल बलियो हुनेछ, लाटाले पुकार्नेछ त्यो नाउँ,<br/>अन्धाले देख्नेछ, बहिराले सुन्नेछ<br/>मुर्दा बिउँतिने छ उनैलाई महिमा दिनलाई ।<br/>यसैले गर्छौं प्रशंसा, गाउँछौं महिमा उनै येशूको (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 510(Akash Bhanda Ucha Ucha)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः आकाशभन्दा उच्च-उच्च छ नाउँ, सागरभन्दा गहिरो-गहिरो छ प्रेम,<br/>आसमानभन्दा विशाल-विशाल अनुग्रह छ हाम्रो प्रभु येशूको,<br/>यसैले गर्छौं प्रशंसा, गाउँछौं महिमा उनै येशूको (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. वाक्यले व्यक्त नहुने, भन्नलाई शब्द नपुग्ने प्रेम,<br/>आदिदेखि अहिलेसम्म समयले साक्षी दिएको प्रेम,<br/>स्वर्ग छोडी आउनुभो, क्रूसैमा मर्नुभो,<br/>मृत्युलाई जित्नुभो, हामीलाई मुक्ति दिनलाई ।<br/>यसैले गर्छौं प्रशंसा, गाउँछौं महिमा उनै येशूको (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. सारा सृष्टिले ढोग्नेछ, सबै घुँडाहरू टेक्नेछन्,<br/>निर्बल बलियो हुनेछ, लाटाले पुकार्नेछ त्यो नाउँ,<br/>अन्धाले देख्नेछ, बहिराले सुन्नेछ<br/>मुर्दा बिउँतिने छ उनैलाई महिमा दिनलाई ।<br/>यसैले गर्छौं प्रशंसा, गाउँछौं महिमा उनै येशूको (२) </lines>
+		</verse>
+	</lyrics>
+</song>

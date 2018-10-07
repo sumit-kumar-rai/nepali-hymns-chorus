@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 558(Ishworko Yo Bardan)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः ईश्वरको यो वरदान मेरो यो जीवन, एक्लै बस्न सिर्जेको होइन,<br/>आजन्म साथ दिँदैनौ भने त, पलभरको माया मलाई चाहिँदैन (२)</lines></verse><verse name="v2"><lines>१. पहाडजत्रो यो जिन्दगीमा एकलै बसूँला भनेर चिताएको छैन (२)<br/>तिम्रै विश्वासमा आफूलाई सुम्पी (२) मनमा कुनै थोक लुकाएको छैनँ (२)</lines></verse><verse name="v3"><lines>आजन्म साथ दिँदैनौ भने त, पलभरको माया मलाई चाहिँदैन (२)</lines></verse><verse name="v4"><lines>२. बर्बाद नबनोस् यो मेरो जीवन, मीठा-मीठा कुराले, अभिलाषाले (२)<br/>समर्पण हुँदै छु तिमीसामु आज (२) ईश्वर छन् साक्षी तिमी याद राख (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 558(Ishworko Yo Bardan)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः ईश्वरको यो वरदान मेरो यो जीवन, एक्लै बस्न सिर्जेको होइन,<br/>आजन्म साथ दिँदैनौ भने त, पलभरको माया मलाई चाहिँदैन (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. पहाडजत्रो यो जिन्दगीमा एकलै बसूँला भनेर चिताएको छैन (२)<br/>तिम्रै विश्वासमा आफूलाई सुम्पी (२) मनमा कुनै थोक लुकाएको छैनँ (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>आजन्म साथ दिँदैनौ भने त, पलभरको माया मलाई चाहिँदैन (२)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>२. बर्बाद नबनोस् यो मेरो जीवन, मीठा-मीठा कुराले, अभिलाषाले (२)<br/>समर्पण हुँदै छु तिमीसामु आज (२) ईश्वर छन् साक्षी तिमी याद राख (२) </lines>
+		</verse>
+	</lyrics>
+</song>

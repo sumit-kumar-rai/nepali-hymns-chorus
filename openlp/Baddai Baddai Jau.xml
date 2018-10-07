@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 401(Baddai Baddai Jau)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः बढ्दैबढ्दै जाऔ पछि नहटौं,<br/>क्रूसको झण्डा काँधमा लिई, अघि बढ्दै जाऔं (२)</lines></verse><verse name="v2"><lines>१. सेना हामी ख्रीष्टका हौं युद्ध गर्दै जाऔं,<br/>कनान देशको राहमा सब कदम बढाऔं<br/>कदम बढाउँदै जाऔ बैरीलाई हराऔ<br/>कनान देशमा हामी सब जयवन्तको गीत गाऔं (२)</lines></verse><verse name="v3"><lines>२. कप्तान हाम्रो सेनाको ख्रीष्ट आफैं हुन्<br/>तरवार हाम्रो आत्माको झिलम धर्मको<br/>सहायता उ गर्छ जीवन सङ्ग्राममा<br/>दैनिक जीवनको हाम्रो कदम-कदममा (२)</lines></verse><verse name="v4"><lines>३. बैरी धेरै भए हामी तै हरेस नखाऔैं<br/>जयवन्त शक्ति पाउनलाई ख्रीष्ट शरणमा जाऔं<br/>शत्रुलाई हराऔं, झण्डा फरफराऔं<br/>हृदय हाम्रो नवीन जोशले भराउँदै जाऔं (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 401(Baddai Baddai Jau)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः बढ्दैबढ्दै जाऔ पछि नहटौं,<br/>क्रूसको झण्डा काँधमा लिई, अघि बढ्दै जाऔं (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. सेना हामी ख्रीष्टका हौं युद्ध गर्दै जाऔं,<br/>कनान देशको राहमा सब कदम बढाऔं<br/>कदम बढाउँदै जाऔ बैरीलाई हराऔ<br/>कनान देशमा हामी सब जयवन्तको गीत गाऔं (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. कप्तान हाम्रो सेनाको ख्रीष्ट आफैं हुन्<br/>तरवार हाम्रो आत्माको झिलम धर्मको<br/>सहायता उ गर्छ जीवन सङ्ग्राममा<br/>दैनिक जीवनको हाम्रो कदम-कदममा (२)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. बैरी धेरै भए हामी तै हरेस नखाऔैं<br/>जयवन्त शक्ति पाउनलाई ख्रीष्ट शरणमा जाऔं<br/>शत्रुलाई हराऔं, झण्डा फरफराऔं<br/>हृदय हाम्रो नवीन जोशले भराउँदै जाऔं (२) </lines>
+		</verse>
+	</lyrics>
+</song>

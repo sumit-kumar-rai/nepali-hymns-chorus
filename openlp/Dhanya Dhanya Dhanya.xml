@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 706(Dhanya Dhanya Dhanya)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः धन्य ! धन्य ! धन्य !, प्रभु मेरो राजा येशू !<br/>आदर, स्तुति, महिमा गर्छु, तिम्रै स्तुति गाउँछु ।</lines></verse><verse name="v2"><lines>१. हजुरको कोमल चरणमा, मरियमझैँ झुक्छु<br/>सुनेर मधुर वाणीले सामर्थी म बन्छु ।</lines></verse><verse name="v3"><lines>२. बाँचुन्जेल हजुरको मन्दिर मण्डली निर्माण गर्छु ।<br/>डाँडा-काँडा, पखेरोमा ख्रीष्टको वचन छर्छु, तिम्रै गीत म गाउँछु । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 706(Dhanya Dhanya Dhanya)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः धन्य ! धन्य ! धन्य !, प्रभु मेरो राजा येशू !<br/>आदर, स्तुति, महिमा गर्छु, तिम्रै स्तुति गाउँछु ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. हजुरको कोमल चरणमा, मरियमझैँ झुक्छु<br/>सुनेर मधुर वाणीले सामर्थी म बन्छु ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. बाँचुन्जेल हजुरको मन्दिर मण्डली निर्माण गर्छु ।<br/>डाँडा-काँडा, पखेरोमा ख्रीष्टको वचन छर्छु, तिम्रै गीत म गाउँछु । </lines>
+		</verse>
+	</lyrics>
+</song>

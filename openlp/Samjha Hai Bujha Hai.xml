@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 607(Samjha Hai Bujha Hai)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः सम्झ है बुझ है एकपल्ट सोच है (२)</lines></verse><verse name="v2"><lines>१. हाम्रो जीवन के छ र ? माटोको शरीर माटोमा हो<br/>एक दिन त माटोमा मिल्नुछ (२)</lines></verse><verse name="v3"><lines>२. पवित्र बाइबलले भन्दछ प्रभुलाई भुल्ने नाश हुनेछ<br/>उम्कने ठाउँ कहाँ छ र ? (२)</lines></verse><verse name="v4"><lines>३. अनन्तसम्म नरककुण्डमा दन्किरहेको आगोमा<br/>बचाउने को होला त्यो दिनमा (२)</lines></verse><verse name="v5"><lines>४. येशूको रगतमा शक्ति छ नरकदेखि बचाउनलाई<br/>पछुताउने पापीलाई मौका छ (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 607(Samjha Hai Bujha Hai)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः सम्झ है बुझ है एकपल्ट सोच है (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. हाम्रो जीवन के छ र ? माटोको शरीर माटोमा हो<br/>एक दिन त माटोमा मिल्नुछ (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. पवित्र बाइबलले भन्दछ प्रभुलाई भुल्ने नाश हुनेछ<br/>उम्कने ठाउँ कहाँ छ र ? (२)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. अनन्तसम्म नरककुण्डमा दन्किरहेको आगोमा<br/>बचाउने को होला त्यो दिनमा (२)</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. येशूको रगतमा शक्ति छ नरकदेखि बचाउनलाई<br/>पछुताउने पापीलाई मौका छ (२) </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 335(Jiwanbhar Prem Khristlai)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. जीवनभर प्रेम ख्रीष्टलाई म गर्नेछु, सुनिदेऊ प्रार्थनालाई शरण पर्छु<br/>जीवनभर भक्तिसाथ अधिक प्रेम म गर्छु, त्यो अधिक प्रेम ख्रीष्ट म गर्छु ।</lines></verse><verse name="v2"><lines>२. सांसारिक मोहमा खोजें आराम, बिन्ती छ देऊ मलाई आत्मिक विश्राम<br/>नित्य नित भक्तिसाथ, अधिक प्रेम म गर्छु त्यो अधिक प्रेम ख्रीष्ट म गर्छु ।</lines></verse><verse name="v3"><lines>३. शैतानले बारम्बार गरे लाचार तिमी छौ तारणहार लाउँछौ भव पार<br/>जयजयगानसाथ प्रभु, अधिक प्रेम म गर्छु, त्यो अधिक प्रेम ख्रीष्ट म गर्छु ।</lines></verse><verse name="v4"><lines>४. संसार जब त्याग्दछु, ख्रीष्ट मलाई लेऊ, त्रिएक ईश्वरको म भक्त बन्नेछु<br/>यो मेरो दृढ प्रण हो, अधिक प्रेम म गर्छु, त्रिप्रभुलाई प्रेम म गर्छु । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 335(Jiwanbhar Prem Khristlai)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. जीवनभर प्रेम ख्रीष्टलाई म गर्नेछु, सुनिदेऊ प्रार्थनालाई शरण पर्छु<br/>जीवनभर भक्तिसाथ अधिक प्रेम म गर्छु, त्यो अधिक प्रेम ख्रीष्ट म गर्छु ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. सांसारिक मोहमा खोजें आराम, बिन्ती छ देऊ मलाई आत्मिक विश्राम<br/>नित्य नित भक्तिसाथ, अधिक प्रेम म गर्छु त्यो अधिक प्रेम ख्रीष्ट म गर्छु ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. शैतानले बारम्बार गरे लाचार तिमी छौ तारणहार लाउँछौ भव पार<br/>जयजयगानसाथ प्रभु, अधिक प्रेम म गर्छु, त्यो अधिक प्रेम ख्रीष्ट म गर्छु ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. संसार जब त्याग्दछु, ख्रीष्ट मलाई लेऊ, त्रिएक ईश्वरको म भक्त बन्नेछु<br/>यो मेरो दृढ प्रण हो, अधिक प्रेम म गर्छु, त्रिप्रभुलाई प्रेम म गर्छु । </lines>
+		</verse>
+	</lyrics>
+</song>

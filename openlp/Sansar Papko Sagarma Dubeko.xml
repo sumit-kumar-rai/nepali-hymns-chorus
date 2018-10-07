@@ -1,2 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 208(Sansar Papko Sagarma Dubeko)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. संसार पापको सागरमा डुबेको थियो हो जगतको ज्योति येशू<br/>प्रचण्ड घामझैँ उनको महिमा चम्क्यो हो जगतको ज्योति येशू ।<br/><br/>कोः ज्योतिमा आऊ हो तिम्रै लागि ज्योति त पर्र्‍यो मलाई पनि,<br/>अन्धा थिएँ तर पाएँ दृष्टि हो जगतको ज्योति येशू ।<br/><br/>२. अँध्यारोमा बस्नुपर्दैन हामी होे जगतको ज्योति येशू<br/>हिँड्छौं ज्योतिमा अगुवा पछि लागी हो जगतको ज्योति येशू ।<br/><br/>३. आऊ सब जसका मनमा छ पाप-अन्धकारको जगतको ज्योति येशू<br/>आऊ दृष्टि पाउन उनको वचनअन्सार हो जगतको ज्योति येशू ।<br/><br/>४. घाम लाग्नु पर्दैन अरे स्वर्गमा हो जगतको ज्योति येशू ।<br/>स्वर्गपूरीमा ज्योति हो प्रभु हाम्रा हो जगतको ज्योति येशू । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 208(Sansar Papko Sagarma Dubeko)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. संसार पापको सागरमा डुबेको थियो हो जगतको ज्योति येशू<br/>प्रचण्ड घामझैँ उनको महिमा चम्क्यो हो जगतको ज्योति येशू ।<br/><br/>कोः ज्योतिमा आऊ हो तिम्रै लागि ज्योति त पर्र्‍यो मलाई पनि,<br/>अन्धा थिएँ तर पाएँ दृष्टि हो जगतको ज्योति येशू ।<br/><br/>२. अँध्यारोमा बस्नुपर्दैन हामी होे जगतको ज्योति येशू<br/>हिँड्छौं ज्योतिमा अगुवा पछि लागी हो जगतको ज्योति येशू ।<br/><br/>३. आऊ सब जसका मनमा छ पाप-अन्धकारको जगतको ज्योति येशू<br/>आऊ दृष्टि पाउन उनको वचनअन्सार हो जगतको ज्योति येशू ।<br/><br/>४. घाम लाग्नु पर्दैन अरे स्वर्गमा हो जगतको ज्योति येशू ।<br/>स्वर्गपूरीमा ज्योति हो प्रभु हाम्रा हो जगतको ज्योति येशू । </lines>
+		</verse>
+	</lyrics>
+</song>

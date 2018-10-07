@@ -1,2 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 148(Ishworle Diye Tyo)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>ईश्वरले दिए त्यो असल ठाउँ, म भित्र पस्छु र रमाउँछु<br/>उहाँको महिमा म थाहा गर्छु, उहाँको राज्य झल्काउँछु</lines></verse><verse name="v2"><lines>उहाँलाई स्तुति दिन्छौँ हाम्रा प्राण, आत्मा र हृदयको स्वर खोली<br/>सीधै जान्छौँ निशानातिर कनानको भूमिमा । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 148(Ishworle Diye Tyo)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>ईश्वरले दिए त्यो असल ठाउँ, म भित्र पस्छु र रमाउँछु<br/>उहाँको महिमा म थाहा गर्छु, उहाँको राज्य झल्काउँछु</lines>
+		</verse>
+		<verse name="v2">
+			<lines>उहाँलाई स्तुति दिन्छौँ हाम्रा प्राण, आत्मा र हृदयको स्वर खोली<br/>सीधै जान्छौँ निशानातिर कनानको भूमिमा । </lines>
+		</verse>
+	</lyrics>
+</song>

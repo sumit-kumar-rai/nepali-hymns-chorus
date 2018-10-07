@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 133(Jaba Aaulan Jaba)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. जब आउलान्, जब आउलान् निज हिरा बटुल्न<br/>सबै हिरा, मूल्य हिरा येशूका नै हुन्,<br/>जस्ता तारा बिहानको चम्कँदै रहँदै<br/>यस्तै यिनी चम्कन्छन् ख्रीष्टको मुकुटमा ।</lines></verse><verse name="v2"><lines>२. ती बटुल्छन् ती बटुल्छन् स्वर्ग राज्यका सब हिरा<br/>जति राम्रा र चम्किला येशूका नै हुन्,<br/>जस्ता तारा बिहानको चम्कँदै रहँदै<br/>यस्तै यिनी चम्कन्छन् ख्रीष्टको मुकुटमा ।</lines></verse><verse name="v3"><lines>३. नर–नारी, केटा–केटी ख्रीष्टसँग प्रेम गर्न<br/>हिरा यिनै हिरा प्यारै येशूका नै हुन्,<br/>जस्ता तारा बिहानको चम्कँदै रहँदै<br/>यस्तै यिनी चम्कन्छन् ख्रीष्टको मुकुटमा । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 133(Jaba Aaulan Jaba)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. जब आउलान्, जब आउलान् निज हिरा बटुल्न<br/>सबै हिरा, मूल्य हिरा येशूका नै हुन्,<br/>जस्ता तारा बिहानको चम्कँदै रहँदै<br/>यस्तै यिनी चम्कन्छन् ख्रीष्टको मुकुटमा ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. ती बटुल्छन् ती बटुल्छन् स्वर्ग राज्यका सब हिरा<br/>जति राम्रा र चम्किला येशूका नै हुन्,<br/>जस्ता तारा बिहानको चम्कँदै रहँदै<br/>यस्तै यिनी चम्कन्छन् ख्रीष्टको मुकुटमा ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. नर–नारी, केटा–केटी ख्रीष्टसँग प्रेम गर्न<br/>हिरा यिनै हिरा प्यारै येशूका नै हुन्,<br/>जस्ता तारा बिहानको चम्कँदै रहँदै<br/>यस्तै यिनी चम्कन्छन् ख्रीष्टको मुकुटमा । </lines>
+		</verse>
+	</lyrics>
+</song>

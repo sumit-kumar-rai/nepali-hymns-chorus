@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 496(Prabhujiko Jayjaykar Hoerahos)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः प्रभुजीको जयजयकार होइरहोस्, येशूजीको जयजयकार होइरहोस् ।</lines></verse><verse name="v2"><lines>१. श्रापित जगतमा औतार लिई, आए दुःख उठाई आज्ञाकारी भए (२)<br/>निष्कलङ्क रक्त बगाई (२) पापीलाई उद्धार गराए ।</lines></verse><verse name="v3"><lines>२. भुलिरहेथ्यै पापी जगत्मा, बितायौं जीवन प्रति दिन पापमा (२)<br/>असहनीय दुःख उठाई (२) बचाउनुभो समयमा ।</lines></verse><verse name="v4"><lines>३. मधुर स्वरले बोलाइरहेछन्, जसजसले उनको पुकार सुन्छन् (२)<br/>अमर जीवन पाउनेछन् (२) ईश्वरका सन्तान हुनेछन् । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 496(Prabhujiko Jayjaykar Hoerahos)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः प्रभुजीको जयजयकार होइरहोस्, येशूजीको जयजयकार होइरहोस् ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. श्रापित जगतमा औतार लिई, आए दुःख उठाई आज्ञाकारी भए (२)<br/>निष्कलङ्क रक्त बगाई (२) पापीलाई उद्धार गराए ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. भुलिरहेथ्यै पापी जगत्मा, बितायौं जीवन प्रति दिन पापमा (२)<br/>असहनीय दुःख उठाई (२) बचाउनुभो समयमा ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. मधुर स्वरले बोलाइरहेछन्, जसजसले उनको पुकार सुन्छन् (२)<br/>अमर जीवन पाउनेछन् (२) ईश्वरका सन्तान हुनेछन् । </lines>
+		</verse>
+	</lyrics>
+</song>

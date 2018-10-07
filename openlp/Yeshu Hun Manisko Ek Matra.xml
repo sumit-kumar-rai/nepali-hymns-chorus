@@ -1,2 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 247(Yeshu Hun Manisko Ek Matra)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>येशू हुन् मानिसको एक मात्र सहारा (२)<br/>प्रेम गरी बगाए (रगतको धारा) २</lines></verse><verse name="v2"><lines>धन्यवाद दिन्छौँ हामी हृदय खोलेर (२)<br/>उचाल्छौँ येशूलाई (स्वर हाम्रो खोलेर) २ </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 247(Yeshu Hun Manisko Ek Matra)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>येशू हुन् मानिसको एक मात्र सहारा (२)<br/>प्रेम गरी बगाए (रगतको धारा) २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>धन्यवाद दिन्छौँ हामी हृदय खोलेर (२)<br/>उचाल्छौँ येशूलाई (स्वर हाम्रो खोलेर) २ </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,34 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 269(Sabaile Bhanchan Sworgamai)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः सबैले भन्छन् स्वर्गमै जान्छु जान्छौ पो भाइ हो कसरी<br/>नेपाल हाम्रो देश कति राम्रो ख्रीष्टको पाइला टेकेर ।</lines></verse><verse name="v2"><lines>१. उकाली बाटो नधाउँदै पापको बोझ लिएर<br/>सुखले बाँचौं संसारमा, येशूलाई जीवन दिएर ।</lines></verse><verse name="v3"><lines>२. बुझछन् र कसले रोएको आँशुको घुट्को पिएर<br/>सुखको माने भुलेर, के होला वयर्थै जिएर ।</lines></verse><verse name="v4"><lines>३. हाँसेर आँशु सुक्दैन रोएर दुःख लुक्दैन<br/>ख्र्रीष्टलाई बिना नसम्झी, स्वर्गमा हामी पुग्दैनौं ।</lines></verse><verse name="v5"><lines>४. बुद्धिले घमण्ड गरेर, जीवन यहाँ के होला<br/>पँपबाट पश्चात्ताप आज नै, भोलि त अबेर होइजाला ।</lines></verse><verse name="v6"><lines>५. हेर न आज पिताले हामीलाई कस्तो प्रेम गरे<br/>तपाईं र मेरो पापको साटोमा येशू ख्रीष्ट मरे ।</lines></verse><verse name="v7"><lines>६. क्रूसको बन्धन के मीठो उद्धार पाउन जीवनमा<br/>मूर्खता मात्र हुनेछौं नाश हुने वाला जीवनमा । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 269(Sabaile Bhanchan Sworgamai)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः सबैले भन्छन् स्वर्गमै जान्छु जान्छौ पो भाइ हो कसरी<br/>नेपाल हाम्रो देश कति राम्रो ख्रीष्टको पाइला टेकेर ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. उकाली बाटो नधाउँदै पापको बोझ लिएर<br/>सुखले बाँचौं संसारमा, येशूलाई जीवन दिएर ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. बुझछन् र कसले रोएको आँशुको घुट्को पिएर<br/>सुखको माने भुलेर, के होला वयर्थै जिएर ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. हाँसेर आँशु सुक्दैन रोएर दुःख लुक्दैन<br/>ख्र्रीष्टलाई बिना नसम्झी, स्वर्गमा हामी पुग्दैनौं ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. बुद्धिले घमण्ड गरेर, जीवन यहाँ के होला<br/>पँपबाट पश्चात्ताप आज नै, भोलि त अबेर होइजाला ।</lines>
+		</verse>
+		<verse name="v6">
+			<lines>५. हेर न आज पिताले हामीलाई कस्तो प्रेम गरे<br/>तपाईं र मेरो पापको साटोमा येशू ख्रीष्ट मरे ।</lines>
+		</verse>
+		<verse name="v7">
+			<lines>६. क्रूसको बन्धन के मीठो उद्धार पाउन जीवनमा<br/>मूर्खता मात्र हुनेछौं नाश हुने वाला जीवनमा । </lines>
+		</verse>
+	</lyrics>
+</song>

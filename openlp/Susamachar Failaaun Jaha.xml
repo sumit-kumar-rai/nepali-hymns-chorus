@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 148(Susamachar Failaaun Jaha)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. सुसमाचार फैलाऔं, जहाँ पनि पाउँदछौं,<br/>दुःखित पीडित लोकलाई र पापले दबेका<br/>खुसीको यो खबर, प्रत्येकले प्रचारौं, आत्मा आएका छन् ।</lines></verse><verse name="v2"><lines>कोः आत्मा आएका छन् दिल हाम्रो नयाँ छ जो करार पिताको हृदयमा<br/>खडा छन् खुसीको खबर देऊ, जहाँ पनि जाँदछौ, आत्मा आएका छन्।</lines></verse><verse name="v3"><lines>२. अन्धकारको रात सक्यो, उज्ज्वलको दिन भयो<br/>भयो विलाप टाढा ख्रीष्टको अनुग्रहमा<br/>पहाड, मैदान कहीँ ज्योति अग्घोर चम्काई, आत्मा आएका छन् । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 148(Susamachar Failaaun Jaha)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. सुसमाचार फैलाऔं, जहाँ पनि पाउँदछौं,<br/>दुःखित पीडित लोकलाई र पापले दबेका<br/>खुसीको यो खबर, प्रत्येकले प्रचारौं, आत्मा आएका छन् ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>कोः आत्मा आएका छन् दिल हाम्रो नयाँ छ जो करार पिताको हृदयमा<br/>खडा छन् खुसीको खबर देऊ, जहाँ पनि जाँदछौ, आत्मा आएका छन्।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. अन्धकारको रात सक्यो, उज्ज्वलको दिन भयो<br/>भयो विलाप टाढा ख्रीष्टको अनुग्रहमा<br/>पहाड, मैदान कहीँ ज्योति अग्घोर चम्काई, आत्मा आएका छन् । </lines>
+		</verse>
+	</lyrics>
+</song>

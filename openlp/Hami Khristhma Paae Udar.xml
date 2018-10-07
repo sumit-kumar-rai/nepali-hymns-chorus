@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 188(Hami Khristhma Paae Udar)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. हामी ख्रीष्टमा पाई उद्धार गर्छौं सम्झेर तारणहार<br/>प्रभुको मृत्युको प्रचार नआउञ्जेल ।</lines></verse><verse name="v2"><lines>२. जिउ हाम्रो सट्टा भाँचेको छ स्मारक रोटीमा चिनो<br/>खाएर बढोस् प्रेम हाम्रो नआउञ्जेल ।</lines></verse><verse name="v3"><lines>३. ख्रीष्टले हाम्रो ज्यान-सजाय भोगे, जुन अमोल रगत बहाए<br/>देखाउँछ यो कचौराले नआउञ्जेल ।</lines></verse><verse name="v4"><lines>४. रात विश्वासघातको अँध्यारो र दोस्रो आगमन येशूको<br/>यस प्रेम-रीत-मालाले गासियो नआउञ्जेल ।</lines></verse><verse name="v5"><lines>५. हे धन्य दिन ! कस्तो विलास हाम्रा नहोस् मनमा उदास<br/>पर्खंदा बढोस् धीर विश्वास नआउञ्जेल । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 188(Hami Khristhma Paae Udar)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. हामी ख्रीष्टमा पाई उद्धार गर्छौं सम्झेर तारणहार<br/>प्रभुको मृत्युको प्रचार नआउञ्जेल ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. जिउ हाम्रो सट्टा भाँचेको छ स्मारक रोटीमा चिनो<br/>खाएर बढोस् प्रेम हाम्रो नआउञ्जेल ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. ख्रीष्टले हाम्रो ज्यान-सजाय भोगे, जुन अमोल रगत बहाए<br/>देखाउँछ यो कचौराले नआउञ्जेल ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. रात विश्वासघातको अँध्यारो र दोस्रो आगमन येशूको<br/>यस प्रेम-रीत-मालाले गासियो नआउञ्जेल ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>५. हे धन्य दिन ! कस्तो विलास हाम्रा नहोस् मनमा उदास<br/>पर्खंदा बढोस् धीर विश्वास नआउञ्जेल । </lines>
+		</verse>
+	</lyrics>
+</song>

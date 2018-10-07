@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 31(Santmaya Raat Santmaya Rat)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. शान्तमय रात, शान्तमय रात येशू ख्रीष्ट कृपानाथ<br/>विश्वका सर्वश्रेष्ठ तारणहार<br/>लिए गोठैमा सत औतार, बेथलेहेम सहरमा, बेथलेहेम सहरमा ।</lines></verse><verse name="v2"><lines>२. शान्तमय रात, शान्तमय रात, जयजय गाऔं दूतगणसाथ,<br/>बालक सुन्दर जन्मेका छन्<br/>बालक ईश्वरका पुत्र हुन्, येशू हो उनको नाउँ (२)</lines></verse><verse name="v3"><lines>३. शान्तमय रात, शान्तमय रात येशू ख्रीष्ट हर्षसाथ,<br/>आए स्वर्गदेखि जगतमा<br/>पापी मानिसको खोजीमा, स्वागत गरौं उनलाई (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 31(Santmaya Raat Santmaya Rat)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. शान्तमय रात, शान्तमय रात येशू ख्रीष्ट कृपानाथ<br/>विश्वका सर्वश्रेष्ठ तारणहार<br/>लिए गोठैमा सत औतार, बेथलेहेम सहरमा, बेथलेहेम सहरमा ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. शान्तमय रात, शान्तमय रात, जयजय गाऔं दूतगणसाथ,<br/>बालक सुन्दर जन्मेका छन्<br/>बालक ईश्वरका पुत्र हुन्, येशू हो उनको नाउँ (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. शान्तमय रात, शान्तमय रात येशू ख्रीष्ट हर्षसाथ,<br/>आए स्वर्गदेखि जगतमा<br/>पापी मानिसको खोजीमा, स्वागत गरौं उनलाई (२) </lines>
+		</verse>
+	</lyrics>
+</song>

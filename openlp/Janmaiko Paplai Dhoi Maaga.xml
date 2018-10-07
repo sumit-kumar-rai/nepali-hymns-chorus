@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 725(Janmaiko Paplai Dhoi Maaga)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः जन्मैको पापलाई धोइ माग दाइ हो (२)<br/>येशूको अनमोल रगतले दाई हो ।</lines></verse><verse name="v2"><lines>१. धर्म र कर्मले यस जगका मनको पापलाई धुँदैनन ् (२)<br/>कसरी, केले यस जगको पापी मनलाई धुँदछ ? (२)<br/>सुन हे दाई, मन लगाई ईश्वरका पुत्र येशु छन् (२)<br/>येशूको रगतमा शक्ति छ, सबका पापलाई धोइदिन्छ (२)</lines></verse><verse name="v3"><lines>२. पापको ज्याला मृत्यु हो, ईश्वरको वरदान जीवन हो (२)<br/>गुन है मनमा कुरा सत्य मरण वा जीवन असल हो ?(२)<br/>मार्ग सत्य, जीवन, यी प्रभु येशूमा पाइन्छन् (२)<br/>पश्चात्तापी जो हुन्छ अजम्मरी ऊ हुनेछ (२)</lines></verse><verse name="v4"><lines>३. यो जगत विनाशकालको पापको खाली सागर हो (२)<br/>धन दौलत यो जगको विभव पनि व्यर्थ हो (२)<br/>चुँडिजान्छ आत्मा दाई शरीर केवल माटो हो (२)<br/>न्याय यहाँ हुनेछन् अन्तिम दिनमा आत्माको (२)</lines></verse><verse name="v5"><lines>४. अबेर अब नगर्नुहोस्, हृदयद्वार खोल्नुहोस् (२)<br/>दीन र चूर्ण मनले पाप आफ्नो मानिलिनुहोस् (२)<br/>कुकर्म पापलाई त्यागेर धार्मिक जीवन पाउनुहोस् (२)<br/>साँचो मुक्ति पाएर ईश्वरको सन्तान बन्नुहोस् (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 725(Janmaiko Paplai Dhoi Maaga)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः जन्मैको पापलाई धोइ माग दाइ हो (२)<br/>येशूको अनमोल रगतले दाई हो ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. धर्म र कर्मले यस जगका मनको पापलाई धुँदैनन ् (२)<br/>कसरी, केले यस जगको पापी मनलाई धुँदछ ? (२)<br/>सुन हे दाई, मन लगाई ईश्वरका पुत्र येशु छन् (२)<br/>येशूको रगतमा शक्ति छ, सबका पापलाई धोइदिन्छ (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. पापको ज्याला मृत्यु हो, ईश्वरको वरदान जीवन हो (२)<br/>गुन है मनमा कुरा सत्य मरण वा जीवन असल हो ?(२)<br/>मार्ग सत्य, जीवन, यी प्रभु येशूमा पाइन्छन् (२)<br/>पश्चात्तापी जो हुन्छ अजम्मरी ऊ हुनेछ (२)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. यो जगत विनाशकालको पापको खाली सागर हो (२)<br/>धन दौलत यो जगको विभव पनि व्यर्थ हो (२)<br/>चुँडिजान्छ आत्मा दाई शरीर केवल माटो हो (२)<br/>न्याय यहाँ हुनेछन् अन्तिम दिनमा आत्माको (२)</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. अबेर अब नगर्नुहोस्, हृदयद्वार खोल्नुहोस् (२)<br/>दीन र चूर्ण मनले पाप आफ्नो मानिलिनुहोस् (२)<br/>कुकर्म पापलाई त्यागेर धार्मिक जीवन पाउनुहोस् (२)<br/>साँचो मुक्ति पाएर ईश्वरको सन्तान बन्नुहोस् (२) </lines>
+		</verse>
+	</lyrics>
+</song>

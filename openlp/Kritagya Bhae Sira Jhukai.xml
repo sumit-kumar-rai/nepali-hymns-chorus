@@ -1,2 +1,31 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 326(Kritagya Bhae Sira Jhukai)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः कृतज्ञ भई, शिर झुकाई जीवन चढाउन आएको छु,<br/>अमूल्य भेट अरू के छ र ? (जीवन मेरै अर्पेको छु) (२)</lines></verse><verse name="v2"><lines>१. टाढो जाँदा प्रेमलाई भुली घायल हुन्छ मन प्रभुको (२)<br/>हुन्छु नजिक, नजिक तिम्रो नै सक्तिनँ म जान टाढो (२)</lines></verse><verse name="v3"><lines>२. मनलाई खिच्ने वैभव जगतका, विलास बन्लान् बाधक मेरा (२)<br/>ख्रीष्टको अद्भूत प्रेमैको निम्ति त्याग्छु यिनलाई मनैबाट (२)</lines></verse><verse name="v4"><lines>३. प्रेम छ अगाध प्रभु तिम्रो नै, बयान गर्ने शक्ति छैन (२)<br/>अनन्तकाल सेवा नै गरूँ, यस प्रेमबाट उऋण म हुन्नँ (२)</lines></verse><verse name="v5"><lines>४. जगको निम्ति जिउँदिनँ प्रभु न ता जिउँछु आफ्नै निम्ति (२)<br/>सक्तिनँ म अर्पण नगरी छोटो जीवन तिम्रो नै निम्ति (२)</lines></verse><verse name="v6"><lines>५. दुःखित छु म समयको निम्ति बितेथ्यो जो रहँदा पापमा (२)<br/>बाँकी जीवन कृतज्ञतामा अर्पित होस् प्रभुकै सेवामा (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 326(Kritagya Bhae Sira Jhukai)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः कृतज्ञ भई, शिर झुकाई जीवन चढाउन आएको छु,<br/>अमूल्य भेट अरू के छ र ? (जीवन मेरै अर्पेको छु) (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. टाढो जाँदा प्रेमलाई भुली घायल हुन्छ मन प्रभुको (२)<br/>हुन्छु नजिक, नजिक तिम्रो नै सक्तिनँ म जान टाढो (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. मनलाई खिच्ने वैभव जगतका, विलास बन्लान् बाधक मेरा (२)<br/>ख्रीष्टको अद्भूत प्रेमैको निम्ति त्याग्छु यिनलाई मनैबाट (२)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. प्रेम छ अगाध प्रभु तिम्रो नै, बयान गर्ने शक्ति छैन (२)<br/>अनन्तकाल सेवा नै गरूँ, यस प्रेमबाट उऋण म हुन्नँ (२)</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. जगको निम्ति जिउँदिनँ प्रभु न ता जिउँछु आफ्नै निम्ति (२)<br/>सक्तिनँ म अर्पण नगरी छोटो जीवन तिम्रो नै निम्ति (२)</lines>
+		</verse>
+		<verse name="v6">
+			<lines>५. दुःखित छु म समयको निम्ति बितेथ्यो जो रहँदा पापमा (२)<br/>बाँकी जीवन कृतज्ञतामा अर्पित होस् प्रभुकै सेवामा (२) </lines>
+		</verse>
+	</lyrics>
+</song>

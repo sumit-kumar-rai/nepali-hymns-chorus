@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 252(Khallo Cha Jiwan Nath)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. खल्लो छ जीवन नाथ अग्घोर घिनलाग्दो<br/>तपाईंको योग्यलाग्दो छैन स्वभाव मेरो ।<br/>खाई ठोकर लडें धेरै लज्जित यस जीवनमा<br/>तपाईंको निम्ति प्रभु लाभ छैन केही ममा ।<br/>सडेको मेरो देह माग्नुहुन्छ प्रभु<br/>थाकें म आफैसित थाक्नुहुन्न हे प्रभु ।</lines></verse><verse name="v2"><lines>२. भएँ म बालक ख्रीष्टको तापनि छु हतास,<br/>पवित्र प्रेम उहाँको गर्दछु किन नाश ।<br/>दुर्गन्ध पापले अति मलाई निसास्दछ,<br/>जगाउने दोषको भाले सधैँ नै बास्दछ ।<br/>चकित म झन्झन् छु सुन्छु जब आवाज,<br/>फिका यस्तो जीवनलाई दान छ येशूको राज्य ।</lines></verse><verse name="v3"><lines>३. पत्याउन गाहरो लाग्छ प्रेम कस्तो गहिरो,<br/>बेकम्मा फोस्रो मानिस येशूको कामलाग्दो ।<br/>धैर्यवन्त प्रभु मेरो झर्कन्नन् मसित,<br/>उठाउनुहुन्छ मलाई लड्दछु जब म ।<br/>हृदयको आशा टुटोस ् या फुटोस् मेरो मन,<br/>यथेष्ट ख्रीष्टको प्रेमले म हुन्छु सुशोभन । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 252(Khallo Cha Jiwan Nath)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. खल्लो छ जीवन नाथ अग्घोर घिनलाग्दो<br/>तपाईंको योग्यलाग्दो छैन स्वभाव मेरो ।<br/>खाई ठोकर लडें धेरै लज्जित यस जीवनमा<br/>तपाईंको निम्ति प्रभु लाभ छैन केही ममा ।<br/>सडेको मेरो देह माग्नुहुन्छ प्रभु<br/>थाकें म आफैसित थाक्नुहुन्न हे प्रभु ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. भएँ म बालक ख्रीष्टको तापनि छु हतास,<br/>पवित्र प्रेम उहाँको गर्दछु किन नाश ।<br/>दुर्गन्ध पापले अति मलाई निसास्दछ,<br/>जगाउने दोषको भाले सधैँ नै बास्दछ ।<br/>चकित म झन्झन् छु सुन्छु जब आवाज,<br/>फिका यस्तो जीवनलाई दान छ येशूको राज्य ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. पत्याउन गाहरो लाग्छ प्रेम कस्तो गहिरो,<br/>बेकम्मा फोस्रो मानिस येशूको कामलाग्दो ।<br/>धैर्यवन्त प्रभु मेरो झर्कन्नन् मसित,<br/>उठाउनुहुन्छ मलाई लड्दछु जब म ।<br/>हृदयको आशा टुटोस ् या फुटोस् मेरो मन,<br/>यथेष्ट ख्रीष्टको प्रेमले म हुन्छु सुशोभन । </lines>
+		</verse>
+	</lyrics>
+</song>

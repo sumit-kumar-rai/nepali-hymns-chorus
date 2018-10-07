@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 105(Ishwor Thuma Pabitra)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>ईश्वर थुमा, पवित्र येशू ख्रीष्ट, ईश्वर पुत्र,<br/>उचालिए राजी भई मर्नलाई</lines></verse><verse name="v2"><lines>मजस्तो दोषीले जानूँ रगत बग्यो,<br/>अझ बग्दैछ, शुद्ध पार्दै, निको पार्दै ।</lines></verse><verse name="v3"><lines>म उच्च पार्छु येशू, मेरो बलिदान,<br/>उच्च पार्छु मुक्तिदाता, मेरा प्रभु</lines></verse><verse name="v4"><lines>म उच्च पार्छु, परमेश्वरका थुमा,<br/>दण्डवत् गर्छु तपाईंलाई सिंहासनअघि । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 105(Ishwor Thuma Pabitra)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>ईश्वर थुमा, पवित्र येशू ख्रीष्ट, ईश्वर पुत्र,<br/>उचालिए राजी भई मर्नलाई</lines>
+		</verse>
+		<verse name="v2">
+			<lines>मजस्तो दोषीले जानूँ रगत बग्यो,<br/>अझ बग्दैछ, शुद्ध पार्दै, निको पार्दै ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>म उच्च पार्छु येशू, मेरो बलिदान,<br/>उच्च पार्छु मुक्तिदाता, मेरा प्रभु</lines>
+		</verse>
+		<verse name="v4">
+			<lines>म उच्च पार्छु, परमेश्वरका थुमा,<br/>दण्डवत् गर्छु तपाईंलाई सिंहासनअघि । </lines>
+		</verse>
+	</lyrics>
+</song>

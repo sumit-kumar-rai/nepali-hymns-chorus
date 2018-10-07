@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 552(Turahi Fukchu Akashaima)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः तुरही फुक्छ आकाशैमा लौ येशू आउनेछन् (२)</lines></verse><verse name="v2"><lines>१. (संसारभरि पापको भारी) २ (शैतान है रमायो) २<br/>यो मनमा कसले चेताउनी देला, पछुताउँदैन कोही<br/>येशू आउनेछन् संसारैमा, संसारैमा (सम्झ न मनैमा) २</lines></verse><verse name="v3"><lines>२. (विश्वासीहरू मरे तापनि बौरेर उठ्नेछन्)२<br/>जस-जसले उनीमाथि विश्वास गर्दछन् पाउनेछन् जीवन<br/>येशू आउनेछन् बादलैमा, बादलैमा (हामीलाई लिनलाई) २ </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 552(Turahi Fukchu Akashaima)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः तुरही फुक्छ आकाशैमा लौ येशू आउनेछन् (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. (संसारभरि पापको भारी) २ (शैतान है रमायो) २<br/>यो मनमा कसले चेताउनी देला, पछुताउँदैन कोही<br/>येशू आउनेछन् संसारैमा, संसारैमा (सम्झ न मनैमा) २</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. (विश्वासीहरू मरे तापनि बौरेर उठ्नेछन्)२<br/>जस-जसले उनीमाथि विश्वास गर्दछन् पाउनेछन् जीवन<br/>येशू आउनेछन् बादलैमा, बादलैमा (हामीलाई लिनलाई) २ </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,31 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 254(Prabhu Daya Aba)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. प्रभु दया अब मागी चरण हामी पर्दछौं<br/>आफ्ना पापका कायल भई लिँदछौं तपाईंको नाउँ ।</lines></verse><verse name="v2"><lines>२. पापी सोच निष्प्रेमी कुरा हाम्रो विरुद्ध छन् गवाह<br/>अयोग्य कर्म निश्चित सेवा पर्ने काम नगरेका ।</lines></verse><verse name="v3"><lines>३. प्रार्थना गर्दा पनि हृदय तपाईंदेखि भो टाढा<br/>मान मनितो गर्दा ओठले गरे वचन कपटका ।</lines></verse><verse name="v4"><lines>४. अमोल बेला ब्यर्थै काट्यौं अमोल घडी नाहकमा<br/>करार र युद्ध बिर्सी टारी बुद्धिका सल्लाह ।</lines></verse><verse name="v5"><lines>५. प्रभु दया फेरि मागी पश्चात्तापी छौं लजाई<br/>लाभ समयको अब गरी जिउँछौं तपाईंको भई ।</lines></verse><verse name="v6"><lines>६. स्वर्गे पिता आशिष दिनोस् उँभोबाट कान लगाई<br/>प्रेमी त्राणी पवित्र आत्मा सुन हाम्रो दीन दुहाई । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 254(Prabhu Daya Aba)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. प्रभु दया अब मागी चरण हामी पर्दछौं<br/>आफ्ना पापका कायल भई लिँदछौं तपाईंको नाउँ ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. पापी सोच निष्प्रेमी कुरा हाम्रो विरुद्ध छन् गवाह<br/>अयोग्य कर्म निश्चित सेवा पर्ने काम नगरेका ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. प्रार्थना गर्दा पनि हृदय तपाईंदेखि भो टाढा<br/>मान मनितो गर्दा ओठले गरे वचन कपटका ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. अमोल बेला ब्यर्थै काट्यौं अमोल घडी नाहकमा<br/>करार र युद्ध बिर्सी टारी बुद्धिका सल्लाह ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>५. प्रभु दया फेरि मागी पश्चात्तापी छौं लजाई<br/>लाभ समयको अब गरी जिउँछौं तपाईंको भई ।</lines>
+		</verse>
+		<verse name="v6">
+			<lines>६. स्वर्गे पिता आशिष दिनोस् उँभोबाट कान लगाई<br/>प्रेमी त्राणी पवित्र आत्मा सुन हाम्रो दीन दुहाई । </lines>
+		</verse>
+	</lyrics>
+</song>

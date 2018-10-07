@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 241(Nasamjha Yaha Yo Jiwan)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः नसम्झ यहाँ यो जीवन हाँसेर मात्र बाँचेको ।<br/>सोच न मनमा आफैलाई छ तिम्रो आत्मा बाँचेको<br/>निर्णय आज नै गरिदेऊ, भोलि त अबेर भई जाला<br/>नभए एक दिन यो जीवन रोई रोई यहाँ रहिजाला (२)</lines></verse><verse name="v2"><lines>१. लुकाइराख्छौ तिम्रो पाप, बोकेर कहाँ लान्छौ र ?<br/>बिसाउन बरु तुरुन्तै लिएर कहाँ जान्छौ र ? (२)<br/>गोरेटो सानो सुरिलो कलवरी डाँडा पुग्नलाई<br/>नमान सङ्कोच यो मनमा ईश्वरको सामु झुक्नलाई</lines></verse><verse name="v3"><lines>२. रगतको थोपा आलो छ गलगथाको बाटोमा<br/>प्रभुले बोके दयनीय क्रूस, हाम्रो पापको साटोमा (२)<br/>बलिदान यहाँ जीवनको कष्ट र पीर मुटुमा<br/>सहेको छ है उनैले तिम्रो र मेरो निम्तिमा । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 241(Nasamjha Yaha Yo Jiwan)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः नसम्झ यहाँ यो जीवन हाँसेर मात्र बाँचेको ।<br/>सोच न मनमा आफैलाई छ तिम्रो आत्मा बाँचेको<br/>निर्णय आज नै गरिदेऊ, भोलि त अबेर भई जाला<br/>नभए एक दिन यो जीवन रोई रोई यहाँ रहिजाला (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. लुकाइराख्छौ तिम्रो पाप, बोकेर कहाँ लान्छौ र ?<br/>बिसाउन बरु तुरुन्तै लिएर कहाँ जान्छौ र ? (२)<br/>गोरेटो सानो सुरिलो कलवरी डाँडा पुग्नलाई<br/>नमान सङ्कोच यो मनमा ईश्वरको सामु झुक्नलाई</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. रगतको थोपा आलो छ गलगथाको बाटोमा<br/>प्रभुले बोके दयनीय क्रूस, हाम्रो पापको साटोमा (२)<br/>बलिदान यहाँ जीवनको कष्ट र पीर मुटुमा<br/>सहेको छ है उनैले तिम्रो र मेरो निम्तिमा । </lines>
+		</verse>
+	</lyrics>
+</song>

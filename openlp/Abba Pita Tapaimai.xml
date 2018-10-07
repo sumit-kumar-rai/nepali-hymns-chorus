@@ -1,2 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 328(Abba Pita Tapaimai)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. अब्बा पिता तपाईमैं मात्र म रहूँ,<br/>मेरो इच्छा तपाईंकै जस्तो सदा रहोस्<br/>मेरो हृदय ननिभाऊनुहोस्<br/>मलाई नछोड्नुहोस्<br/>अब्बा पिता तपाईंमैं मात्र म रहूँ । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 328(Abba Pita Tapaimai)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. अब्बा पिता तपाईमैं मात्र म रहूँ,<br/>मेरो इच्छा तपाईंकै जस्तो सदा रहोस्<br/>मेरो हृदय ननिभाऊनुहोस्<br/>मलाई नछोड्नुहोस्<br/>अब्बा पिता तपाईंमैं मात्र म रहूँ । </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 35(Timra Parmeshworle Birseka)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>(तिम्रा परमेश्वरले बिर्सेका छैनन्<br/>तिम्रो कुरा भुलेका छैनन् तिमीलाई) २</lines></verse><verse name="v2"><lines>(माग फेरि माग, खोज अझैँ खोज<br/>घरीघरी घचघचाऊ) २ </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 35(Timra Parmeshworle Birseka)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>(तिम्रा परमेश्वरले बिर्सेका छैनन्<br/>तिम्रो कुरा भुलेका छैनन् तिमीलाई) २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>(माग फेरि माग, खोज अझैँ खोज<br/>घरीघरी घचघचाऊ) २ </lines>
+		</verse>
+	</lyrics>
+</song>

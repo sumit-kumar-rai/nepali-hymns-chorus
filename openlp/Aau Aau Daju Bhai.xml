@@ -1,2 +1,34 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 124(Aau Aau Daju Bhai)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः आऊ–आऊ दाजु–भाइ मिली–जुली गाऔं (२)</lines></verse><verse name="v2"><lines>१. येशू मुक्तिदाताले मृत्यु जय गरे आऊ<br/>आऊ सबै भाइ, आनन्द मनाऔं ।</lines></verse><verse name="v3"><lines>२. शैतानमाथि जयवन्त भई फेरि जी उठे<br/>आऊ–आऊ भाइ बहिनी उनकै जय मनाऔं ।</lines></verse><verse name="v4"><lines>३. मृत्यु बन्धन तोडीकन सबलाई बचाए<br/>आऊ आऊ ख्रीष्टीय भाइ जयजयकार मनाऔं ।</lines></verse><verse name="v5"><lines>४. तिनै दिनमा बौरी उठी शत्रु लजाए<br/>आऊ–आऊ प्यारा भाइ जयको शब्द सुनाऔं ।</lines></verse><verse name="v6"><lines>५. विश्वास गरी कम्मर कसी ख्रीष्टकै पछि जाऔं<br/>आऊ–आऊ प्रिय बहिनी उनैलाई पछ्याऔं ।</lines></verse><verse name="v7"><lines>६. प्रेमी ईश्वर पुत्र दिने उनकै गुण गाऔं<br/>भाइ–बहिनी सब मिली धन्यवाद चढाऔं । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 124(Aau Aau Daju Bhai)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः आऊ–आऊ दाजु–भाइ मिली–जुली गाऔं (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. येशू मुक्तिदाताले मृत्यु जय गरे आऊ<br/>आऊ सबै भाइ, आनन्द मनाऔं ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. शैतानमाथि जयवन्त भई फेरि जी उठे<br/>आऊ–आऊ भाइ बहिनी उनकै जय मनाऔं ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. मृत्यु बन्धन तोडीकन सबलाई बचाए<br/>आऊ आऊ ख्रीष्टीय भाइ जयजयकार मनाऔं ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. तिनै दिनमा बौरी उठी शत्रु लजाए<br/>आऊ–आऊ प्यारा भाइ जयको शब्द सुनाऔं ।</lines>
+		</verse>
+		<verse name="v6">
+			<lines>५. विश्वास गरी कम्मर कसी ख्रीष्टकै पछि जाऔं<br/>आऊ–आऊ प्रिय बहिनी उनैलाई पछ्याऔं ।</lines>
+		</verse>
+		<verse name="v7">
+			<lines>६. प्रेमी ईश्वर पुत्र दिने उनकै गुण गाऔं<br/>भाइ–बहिनी सब मिली धन्यवाद चढाऔं । </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 438(Aadima Jun Prakar Adhyaro)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. आदिमा जुन प्रकार अँध्यारो र उजार पार्नुभयो नाश, अब त्यसै हे ईश्वर<br/>सुसमाचारको घाम नपुगेको सब स्थान उज्यालै होस् ।</lines></verse><verse name="v2"><lines>२. लोक आउनुभो तपाईं सब लोगको लागि ल्याई बिशेष प्रकाश<br/>रोगी बिसेक पराई, अन्धा प्रकाश गराई हे ख्रीष्ट अब सबैलाई उज्यालै होस् ।</lines></verse><verse name="v3"><lines>३. हे पवित्र आत्मा जियाउने परेवा वेग उड्नुहोस्<br/>गरी भाँडो घुमाई अनुग्रह दान खन्याई<br/>अँध्यारो गर्नु क्षय उज्यालै होस् ।</lines></verse><verse name="v4"><lines>४. हे पिता, पुत्र, आत्मा धन्य त्रिएक महा त्राण पूर्ण होस् ।<br/>सागरझैँ हो अपार जगतका दिशै चार<br/>सच्याउनलाई संसार उज्यालै होस् । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 438(Aadima Jun Prakar Adhyaro)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. आदिमा जुन प्रकार अँध्यारो र उजार पार्नुभयो नाश, अब त्यसै हे ईश्वर<br/>सुसमाचारको घाम नपुगेको सब स्थान उज्यालै होस् ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. लोक आउनुभो तपाईं सब लोगको लागि ल्याई बिशेष प्रकाश<br/>रोगी बिसेक पराई, अन्धा प्रकाश गराई हे ख्रीष्ट अब सबैलाई उज्यालै होस् ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. हे पवित्र आत्मा जियाउने परेवा वेग उड्नुहोस्<br/>गरी भाँडो घुमाई अनुग्रह दान खन्याई<br/>अँध्यारो गर्नु क्षय उज्यालै होस् ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. हे पिता, पुत्र, आत्मा धन्य त्रिएक महा त्राण पूर्ण होस् ।<br/>सागरझैँ हो अपार जगतका दिशै चार<br/>सच्याउनलाई संसार उज्यालै होस् । </lines>
+		</verse>
+	</lyrics>
+</song>

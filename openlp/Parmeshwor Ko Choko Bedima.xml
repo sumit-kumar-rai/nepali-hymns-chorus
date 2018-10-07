@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 111(Parmeshwor Ko Choko Bedima)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः परमेश्वरको चोखो वेदीमा, चढाउँछु यो मेरो जीवन (२)<br/>मेरो सारा हृदयले (२) तपाईंलाई महिमा होस् (२)</lines></verse><verse name="v2"><lines>१. मेरो परमेश्वर, मेरो सहारा, तपाईंको वचन मेरो ज्योति (२)<br/>अन्धकारमा पनि ज्योति दिने (२) तपाईंलाई महिमा होस् (२)</lines></verse><verse name="v3"><lines>२. उचाल्छु मेरा यी दुइ हात धन्यवादको भेटी दिनलाई (२)<br/>मेरो सारा हृदयले (२) तपाईंलाई जयजयकार होस् (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 111(Parmeshwor Ko Choko Bedima)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः परमेश्वरको चोखो वेदीमा, चढाउँछु यो मेरो जीवन (२)<br/>मेरो सारा हृदयले (२) तपाईंलाई महिमा होस् (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. मेरो परमेश्वर, मेरो सहारा, तपाईंको वचन मेरो ज्योति (२)<br/>अन्धकारमा पनि ज्योति दिने (२) तपाईंलाई महिमा होस् (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. उचाल्छु मेरा यी दुइ हात धन्यवादको भेटी दिनलाई (२)<br/>मेरो सारा हृदयले (२) तपाईंलाई जयजयकार होस् (२) </lines>
+		</verse>
+	</lyrics>
+</song>

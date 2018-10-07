@@ -1,2 +1,31 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 227(Ashantiko Pir Badhyo)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः अशान्तिको पीर बढ्यो धुनी लगाएर (२)<br/>प्रभु ख्रीष्टमा विश्वास गर मनलाई जगाएर है, सुन नेपाली ।</lines></verse><verse name="v2"><lines>१. सुख-शान्ति नेपालीको मैला पखालेर (२)<br/>अमर जीवन मिल्नेछैन धेरै पर्खिएर है, सुन नेपाली ।</lines></verse><verse name="v3"><lines>२. मुक्ति छैन संसारमा मनले गुनी लिए (२)<br/>दाजु-भाइ, दिदी-बहिनी विश्वास गरी लिए है, सुन नेपाली ।</lines></verse><verse name="v4"><lines>३. सुनी विश्वास नगरेमा ठूलो हाम्रो भुल (२)<br/>मुक्ति दिने प्रभु येशू जीवनको मूल है, सुन नेपाली ।</lines></verse><verse name="v5"><lines>४. स्वर्गबाट प्रभु आए मुक्ति लिएर (२)<br/>क्रूसमाथि मर्नुभयो जीवन दिनलाई है, सुन नेपाली ।</lines></verse><verse name="v6"><lines>५. पापको बोझ उठाइलाने अर्को छैन कोही (२)<br/>एउटै मात्र प्रभु येशू जीवन दिने उनै है, सुन नेपाली । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 227(Ashantiko Pir Badhyo)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः अशान्तिको पीर बढ्यो धुनी लगाएर (२)<br/>प्रभु ख्रीष्टमा विश्वास गर मनलाई जगाएर है, सुन नेपाली ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. सुख-शान्ति नेपालीको मैला पखालेर (२)<br/>अमर जीवन मिल्नेछैन धेरै पर्खिएर है, सुन नेपाली ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. मुक्ति छैन संसारमा मनले गुनी लिए (२)<br/>दाजु-भाइ, दिदी-बहिनी विश्वास गरी लिए है, सुन नेपाली ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. सुनी विश्वास नगरेमा ठूलो हाम्रो भुल (२)<br/>मुक्ति दिने प्रभु येशू जीवनको मूल है, सुन नेपाली ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. स्वर्गबाट प्रभु आए मुक्ति लिएर (२)<br/>क्रूसमाथि मर्नुभयो जीवन दिनलाई है, सुन नेपाली ।</lines>
+		</verse>
+		<verse name="v6">
+			<lines>५. पापको बोझ उठाइलाने अर्को छैन कोही (२)<br/>एउटै मात्र प्रभु येशू जीवन दिने उनै है, सुन नेपाली । </lines>
+		</verse>
+	</lyrics>
+</song>

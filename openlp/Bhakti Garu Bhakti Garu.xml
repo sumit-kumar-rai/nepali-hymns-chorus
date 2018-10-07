@@ -1,2 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 175(Bhakti Garu Bhakti Garu)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>भक्ति गरूँ, भक्ति गरूँ सम्पूर्ण मनले, सम्पूर्ण मनले<br/>स्तुति गरूँ, सम्पूर्ण, सम्पूर्ण बलले, सम्पूर्ण बलले ।<br/>सेवा गरूँ सारा जीवनले र म हिँडू (तपाईंको अगुवाइमा) २</lines></verse><verse name="v2"><lines>म गर्छु उपासना तपाईंको, सारा स्तुति दिन्छु तपाईंलाई<br/>केवल तपाईंको भक्ति गरूँ, केवल तपाईंको नै स्तुतिको योग्य । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 175(Bhakti Garu Bhakti Garu)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>भक्ति गरूँ, भक्ति गरूँ सम्पूर्ण मनले, सम्पूर्ण मनले<br/>स्तुति गरूँ, सम्पूर्ण, सम्पूर्ण बलले, सम्पूर्ण बलले ।<br/>सेवा गरूँ सारा जीवनले र म हिँडू (तपाईंको अगुवाइमा) २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>म गर्छु उपासना तपाईंको, सारा स्तुति दिन्छु तपाईंलाई<br/>केवल तपाईंको भक्ति गरूँ, केवल तपाईंको नै स्तुतिको योग्य । </lines>
+		</verse>
+	</lyrics>
+</song>

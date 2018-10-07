@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 542(Uthihera Akashaima Naya Tara)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः उठिहेर आकाशैमा नयाँ तारा उदाएको<br/>सुनिहेर बतासैले नयाँ सन्देश ल्याएको<br/>आनन्दले पूर्ण यो, शान्तिले पूर्ण यो<br/>येशू राजा जन्मेको सुसन्देश (तिमी मे रै लागि हो हो हो) २</lines></verse><verse name="v2"><lines>१. अन्धकारपूर्ण जगतमा ज्योति ल्याउनुभयो उहाँले<br/>निराशलाई जीवन दिन आशा ल्याउनुभयो उहाँले २<br/>परमेश्वर अवतार लिई मानव बनी आउनुभो<br/>हाम्रो मुक्तिदाता प्रभु जगतमा आउनुभो ।</lines></verse><verse name="v3"><lines>२. लक्ष्यहीन जीवनको लक्ष्य बनी ख्रीष्ट जगत्मा आउनुभो<br/>प्राणहीनलाई जीवन दिन डुँडमा प्रभु पस्रनुभो २<br/>बाटो, सत्य र जीवन उहाँ, मानव बनी आउनुभो<br/>तिमी-मलाई बचाउनलाई जगतमा आउनुभो । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 542(Uthihera Akashaima Naya Tara)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः उठिहेर आकाशैमा नयाँ तारा उदाएको<br/>सुनिहेर बतासैले नयाँ सन्देश ल्याएको<br/>आनन्दले पूर्ण यो, शान्तिले पूर्ण यो<br/>येशू राजा जन्मेको सुसन्देश (तिमी मे रै लागि हो हो हो) २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. अन्धकारपूर्ण जगतमा ज्योति ल्याउनुभयो उहाँले<br/>निराशलाई जीवन दिन आशा ल्याउनुभयो उहाँले २<br/>परमेश्वर अवतार लिई मानव बनी आउनुभो<br/>हाम्रो मुक्तिदाता प्रभु जगतमा आउनुभो ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. लक्ष्यहीन जीवनको लक्ष्य बनी ख्रीष्ट जगत्मा आउनुभो<br/>प्राणहीनलाई जीवन दिन डुँडमा प्रभु पस्रनुभो २<br/>बाटो, सत्य र जीवन उहाँ, मानव बनी आउनुभो<br/>तिमी-मलाई बचाउनलाई जगतमा आउनुभो । </lines>
+		</verse>
+	</lyrics>
+</song>

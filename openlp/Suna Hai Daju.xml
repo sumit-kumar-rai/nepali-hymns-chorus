@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 577(Suna Hai Daju)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः सुन है दाजु, सुन है बहिनी कलवरीको कथालाई<br/>सुनेर, बुझेर सबैले मनमा गुनिराख है, (सुनिराख है, बुझिराख है) २</lines></verse><verse name="v2"><lines>१. रगत है रगत, चोट है चोट, येशूले प्राण दिए (२)<br/>तिम्रो र मेरो पापको निम्ति क्रूसमा बलि भए (२)<br/>सुनिराख है, बुझिराख है (२)</lines></verse><verse name="v3"><lines>२. मृत्युको बन्धनलाई तोडेका छन् ख्रीष्ट येशूले (२)<br/>सित्तैमा दिएको मुक्तिलाई ग्रहण गरिराख है (२)<br/>सुनिराख है, बुझिराख है (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 577(Suna Hai Daju)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः सुन है दाजु, सुन है बहिनी कलवरीको कथालाई<br/>सुनेर, बुझेर सबैले मनमा गुनिराख है, (सुनिराख है, बुझिराख है) २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. रगत है रगत, चोट है चोट, येशूले प्राण दिए (२)<br/>तिम्रो र मेरो पापको निम्ति क्रूसमा बलि भए (२)<br/>सुनिराख है, बुझिराख है (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. मृत्युको बन्धनलाई तोडेका छन् ख्रीष्ट येशूले (२)<br/>सित्तैमा दिएको मुक्तिलाई ग्रहण गरिराख है (२)<br/>सुनिराख है, बुझिराख है (२) </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 106(Ma Banaudaichu Shaktishali)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>म बनाउँदैछु शक्तिशाली जाति<br/>जसले गर्नेछ मेरो स्तुति,</lines></verse><verse name="v2"><lines>मेरो आत्मा बहनेछ यो देशमा<br/>र हुनेछ मेरो नाउँको महिमा ।</lines></verse><verse name="v3"><lines>बनाउनोस् प्रभु आफ्नो मण्डली,<br/>हामीहरूलाई बलियो बनाई<br/>एउटै बनाउनोस् आफ्नो शरीरमा,<br/>आफ्नो पुत्रको राज्यमा । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 106(Ma Banaudaichu Shaktishali)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>म बनाउँदैछु शक्तिशाली जाति<br/>जसले गर्नेछ मेरो स्तुति,</lines>
+		</verse>
+		<verse name="v2">
+			<lines>मेरो आत्मा बहनेछ यो देशमा<br/>र हुनेछ मेरो नाउँको महिमा ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>बनाउनोस् प्रभु आफ्नो मण्डली,<br/>हामीहरूलाई बलियो बनाई<br/>एउटै बनाउनोस् आफ्नो शरीरमा,<br/>आफ्नो पुत्रको राज्यमा । </lines>
+		</verse>
+	</lyrics>
+</song>

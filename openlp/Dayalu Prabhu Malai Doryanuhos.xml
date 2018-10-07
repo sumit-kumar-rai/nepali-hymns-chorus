@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 363(Dayalu Prabhu Malai Doryanuhos)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः दयालु प्रभु मलाई डोर्र्‍याउनोस् बाटोमा तपाईंको<br/>पूर्ण होस् इच्छा परमेश्वरको जीवनमा मेरो<br/>जाँच्नुहोस् प्रभु मलाई गर्न सब स्वार्थको नाश<br/>देखाउनुहवस् उपाय मलाई, बनूँ म विश्वासी दास ।</lines></verse><verse name="v2"><lines>१. छान्नुभो प्रभु अयोग्य प्राणीलाई गर्नलाई तपाईंको काम<br/>अज्ञानी म, निर्बल, लाचार छु बढाउन ख्रीष्टीय राज्य<br/>खार्नुहोस्, बनाउनुहोस् जीवनलाई प्रभु मेरो<br/>काट्नोस व्यर्थ वृद्धि बन्न स्वरूप तपाईंको ।</lines></verse><verse name="v3"><lines>२. जानेछु म बाटोमा येशूजीको नगरी केही गन्गन्<br/>प्रेमको केन्द्र प्रभु मेरो तपाईं, अर्पण गर्छु तन-मन-धन<br/>हटाउनोस् स्वार्थ मेरो, होस् भरपूरी आत्माको<br/>देखून् सबले जीवनमा सद्गुण परमेश्वरको । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 363(Dayalu Prabhu Malai Doryanuhos)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः दयालु प्रभु मलाई डोर्र्‍याउनोस् बाटोमा तपाईंको<br/>पूर्ण होस् इच्छा परमेश्वरको जीवनमा मेरो<br/>जाँच्नुहोस् प्रभु मलाई गर्न सब स्वार्थको नाश<br/>देखाउनुहवस् उपाय मलाई, बनूँ म विश्वासी दास ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. छान्नुभो प्रभु अयोग्य प्राणीलाई गर्नलाई तपाईंको काम<br/>अज्ञानी म, निर्बल, लाचार छु बढाउन ख्रीष्टीय राज्य<br/>खार्नुहोस्, बनाउनुहोस् जीवनलाई प्रभु मेरो<br/>काट्नोस व्यर्थ वृद्धि बन्न स्वरूप तपाईंको ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. जानेछु म बाटोमा येशूजीको नगरी केही गन्गन्<br/>प्रेमको केन्द्र प्रभु मेरो तपाईं, अर्पण गर्छु तन-मन-धन<br/>हटाउनोस् स्वार्थ मेरो, होस् भरपूरी आत्माको<br/>देखून् सबले जीवनमा सद्गुण परमेश्वरको । </lines>
+		</verse>
+	</lyrics>
+</song>

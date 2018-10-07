@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 351(Hey Prabhu Tapaiko Lagi)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. हे प्रभु तपाईंको लागि पूरो शक्ति दिन्छु<br/>र मेरो मनको हर्षअन्सार तपाईंको गीत गाउँछु ।</lines></verse><verse name="v2"><lines>२. संसारलाई हृदय दिएर प्रेम हुन्न तपाईंको<br/>तपाईंको सेवा बिनाबल गर्न नसक्ने हो ।</lines></verse><verse name="v3"><lines>३. तपाईंको लागि कुइच्छा नहवस् दान मेरो<br/>न मेरो हवस् अल्छे मन, न हृदय अपस्वार्थको ।</lines></verse><verse name="v4"><lines>४. हे प्रभु मलाई चुन्नुहोस्, म हुन्छु तपाईंको<br/>तपाईंलाई पूरो बल दिन्छु सम्पूर्ण हृदयको । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 351(Hey Prabhu Tapaiko Lagi)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. हे प्रभु तपाईंको लागि पूरो शक्ति दिन्छु<br/>र मेरो मनको हर्षअन्सार तपाईंको गीत गाउँछु ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. संसारलाई हृदय दिएर प्रेम हुन्न तपाईंको<br/>तपाईंको सेवा बिनाबल गर्न नसक्ने हो ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. तपाईंको लागि कुइच्छा नहवस् दान मेरो<br/>न मेरो हवस् अल्छे मन, न हृदय अपस्वार्थको ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. हे प्रभु मलाई चुन्नुहोस्, म हुन्छु तपाईंको<br/>तपाईंलाई पूरो बल दिन्छु सम्पूर्ण हृदयको । </lines>
+		</verse>
+	</lyrics>
+</song>

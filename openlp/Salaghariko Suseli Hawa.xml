@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 541(Salaghariko Suseli Hawa)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः सल्लाघारीको सुसेली हावा कति मीठो गीत गाउँछ सृष्टिकर्ताको<br/>(गरौं न स्तुति तिमी र हामी मिलेर उनैको) २</lines></verse><verse name="v2"><lines>१. जल, थल्, नभ सारा उनैले बनाका, घाम-जुन-ताराहरू उनैले टाँगेका<br/>खोला-नाला डाँडा-काँडा उनैले बसाका<br/>पशु, प्राणी, प्रकृति पनि उनैले रचेका ।<br/>गरौं न स्तुति तिमी र हामी मिलेर उनैको<br/>लौ, गरौं न स्तुति तिमी र हामी परमप्रभुको ।</lines></verse><verse name="v3"><lines>२. हिउँ, असिना, वर्षा पनि उनैले पठाका, फूल फुलाका<br/>फल पनि उनैले फलाका, रङ्गीबिरङ्गी रङ्गहरू उनैले पोतेका<br/>सुगन्ध-बतास-जीवन पनि वरदान उनैको ।<br/>गरौं न स्तुति तिमी र हामी मिलेर उनैको<br/>लौ, गरौं न स्तुति तिमी र हामी जीवनदाताको ।</lines></verse><verse name="v4"><lines>सल्लाघारीको... मिलेर उनैको ।<br/>लौ, गरौन स्तुति तिमी र हामी परमप्रभुको ।<br/>लौ, गरौन स्तुति तिमी र हामी जीवनदाताको । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 541(Salaghariko Suseli Hawa)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः सल्लाघारीको सुसेली हावा कति मीठो गीत गाउँछ सृष्टिकर्ताको<br/>(गरौं न स्तुति तिमी र हामी मिलेर उनैको) २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. जल, थल्, नभ सारा उनैले बनाका, घाम-जुन-ताराहरू उनैले टाँगेका<br/>खोला-नाला डाँडा-काँडा उनैले बसाका<br/>पशु, प्राणी, प्रकृति पनि उनैले रचेका ।<br/>गरौं न स्तुति तिमी र हामी मिलेर उनैको<br/>लौ, गरौं न स्तुति तिमी र हामी परमप्रभुको ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. हिउँ, असिना, वर्षा पनि उनैले पठाका, फूल फुलाका<br/>फल पनि उनैले फलाका, रङ्गीबिरङ्गी रङ्गहरू उनैले पोतेका<br/>सुगन्ध-बतास-जीवन पनि वरदान उनैको ।<br/>गरौं न स्तुति तिमी र हामी मिलेर उनैको<br/>लौ, गरौं न स्तुति तिमी र हामी जीवनदाताको ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>सल्लाघारीको... मिलेर उनैको ।<br/>लौ, गरौन स्तुति तिमी र हामी परमप्रभुको ।<br/>लौ, गरौन स्तुति तिमी र हामी जीवनदाताको । </lines>
+		</verse>
+	</lyrics>
+</song>

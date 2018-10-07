@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 169(Jay Hos Prabhu Ko)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः जय होस् प्रभुको ! जय, जय, जय, जय होस् !</lines></verse><verse name="v2"><lines>१. परमपिताको चरणकमलमा, आऊ शिर झुकाई,<br/>प्रणाम गरौं, दण्डवत् गरौं, दिलको गर्व हटाई (२)<br/>मसीही प्रेम जो दिलमा जगाऊँ दिलको द्वेष हटाऊँ ।<br/>मसीही ज्योति दिलमा चम्काई जीवन दीप जलाऊँ (२)</lines></verse><verse name="v3"><lines>२. परमधाममा स्तुति चढाऔं, जयजय ख्रीष्टको मनाऔं<br/>तारणहारको प्रेम प्रचारौं, लोकलाई ख्रीष्ट चिनाऔं (२)<br/>जीवनदीप सबले जलाई मसीही जीवन लिई<br/>अन्धकारले पूर्ण यो जगमा मसीही ज्योति फिजाऔं (२)</lines></verse><verse name="v4"><lines>३. जीवन पथमा पाउ बढाऔं, लोकलाई ख्रीष्टमा ल्याऔं (२)<br/>“ईश्वी यत्न झुण्ड” हो आऊ हातमा हात मिलाऔं (२)<br/>प्रभुको हुकुम पालन गर्ने दिलमा उत्साह जगाऔं<br/>तारणहारको यश प्रचारौं, जगमा उच्च गराऔं (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 169(Jay Hos Prabhu Ko)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः जय होस् प्रभुको ! जय, जय, जय, जय होस् !</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. परमपिताको चरणकमलमा, आऊ शिर झुकाई,<br/>प्रणाम गरौं, दण्डवत् गरौं, दिलको गर्व हटाई (२)<br/>मसीही प्रेम जो दिलमा जगाऊँ दिलको द्वेष हटाऊँ ।<br/>मसीही ज्योति दिलमा चम्काई जीवन दीप जलाऊँ (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. परमधाममा स्तुति चढाऔं, जयजय ख्रीष्टको मनाऔं<br/>तारणहारको प्रेम प्रचारौं, लोकलाई ख्रीष्ट चिनाऔं (२)<br/>जीवनदीप सबले जलाई मसीही जीवन लिई<br/>अन्धकारले पूर्ण यो जगमा मसीही ज्योति फिजाऔं (२)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. जीवन पथमा पाउ बढाऔं, लोकलाई ख्रीष्टमा ल्याऔं (२)<br/>“ईश्वी यत्न झुण्ड” हो आऊ हातमा हात मिलाऔं (२)<br/>प्रभुको हुकुम पालन गर्ने दिलमा उत्साह जगाऔं<br/>तारणहारको यश प्रचारौं, जगमा उच्च गराऔं (२) </lines>
+		</verse>
+	</lyrics>
+</song>

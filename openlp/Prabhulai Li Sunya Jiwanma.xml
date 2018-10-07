@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 199(Prabhulai Li Sunya Jiwanma)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः प्रभुलाई लिई शून्य जीवनमा,<br/>मुक्तिको आगो जलाई तिम्रो हृदयमा ।</lines></verse><verse name="v2"><lines>१. जीवन बिताऔं हाँसेर, पापलाई त्यागेर (२)<br/>मुक्तिलाई गाँसेर अमर भएर (२)<br/>प्रेमको स्रोत उम्ल्याएर शुष्क हृदयमा ।</lines></verse><verse name="v3"><lines>२. पापको दण्ड मृत्युदेखि दिनलाई छुटकारा (२)<br/>बहाए उनले रगतको धारा (२)<br/>अशान्तिको पीर होला तिम्रो हृदयमा ।</lines></verse><verse name="v4"><lines>३. एउटै मात्र प्रभु हाम्रो जीवनको सहारा (२)<br/>उदय भयो भाग्य सितारा (२)<br/>मुक्तिदाता प्रभु येशू चढे क्रूसैमा । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 199(Prabhulai Li Sunya Jiwanma)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः प्रभुलाई लिई शून्य जीवनमा,<br/>मुक्तिको आगो जलाई तिम्रो हृदयमा ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. जीवन बिताऔं हाँसेर, पापलाई त्यागेर (२)<br/>मुक्तिलाई गाँसेर अमर भएर (२)<br/>प्रेमको स्रोत उम्ल्याएर शुष्क हृदयमा ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. पापको दण्ड मृत्युदेखि दिनलाई छुटकारा (२)<br/>बहाए उनले रगतको धारा (२)<br/>अशान्तिको पीर होला तिम्रो हृदयमा ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. एउटै मात्र प्रभु हाम्रो जीवनको सहारा (२)<br/>उदय भयो भाग्य सितारा (२)<br/>मुक्तिदाता प्रभु येशू चढे क्रूसैमा । </lines>
+		</verse>
+	</lyrics>
+</song>

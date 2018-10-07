@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 519(Mahan Prabhulai Mahima)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः महान् प्रभुलाई महिमा, परमप्रभुलाई प्रशंसा (२)<br/>यो मरो जीवनको चाहना हल्लेलूयाह होशन्ना (२)</lines></verse><verse name="v2"><lines>१. वर्तमान मेरो येशूको हातमा, भविष्य पनि तपाईंको साथमा (२)<br/>आनन्दित छु, शान्तिमा छु, प्रभुहरूका प्रभुमा (२)</lines></verse><verse name="v3"><lines>२. सर्वाङ्ग मेरो येशूको हातमा, अर्पण गर्र्छु धन्यवाद साथमा (२)<br/>निश्चिन्त छु, निर्धक्क छु, राजाहरूका राजामा (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 519(Mahan Prabhulai Mahima)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः महान् प्रभुलाई महिमा, परमप्रभुलाई प्रशंसा (२)<br/>यो मरो जीवनको चाहना हल्लेलूयाह होशन्ना (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. वर्तमान मेरो येशूको हातमा, भविष्य पनि तपाईंको साथमा (२)<br/>आनन्दित छु, शान्तिमा छु, प्रभुहरूका प्रभुमा (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. सर्वाङ्ग मेरो येशूको हातमा, अर्पण गर्र्छु धन्यवाद साथमा (२)<br/>निश्चिन्त छु, निर्धक्क छु, राजाहरूका राजामा (२) </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 650(Hamile Boleka Badalka)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. हामीले बोलेका बादलका मायाहरू हाम्रा रंगीन शीतका सपनाहरू (२)<br/>चुडिन सक्छ भत्कन सक्छ<br/>तर ख्रीष्टको प्रेम जो छ सदा बगिरहन्छ<br/>प्रेम (३) (सदा बगिरहन्छ) २</lines></verse><verse name="v2"><lines>२. मानव मर्दछ इज्जत छुट्दछ जिन्दगीको अर्थ नै हराएपछि (२)<br/>धन हराउँदछ, दौलत कुहुन्छ, प्रेमको अस्तित्व गुमाएपछि (२)<br/>तर ख्रीष्टको प्रेम जो छ सदा बगिरहन्छ<br/>प्रेम (३) (सदा बगिरहन्छ) २</lines></verse><verse name="v3"><lines>३. आशा मर्दछ हर्ष उड्दछ प्रीतिको फूल ओइलिएपछि (२)<br/>सपना टुट्दछ, कप्लना फूट्दछ जिन्दगीको डोरोमा हराएपछि (२)<br/>तर ख्रीष्टको प्रेम जो छ सदा बगिरहन्छ<br/>प्रेम (३) (सदा बगिरहन्छ) २ </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 650(Hamile Boleka Badalka)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. हामीले बोलेका बादलका मायाहरू हाम्रा रंगीन शीतका सपनाहरू (२)<br/>चुडिन सक्छ भत्कन सक्छ<br/>तर ख्रीष्टको प्रेम जो छ सदा बगिरहन्छ<br/>प्रेम (३) (सदा बगिरहन्छ) २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. मानव मर्दछ इज्जत छुट्दछ जिन्दगीको अर्थ नै हराएपछि (२)<br/>धन हराउँदछ, दौलत कुहुन्छ, प्रेमको अस्तित्व गुमाएपछि (२)<br/>तर ख्रीष्टको प्रेम जो छ सदा बगिरहन्छ<br/>प्रेम (३) (सदा बगिरहन्छ) २</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. आशा मर्दछ हर्ष उड्दछ प्रीतिको फूल ओइलिएपछि (२)<br/>सपना टुट्दछ, कप्लना फूट्दछ जिन्दगीको डोरोमा हराएपछि (२)<br/>तर ख्रीष्टको प्रेम जो छ सदा बगिरहन्छ<br/>प्रेम (३) (सदा बगिरहन्छ) २ </lines>
+		</verse>
+	</lyrics>
+</song>

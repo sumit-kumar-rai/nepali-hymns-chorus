@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 337(Jastai Ma Chu)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. जस्तै म छु, हो तपाईंको जीवनका मित प्यार गर्छन् जो<br/>तपाईंलाई, म अर्पण गर्छु, हे प्रभु येशू आउँदै छु ।</lines></verse><verse name="v2"><lines>२. मेरो आयुको बिहानमा खुसीसाथ ज्यान र प्रतिज्ञा<br/>दिन्छु नभई अबेला, हे प्रभु येशू, आउँदै छु ।</lines></verse><verse name="v3"><lines>३. सदा ज्योतिमा बस्न पाऊँ सदा भलाई काम गर्न पाऊँ<br/>सेवामा पूरो बल लगाऊँ यसकारण येशू आउँदै छु ।</lines></verse><verse name="v4"><lines>४. जीवन स्वतन्त्र म हुँदा शुद्ध हुन चाहन्छु तपाईंमा<br/>सोझो र भक्त, धर्मात्मा, हे जीवन स्वामी, आउँदै छु । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 337(Jastai Ma Chu)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. जस्तै म छु, हो तपाईंको जीवनका मित प्यार गर्छन् जो<br/>तपाईंलाई, म अर्पण गर्छु, हे प्रभु येशू आउँदै छु ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. मेरो आयुको बिहानमा खुसीसाथ ज्यान र प्रतिज्ञा<br/>दिन्छु नभई अबेला, हे प्रभु येशू, आउँदै छु ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. सदा ज्योतिमा बस्न पाऊँ सदा भलाई काम गर्न पाऊँ<br/>सेवामा पूरो बल लगाऊँ यसकारण येशू आउँदै छु ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. जीवन स्वतन्त्र म हुँदा शुद्ध हुन चाहन्छु तपाईंमा<br/>सोझो र भक्त, धर्मात्मा, हे जीवन स्वामी, आउँदै छु । </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 220(Mera Priya Sundar)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>मेरा प्रिय सुन्दर, दस हजारमा एक (२)<br/>उनको शिर, निक्खुर सुनको,<br/>उनको शरीर नीलमणिले जडेको<br/>उनको सुन्दर मुहार (लेबनानजस्तो) २</lines></verse><verse name="v2"><lines>तिम्रो बाटो हेर्छु प्रेमले व्याकुल छु (२)<br/>मेरो बागमा बतास चलोस्<br/>चारैतिर सुबासना फैलियोस् (२)<br/>फल चाखिदेऊ (मेरो बगैँचाको) २ </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 220(Mera Priya Sundar)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>मेरा प्रिय सुन्दर, दस हजारमा एक (२)<br/>उनको शिर, निक्खुर सुनको,<br/>उनको शरीर नीलमणिले जडेको<br/>उनको सुन्दर मुहार (लेबनानजस्तो) २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>तिम्रो बाटो हेर्छु प्रेमले व्याकुल छु (२)<br/>मेरो बागमा बतास चलोस्<br/>चारैतिर सुबासना फैलियोस् (२)<br/>फल चाखिदेऊ (मेरो बगैँचाको) २ </lines>
+		</verse>
+	</lyrics>
+</song>

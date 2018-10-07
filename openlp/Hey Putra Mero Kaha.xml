@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 196(Hey Putra Mero Kaha)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. हे पुत्र मेरो कहाँ छौ तिमी पर्खिरहेछु म<br/>खोज्दै हिँड्दै बाटो तिम्रो अति उत्सुक भएर ।<br/>फर्केर आऊ म भए ठाउँ भेट्नेछु तिमीलाई<br/>फर्केर आऊ म भए ठाउँ स्थान हो त्यो कल्वरी ।</lines></verse><verse name="v2"><lines>२. माता-पिता छन् र धेरै साथी प्यार पाउँछौ तिमीले<br/>तर सुन ती सबै एक दिन छोडेर जानुपर्छ ।<br/>मेरोमा आऊ तयार छु म हुनलाई तिमै्र मित<br/>आजभोलि सदासर्वदा रहनेछु तिम्रै मित ।</lines></verse><verse name="v3"><lines>३. थकित छ होला दुःखित तिम्रो मन चिन्ताले संसारको<br/>भविष्यको डर मनमा राखी छाडेछौ झन् टाढो ।<br/>वस्त्र, भोजन, धन, सम्पत्ति मसित छन् प्रचुर<br/>अनन्त शान्तिले पारी भरपूर गर्नेछु सब दोष दूर ।</lines></verse><verse name="v4"><lines>४. हे पुत्र मेरो भन कहाँ छौ अँध्यारो हुँदै छ<br/>छिट्टै नै आऊ बेला रहँदै बन्द हुनेछ द्वार ।<br/>सुन मेरो यो निम्तोलाई नगर अरू बेर<br/>फर्केर आऊ तिम्रो घरमा नत्र होला अबेर । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 196(Hey Putra Mero Kaha)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. हे पुत्र मेरो कहाँ छौ तिमी पर्खिरहेछु म<br/>खोज्दै हिँड्दै बाटो तिम्रो अति उत्सुक भएर ।<br/>फर्केर आऊ म भए ठाउँ भेट्नेछु तिमीलाई<br/>फर्केर आऊ म भए ठाउँ स्थान हो त्यो कल्वरी ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. माता-पिता छन् र धेरै साथी प्यार पाउँछौ तिमीले<br/>तर सुन ती सबै एक दिन छोडेर जानुपर्छ ।<br/>मेरोमा आऊ तयार छु म हुनलाई तिमै्र मित<br/>आजभोलि सदासर्वदा रहनेछु तिम्रै मित ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. थकित छ होला दुःखित तिम्रो मन चिन्ताले संसारको<br/>भविष्यको डर मनमा राखी छाडेछौ झन् टाढो ।<br/>वस्त्र, भोजन, धन, सम्पत्ति मसित छन् प्रचुर<br/>अनन्त शान्तिले पारी भरपूर गर्नेछु सब दोष दूर ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. हे पुत्र मेरो भन कहाँ छौ अँध्यारो हुँदै छ<br/>छिट्टै नै आऊ बेला रहँदै बन्द हुनेछ द्वार ।<br/>सुन मेरो यो निम्तोलाई नगर अरू बेर<br/>फर्केर आऊ तिम्रो घरमा नत्र होला अबेर । </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 314(Dhanya Hos Prabhuko Naau)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>धन्य होस् प्रभुको नाउँ (३)<br/>सर्वोच्च धन्य होस् प्रभुको नाउँ (३)<br/>सर्वोच्च तपाईंको नाउँ बलियो धरहरा,<br/>तपाईंको शरण पर्छन् र वास गर्छन्<br/>येशू हुन् प्रभुको नाउँ, पवित्र होस् येशूको नाउँ (३)<br/>सर्वोच्च... </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 314(Dhanya Hos Prabhuko Naau)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>धन्य होस् प्रभुको नाउँ (३)<br/>सर्वोच्च धन्य होस् प्रभुको नाउँ (३)<br/>सर्वोच्च तपाईंको नाउँ बलियो धरहरा,<br/>तपाईंको शरण पर्छन् र वास गर्छन्<br/>येशू हुन् प्रभुको नाउँ, पवित्र होस् येशूको नाउँ (३)<br/>सर्वोच्च... </lines>
+		</verse>
+	</lyrics>
+</song>

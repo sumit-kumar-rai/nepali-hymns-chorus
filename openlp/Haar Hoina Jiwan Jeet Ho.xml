@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 313(Haar Hoina Jiwan Jeet Ho)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः हार होइन जीवन जीत हो, अभिशाप होइन आशिष् हो<br/>मुक्तिदाता ख्रीष्टको रगतले किनेको वरदान यो जीवन धेरै दामी हो ।</lines></verse><verse name="v2"><lines>१. ए हतास-हतास जिउनेहरू, ए उदास भएका मनहरू<br/>ए निराश-निराश आँखाहरू, विवशतामा रुने प्राणहरू<br/>नयाँ गरी ख्रीष्टमा जन्म लेऊ, नत्र जीवन व्यर्थ जानेछ ।</lines></verse><verse name="v3"><lines>२. जीवनदेखि थाकेकाहरू अविश्वास गरी भाग्नेहरू<br/>मनका ती सबै व्यथालाई येशूको अगाडि राखिदेऊ<br/>हात फैलाई मागे निश्चय नै तिमीलाई यो दान उनले दिनेछन् । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 313(Haar Hoina Jiwan Jeet Ho)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः हार होइन जीवन जीत हो, अभिशाप होइन आशिष् हो<br/>मुक्तिदाता ख्रीष्टको रगतले किनेको वरदान यो जीवन धेरै दामी हो ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. ए हतास-हतास जिउनेहरू, ए उदास भएका मनहरू<br/>ए निराश-निराश आँखाहरू, विवशतामा रुने प्राणहरू<br/>नयाँ गरी ख्रीष्टमा जन्म लेऊ, नत्र जीवन व्यर्थ जानेछ ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. जीवनदेखि थाकेकाहरू अविश्वास गरी भाग्नेहरू<br/>मनका ती सबै व्यथालाई येशूको अगाडि राखिदेऊ<br/>हात फैलाई मागे निश्चय नै तिमीलाई यो दान उनले दिनेछन् । </lines>
+		</verse>
+	</lyrics>
+</song>

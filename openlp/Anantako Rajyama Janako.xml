@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 657(Anantako Rajyama Janako)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः अनन्तको राज्यमा जानको लागि,<br/>ईश्वरीय शक्ति पाउनको लागि भक्तिसाथ जीवन जिउनको लागि,<br/>विश्वासमा विजय बन्नको लागि (प्रार्थनामा लागिरहौँ) ४</lines></verse><verse name="v2"><lines>१. शौतानले अवश्य वाधा नै ल्याउँछ, दुःख र कष्टको हुरी चलाउँछ (२)<br/>कमजोर विश्वासको मुटु हल्लाउँछ, (त्यसैले म भन्छु, प्रार्थनामा लागिरहाँै) २</lines></verse><verse name="v3"><lines>२. गर्जने सिंहझैँ तर्साउन आउँछ, घमण्ड र स्वार्थ मनमा ल्याइदिन्छ (२)<br/>विश्वासको जीवनमा शंका ल्याइदिन्छ (त्यसैले म भन्छु, प्रार्थनामा लागिरहाँै) २</lines></verse><verse name="v4"><lines>३. लोभ र लालचमा फँसाइ छोड्छ, संसारको पापमा डुबाइदिन्छ (२)<br/>विश्वासबाट पछि हटाउँछ, (त्यसैले म भन्छु, प्रार्थनामा लागिरहाँै) २ </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 657(Anantako Rajyama Janako)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः अनन्तको राज्यमा जानको लागि,<br/>ईश्वरीय शक्ति पाउनको लागि भक्तिसाथ जीवन जिउनको लागि,<br/>विश्वासमा विजय बन्नको लागि (प्रार्थनामा लागिरहौँ) ४</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. शौतानले अवश्य वाधा नै ल्याउँछ, दुःख र कष्टको हुरी चलाउँछ (२)<br/>कमजोर विश्वासको मुटु हल्लाउँछ, (त्यसैले म भन्छु, प्रार्थनामा लागिरहाँै) २</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. गर्जने सिंहझैँ तर्साउन आउँछ, घमण्ड र स्वार्थ मनमा ल्याइदिन्छ (२)<br/>विश्वासको जीवनमा शंका ल्याइदिन्छ (त्यसैले म भन्छु, प्रार्थनामा लागिरहाँै) २</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. लोभ र लालचमा फँसाइ छोड्छ, संसारको पापमा डुबाइदिन्छ (२)<br/>विश्वासबाट पछि हटाउँछ, (त्यसैले म भन्छु, प्रार्थनामा लागिरहाँै) २ </lines>
+		</verse>
+	</lyrics>
+</song>

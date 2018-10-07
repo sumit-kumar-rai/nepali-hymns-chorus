@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 422(Yeshu Hamilai Bolauchan)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. येशू हामीलाई बोलाउँछन् आँधीमा भवसागरको<br/>मधुर स्वरले सधैँ भन्छन् 'पछि लाग हे मेरो ।'</lines></verse><verse name="v2"><lines>२. उहिले गालील झीलको छेउमा चेला ख्रीष्टको स्वर सुने<br/>श्री-सम्पत्ति, घर-घराना उनको लागि सब त्यागे ।</lines></verse><verse name="v3"><lines>३. सुखी संसारको मोहदेखि येशू डाक्छन् हामीलाई<br/>यिनैमा नभुलौं भनी भन्छन् 'गर प्रेम मलाई ।'</lines></verse><verse name="v4"><lines>४. चिन्ता, मज्जा, दुःख वा सु खमा, फुर्सद वा आतुरीमा<br/>येशू भन्छन् 'यिनैभन्दा मलाई गर प्रेम बढ्ता ।'</lines></verse><verse name="v5"><lines>५. येशू हामीलाई बोलाउँछन् मुक्तिदाताको सोर सुनौ<br/>सबैभन्दा ख्रीष्ट तपाईंलाई सेवा, मन र प्रेम चढाऔं । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 422(Yeshu Hamilai Bolauchan)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. येशू हामीलाई बोलाउँछन् आँधीमा भवसागरको<br/>मधुर स्वरले सधैँ भन्छन् 'पछि लाग हे मेरो ।'</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. उहिले गालील झीलको छेउमा चेला ख्रीष्टको स्वर सुने<br/>श्री-सम्पत्ति, घर-घराना उनको लागि सब त्यागे ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. सुखी संसारको मोहदेखि येशू डाक्छन् हामीलाई<br/>यिनैमा नभुलौं भनी भन्छन् 'गर प्रेम मलाई ।'</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. चिन्ता, मज्जा, दुःख वा सु खमा, फुर्सद वा आतुरीमा<br/>येशू भन्छन् 'यिनैभन्दा मलाई गर प्रेम बढ्ता ।'</lines>
+		</verse>
+		<verse name="v5">
+			<lines>५. येशू हामीलाई बोलाउँछन् मुक्तिदाताको सोर सुनौ<br/>सबैभन्दा ख्रीष्ट तपाईंलाई सेवा, मन र प्रेम चढाऔं । </lines>
+		</verse>
+	</lyrics>
+</song>

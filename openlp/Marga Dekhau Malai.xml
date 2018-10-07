@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 679(Marga Dekhau Malai)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः मार्ग देखाऊ मलाई पिता परमेश्वर (२)<br/>छाड्न कठिन भो' (२),<br/>पापको जाल मेरो पिता परमेश्वर</lines></verse><verse name="v2"><lines>१. सदा दिन तिम्रो काम गर्न सकूँ म (२)<br/>सदा दिन तिम्रो पुकार गर्न सकूँ म (२)<br/>यही प्रार्थना गर्छु म पिता परमेश्वर (२)</lines></verse><verse name="v3"><lines>२. तिम्रो सन्देशहरूको प्रचार गरुँ म (२)<br/>आत्मा सच्चाईंले तिमीलाई पुज्न सकूँ म (२)<br/>यही प्रार्थना गर्छु म पिता परमेश्वर (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 679(Marga Dekhau Malai)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः मार्ग देखाऊ मलाई पिता परमेश्वर (२)<br/>छाड्न कठिन भो' (२),<br/>पापको जाल मेरो पिता परमेश्वर</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. सदा दिन तिम्रो काम गर्न सकूँ म (२)<br/>सदा दिन तिम्रो पुकार गर्न सकूँ म (२)<br/>यही प्रार्थना गर्छु म पिता परमेश्वर (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. तिम्रो सन्देशहरूको प्रचार गरुँ म (२)<br/>आत्मा सच्चाईंले तिमीलाई पुज्न सकूँ म (२)<br/>यही प्रार्थना गर्छु म पिता परमेश्वर (२) </lines>
+		</verse>
+	</lyrics>
+</song>

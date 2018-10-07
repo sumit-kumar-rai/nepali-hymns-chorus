@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 40(Adradha Nisama)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः अद्र्ध निशामा लिई सुसन्देश, दीन बनी आयौं हामी तिम्रो दुवारमा ।</lines></verse><verse name="v2"><lines>१. दुर्दशा यो सब देखी संसारको (२) पापको भारले मानव मिचेको (२)<br/>जिन्दगीको हाल सुधार्न भनी (२) ईश्वरपुत्र जगमा आए सङ्कोच नमानी ।</lines></verse><verse name="v3"><lines>२. ईश्वर र मानव बीचको पर्दा (२) पापी मानवको पापले गर्दा (२)<br/>तोडी मानवलाई लान ईश्वरकहाँ (२) आउनुभयो महान् ईश्वर दुष्ट संसारमा ।</lines></verse><verse name="v4"><lines>३. सहर यरूशलेम, गावैँ बेथलेहेम (२) जन्मे गोठैमा बालक एक नरम (२)<br/>ख्रीष्ट जीवनधार येशू तारणहार (२) विश्वास गरी आउने जति हुन्छन् मृत्युपार । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 40(Adradha Nisama)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः अद्र्ध निशामा लिई सुसन्देश, दीन बनी आयौं हामी तिम्रो दुवारमा ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. दुर्दशा यो सब देखी संसारको (२) पापको भारले मानव मिचेको (२)<br/>जिन्दगीको हाल सुधार्न भनी (२) ईश्वरपुत्र जगमा आए सङ्कोच नमानी ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. ईश्वर र मानव बीचको पर्दा (२) पापी मानवको पापले गर्दा (२)<br/>तोडी मानवलाई लान ईश्वरकहाँ (२) आउनुभयो महान् ईश्वर दुष्ट संसारमा ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. सहर यरूशलेम, गावैँ बेथलेहेम (२) जन्मे गोठैमा बालक एक नरम (२)<br/>ख्रीष्ट जीवनधार येशू तारणहार (२) विश्वास गरी आउने जति हुन्छन् मृत्युपार । </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 615(Kasto Anmol Balidan)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः कस्तो अनमोल बलिदान दियौ मानव जातिलाई (२)<br/>चाहन्छु म प्रभु तिमीलाई नै (२)</lines></verse><verse name="v2"><lines>१. नयाँ आशा नयाँ उमंग नयाँ किरण, पाएँ मैले (२) येशू तिम्रो हात समाई,<br/>नयाँ जीवन पाएँ मैले (अब छाड्नेछैन तिम्रो हात अब त्याग्नेछैन तिम्रो साथ) २</lines></verse><verse name="v3"><lines>२. मेरो दुःखमा दुःखी बनी दुःख सबै उठाउनुभयो (२) मेरो निम्ति दोषी बनी<br/>दोषबाट छुटाउनुभो (अब छाड्ने छैन तिम्रो हात अब त्याग्नेछैन तिम्रो साथ) २ </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 615(Kasto Anmol Balidan)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः कस्तो अनमोल बलिदान दियौ मानव जातिलाई (२)<br/>चाहन्छु म प्रभु तिमीलाई नै (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. नयाँ आशा नयाँ उमंग नयाँ किरण, पाएँ मैले (२) येशू तिम्रो हात समाई,<br/>नयाँ जीवन पाएँ मैले (अब छाड्नेछैन तिम्रो हात अब त्याग्नेछैन तिम्रो साथ) २</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. मेरो दुःखमा दुःखी बनी दुःख सबै उठाउनुभयो (२) मेरो निम्ति दोषी बनी<br/>दोषबाट छुटाउनुभो (अब छाड्ने छैन तिम्रो हात अब त्याग्नेछैन तिम्रो साथ) २ </lines>
+		</verse>
+	</lyrics>
+</song>

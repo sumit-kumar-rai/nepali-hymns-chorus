@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 662(Ishworko Bachan Pura Garnalai)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः ईश्वरको वचन पूरा गर्नलाई वचन देह भयो<br/>बालक येशू सबका उद्धारक (जन्म गोठमा भो) २</lines></verse><verse name="v2"><lines>१. बालक ईश्वरका प्रिय पुत्र हुन्, नाउँ येशू उनको (२)<br/>उद्धार गर्नलाई जन्मेका उनी ईश्वरका पुत्र हुन् ।</lines></verse><verse name="v3"><lines>२. ईश्वरको पुत्र भएर पनि मानव रुप लिनुभो । (२)<br/>आफैलाई रित्याई दिएको दान बालक येशू हुन् । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 662(Ishworko Bachan Pura Garnalai)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः ईश्वरको वचन पूरा गर्नलाई वचन देह भयो<br/>बालक येशू सबका उद्धारक (जन्म गोठमा भो) २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. बालक ईश्वरका प्रिय पुत्र हुन्, नाउँ येशू उनको (२)<br/>उद्धार गर्नलाई जन्मेका उनी ईश्वरका पुत्र हुन् ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. ईश्वरको पुत्र भएर पनि मानव रुप लिनुभो । (२)<br/>आफैलाई रित्याई दिएको दान बालक येशू हुन् । </lines>
+		</verse>
+	</lyrics>
+</song>

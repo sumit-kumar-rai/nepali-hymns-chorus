@@ -1,2 +1,34 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 248(Hridayko Parda Ughari)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. हृदयको पर्दा उघारी हेर्दा पापैको रासैरास बिचारूँ ।</lines></verse><verse name="v2"><lines>२. पापचित्तले गर्दा हृदयले हार्दा पापैको जीतबाजी बिचारूँ ।</lines></verse><verse name="v3"><lines>३. पापैले जित्दा ईश्वरले फेक्दा आत्माको सर्वनाश बिचारूँ ।</lines></verse><verse name="v4"><lines>४. आत्माको कुगत ईश्वरले हेरी पुत्रको दिए दान बिचारूँ ।</lines></verse><verse name="v5"><lines>५. पाप हाम्रो हेरी येशूले लिए क्रूसैको महादुःख बिचारूँ ।</lines></verse><verse name="v6"><lines>६. लौ आऊ गाऊँ येशूको जयजय हृदयको इच्छाले बिचारूँ ।</lines></verse><verse name="v7"><lines>७. आत्मिकै यात्रा सिद्ध गरौं सबले आत्मिकै गोहारले बिचारूँ । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 248(Hridayko Parda Ughari)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. हृदयको पर्दा उघारी हेर्दा पापैको रासैरास बिचारूँ ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. पापचित्तले गर्दा हृदयले हार्दा पापैको जीतबाजी बिचारूँ ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. पापैले जित्दा ईश्वरले फेक्दा आत्माको सर्वनाश बिचारूँ ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. आत्माको कुगत ईश्वरले हेरी पुत्रको दिए दान बिचारूँ ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>५. पाप हाम्रो हेरी येशूले लिए क्रूसैको महादुःख बिचारूँ ।</lines>
+		</verse>
+		<verse name="v6">
+			<lines>६. लौ आऊ गाऊँ येशूको जयजय हृदयको इच्छाले बिचारूँ ।</lines>
+		</verse>
+		<verse name="v7">
+			<lines>७. आत्मिकै यात्रा सिद्ध गरौं सबले आत्मिकै गोहारले बिचारूँ । </lines>
+		</verse>
+	</lyrics>
+</song>

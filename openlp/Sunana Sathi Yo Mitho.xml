@@ -1,2 +1,31 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 192(Sunana Sathi Yo Mitho)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः सुनन साथी यो मीठो वचन मनैमा गुन न<br/>प्रेमैले ल्याएको मुक्तिको माला विश्वासमा उन न, (विश्वासमा उन न) २</lines></verse><verse name="v2"><lines>१. यो भवसागर आँधीले पूर्ण पापैले अँध्यारो (२)<br/>अँध्यारो जगको ख्रीष्टमात्र हाम्रो मुक्तिको उज्यालो (२)</lines></verse><verse name="v3"><lines>२. संसारको ज्योति तारणहार ईशपुत्र पियारा (२)<br/>पियारा येशू शुद्धको निम्ति, मुक्तिको सहारा (२)</lines></verse><verse name="v4"><lines>३. सित्तेंइमा ल्याएको सित्तेंइमा लैजाऊ भनेर यो प्रचार (२)<br/>प्रचार भयो यो मानव-धर्म बचाउन संसार (२)</lines></verse><verse name="v5"><lines>४. शुद्धिको उपाय मुक्तिको हाम्रो ख्रीष्टमात्र पियारो (२)<br/>पियारो जगको ख्रीष्ट मात्र हाम्रो मुक्तिको उज्यालो (२)</lines></verse><verse name="v6"><lines>५. विश्वास गर पापैलाई त्याग सुनेर सङ्गाल (२)<br/>भजन सुनी येशूलाई पछ्याई सत्यलाई अङ्गाल (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 192(Sunana Sathi Yo Mitho)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः सुनन साथी यो मीठो वचन मनैमा गुन न<br/>प्रेमैले ल्याएको मुक्तिको माला विश्वासमा उन न, (विश्वासमा उन न) २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. यो भवसागर आँधीले पूर्ण पापैले अँध्यारो (२)<br/>अँध्यारो जगको ख्रीष्टमात्र हाम्रो मुक्तिको उज्यालो (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. संसारको ज्योति तारणहार ईशपुत्र पियारा (२)<br/>पियारा येशू शुद्धको निम्ति, मुक्तिको सहारा (२)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. सित्तेंइमा ल्याएको सित्तेंइमा लैजाऊ भनेर यो प्रचार (२)<br/>प्रचार भयो यो मानव-धर्म बचाउन संसार (२)</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. शुद्धिको उपाय मुक्तिको हाम्रो ख्रीष्टमात्र पियारो (२)<br/>पियारो जगको ख्रीष्ट मात्र हाम्रो मुक्तिको उज्यालो (२)</lines>
+		</verse>
+		<verse name="v6">
+			<lines>५. विश्वास गर पापैलाई त्याग सुनेर सङ्गाल (२)<br/>भजन सुनी येशूलाई पछ्याई सत्यलाई अङ्गाल (२) </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 172(Aau Sabai  Daju Bhai)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः आऊ सबै दाजु-भाइ ख्रीष्टकै गुण गाऔं ।</lines></verse><verse name="v2"><lines>१. हाम्रो पापको साटो उनी भए पाठो<br/>कत्रो प्रेम र कत्रो दया हामीमाथि गरे ।<br/>आऊ सबै दाजु-भाइ ख्रीष्टकै गुण गाऔं ।</lines></verse><verse name="v3"><lines>२. ख्रीष्टीयान दाजु ख्रीष्टीयान बहिनी ख्रीष्ट हुन् हाम्रा साथी<br/>स्वर्गीयमा पुर्र्‍याउने मृत्युपारि तारी<br/>आऊ सबै दाजु-भाइ ख्रीष्टलाई पछ्याऔं ।</lines></verse><verse name="v4"><lines>३. जति भयो घटी हाम्रो उनलाई सबै मनाऔं<br/>पापलाई लुकाई नरकुण्डको भागी कैले नहोऔं<br/>आऊ सबै दाजु-भाइ स्वर्गीय जाऔं । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 172(Aau Sabai  Daju Bhai)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः आऊ सबै दाजु-भाइ ख्रीष्टकै गुण गाऔं ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. हाम्रो पापको साटो उनी भए पाठो<br/>कत्रो प्रेम र कत्रो दया हामीमाथि गरे ।<br/>आऊ सबै दाजु-भाइ ख्रीष्टकै गुण गाऔं ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. ख्रीष्टीयान दाजु ख्रीष्टीयान बहिनी ख्रीष्ट हुन् हाम्रा साथी<br/>स्वर्गीयमा पुर्र्‍याउने मृत्युपारि तारी<br/>आऊ सबै दाजु-भाइ ख्रीष्टलाई पछ्याऔं ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. जति भयो घटी हाम्रो उनलाई सबै मनाऔं<br/>पापलाई लुकाई नरकुण्डको भागी कैले नहोऔं<br/>आऊ सबै दाजु-भाइ स्वर्गीय जाऔं । </lines>
+		</verse>
+	</lyrics>
+</song>

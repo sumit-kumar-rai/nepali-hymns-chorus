@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 281(Yeshu Hun Mero Kasto)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. येशू हुन् मेरो कस्तो विलाश दिँदछन् मनमा महिमाको आश<br/>मुक्तिको भागी स्वर्ग मेरो घर, उनमा म बस्छु सधैँ निडर ।</lines></verse><verse name="v2"><lines>कोः यो मेरो हाल छ, यो मेरो गान, गर्छु प्रशंसा प्रति दिनै<br/>यो मेरो हाल छ, यो मेरो गान, गर्छु प्रशंसा प्रति दिनै ।</lines></verse><verse name="v3"><lines>२. पूरा भरोसा, आनन्द र सुख, अब मेरो मनमा न शोक न दुःख<br/>ख्रीष्टबाट भयो दयाको ज्ञान, दूतगण अब गर्छन् प्रेमको बखान ।</lines></verse><verse name="v4"><lines>३. विश्वास म राख्छु, ख्रीष्ट मेरो नाथ उनैमा बस्छु सुरक्षासाथ<br/>उनैको प्रेमले पाउँछु, विश्राम जानेछु अन्तमा स्वर्गीय धाम । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 281(Yeshu Hun Mero Kasto)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. येशू हुन् मेरो कस्तो विलाश दिँदछन् मनमा महिमाको आश<br/>मुक्तिको भागी स्वर्ग मेरो घर, उनमा म बस्छु सधैँ निडर ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>कोः यो मेरो हाल छ, यो मेरो गान, गर्छु प्रशंसा प्रति दिनै<br/>यो मेरो हाल छ, यो मेरो गान, गर्छु प्रशंसा प्रति दिनै ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. पूरा भरोसा, आनन्द र सुख, अब मेरो मनमा न शोक न दुःख<br/>ख्रीष्टबाट भयो दयाको ज्ञान, दूतगण अब गर्छन् प्रेमको बखान ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. विश्वास म राख्छु, ख्रीष्ट मेरो नाथ उनैमा बस्छु सुरक्षासाथ<br/>उनैको प्रेमले पाउँछु, विश्राम जानेछु अन्तमा स्वर्गीय धाम । </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,31 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 366(Pardesi Bhai Ho Jadai Chau)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. परदेशी भाइ हो जाँदै छौ कहाँ ? भेष हामी बदली जान्छौं नि वहाँ<br/>टाढैको यात्रा गर्दैछौं राजाको समाचार पाएका छौं स्वर्गमा पुग्नलाई ।</lines></verse><verse name="v2"><lines>२. त्यो सुखको ठाउँमा पुगूँला भन्ने परदेशी भाइ हो के तिम्रो चिन्ने<br/>भरोसै तिम्रो छ हम्मे आशा त साँच्चै अगम्मे दुःखका बाटैमा ।</lines></verse><verse name="v3"><lines>३. चम्किलो वस्त्र येशूले दिन्छन्, तेजिलो मुकुट प्रभुले दिन्छन्<br/>संगिलो अमृत पिउनेछौं, स्वर्गीय सुखधाम पाउनेछौं स्वर्गीय राज्यमा ।</lines></verse><verse name="v4"><lines>४. बगाल छ सानो, डर छैन धेरै बाटो छ एक्लो साथी छ थोरै<br/>दूत हाम्रो दुःखलाई छ सुन्ने, प्रभु येशू स्वामी छन् हेर्ने रक्षक भई अगुवा ।</lines></verse><verse name="v5"><lines>५. आऊ न भाइ हो, आऊ दिदीबहिनी बीचबीचमा पस एकएकै गनी<br/>नछोड हामीलाई कहिल्यै, विश्वास गर ख्रीष्टमा अहिले तब पुग्छौ सुखधाममा ।</lines></verse><verse name="v6"><lines>६. परदेशी भाइ हो, जान्छौ नि हामी रमाइलो देशमा लैजाऊ है जानी<br/>लैजाऊ है हामीलाई साथैमा स्वर्गीयधामको बाटैमा डोर्र्‍याउन हामीलाई । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 366(Pardesi Bhai Ho Jadai Chau)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. परदेशी भाइ हो जाँदै छौ कहाँ ? भेष हामी बदली जान्छौं नि वहाँ<br/>टाढैको यात्रा गर्दैछौं राजाको समाचार पाएका छौं स्वर्गमा पुग्नलाई ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. त्यो सुखको ठाउँमा पुगूँला भन्ने परदेशी भाइ हो के तिम्रो चिन्ने<br/>भरोसै तिम्रो छ हम्मे आशा त साँच्चै अगम्मे दुःखका बाटैमा ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. चम्किलो वस्त्र येशूले दिन्छन्, तेजिलो मुकुट प्रभुले दिन्छन्<br/>संगिलो अमृत पिउनेछौं, स्वर्गीय सुखधाम पाउनेछौं स्वर्गीय राज्यमा ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. बगाल छ सानो, डर छैन धेरै बाटो छ एक्लो साथी छ थोरै<br/>दूत हाम्रो दुःखलाई छ सुन्ने, प्रभु येशू स्वामी छन् हेर्ने रक्षक भई अगुवा ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>५. आऊ न भाइ हो, आऊ दिदीबहिनी बीचबीचमा पस एकएकै गनी<br/>नछोड हामीलाई कहिल्यै, विश्वास गर ख्रीष्टमा अहिले तब पुग्छौ सुखधाममा ।</lines>
+		</verse>
+		<verse name="v6">
+			<lines>६. परदेशी भाइ हो, जान्छौ नि हामी रमाइलो देशमा लैजाऊ है जानी<br/>लैजाऊ है हामीलाई साथैमा स्वर्गीयधामको बाटैमा डोर्र्‍याउन हामीलाई । </lines>
+		</verse>
+	</lyrics>
+</song>

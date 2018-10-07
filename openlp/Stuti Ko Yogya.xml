@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 13(Stuti Ko Yogya)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः स्तुतिको योग्य, महिमाको परमेश्वर,<br/>पापीको सब पापलाई मेटाउने २<br/>तपाईंको दर्शन पाएर अटल भई,<br/>त्यागेर संसार पछ्याउँछु प्रभुलाई २</lines></verse><verse name="v2"><lines>१. अन्धकारपूर्ण छ यो पापी संसार, शैतानको पासो र जाल छ हजार<br/>तपाईंंको दर्शन पाएर अटल भई, त्यागेर संसार पछ्याउँछु प्रभुलाई (२)</lines></verse><verse name="v3"><lines>२. गर्जने सिंहझैँ बैरी कराउँछ पानीको छालझैँ मनलाई हल्लाउँछ<br/>तपाईंंको शक्ति पाएर अटल भई, त्यागेर संसार पछ्याउँछु प्रभुलाई (२)</lines></verse><verse name="v4"><lines>३. आँधीझैँ शैतान तर्साउन आउँछ, कमजोर विश्वासको जरा हल्लाउँछ<br/>तपाईंंको चरणमा बसेर अटल भई प्रशंसा-जयजयकार चढाउँछु तपाईंंलाई (२)</lines></verse><verse name="v5"><lines>४. स्वर्गीय घरको दर्शन दिनुहोस्, फेरि एकचोटि ओर्लिआउनुहोस्<br/>आत्माको आगोले प्रत्येकलाई जगाउनुहोस्, बिन्ती यो हाम्रो ग्रहण गर्नुहोस् (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 13(Stuti Ko Yogya)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः स्तुतिको योग्य, महिमाको परमेश्वर,<br/>पापीको सब पापलाई मेटाउने २<br/>तपाईंको दर्शन पाएर अटल भई,<br/>त्यागेर संसार पछ्याउँछु प्रभुलाई २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. अन्धकारपूर्ण छ यो पापी संसार, शैतानको पासो र जाल छ हजार<br/>तपाईंंको दर्शन पाएर अटल भई, त्यागेर संसार पछ्याउँछु प्रभुलाई (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. गर्जने सिंहझैँ बैरी कराउँछ पानीको छालझैँ मनलाई हल्लाउँछ<br/>तपाईंंको शक्ति पाएर अटल भई, त्यागेर संसार पछ्याउँछु प्रभुलाई (२)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. आँधीझैँ शैतान तर्साउन आउँछ, कमजोर विश्वासको जरा हल्लाउँछ<br/>तपाईंंको चरणमा बसेर अटल भई प्रशंसा-जयजयकार चढाउँछु तपाईंंलाई (२)</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. स्वर्गीय घरको दर्शन दिनुहोस्, फेरि एकचोटि ओर्लिआउनुहोस्<br/>आत्माको आगोले प्रत्येकलाई जगाउनुहोस्, बिन्ती यो हाम्रो ग्रहण गर्नुहोस् (२) </lines>
+		</verse>
+	</lyrics>
+</song>

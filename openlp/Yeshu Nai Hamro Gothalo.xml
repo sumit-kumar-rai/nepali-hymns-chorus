@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 722(Yeshu Nai Hamro Gothalo)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः येशू नै हाम्रो गोठालो हुन्, येशू नै हाम्रो सहारा हुन्<br/>उनैको कोमल अनुग्रहमा, यो जीवन विताइदेऊ यहाँ (२)</lines></verse><verse name="v2"><lines>१. संसारको हाम्रो यात्रामा, वाधा विघ्नहरू धेरै छन्<br/>लक्ष्यमा पुग्न हामीलाई, कठिनाइ धेरै सहनु पर्छ<br/>यसर्थ हाम्रो इच्छाहरूलाई, उनैको हातमा सुम्पिदेऊ<br/>उनैको निश्चित अगुवाइमा, यो जीवन जिउने प्रण गरौँ ।</lines></verse><verse name="v3"><lines>२. जिउँदो ख्रीष्टको सहारामा, वाधाहरूलाई झेल्न सकौँ (२)<br/>उनको आत्माको अगुवाइमा, लक्ष्यमा सजिलै पुग्न सकौँ<br/>हामी सबै एक भएर, उनैको महिमा गाइरहौँ<br/>जीवनको अन्तिम क्षणसम्म, उनको प्रशंसा गाइरहौँ । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 722(Yeshu Nai Hamro Gothalo)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः येशू नै हाम्रो गोठालो हुन्, येशू नै हाम्रो सहारा हुन्<br/>उनैको कोमल अनुग्रहमा, यो जीवन विताइदेऊ यहाँ (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. संसारको हाम्रो यात्रामा, वाधा विघ्नहरू धेरै छन्<br/>लक्ष्यमा पुग्न हामीलाई, कठिनाइ धेरै सहनु पर्छ<br/>यसर्थ हाम्रो इच्छाहरूलाई, उनैको हातमा सुम्पिदेऊ<br/>उनैको निश्चित अगुवाइमा, यो जीवन जिउने प्रण गरौँ ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. जिउँदो ख्रीष्टको सहारामा, वाधाहरूलाई झेल्न सकौँ (२)<br/>उनको आत्माको अगुवाइमा, लक्ष्यमा सजिलै पुग्न सकौँ<br/>हामी सबै एक भएर, उनैको महिमा गाइरहौँ<br/>जीवनको अन्तिम क्षणसम्म, उनको प्रशंसा गाइरहौँ । </lines>
+		</verse>
+	</lyrics>
+</song>

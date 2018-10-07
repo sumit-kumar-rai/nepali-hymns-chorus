@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 561(Gham Udaucha Purbabata)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः घाम उदाउँछ पूर्वबाट, अस्ताउँछ पश्चिममा<br/>मेरा ख्रीष्ट येशू राजा, राज गर्छन् ममा (२)</lines></verse><verse name="v2"><lines>१. कोही पुज्छन् ढुङ्गालाई, कोही पुज्छन् मूढालाई (२)<br/>तर म पुज्दछु जीवित प्रभुलाई (२)</lines></verse><verse name="v3"><lines>२. कोही गर्छन् भाकल, कोही गर्छन् स्नान (२)<br/>तर म गर्दछु प्रशंसा येशूकै (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 561(Gham Udaucha Purbabata)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः घाम उदाउँछ पूर्वबाट, अस्ताउँछ पश्चिममा<br/>मेरा ख्रीष्ट येशू राजा, राज गर्छन् ममा (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. कोही पुज्छन् ढुङ्गालाई, कोही पुज्छन् मूढालाई (२)<br/>तर म पुज्दछु जीवित प्रभुलाई (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. कोही गर्छन् भाकल, कोही गर्छन् स्नान (२)<br/>तर म गर्दछु प्रशंसा येशूकै (२) </lines>
+		</verse>
+	</lyrics>
+</song>

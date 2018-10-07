@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 57(Ek Dinko Kura)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. एक दिनको कुरा गालीलमा जब प्रभु येशू घुम्दथे<br/>सब आमाहरूले नानीहरूलाई उनकहाँ ल्याएथे ।</lines></verse><verse name="v2"><lines>२. उनले काखमा लिई हरेकलाई प्रेमले आशिष्को हात राखे<br/>यी सानाहरू मकहाँ आउन देऊ, प्रभुले भनेथे ।</lines></verse><verse name="v3"><lines>३. खुसी विचार र नम्र स्वभाव एक-अर्कालाई देखाई दया<br/>हे प्रभु, मेरो हृदयमा तपाईंको स्वर्ग बनोस् ।</lines></verse><verse name="v4"><lines>४. यस रहरलाग्दो संसारमा ईश्वरको प्रेम र महिमा<br/>जसले भेट्छ त्यो धन्य होस्, सब ठाउँमा ईश्वर छन् । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 57(Ek Dinko Kura)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. एक दिनको कुरा गालीलमा जब प्रभु येशू घुम्दथे<br/>सब आमाहरूले नानीहरूलाई उनकहाँ ल्याएथे ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. उनले काखमा लिई हरेकलाई प्रेमले आशिष्को हात राखे<br/>यी सानाहरू मकहाँ आउन देऊ, प्रभुले भनेथे ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. खुसी विचार र नम्र स्वभाव एक-अर्कालाई देखाई दया<br/>हे प्रभु, मेरो हृदयमा तपाईंको स्वर्ग बनोस् ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. यस रहरलाग्दो संसारमा ईश्वरको प्रेम र महिमा<br/>जसले भेट्छ त्यो धन्य होस्, सब ठाउँमा ईश्वर छन् । </lines>
+		</verse>
+	</lyrics>
+</song>

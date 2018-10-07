@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 608(Pabitra Aatmako Mandirlai)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः पवित्र आत्माको मन्दिरलाई अब यसै हेला नगर (२)</lines></verse><verse name="v2"><lines>१. तिमीमा भएको शरीर पवित्र आत्माको मन्दिर हो (२)<br/>त्यसैले शरीरमा हुँदै ईश्वरलाई महिमा गरिदेऊ (२)</lines></verse><verse name="v3"><lines>२. मुक्तिदाता ख्रीष्टको रगतले आज तिमी किनिएका हौ (२)<br/>यो शरीर तिम्रो होइन यो त केवल ईश्वरको मन्दिर हो (२)</lines></verse><verse name="v4"><lines>३. निराशाको आँधीमा नहिँड अन्धकारले छोपी लैजाला (२)<br/>येशूमा विश्वास गरिदेऊ नत्र जीवन व्यर्थैमा गुमाउला (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 608(Pabitra Aatmako Mandirlai)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः पवित्र आत्माको मन्दिरलाई अब यसै हेला नगर (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. तिमीमा भएको शरीर पवित्र आत्माको मन्दिर हो (२)<br/>त्यसैले शरीरमा हुँदै ईश्वरलाई महिमा गरिदेऊ (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. मुक्तिदाता ख्रीष्टको रगतले आज तिमी किनिएका हौ (२)<br/>यो शरीर तिम्रो होइन यो त केवल ईश्वरको मन्दिर हो (२)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. निराशाको आँधीमा नहिँड अन्धकारले छोपी लैजाला (२)<br/>येशूमा विश्वास गरिदेऊ नत्र जीवन व्यर्थैमा गुमाउला (२) </lines>
+		</verse>
+	</lyrics>
+</song>

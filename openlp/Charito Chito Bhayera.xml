@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 713(Charito Chito Bhayera)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः छरितो छिटो भएर येशूको काममा दगुर्छु येशूको काममा दगुर्छु<br/>अल्झाउने कुरा फालेर तयार सधैँ रहन्छु तयार सधैँ रहन्छु ।</lines></verse><verse name="v2"><lines>१. लट्याउने रकमको थुप्रोले अल्मल्याउन खोज्छ<br/>लोभ र लालचको वस्तुले तर्काउने कोशिस गर्छ ।</lines></verse><verse name="v3"><lines>२. दर्शाउनु भएको कुरामा सधैँ लागिरहन्छु,<br/>येशूको वाणीमा अडिन चाहन्छु ।</lines></verse><verse name="v4"><lines>३. जीवन मुकुट पाउनलाई फूर्ति साथ दगुर्छु<br/>धोखा दिने तन मनलाई पिटेर अदल राख्छु ।</lines></verse><verse name="v5"><lines>४. जीवन मुकुट पाउनलाई फूर्तिसाथ दगुर्छु<br/>घनिष्ठतामा येशूको झन्झन् बढ्दै जान्छु । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 713(Charito Chito Bhayera)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः छरितो छिटो भएर येशूको काममा दगुर्छु येशूको काममा दगुर्छु<br/>अल्झाउने कुरा फालेर तयार सधैँ रहन्छु तयार सधैँ रहन्छु ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. लट्याउने रकमको थुप्रोले अल्मल्याउन खोज्छ<br/>लोभ र लालचको वस्तुले तर्काउने कोशिस गर्छ ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. दर्शाउनु भएको कुरामा सधैँ लागिरहन्छु,<br/>येशूको वाणीमा अडिन चाहन्छु ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. जीवन मुकुट पाउनलाई फूर्ति साथ दगुर्छु<br/>धोखा दिने तन मनलाई पिटेर अदल राख्छु ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. जीवन मुकुट पाउनलाई फूर्तिसाथ दगुर्छु<br/>घनिष्ठतामा येशूको झन्झन् बढ्दै जान्छु । </lines>
+		</verse>
+	</lyrics>
+</song>

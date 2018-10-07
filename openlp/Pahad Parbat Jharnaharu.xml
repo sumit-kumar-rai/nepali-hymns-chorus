@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 693(Pahad Parbat Jharnaharu)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः पहाड पर्वत झरनाहरू चिसा चिसा बादलहरू<br/>नीला नीला आकाश छन् झिलमिल झिलमिल ताराहरू (२)<br/>यी सब कसले बनायो, यी सब कसले रच्यो (२)<br/>सबै सृष्टि उहाँकै हुन् सर्व सृजना उनैको हुन् (२)</lines></verse><verse name="v2"><lines>१. माथि हेरे लेकै भरी लालीगुँरास ढकमक<br/>तल हेरौ तराई बेँसी वसन्त बहार झकमक (२)<br/>(फेरि फर्कन्न त्यही गोरेटो मेरै सुन्दर संसार छ<br/>गम्की बस्दिन आफ्नै निम्ति ईश्वरको कार्य महान् छ) २</lines></verse><verse name="v3"><lines>२. मानिस चोला छोटो हुन्छन् लामो हुन्छन् उद्देश्य<br/>उहाँको सन्देश सुनेर हेर आफै बुझ्छौँ रहस्य (२)<br/>(झूटो आश्वासन व्यर्थकै हुन्छन् सारा सृष्टि नै काफी छ<br/>नियाली हेर्छु आकाश धर्ती जसमा उनकै हात छ) २ </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 693(Pahad Parbat Jharnaharu)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः पहाड पर्वत झरनाहरू चिसा चिसा बादलहरू<br/>नीला नीला आकाश छन् झिलमिल झिलमिल ताराहरू (२)<br/>यी सब कसले बनायो, यी सब कसले रच्यो (२)<br/>सबै सृष्टि उहाँकै हुन् सर्व सृजना उनैको हुन् (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. माथि हेरे लेकै भरी लालीगुँरास ढकमक<br/>तल हेरौ तराई बेँसी वसन्त बहार झकमक (२)<br/>(फेरि फर्कन्न त्यही गोरेटो मेरै सुन्दर संसार छ<br/>गम्की बस्दिन आफ्नै निम्ति ईश्वरको कार्य महान् छ) २</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. मानिस चोला छोटो हुन्छन् लामो हुन्छन् उद्देश्य<br/>उहाँको सन्देश सुनेर हेर आफै बुझ्छौँ रहस्य (२)<br/>(झूटो आश्वासन व्यर्थकै हुन्छन् सारा सृष्टि नै काफी छ<br/>नियाली हेर्छु आकाश धर्ती जसमा उनकै हात छ) २ </lines>
+		</verse>
+	</lyrics>
+</song>

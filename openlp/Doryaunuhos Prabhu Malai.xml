@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 660(Doryaunuhos Prabhu Malai)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/><br/>कोः डोर्र्‍याउनुहोस् प्रभु मलाई समाती मेरो हातमा<br/>वात्सल्य प्रेम दिँदै (राख्नुहोस् आफ्नो साथमा) २</lines></verse><verse name="v2"><lines>१. निराश भएका क्षणहरूमा विचलित भई मात्तिने म मान्छे (२)<br/>बलेको बत्ती झैँ भएको यो जीवन (२) फुकी मार्न खोज्ने त्यही हुँ म मान्छे</lines></verse><verse name="v3"><lines>२. बाँचिरहेछु तिम्रो दयामा अनुग्रहको भारी पाएको म मान्छे (२)<br/>तिम्रै कृपाले म शुद्ध भएको (२) तिम्रै इच्छामा जिउँने म मान्छे । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 660(Doryaunuhos Prabhu Malai)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines><br/>कोः डोर्र्‍याउनुहोस् प्रभु मलाई समाती मेरो हातमा<br/>वात्सल्य प्रेम दिँदै (राख्नुहोस् आफ्नो साथमा) २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. निराश भएका क्षणहरूमा विचलित भई मात्तिने म मान्छे (२)<br/>बलेको बत्ती झैँ भएको यो जीवन (२) फुकी मार्न खोज्ने त्यही हुँ म मान्छे</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. बाँचिरहेछु तिम्रो दयामा अनुग्रहको भारी पाएको म मान्छे (२)<br/>तिम्रै कृपाले म शुद्ध भएको (२) तिम्रै इच्छामा जिउँने म मान्छे । </lines>
+		</verse>
+	</lyrics>
+</song>

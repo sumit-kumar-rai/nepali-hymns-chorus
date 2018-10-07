@@ -1,2 +1,31 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 500(Nepal Hamro Janmabhumi)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः नेपाल हाम्रो जन्म भूमि (२) देशविदेश घुमे तापनि<br/>नेपाल हाम्रो जन्मभूमि ।</lines></verse><verse name="v2"><lines>१ चारै दिनको जिन्दगीमा भुलिरह्यौ आज (२)<br/>कसको रह्यो घरद्वार, कसको रह्यो राज (२)</lines></verse><verse name="v3"><lines>२ सनातनको चोला छोडी दुनियाँको भेष (२)<br/>दुनियाँको भेष लिई भुल्यौ स्वर्ग देश (२)</lines></verse><verse name="v4"><lines>३ संसारको बजारमा बार-मासे मेला (२)<br/>जन्म दिए ईश्वरले पर्र्‍यौ कालको फेला (२)</lines></verse><verse name="v5"><lines>४ बत्ती देख्दा पुतलीले ज्यानैसम्म फाल्छ (२)<br/>येशू भजे स्वर्ग मिल्छ, पापले नरक हाल्छ (२)</lines></verse><verse name="v6"><lines>५ संसारमा झिलिमिलि कति राम्रा घर (२)<br/>यस जीवनमा मुक्ति पाउँछौ येशूलाई भजेर (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 500(Nepal Hamro Janmabhumi)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः नेपाल हाम्रो जन्म भूमि (२) देशविदेश घुमे तापनि<br/>नेपाल हाम्रो जन्मभूमि ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१ चारै दिनको जिन्दगीमा भुलिरह्यौ आज (२)<br/>कसको रह्यो घरद्वार, कसको रह्यो राज (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२ सनातनको चोला छोडी दुनियाँको भेष (२)<br/>दुनियाँको भेष लिई भुल्यौ स्वर्ग देश (२)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३ संसारको बजारमा बार-मासे मेला (२)<br/>जन्म दिए ईश्वरले पर्र्‍यौ कालको फेला (२)</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४ बत्ती देख्दा पुतलीले ज्यानैसम्म फाल्छ (२)<br/>येशू भजे स्वर्ग मिल्छ, पापले नरक हाल्छ (२)</lines>
+		</verse>
+		<verse name="v6">
+			<lines>५ संसारमा झिलिमिलि कति राम्रा घर (२)<br/>यस जीवनमा मुक्ति पाउँछौ येशूलाई भजेर (२) </lines>
+		</verse>
+	</lyrics>
+</song>

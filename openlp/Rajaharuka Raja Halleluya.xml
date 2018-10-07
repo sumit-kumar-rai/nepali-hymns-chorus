@@ -1,2 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 165(Rajaharuka Raja Halleluya)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>राजाहरूका राजा हल्लेलूयाह<br/>प्रभुहरूका प्रभु हल्लेलूयाह<br/>हल्लेलूयाह गाउँछौँ, स्तुति तपाईंको<br/>आदर, भक्ति, दण्डवत् गर्दछौँ (२)</lines></verse><verse name="v2"><lines>महिमाका राजालाई आदर, प्रशंसा,<br/>स्वर उचाली जय गाउँछौँ, दण्डवत् गर्दछौँ<br/>आराधना, भक्ति चढाउँछौँ<br/>सिंहासनमा विराजमान् ख्रीष्ट येशू प्रभुलाई (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 165(Rajaharuka Raja Halleluya)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>राजाहरूका राजा हल्लेलूयाह<br/>प्रभुहरूका प्रभु हल्लेलूयाह<br/>हल्लेलूयाह गाउँछौँ, स्तुति तपाईंको<br/>आदर, भक्ति, दण्डवत् गर्दछौँ (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>महिमाका राजालाई आदर, प्रशंसा,<br/>स्वर उचाली जय गाउँछौँ, दण्डवत् गर्दछौँ<br/>आराधना, भक्ति चढाउँछौँ<br/>सिंहासनमा विराजमान् ख्रीष्ट येशू प्रभुलाई (२) </lines>
+		</verse>
+	</lyrics>
+</song>

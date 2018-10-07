@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 446(Timro Yowan Kalma)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः तिम्रो यौवन कालमा, आफ्नो सृजनहारलाई, सदैव सम्झना गर<br/>आफ्नो सृजनहारलाई, आफ्नो सृजनहारलाई (२) आफ्नो सृजनहारलाई<br/>सेवा गर तन, मन, धनले, (धनले) (२) सेवा गर तन-मन-धनले ।</lines></verse><verse name="v2"><lines>१. हाम्रो यौवन व्यर्थ नजाओस् लोगले यसलाई तुच्छ नठानून (२)<br/>समयमा नै आफ्नो प्रभुलाई (२) सेवा गर तन, मन, धनले</lines></verse><verse name="v3"><lines>२. प्रभु येशू तारणहार हाम्रो उनी सृजनहार (२)<br/>हे दाजु-भाइ, हे दिदी-बैनी हो (२) सेवा गर गर तन, मन, धनले</lines></verse><verse name="v4"><lines>३. अन्धकार जगको हुन् प्रभु अनन्त प्रकाश दिने उज्यालो (२)<br/>उनै ज्योतिलाई नगरी बियाँलो (२) सेवा गर गर तन, मन, धनले </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 446(Timro Yowan Kalma)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः तिम्रो यौवन कालमा, आफ्नो सृजनहारलाई, सदैव सम्झना गर<br/>आफ्नो सृजनहारलाई, आफ्नो सृजनहारलाई (२) आफ्नो सृजनहारलाई<br/>सेवा गर तन, मन, धनले, (धनले) (२) सेवा गर तन-मन-धनले ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. हाम्रो यौवन व्यर्थ नजाओस् लोगले यसलाई तुच्छ नठानून (२)<br/>समयमा नै आफ्नो प्रभुलाई (२) सेवा गर तन, मन, धनले</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. प्रभु येशू तारणहार हाम्रो उनी सृजनहार (२)<br/>हे दाजु-भाइ, हे दिदी-बैनी हो (२) सेवा गर गर तन, मन, धनले</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. अन्धकार जगको हुन् प्रभु अनन्त प्रकाश दिने उज्यालो (२)<br/>उनै ज्योतिलाई नगरी बियाँलो (२) सेवा गर गर तन, मन, धनले </lines>
+		</verse>
+	</lyrics>
+</song>

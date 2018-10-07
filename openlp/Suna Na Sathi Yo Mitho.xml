@@ -1,2 +1,34 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 264(Suna Na Sathi Yo Mitho)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः सुन न साथी यो मीठो कुरा मनमा गुन न<br/>आनन्दै उनी जो येशूदेखि नयाँ धन पाउँछन् (२)</lines></verse><verse name="v2"><lines>१. जक्कै नाउँ भएको थुप्रै धन उसको ठगेर यस्तो भो<br/>सरकारको तिरो उठाउँदा उसले मनपरि चोर्दथ्यो ।</lines></verse><verse name="v3"><lines>२. जिउ उसको पुड्को मन उसको छुच्चो घिन गरे सबैले<br/>'हृदयको शान्ति कसरी पाऊँ' खोज्यो त्यो उपाय नि ।</lines></verse><verse name="v4"><lines>३. 'येशूज्यू आउँदा कसरी भेट्ने ?' चढ्यो रूख नेभारा<br/>'अब म देख्छु मेरो पाप मेट्ने पाउँछु कि उद्धार ?'</lines></verse><verse name="v5"><lines>४. जब ख्रीष्ट आए मास्तिर हेरे भने 'ओर्लेर आऊ'<br/>तिम्रो घर जक्कै बास बस्नुपर्ने सँगसँगै हामी जाऔं ।</lines></verse><verse name="v6"><lines>५. तल आई जक्कै कति रमायो मन उसको फेरेथ्यो<br/>'जे जति ठगें नराम्रो गरें ठीकै पार्नुपर्र्‍यो ।'</lines></verse><verse name="v7"><lines>६. उसैको घरमा ख्रीष्ट येशू आई उसलाई दिए शान्ति<br/>सम्पत्तिभन्दा पापको माफी ठूलो धन सम्झ्यो नि । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 264(Suna Na Sathi Yo Mitho)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः सुन न साथी यो मीठो कुरा मनमा गुन न<br/>आनन्दै उनी जो येशूदेखि नयाँ धन पाउँछन् (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. जक्कै नाउँ भएको थुप्रै धन उसको ठगेर यस्तो भो<br/>सरकारको तिरो उठाउँदा उसले मनपरि चोर्दथ्यो ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. जिउ उसको पुड्को मन उसको छुच्चो घिन गरे सबैले<br/>'हृदयको शान्ति कसरी पाऊँ' खोज्यो त्यो उपाय नि ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. 'येशूज्यू आउँदा कसरी भेट्ने ?' चढ्यो रूख नेभारा<br/>'अब म देख्छु मेरो पाप मेट्ने पाउँछु कि उद्धार ?'</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. जब ख्रीष्ट आए मास्तिर हेरे भने 'ओर्लेर आऊ'<br/>तिम्रो घर जक्कै बास बस्नुपर्ने सँगसँगै हामी जाऔं ।</lines>
+		</verse>
+		<verse name="v6">
+			<lines>५. तल आई जक्कै कति रमायो मन उसको फेरेथ्यो<br/>'जे जति ठगें नराम्रो गरें ठीकै पार्नुपर्र्‍यो ।'</lines>
+		</verse>
+		<verse name="v7">
+			<lines>६. उसैको घरमा ख्रीष्ट येशू आई उसलाई दिए शान्ति<br/>सम्पत्तिभन्दा पापको माफी ठूलो धन सम्झ्यो नि । </lines>
+		</verse>
+	</lyrics>
+</song>

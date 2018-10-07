@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 737(Biujha Utha Biujha Utha)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः ब्यूँझ उठ ब्यूँझ उठ हे इसाई यूवा हो<br/>अन्धकारको शक्तिलाई तोड्नलाई (२)<br/>मुक्तिको ढाल उठाई, आत्माको तरवार लिई (२)<br/>लक्ष्यमा बढौँ है इसाई वीर योद्धा हो (२)<br/>ब्यूँझ उठ, ब्यूँझ उठ ।</lines></verse><verse name="v2"><lines>१. एक मुठ्ठी के हुन्छ र सय मुठ्ठी सागर बन्छ<br/>हामी सबै एकजुट भएर ख्रीष्टको आज्ञा पूरा हुनेछ ।</lines></verse><verse name="v3"><lines>२. काँधमा काँध मिलाई हामी अगाडि-अगाडि बढ्नुछ (२)<br/>ज्योतिको सन्तान भएर हामी (२) देशलाई ख्रीष्टमा जित्नुछ (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 737(Biujha Utha Biujha Utha)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः ब्यूँझ उठ ब्यूँझ उठ हे इसाई यूवा हो<br/>अन्धकारको शक्तिलाई तोड्नलाई (२)<br/>मुक्तिको ढाल उठाई, आत्माको तरवार लिई (२)<br/>लक्ष्यमा बढौँ है इसाई वीर योद्धा हो (२)<br/>ब्यूँझ उठ, ब्यूँझ उठ ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. एक मुठ्ठी के हुन्छ र सय मुठ्ठी सागर बन्छ<br/>हामी सबै एकजुट भएर ख्रीष्टको आज्ञा पूरा हुनेछ ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. काँधमा काँध मिलाई हामी अगाडि-अगाडि बढ्नुछ (२)<br/>ज्योतिको सन्तान भएर हामी (२) देशलाई ख्रीष्टमा जित्नुछ (२) </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 50(Sanatanko Prabhu Yeshu)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>सनातनको प्रभु येशू, सियोनमा हुन् बिराजमान्<br/>उद्धारको ज्योति जो हुन् स्तुतिको योग्य जो छन् । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 50(Sanatanko Prabhu Yeshu)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>सनातनको प्रभु येशू, सियोनमा हुन् बिराजमान्<br/>उद्धारको ज्योति जो हुन् स्तुतिको योग्य जो छन् । </lines>
+		</verse>
+	</lyrics>
+</song>

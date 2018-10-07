@@ -1,2 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 282(Jabasamma Ma Bachnechu)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>जबसम्म म बाँच्नेछु उहाँकै भजन गाउनेछु<br/>मेरो जीवन रहुञ्जेल सधैँ नै म नाच्नेछु ।<br/>गाउनेछु, गाउनेछु, नाच्नेछु, नाच्नेछु<br/>उहाँकै आनन्दमा प्रशंसा गर्नेछु आनन्दमा बाँच्नेछु । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 282(Jabasamma Ma Bachnechu)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>जबसम्म म बाँच्नेछु उहाँकै भजन गाउनेछु<br/>मेरो जीवन रहुञ्जेल सधैँ नै म नाच्नेछु ।<br/>गाउनेछु, गाउनेछु, नाच्नेछु, नाच्नेछु<br/>उहाँकै आनन्दमा प्रशंसा गर्नेछु आनन्दमा बाँच्नेछु । </lines>
+		</verse>
+	</lyrics>
+</song>

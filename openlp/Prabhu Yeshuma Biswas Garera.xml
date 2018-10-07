@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 661(Prabhu Yeshuma Biswas Garera)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः प्रभु येशूमा विश्वास गरेर अघि बढौँ बढौँ (२)<br/>हामीलाई अल्झाउने पापहरू त्यागी (दौड धीरजसँग दौडौँ) २</lines></verse><verse name="v2"><lines>१. हामीलाई विश्वास दिने र पूरा गर्ने येशूलाई हेरौँ (२)<br/>हामी शिथिल (२) नहोऔँ बरु धीरजी येशूबाट साहस लिऔँ (२)</lines></verse><verse name="v3"><lines>२. उहाँले दिने इनाम हल्का नसम्झी संकष्ट आउँदा हरेस नखाऔँ (२)<br/>सधैँभरि (२), उनमै रही जीवनभर आत्माको फल फलाऔँ (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 661(Prabhu Yeshuma Biswas Garera)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः प्रभु येशूमा विश्वास गरेर अघि बढौँ बढौँ (२)<br/>हामीलाई अल्झाउने पापहरू त्यागी (दौड धीरजसँग दौडौँ) २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. हामीलाई विश्वास दिने र पूरा गर्ने येशूलाई हेरौँ (२)<br/>हामी शिथिल (२) नहोऔँ बरु धीरजी येशूबाट साहस लिऔँ (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. उहाँले दिने इनाम हल्का नसम्झी संकष्ट आउँदा हरेस नखाऔँ (२)<br/>सधैँभरि (२), उनमै रही जीवनभर आत्माको फल फलाऔँ (२) </lines>
+		</verse>
+	</lyrics>
+</song>

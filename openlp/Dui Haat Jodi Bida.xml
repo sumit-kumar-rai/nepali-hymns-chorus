@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 665(Dui Haat Jodi Bida)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः दुइ हात जोडी विदा म भन्छु भेट्ने आशामा<br/>प्रभुको साथ जीवन यात्रा बढ्&amp;THORN;दै नै जानुछ (२)</lines></verse><verse name="v2"><lines>१. यात्रा यो लामो लक्ष्य यो ठूलो, बिलाउने छैन म हराउने छैन म ।<br/>मलाई बचाउने मेरो प्रभुलाई कहिले छोड्ने छैन म (२)</lines></verse><verse name="v3"><lines>२. प्रार्थना गरी दिनु है सम्झना राखी दिनु है सङ्गति यो मीठो अरू कहाँ पाउँला<br/>प्रभुको इच्छा भएछ भने फेरि फेरि भेटौँला (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 665(Dui Haat Jodi Bida)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः दुइ हात जोडी विदा म भन्छु भेट्ने आशामा<br/>प्रभुको साथ जीवन यात्रा बढ्&amp;THORN;दै नै जानुछ (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. यात्रा यो लामो लक्ष्य यो ठूलो, बिलाउने छैन म हराउने छैन म ।<br/>मलाई बचाउने मेरो प्रभुलाई कहिले छोड्ने छैन म (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. प्रार्थना गरी दिनु है सम्झना राखी दिनु है सङ्गति यो मीठो अरू कहाँ पाउँला<br/>प्रभुको इच्छा भएछ भने फेरि फेरि भेटौँला (२) </lines>
+		</verse>
+	</lyrics>
+</song>

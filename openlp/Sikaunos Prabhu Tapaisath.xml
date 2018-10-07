@@ -1,2 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 273(Sikaunos Prabhu Tapaisath)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>सिकाउनोस् प्रभु, तपाईंसाथ हिँड्न<br/>सिकाउनोस् आशा, प्रभु तपाईंमा गर्न सिकाउनोस्<br/>तपाईंको स्पर्शको आनन्दमा तपाईंलाई प्रेम गर्ने इच्छा<br/>प्रभु दिनदिन ममा बढोस् । सिकाउनोस्... </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 273(Sikaunos Prabhu Tapaisath)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>सिकाउनोस् प्रभु, तपाईंसाथ हिँड्न<br/>सिकाउनोस् आशा, प्रभु तपाईंमा गर्न सिकाउनोस्<br/>तपाईंको स्पर्शको आनन्दमा तपाईंलाई प्रेम गर्ने इच्छा<br/>प्रभु दिनदिन ममा बढोस् । सिकाउनोस्... </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 443(Malai Anand Cha Ki Pita)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. मलाई आनन्द छ कि पिता ईश्वर, मलाई देखाउँदछन् उहाँको प्यार<br/>बाइबलको मीठो नै कथाको सार, यो हो कि येशूले गर्दछन् प्यार ।</lines></verse><verse name="v2"><lines>कोः धन्य कि मलाई गर्दछन् प्यार, गर्दछन् प्यार, गर्दछन् प्यार,<br/>धन्य कि मलाई गर्दछन् प्यार, गर्दछन् प्यार मलाई ।</lines></verse><verse name="v3"><lines>२. यदि म टाढो जाऊँ छोडी उनलाई, तैपनि ख्रीष्टले प्रेम गर्छन् मलाई<br/>बाइबलको सबभन्दा मीठो कथा यो हो कि येशू प्रेम गर्छन् सदा ।</lines></verse><verse name="v4"><lines>३. स्वर्गमा जब राजालाई देख्नेछु उनैको स्तुतिको गीत गाउनेछु<br/>यसैको निम्ति म नित्य गाउँला, येशूले मलाई प्रेम गर्छन् सदा ।</lines></verse><verse name="v5"><lines>४. म उनलाई गर्छु, मलाई गर्छन् प्यार, प्रेमले उनी भए सत्य औतार<br/>क्रूसमा चढी गरे मेरो उद्धार, निश्चय ख्रीष्ट गर्दछन् उदेकको प्यार । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 443(Malai Anand Cha Ki Pita)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. मलाई आनन्द छ कि पिता ईश्वर, मलाई देखाउँदछन् उहाँको प्यार<br/>बाइबलको मीठो नै कथाको सार, यो हो कि येशूले गर्दछन् प्यार ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>कोः धन्य कि मलाई गर्दछन् प्यार, गर्दछन् प्यार, गर्दछन् प्यार,<br/>धन्य कि मलाई गर्दछन् प्यार, गर्दछन् प्यार मलाई ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. यदि म टाढो जाऊँ छोडी उनलाई, तैपनि ख्रीष्टले प्रेम गर्छन् मलाई<br/>बाइबलको सबभन्दा मीठो कथा यो हो कि येशू प्रेम गर्छन् सदा ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. स्वर्गमा जब राजालाई देख्नेछु उनैको स्तुतिको गीत गाउनेछु<br/>यसैको निम्ति म नित्य गाउँला, येशूले मलाई प्रेम गर्छन् सदा ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. म उनलाई गर्छु, मलाई गर्छन् प्यार, प्रेमले उनी भए सत्य औतार<br/>क्रूसमा चढी गरे मेरो उद्धार, निश्चय ख्रीष्ट गर्दछन् उदेकको प्यार । </lines>
+		</verse>
+	</lyrics>
+</song>

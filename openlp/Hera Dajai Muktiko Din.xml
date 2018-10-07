@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 478(Hera Dajai Muktiko Din)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः हेर दाजै (२) मुक्तिको दिन आयो<br/>येशूमाथि भक्ति राखी, ध्यान राखी, दिन रमाउने लौ आयो ।</lines></verse><verse name="v2"><lines>१. गोठालो ज्यानले प्रभु हो बालक भनेर जानिलिए<br/>बेथलेहेम गोठमा चरण परी अवतार हो मानिलिए ।<br/>खबर पुरानो दूतगणले ल्याको कुरा यो साँचो हो<br/>विश्वास गरी येशूलाई लिनु सबैको खाँचो हो ।</lines></verse><verse name="v3"><lines>२. सबैले मागे, लिएर भागे, तिमी र म रित्तो<br/>कर्मको चक्र, धर्मको फिक्री जुनी नै भो तीतो ।<br/>आफैलाई दिन येशू नै मात्र धर्तीमा हो आउने<br/>यही हो बेला भजेर येशू मनमा बोलाउने ।</lines></verse><verse name="v4"><lines>३. सारा भूलोकका मालिक हुन् येशू, बुझ्ने यो ज्ञान दिए<br/>गोठमा लडे, क्रूसमा चढे, आफ्नै त्यो ज्यान दिए ।<br/>हटाउन कालो पापको मैलो अँधेरी जगत्को<br/>बगेर आयो, उर्लेर आयो खोला त्यो रगतको । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 478(Hera Dajai Muktiko Din)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः हेर दाजै (२) मुक्तिको दिन आयो<br/>येशूमाथि भक्ति राखी, ध्यान राखी, दिन रमाउने लौ आयो ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. गोठालो ज्यानले प्रभु हो बालक भनेर जानिलिए<br/>बेथलेहेम गोठमा चरण परी अवतार हो मानिलिए ।<br/>खबर पुरानो दूतगणले ल्याको कुरा यो साँचो हो<br/>विश्वास गरी येशूलाई लिनु सबैको खाँचो हो ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. सबैले मागे, लिएर भागे, तिमी र म रित्तो<br/>कर्मको चक्र, धर्मको फिक्री जुनी नै भो तीतो ।<br/>आफैलाई दिन येशू नै मात्र धर्तीमा हो आउने<br/>यही हो बेला भजेर येशू मनमा बोलाउने ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. सारा भूलोकका मालिक हुन् येशू, बुझ्ने यो ज्ञान दिए<br/>गोठमा लडे, क्रूसमा चढे, आफ्नै त्यो ज्यान दिए ।<br/>हटाउन कालो पापको मैलो अँधेरी जगत्को<br/>बगेर आयो, उर्लेर आयो खोला त्यो रगतको । </lines>
+		</verse>
+	</lyrics>
+</song>

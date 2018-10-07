@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 658(Prabhuji Chyama Deu)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः प्रभुजी क्षमा देऊ म जस्तो पापीलाई<br/>धेरै रुवाएँ, धेरै रुवाएँ तिमीलाई मेरो जीवनमा (२)</lines></verse><verse name="v2"><lines>१. पश्चात्तापी जीवन लिएर आउँदैछु तिमी कहाँ (२)<br/>कति धोका दिएँ मैले आफ्नै स्वार्थलाई अङ्गाली<br/>अपराधी छु, म यसैले तिम्रो प्रेम पाउने योग्य कहाँ<br/>म छुद्र पापीलाई क्षमा देऊ (२) आफ्नै बनाउनोस् मलाई ।</lines></verse><verse name="v3"><lines>२. जीवनको हरेक कदममा, चाहन्छु तिमीलाई (२)<br/>सहारा देऊ प्रभु जीवनको दुर्गम गोरेटोमा सम्हालीदेऊ<br/>मेरो जीवन तिम्रो कोमल अङ्गालोमा<br/>दिनेछु प्रभु यो जीवन (२), अर्पन्छु तिमीलाई । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 658(Prabhuji Chyama Deu)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः प्रभुजी क्षमा देऊ म जस्तो पापीलाई<br/>धेरै रुवाएँ, धेरै रुवाएँ तिमीलाई मेरो जीवनमा (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. पश्चात्तापी जीवन लिएर आउँदैछु तिमी कहाँ (२)<br/>कति धोका दिएँ मैले आफ्नै स्वार्थलाई अङ्गाली<br/>अपराधी छु, म यसैले तिम्रो प्रेम पाउने योग्य कहाँ<br/>म छुद्र पापीलाई क्षमा देऊ (२) आफ्नै बनाउनोस् मलाई ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. जीवनको हरेक कदममा, चाहन्छु तिमीलाई (२)<br/>सहारा देऊ प्रभु जीवनको दुर्गम गोरेटोमा सम्हालीदेऊ<br/>मेरो जीवन तिम्रो कोमल अङ्गालोमा<br/>दिनेछु प्रभु यो जीवन (२), अर्पन्छु तिमीलाई । </lines>
+		</verse>
+	</lyrics>
+</song>

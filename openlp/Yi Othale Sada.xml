@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bal Chorus 56(Yi Othale Sada)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>(यी ओठले सदा तपाईंको प्रशंसा गरिरहून्<br/>यी आँखाले सदा तपाईंलाई खोजिरहून्</lines></verse><verse name="v2"><lines>मेरा यी दुई हातहरूले तपाईंको प्यारको चाहना गरुन्<br/>मेरो यो हृदयले सदा तपाईंको खातिर सेवा गरोस् ।</lines></verse><verse name="v3"><lines>परमेश्वरलाई धन्यवाद सदा, मर्नुभो क्रूसैमा मजस्तोले गर्दा<br/>भुल्ने म छैनँ प्रेमको बलिदान, प्रशंसा जयजयकार ईश्वर महान्) २ </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bal Chorus 56(Yi Othale Sada)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>(यी ओठले सदा तपाईंको प्रशंसा गरिरहून्<br/>यी आँखाले सदा तपाईंलाई खोजिरहून्</lines>
+		</verse>
+		<verse name="v2">
+			<lines>मेरा यी दुई हातहरूले तपाईंको प्यारको चाहना गरुन्<br/>मेरो यो हृदयले सदा तपाईंको खातिर सेवा गरोस् ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>परमेश्वरलाई धन्यवाद सदा, मर्नुभो क्रूसैमा मजस्तोले गर्दा<br/>भुल्ने म छैनँ प्रेमको बलिदान, प्रशंसा जयजयकार ईश्वर महान्) २ </lines>
+		</verse>
+	</lyrics>
+</song>

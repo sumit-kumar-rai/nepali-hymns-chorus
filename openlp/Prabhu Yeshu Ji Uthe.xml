@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 121(Prabhu Yeshu Ji Uthe)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. प्रभु ख्रीष्ट जी उठे नै दूत र मान्छे भन्दछन्<br/>स्वर्गदूत र मान्छे जात सबले हल्लेलूयाह भन ।<br/>प्रेमको कामको त्राण सिध्यो प्रभु विजयी भए<br/>फेरि मर्दैनन् प्रभु हाम्रो शोकको दिन बित्यो ।</lines></verse><verse name="v2"><lines>२. पहरा ढुङ्गा छाप व्यर्थ भो नर्कको दैलो फोरियो<br/>मृतले व्यर्थै ख्रीष्ट रोक्यो ख्रीष्टले स्वर्गको द्वार खोले ।<br/>त्राणको लागि मर्नुभो जयवन्त राजा छन् जिउँदो<br/>मृत्यु कहाँ छ खिल तेरो कवर कहाँ जय तेरो ?</lines></verse><verse name="v3"><lines>३. आफ्नो जयवन्त प्रभुलाई पछ्याउँदै –पछ्याउँदै जाऔं<br/>हामी ख्रीष्टझैँ बनाइयौं उनीजस्तै उठ्नेछौं<br/>जग र स्वर्गीय हाम्रो भो स्वर्गदूत र मान्छे हो<br/>दुवै लोकको स्वामीको जयजय गाऔं सधैँको । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 121(Prabhu Yeshu Ji Uthe)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. प्रभु ख्रीष्ट जी उठे नै दूत र मान्छे भन्दछन्<br/>स्वर्गदूत र मान्छे जात सबले हल्लेलूयाह भन ।<br/>प्रेमको कामको त्राण सिध्यो प्रभु विजयी भए<br/>फेरि मर्दैनन् प्रभु हाम्रो शोकको दिन बित्यो ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. पहरा ढुङ्गा छाप व्यर्थ भो नर्कको दैलो फोरियो<br/>मृतले व्यर्थै ख्रीष्ट रोक्यो ख्रीष्टले स्वर्गको द्वार खोले ।<br/>त्राणको लागि मर्नुभो जयवन्त राजा छन् जिउँदो<br/>मृत्यु कहाँ छ खिल तेरो कवर कहाँ जय तेरो ?</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. आफ्नो जयवन्त प्रभुलाई पछ्याउँदै –पछ्याउँदै जाऔं<br/>हामी ख्रीष्टझैँ बनाइयौं उनीजस्तै उठ्नेछौं<br/>जग र स्वर्गीय हाम्रो भो स्वर्गदूत र मान्छे हो<br/>दुवै लोकको स्वामीको जयजय गाऔं सधैँको । </lines>
+		</verse>
+	</lyrics>
+</song>

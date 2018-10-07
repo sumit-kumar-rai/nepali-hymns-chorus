@@ -1,2 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 9(Muktilai Muktilai Grahan)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>मुक्तिलाई, मुक्तिलाई ग्रहण गर अहिल्यै<br/>जो छ येशूको अनमोल रक्तमा<br/>येशूदेखि यो दान छ तिम्रोलागि नै,<br/>ग्रहण गर मुक्ति विनाडर </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 9(Muktilai Muktilai Grahan)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>मुक्तिलाई, मुक्तिलाई ग्रहण गर अहिल्यै<br/>जो छ येशूको अनमोल रक्तमा<br/>येशूदेखि यो दान छ तिम्रोलागि नै,<br/>ग्रहण गर मुक्ति विनाडर </lines>
+		</verse>
+	</lyrics>
+</song>

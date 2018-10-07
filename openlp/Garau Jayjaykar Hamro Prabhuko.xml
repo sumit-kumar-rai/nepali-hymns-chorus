@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 90(Garau Jayjaykar Hamro Prabhuko)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः गरौं जयजयकार हाम्रा प्रभुको, उनै हुन् हाम्रा साँचो गोठालो<br/>हर्षित हृदय लिई धन्यवाद चढाऊँ, भक्तिसहित सबले दण्डवत् गरौं ।</lines></verse><verse name="v2"><lines>१. पापको दण्ड भयङ्कर नरक कमाइ यो मेरै थियो (२)<br/>धर्म-कर्मको च्यादरले ढाकी पाप ढाकिइँदैनथ्यो<br/>थुकाइ र कुटाइ सहनुभो जति (बचाउन प्राण दिए) (२)</lines></verse><verse name="v3"><lines>२. हेर्दछु कलवरी डाँडालाई टाँगिए प्रभु क्रूसमा (२)<br/>हातमा काँटी, खुट्टामा काँटी शिरमा तीब्र पीडा<br/>सहे सब पीडा, दुःख-अशान्ति थिए सब मेरै निम्ति (२)</lines></verse><verse name="v4"><lines>३. अजीव रहेछ प्रेम येशूको म दुष्ट घृणितप्रति (२)<br/>जब पापमा थे ख्रीष्ट मेरा मरे सब मेरा पापलाई बोकी<br/>शुद्ध मलाई पार्दै बहेको खुनले धर्मी मलाई तुल्याए (२)</lines></verse><verse name="v5"><lines>४. पथिक नरकको ख्रीष्टले फिराउँदा स्वर्गको यात्री बने (२)<br/>स्वर्ग मेरो देश भो यहाँ परदेशी बढ्छु प्रतिफल अघि<br/>देख्दा प्रभुलाई पीडा भुल्नेछु असीम विश्राम पाउनेछु (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 90(Garau Jayjaykar Hamro Prabhuko)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः गरौं जयजयकार हाम्रा प्रभुको, उनै हुन् हाम्रा साँचो गोठालो<br/>हर्षित हृदय लिई धन्यवाद चढाऊँ, भक्तिसहित सबले दण्डवत् गरौं ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. पापको दण्ड भयङ्कर नरक कमाइ यो मेरै थियो (२)<br/>धर्म-कर्मको च्यादरले ढाकी पाप ढाकिइँदैनथ्यो<br/>थुकाइ र कुटाइ सहनुभो जति (बचाउन प्राण दिए) (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. हेर्दछु कलवरी डाँडालाई टाँगिए प्रभु क्रूसमा (२)<br/>हातमा काँटी, खुट्टामा काँटी शिरमा तीब्र पीडा<br/>सहे सब पीडा, दुःख-अशान्ति थिए सब मेरै निम्ति (२)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. अजीव रहेछ प्रेम येशूको म दुष्ट घृणितप्रति (२)<br/>जब पापमा थे ख्रीष्ट मेरा मरे सब मेरा पापलाई बोकी<br/>शुद्ध मलाई पार्दै बहेको खुनले धर्मी मलाई तुल्याए (२)</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. पथिक नरकको ख्रीष्टले फिराउँदा स्वर्गको यात्री बने (२)<br/>स्वर्ग मेरो देश भो यहाँ परदेशी बढ्छु प्रतिफल अघि<br/>देख्दा प्रभुलाई पीडा भुल्नेछु असीम विश्राम पाउनेछु (२) </lines>
+		</verse>
+	</lyrics>
+</song>

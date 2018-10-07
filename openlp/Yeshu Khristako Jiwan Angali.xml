@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 526(Yeshu Khristako Jiwan Angali)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः (ला ला ला ला लैबरी) २ लै लै लै (हो हो)</lines></verse><verse name="v2"><lines>१. येशू ख्रीष्टको जीवन अँगाली शान्ति, सुरक्षा, प्रेमको कहानी (२)<br/>अब जाऊ सुनाउँदै (४) गाउँ-सहर (२) वरिपरि हो हो,<br/>गाउँ - सहरवरिपरि ।</lines></verse><verse name="v3"><lines>२. जिउँदो परमेश्वरको प्रेम कहानी, मुक्ति अनन्त जीवनको खबरी (२)<br/>अब जाऊँ सुनाउँदै (४) मेचीदेखि (२) महाकाली,<br/>हो हो मेचीदेखि महाकाली ।</lines></verse><verse name="v4"><lines>३. पवित्र आत्माको अलौकिक शक्ति छुटकारा स्वतन्त्रताको लहरी (२)<br/>अब जाऊँ सुनाउँदै (४) नेपालदेखि (२) संसारभरि,<br/>हो हो नेपालदेखि संसारभरि, हो हो, गाउँ-सहरवरिपरि<br/>हो हो मेचीदेखि महाकाली, हो हो नेपालदेखि संसारभरि । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 526(Yeshu Khristako Jiwan Angali)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः (ला ला ला ला लैबरी) २ लै लै लै (हो हो)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. येशू ख्रीष्टको जीवन अँगाली शान्ति, सुरक्षा, प्रेमको कहानी (२)<br/>अब जाऊ सुनाउँदै (४) गाउँ-सहर (२) वरिपरि हो हो,<br/>गाउँ - सहरवरिपरि ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. जिउँदो परमेश्वरको प्रेम कहानी, मुक्ति अनन्त जीवनको खबरी (२)<br/>अब जाऊँ सुनाउँदै (४) मेचीदेखि (२) महाकाली,<br/>हो हो मेचीदेखि महाकाली ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. पवित्र आत्माको अलौकिक शक्ति छुटकारा स्वतन्त्रताको लहरी (२)<br/>अब जाऊँ सुनाउँदै (४) नेपालदेखि (२) संसारभरि,<br/>हो हो नेपालदेखि संसारभरि, हो हो, गाउँ-सहरवरिपरि<br/>हो हो मेचीदेखि महाकाली, हो हो नेपालदेखि संसारभरि । </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 181(Prameshworko Raj Khanpinma)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>परमेश्वरको राज खानपिनमा होइन,<br/>तर धार्मिकता, शान्ति, आनन्द २</lines></verse><verse name="v2"><lines>धार्मिकता, शान्ति र आनन्द, पवित्र आत्मामा (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 181(Prameshworko Raj Khanpinma)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>परमेश्वरको राज खानपिनमा होइन,<br/>तर धार्मिकता, शान्ति, आनन्द २</lines>
+		</verse>
+		<verse name="v2">
+			<lines>धार्मिकता, शान्ति र आनन्द, पवित्र आत्मामा (२) </lines>
+		</verse>
+	</lyrics>
+</song>

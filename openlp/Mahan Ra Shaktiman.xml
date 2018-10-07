@@ -1,2 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 270(Mahan Ra Shaktiman)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>महान् र शक्तिमान् हाम्रो प्रभु, महान् शक्तिमान् उहाँ (२)<br/>प्रशंसाहरूको झण्डा उठाओ, राजालाई स्तुति<br/>महान् र शक्तिमान् हाम्रो प्रभु, महान् शक्तिमान् उहाँ । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 270(Mahan Ra Shaktiman)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>महान् र शक्तिमान् हाम्रो प्रभु, महान् शक्तिमान् उहाँ (२)<br/>प्रशंसाहरूको झण्डा उठाओ, राजालाई स्तुति<br/>महान् र शक्तिमान् हाम्रो प्रभु, महान् शक्तिमान् उहाँ । </lines>
+		</verse>
+	</lyrics>
+</song>

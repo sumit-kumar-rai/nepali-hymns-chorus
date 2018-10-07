@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 176(Hey Mero Praan Uthasanga)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. हे मेरो प्राण, उठ्सँग घाम र पूरो गर् सब आफ्नो काम<br/>अल्छेई छोड् र स्तुति गा, बिहानको प्रार्थना चढा ।</lines></verse><verse name="v2"><lines>२. बिता यो दिन भई बुद्धिमान, सबै दिनलाई त अन्तकै ठान्<br/>ईश्वरको दानको गर् विचार, नियाको लागि रह तयार ।</lines></verse><verse name="v3"><lines>३. हे ईश्वर, गर्छु प्रार्थना यो, जेजे गरूँला आज म<br/>ती सबमा मलाई गोहार देऊ, मनमा पवित्र आत्मा देऊ ।</lines></verse><verse name="v4"><lines>४. अँ आज मेरो बाटोले आफ्नो महिमा बढाइदेऊ<br/>अँ पिता, पुत्र, आत्मामा सधैँका परम महिमा । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 176(Hey Mero Praan Uthasanga)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. हे मेरो प्राण, उठ्सँग घाम र पूरो गर् सब आफ्नो काम<br/>अल्छेई छोड् र स्तुति गा, बिहानको प्रार्थना चढा ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. बिता यो दिन भई बुद्धिमान, सबै दिनलाई त अन्तकै ठान्<br/>ईश्वरको दानको गर् विचार, नियाको लागि रह तयार ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. हे ईश्वर, गर्छु प्रार्थना यो, जेजे गरूँला आज म<br/>ती सबमा मलाई गोहार देऊ, मनमा पवित्र आत्मा देऊ ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. अँ आज मेरो बाटोले आफ्नो महिमा बढाइदेऊ<br/>अँ पिता, पुत्र, आत्मामा सधैँका परम महिमा । </lines>
+		</verse>
+	</lyrics>
+</song>

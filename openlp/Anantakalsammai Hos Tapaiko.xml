@@ -1,2 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 92(Anantakalsammai Hos Tapaiko)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>(अनन्तकालसम्मै होस् तपाईंको महिमा) ४<br/>हे परमपिता, हे महान् ईश्वर, हे पुत्र ख्रीष्ट, हे आत्मा पवित्र<br/>(युगानुयुग) ३ होस्, (महिमा) ६ होस् । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 92(Anantakalsammai Hos Tapaiko)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>(अनन्तकालसम्मै होस् तपाईंको महिमा) ४<br/>हे परमपिता, हे महान् ईश्वर, हे पुत्र ख्रीष्ट, हे आत्मा पवित्र<br/>(युगानुयुग) ३ होस्, (महिमा) ६ होस् । </lines>
+		</verse>
+	</lyrics>
+</song>

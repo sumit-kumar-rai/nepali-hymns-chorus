@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 627(Achamako Prem Garnubho)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः अचम्मको प्रेम गर्नुभो, परमेश्वरले हामीलाई एकलो पुत्र समेत दिनुभो,<br/>बचाउन भनी सबैलाई (२)</lines></verse><verse name="v2"><lines>१. क्रूसमा चढी रगत बगाई, प्रमाणित गर्नुभो आफ्नो प्रेम एउटालाई दिई,<br/>सारा बचाउन गर्नुभो, यस्तो अचम्मको प्रेम ।</lines></verse><verse name="v3"><lines>२. मृत्युलाई जिती बौरिउठे येशू, परमेश्वरको महिमा देखाउन चालीस दिन<br/>पछि सबै आज्ञा दिई, गएँ स्वर्ग भन्दै फेरि आउँछु लिन ।</lines></verse><verse name="v4"><lines>३. अनुग्रहको समय यही हो, नगुमाऊ यो मौका प्रिय हो अपनाऊ येशूलाई मित्र<br/>हो, साँच्चै नै उहाँ आउने बेला भो । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 627(Achamako Prem Garnubho)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः अचम्मको प्रेम गर्नुभो, परमेश्वरले हामीलाई एकलो पुत्र समेत दिनुभो,<br/>बचाउन भनी सबैलाई (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. क्रूसमा चढी रगत बगाई, प्रमाणित गर्नुभो आफ्नो प्रेम एउटालाई दिई,<br/>सारा बचाउन गर्नुभो, यस्तो अचम्मको प्रेम ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. मृत्युलाई जिती बौरिउठे येशू, परमेश्वरको महिमा देखाउन चालीस दिन<br/>पछि सबै आज्ञा दिई, गएँ स्वर्ग भन्दै फेरि आउँछु लिन ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. अनुग्रहको समय यही हो, नगुमाऊ यो मौका प्रिय हो अपनाऊ येशूलाई मित्र<br/>हो, साँच्चै नै उहाँ आउने बेला भो । </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 599(Achamako Anugrahale Bachyo)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. अचम्मको अनुग्रहले, बाँच्यो तुच्छ प्राण मेरो,<br/>हराएको थिएँ अब पाइएको छु, अन्धो देख्ने भएँ ।</lines></verse><verse name="v2"><lines>२. अनुग्रहले ईश्वरको भय, अनुग्रहले शान्ति,<br/>कस्तो अमूल्य स्वाद अनुग्रहको, जब विश्वास गरेँ ।</lines></verse><verse name="v3"><lines>३. अनेकौँ जोखिम परीक्षा, भएर आइपुगेँ,<br/>यहाँसम्म ल्याउने त्यो अनुग्रहले, पुग्नेछु स्वर्गमै ।</lines></verse><verse name="v4"><lines>४. प्रभुको वाचा भलाईंको, यो मेरो भरोसा,<br/>उहाँ नै मेरो सूर्य र ढाल, प्राण मेरो रहुन्जेल ।</lines></verse><verse name="v5"><lines>५. हजारौँ वर्ष स्वर्गमा, सूर्यझैँ चम्कन्छौँ ।<br/>यो अनुग्रहको प्रशंसा गाउँदै, युग युगौँ रहन्छौँ । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 599(Achamako Anugrahale Bachyo)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. अचम्मको अनुग्रहले, बाँच्यो तुच्छ प्राण मेरो,<br/>हराएको थिएँ अब पाइएको छु, अन्धो देख्ने भएँ ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. अनुग्रहले ईश्वरको भय, अनुग्रहले शान्ति,<br/>कस्तो अमूल्य स्वाद अनुग्रहको, जब विश्वास गरेँ ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. अनेकौँ जोखिम परीक्षा, भएर आइपुगेँ,<br/>यहाँसम्म ल्याउने त्यो अनुग्रहले, पुग्नेछु स्वर्गमै ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. प्रभुको वाचा भलाईंको, यो मेरो भरोसा,<br/>उहाँ नै मेरो सूर्य र ढाल, प्राण मेरो रहुन्जेल ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>५. हजारौँ वर्ष स्वर्गमा, सूर्यझैँ चम्कन्छौँ ।<br/>यो अनुग्रहको प्रशंसा गाउँदै, युग युगौँ रहन्छौँ । </lines>
+		</verse>
+	</lyrics>
+</song>

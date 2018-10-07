@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 240(Aautar Bhayo Prabhu Yeshuko)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः औतार भयो प्रभु येशूको उनको होस् जय ।</lines></verse><verse name="v2"><lines>१. सारा जगतको हुन मुक्तिदाता (२) बाटो, सत्य र<br/>जीवनको दाता आउनुभो प्रभु (२) हाम्रो निम्तिमा</lines></verse><verse name="v3"><lines>२. पापमय जीवन हाम्रो डुबेको (२) देखाउन आए<br/>प्रेम ईश्वरको आउनुभो येशू (२) शान्ति लिएर</lines></verse><verse name="v4"><lines>३. उहाँको लागि हृदय खोलिदेऊ (२) फिक्रीको जीवन<br/>उनलाई लिन देऊ नवीन जीवन लिई, (२) जाऊ रमाऊँदै । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 240(Aautar Bhayo Prabhu Yeshuko)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः औतार भयो प्रभु येशूको उनको होस् जय ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. सारा जगतको हुन मुक्तिदाता (२) बाटो, सत्य र<br/>जीवनको दाता आउनुभो प्रभु (२) हाम्रो निम्तिमा</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. पापमय जीवन हाम्रो डुबेको (२) देखाउन आए<br/>प्रेम ईश्वरको आउनुभो येशू (२) शान्ति लिएर</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. उहाँको लागि हृदय खोलिदेऊ (२) फिक्रीको जीवन<br/>उनलाई लिन देऊ नवीन जीवन लिई, (२) जाऊ रमाऊँदै । </lines>
+		</verse>
+	</lyrics>
+</song>

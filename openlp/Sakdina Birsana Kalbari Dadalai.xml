@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 744(Sakdina Birsana Kalbari Dadalai)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः सक्तिनँ बिर्सन कलवरी डाँडालाई,<br/>येशूले सहेको दुःख र कष्टलाई । सक्तिनँ विर्सन ।</lines></verse><verse name="v2"><lines>१. आखिरी भोज गरी चेलाको साथैमा<br/>प्रार्थना गरे पितालाई जैतूनको डाँडामा<br/>सुम्पिए आफैलाई कप्तानको हातैमा<br/>दोषी बनाइए उनलाई सबैको सामुमा ।</lines></verse><verse name="v3"><lines>२. हतकडी बाँधे उनको कलिलो हातमा<br/>सबैले थुके उनको निर्दोष मुहारमा<br/>लगाइदियो काँडाको मुकुट प्रभुको शिरमा<br/>हिर्काए निगालोले निर्दोष शरीरमा ।</lines></verse><verse name="v4"><lines>३. ठोकिए फलामे किला हात र पाउमा<br/>भालाले घोचे प्रभुको दुवै कोखमा<br/>त्यागे प्राण क्रूसमा प्रभुले तृतीय पहरमा<br/>यी सबै कारण बन्यो मेरै अधर्म । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 744(Sakdina Birsana Kalbari Dadalai)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः सक्तिनँ बिर्सन कलवरी डाँडालाई,<br/>येशूले सहेको दुःख र कष्टलाई । सक्तिनँ विर्सन ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. आखिरी भोज गरी चेलाको साथैमा<br/>प्रार्थना गरे पितालाई जैतूनको डाँडामा<br/>सुम्पिए आफैलाई कप्तानको हातैमा<br/>दोषी बनाइए उनलाई सबैको सामुमा ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. हतकडी बाँधे उनको कलिलो हातमा<br/>सबैले थुके उनको निर्दोष मुहारमा<br/>लगाइदियो काँडाको मुकुट प्रभुको शिरमा<br/>हिर्काए निगालोले निर्दोष शरीरमा ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. ठोकिए फलामे किला हात र पाउमा<br/>भालाले घोचे प्रभुको दुवै कोखमा<br/>त्यागे प्राण क्रूसमा प्रभुले तृतीय पहरमा<br/>यी सबै कारण बन्यो मेरै अधर्म । </lines>
+		</verse>
+	</lyrics>
+</song>

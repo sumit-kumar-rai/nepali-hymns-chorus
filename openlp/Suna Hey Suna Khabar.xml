@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 129(Suna Hey Suna Khabar)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः सुन हे सुन यो खबर छिमेकी दाजुभाइ<br/>बौरिउठे येशू हाम्रा जित हाम्रै भो ।</lines></verse><verse name="v2"><lines>१ येशू हाम्रा कति प्यारा क्रूसमा गई मर्नुभो<br/>तेस्रो दिनमा बाँचेर उनले धर्म साँच्नुभो ।</lines></verse><verse name="v3"><lines>२. शिर झुक्यो शैतान र झूटो साक्षी बोल्नेको<br/>आदर, प्रशंसा, महिमा बढ्यो हाम्रो येशूको ।</lines></verse><verse name="v4"><lines>३. आऊ सबै अविश्वासी दोधारैमा परेका<br/>बाटो, सत्य, जीवन मिल्छ हाम्रो येशूमा । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 129(Suna Hey Suna Khabar)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः सुन हे सुन यो खबर छिमेकी दाजुभाइ<br/>बौरिउठे येशू हाम्रा जित हाम्रै भो ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१ येशू हाम्रा कति प्यारा क्रूसमा गई मर्नुभो<br/>तेस्रो दिनमा बाँचेर उनले धर्म साँच्नुभो ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. शिर झुक्यो शैतान र झूटो साक्षी बोल्नेको<br/>आदर, प्रशंसा, महिमा बढ्यो हाम्रो येशूको ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. आऊ सबै अविश्वासी दोधारैमा परेका<br/>बाटो, सत्य, जीवन मिल्छ हाम्रो येशूमा । </lines>
+		</verse>
+	</lyrics>
+</song>

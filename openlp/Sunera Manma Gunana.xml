@@ -1,2 +1,31 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 198(Sunera Manma Gunana)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः सुनेर मनमा गुन न, येशूमा विश्वास गर न (२)</lines></verse><verse name="v2"><lines>१. कुन नाम छ साँचो स्वर्गको मुनि मानिसलाई बचाउने (२)<br/>नगरौं हामी पापैको कर्म नरकमा लैजाने,<br/>सुन भाइ हो नरकमा लैजाने ।</lines></verse><verse name="v3"><lines>२. पृथ्वी टल्छ स्वर्गलोक टल्छ टल्दैन त्यो वचन (२)<br/>ईश्वरको वचन मानिसको लागि बचाउन अमोल प्राण ।</lines></verse><verse name="v4"><lines>३. जीवनको ढोका खोल्दिन्छन् येशू विश्वासीहरूलाई (२)<br/>ईश्वरको राज्यमा आत्मामा सधैँ येशूसँग बस्नलाई ।</lines></verse><verse name="v5"><lines>४. येशूको हातमा न्याय छ हाम्रो ईश्वरले दिएको (२)<br/>बचाएको मानिस छोड्दैनन् उनले क्रूसैमा किनेको ।</lines></verse><verse name="v6"><lines>५. विश्वास छ हाम्रो ख्रीष्ट येशूमाथि अघि नै बढ्दछौं (२)<br/>विश्वास गर्छौ स्वर्गको लागि ठाउँ तयार गर्दछन् । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 198(Sunera Manma Gunana)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः सुनेर मनमा गुन न, येशूमा विश्वास गर न (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. कुन नाम छ साँचो स्वर्गको मुनि मानिसलाई बचाउने (२)<br/>नगरौं हामी पापैको कर्म नरकमा लैजाने,<br/>सुन भाइ हो नरकमा लैजाने ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. पृथ्वी टल्छ स्वर्गलोक टल्छ टल्दैन त्यो वचन (२)<br/>ईश्वरको वचन मानिसको लागि बचाउन अमोल प्राण ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. जीवनको ढोका खोल्दिन्छन् येशू विश्वासीहरूलाई (२)<br/>ईश्वरको राज्यमा आत्मामा सधैँ येशूसँग बस्नलाई ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. येशूको हातमा न्याय छ हाम्रो ईश्वरले दिएको (२)<br/>बचाएको मानिस छोड्दैनन् उनले क्रूसैमा किनेको ।</lines>
+		</verse>
+		<verse name="v6">
+			<lines>५. विश्वास छ हाम्रो ख्रीष्ट येशूमाथि अघि नै बढ्दछौं (२)<br/>विश्वास गर्छौ स्वर्गको लागि ठाउँ तयार गर्दछन् । </lines>
+		</verse>
+	</lyrics>
+</song>

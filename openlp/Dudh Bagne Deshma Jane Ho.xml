@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 306(Dudh Bagne Deshma Jane Ho)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः दूध बग्ने देशमा जाने हो, मह बग्ने देशमा जाने हो,<br/>प्रतिज्ञाको देशमा जाने हो, हाम्रो स्वर्ग देशमा ।</lines></verse><verse name="v2"><lines>१. कलवरीको कथा बिर्सी कहाँ जाने यात्री हो,<br/>गाईगोठको प्रभु बिर्सी स्वार्थी बत्रे साथी हो,<br/>प्रभु येशू मुक्तिदाता, जीवन दिने पानीलाई<br/>क्षमा मागी अघि बढ़ौँ, जीवनको प्रभुलाई ।</lines></verse><verse name="v3"><lines>२. बाटो, सत्य, जीवनलाई फेरि आउने राजालाई<br/>संसारको न्यायकर्ता येशू हाम्रो प्रभुलाई,<br/>नलुकाऊ है तिम्रो पाप खोलिदेऊ है जीवनलाई,<br/>ईमानदार, आज्ञाकारी बनाइदेऊ है जीवनलाई । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 306(Dudh Bagne Deshma Jane Ho)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः दूध बग्ने देशमा जाने हो, मह बग्ने देशमा जाने हो,<br/>प्रतिज्ञाको देशमा जाने हो, हाम्रो स्वर्ग देशमा ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. कलवरीको कथा बिर्सी कहाँ जाने यात्री हो,<br/>गाईगोठको प्रभु बिर्सी स्वार्थी बत्रे साथी हो,<br/>प्रभु येशू मुक्तिदाता, जीवन दिने पानीलाई<br/>क्षमा मागी अघि बढ़ौँ, जीवनको प्रभुलाई ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. बाटो, सत्य, जीवनलाई फेरि आउने राजालाई<br/>संसारको न्यायकर्ता येशू हाम्रो प्रभुलाई,<br/>नलुकाऊ है तिम्रो पाप खोलिदेऊ है जीवनलाई,<br/>ईमानदार, आज्ञाकारी बनाइदेऊ है जीवनलाई । </lines>
+		</verse>
+	</lyrics>
+</song>

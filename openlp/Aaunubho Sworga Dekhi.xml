@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 37(Aaunubho Sworga Dekhi)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१ आउनुभो स्वर्गदेखि मुकुटलाई त्यागी, मेरो लागि लिई औतार<br/>बेथलेहेमको गाउँमा थिएन ठाउँ आफ्नो लागि, हे तारणहार<br/>मकहाँ प्रभु येशू, आउनुहोस्, मेरो हृदयमा धेरै छ ठाउँ ।</lines></verse><verse name="v2"><lines>२. स्यालका हुन्छन् कुर र चराका गुँड तिनले लाउँछन् जङ्गलमा<br/>तर तपाईंकै शिर राख्नलाई गालीलमा थिएन ठाउँ<br/>मकहाँ प्रभु येशू आउनोस्, मेरो हृदयमा धेर छ ठाउँ ।</lines></verse><verse name="v3"><lines>३. जीवित वचन साथ लिई स्वर्गदेखि ओर्ली मुक्तिदान दिन आउनुभो<br/>तर ठट्टाले क्रूसमा चढाए, लगाई मुकुट काँडाको<br/>मकहाँ प्रभु येशू आउनोस्, मेरो हृदयमा धेरै छ ठाउँ ।</lines></verse><verse name="v4"><lines>४. स्वर्गको द्वार खोलिँदा, दूतगणले गाउँदा, तपाईं महिमासाथ आउँदा<br/>शब्द सुन्न पाउँ  तँलाई धेरै छ ठाउँ, मेरो छेउ सदा बस्न आ<br/>मेरो मन तब खुसी हुन्छ, जब पिताकहाँ पुग्नेछु । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 37(Aaunubho Sworga Dekhi)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१ आउनुभो स्वर्गदेखि मुकुटलाई त्यागी, मेरो लागि लिई औतार<br/>बेथलेहेमको गाउँमा थिएन ठाउँ आफ्नो लागि, हे तारणहार<br/>मकहाँ प्रभु येशू, आउनुहोस्, मेरो हृदयमा धेरै छ ठाउँ ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. स्यालका हुन्छन् कुर र चराका गुँड तिनले लाउँछन् जङ्गलमा<br/>तर तपाईंकै शिर राख्नलाई गालीलमा थिएन ठाउँ<br/>मकहाँ प्रभु येशू आउनोस्, मेरो हृदयमा धेर छ ठाउँ ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. जीवित वचन साथ लिई स्वर्गदेखि ओर्ली मुक्तिदान दिन आउनुभो<br/>तर ठट्टाले क्रूसमा चढाए, लगाई मुकुट काँडाको<br/>मकहाँ प्रभु येशू आउनोस्, मेरो हृदयमा धेरै छ ठाउँ ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. स्वर्गको द्वार खोलिँदा, दूतगणले गाउँदा, तपाईं महिमासाथ आउँदा<br/>शब्द सुन्न पाउँ  तँलाई धेरै छ ठाउँ, मेरो छेउ सदा बस्न आ<br/>मेरो मन तब खुसी हुन्छ, जब पिताकहाँ पुग्नेछु । </lines>
+		</verse>
+	</lyrics>
+</song>

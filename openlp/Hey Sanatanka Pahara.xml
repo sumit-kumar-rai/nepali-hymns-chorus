@@ -1,2 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 258(Hey Sanatanka Pahara)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. हे सनातनका पहरा ख्रीष्ट पाऊँ शरण तपाईंमा<br/>क्रूसमा रगत-पानी जो कोखाबाट बहेथ्यो<br/>शुद्ध पारोस् निच मनलाई पापको दोष र वश हटाई ।</lines></verse><verse name="v2"><lines>२. व्यवस्था गर्न पूरा उद्योग पुग्दैनन् मेरा<br/>उत्साह मेरो भए अपार आँसु चुहे लगातार<br/>तै तीबाट पाइन्न त्राण खाली ख्रीष्ट बचाउँछन् प्राण ।</lines></verse><verse name="v3"><lines>३. हातमा भेटी ल्याउन्नँ म खाली क्रूसमा भर पर्छु<br/>आउँछु नाङ्गो असहाय मेरो उद्धारक तपाईं<br/>धारा माग्छु भइ हताश धुनोस् नत्र हुन्छु नाश ।</lines></verse><verse name="v4"><lines>४. मेरो रहुञ्जेल आयु जब हुन्छ नि मृत्यु<br/>अनि स्वर्गमा हेर्दा तपाईंलाई सिंहासनमा<br/>हे सनातनका पहरा ख्रीष्ट पाउँ शरण तपाईंमा । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 258(Hey Sanatanka Pahara)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. हे सनातनका पहरा ख्रीष्ट पाऊँ शरण तपाईंमा<br/>क्रूसमा रगत-पानी जो कोखाबाट बहेथ्यो<br/>शुद्ध पारोस् निच मनलाई पापको दोष र वश हटाई ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. व्यवस्था गर्न पूरा उद्योग पुग्दैनन् मेरा<br/>उत्साह मेरो भए अपार आँसु चुहे लगातार<br/>तै तीबाट पाइन्न त्राण खाली ख्रीष्ट बचाउँछन् प्राण ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. हातमा भेटी ल्याउन्नँ म खाली क्रूसमा भर पर्छु<br/>आउँछु नाङ्गो असहाय मेरो उद्धारक तपाईं<br/>धारा माग्छु भइ हताश धुनोस् नत्र हुन्छु नाश ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. मेरो रहुञ्जेल आयु जब हुन्छ नि मृत्यु<br/>अनि स्वर्गमा हेर्दा तपाईंलाई सिंहासनमा<br/>हे सनातनका पहरा ख्रीष्ट पाउँ शरण तपाईंमा । </lines>
+		</verse>
+	</lyrics>
+</song>

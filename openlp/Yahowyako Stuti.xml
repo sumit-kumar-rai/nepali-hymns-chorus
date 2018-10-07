@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 19(Yahowyako Stuti)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः यहवेको स्तुति, स्तुति ईश्वरको, सूर्य औ चन्द्रमा (२)<br/>पवित्र दूतगण, सेना ईश्वरका उच्च स्थानमा गर...स्तुति यहवेको ।</lines></verse><verse name="v2"><lines>१. हे ज्योतिर्मय तारागण सब, हे विशाल आकाश,<br/>अनि भूलोकका निर्मल जल र असिना हिउँ राश,<br/>महासागर औ पर्वत, अग्नि, आँधी, मेघ, बतास (२) प्रशंसा गर<br/>फलवन्त वृक्ष, पिता ईश्वरको... गर स्तुति यहवेको ।</lines></verse><verse name="v3"><lines>२. राजा, प्रजा, न्यायधीश, हाकीम, राज्य-राज्यका,<br/>युवक, युवती, बालक, वृद्ध, सारा पृथ्वीका,<br/>बनपशु र पशु घरेलु, पंक्षी गगनका,<br/>प्रशंसा गर महान् महिमित पिता ईश्वरको... गर स्तुति यहवेको । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 19(Yahowyako Stuti)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः यहवेको स्तुति, स्तुति ईश्वरको, सूर्य औ चन्द्रमा (२)<br/>पवित्र दूतगण, सेना ईश्वरका उच्च स्थानमा गर...स्तुति यहवेको ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. हे ज्योतिर्मय तारागण सब, हे विशाल आकाश,<br/>अनि भूलोकका निर्मल जल र असिना हिउँ राश,<br/>महासागर औ पर्वत, अग्नि, आँधी, मेघ, बतास (२) प्रशंसा गर<br/>फलवन्त वृक्ष, पिता ईश्वरको... गर स्तुति यहवेको ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. राजा, प्रजा, न्यायधीश, हाकीम, राज्य-राज्यका,<br/>युवक, युवती, बालक, वृद्ध, सारा पृथ्वीका,<br/>बनपशु र पशु घरेलु, पंक्षी गगनका,<br/>प्रशंसा गर महान् महिमित पिता ईश्वरको... गर स्तुति यहवेको । </lines>
+		</verse>
+	</lyrics>
+</song>

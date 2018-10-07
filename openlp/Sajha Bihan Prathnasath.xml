@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 708(Sajha Bihan Prathnasath)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः साँझ, बिहान प्रार्थनासाथ वचन पढ्दै<br/>म मनन गर्दछु, औ आज्ञा मात्रेछु<br/>ईश्वरको भक्ति, मान्छेको सेवा गर्दै म रहनेछु<br/>प्रभुलाई रिझाउँछु ।</lines></verse><verse name="v2"><lines>१. जीवनलाई मैले हीरा ठानेथिएँ, पापमा जलेर कोइला भएछ<br/>स्वर्गमा चम्किरहनेछु भन्थे, नर्कमा जलिरहने भएछ<br/>यसकारण प्रभु, पश्चात्ताप गर्दै, पापहरू सबै परित्याग गर्छु (२)</lines></verse><verse name="v3"><lines>२. स्वर्गको दलानमा बस्दा म बस्दै, नर्कको ढोका पुगिसकेछु<br/>यसकारण प्रभु फर्की आउँदैछु, ग्रहण गर्नुहोस्, अर्जी चढाउँदछु<br/>चञ्चल मनलाई सुदृढ पारी, चाल मेरो स्थिर पारिदिनुहोस्, प्रभु (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 708(Sajha Bihan Prathnasath)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः साँझ, बिहान प्रार्थनासाथ वचन पढ्दै<br/>म मनन गर्दछु, औ आज्ञा मात्रेछु<br/>ईश्वरको भक्ति, मान्छेको सेवा गर्दै म रहनेछु<br/>प्रभुलाई रिझाउँछु ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. जीवनलाई मैले हीरा ठानेथिएँ, पापमा जलेर कोइला भएछ<br/>स्वर्गमा चम्किरहनेछु भन्थे, नर्कमा जलिरहने भएछ<br/>यसकारण प्रभु, पश्चात्ताप गर्दै, पापहरू सबै परित्याग गर्छु (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. स्वर्गको दलानमा बस्दा म बस्दै, नर्कको ढोका पुगिसकेछु<br/>यसकारण प्रभु फर्की आउँदैछु, ग्रहण गर्नुहोस्, अर्जी चढाउँदछु<br/>चञ्चल मनलाई सुदृढ पारी, चाल मेरो स्थिर पारिदिनुहोस्, प्रभु (२) </lines>
+		</verse>
+	</lyrics>
+</song>

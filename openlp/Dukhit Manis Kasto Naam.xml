@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 113(Dukhit Manis Kasto Naam)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. “दुःखित मानिस” कस्तो नाम, येशू छोडी स्वर्ग धाम<br/>तिरे पापको मुक्ति दाम, हल्लेलूयाह, मुक्तिदाता ।</lines></verse><verse name="v2"><lines>२. भोगे निन्दा, लाज, हैरान मेरो सट्टा दिए ज्यान<br/>रगतद्वारा क्षमादान, हल्लेलूयाह, मुक्तिदाता ।</lines></verse><verse name="v3"><lines>३. दोषी, नीच, अनाथ हामी बलि ईश्वरको उनी<br/>पूरा मेल–मिलाप अनि, हल्लेलूयाह, मुक्तिदाता ।</lines></verse><verse name="v4"><lines>४. क्रूसमा मारिएका थिए “अब सिद्धियो” कराए<br/>अनि परमधाम फर्के, हल्लेलूयाह, मुक्तिदाता ।</lines></verse><verse name="v5"><lines>५. येशू जगमा फेरि आई घर पुर्‌याउलान् हामीलाई<br/>तब गाऔंला खुब रमाई, हल्लेलूयाह, मुक्तिदाता । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 113(Dukhit Manis Kasto Naam)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. “दुःखित मानिस” कस्तो नाम, येशू छोडी स्वर्ग धाम<br/>तिरे पापको मुक्ति दाम, हल्लेलूयाह, मुक्तिदाता ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. भोगे निन्दा, लाज, हैरान मेरो सट्टा दिए ज्यान<br/>रगतद्वारा क्षमादान, हल्लेलूयाह, मुक्तिदाता ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. दोषी, नीच, अनाथ हामी बलि ईश्वरको उनी<br/>पूरा मेल–मिलाप अनि, हल्लेलूयाह, मुक्तिदाता ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. क्रूसमा मारिएका थिए “अब सिद्धियो” कराए<br/>अनि परमधाम फर्के, हल्लेलूयाह, मुक्तिदाता ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>५. येशू जगमा फेरि आई घर पुर्‌याउलान् हामीलाई<br/>तब गाऔंला खुब रमाई, हल्लेलूयाह, मुक्तिदाता । </lines>
+		</verse>
+	</lyrics>
+</song>

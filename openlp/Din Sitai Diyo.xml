@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 294(Din Sitai Diyo)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः दिन सित्तै दिइयो हजुर कलवरी डाँडामा रगतै बहाएर<br/>उदासै लाग्ने डाँडैमा बसेर भन्न अब छोडिदेऊ हजुर ।</lines></verse><verse name="v2"><lines>१. कति हामीले देवी-देवता संसारैमा पुज्दथ्यौं<br/>आखिरमा दुःख पाई संसारैमा मर्र्‍यौं,<br/>हामीले सधैँ संसारको भर पर्नेछैनौं<br/>संसारको थोकले सधैँ शान्ति पाउनेछैनौं ।</lines></verse><verse name="v3"><lines>२. हाम्रो जीवन अघि सारी प्रभुमा बिसाउँछौं<br/>गरूङ्गो भारी क्रूसको छेउमा अघि सारी ल्याउँछौं<br/>यही प्रभु क्रूसमा मेरो उपहार लिई मृत्युसम्मै आज्ञाकारी बनेर । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 294(Din Sitai Diyo)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः दिन सित्तै दिइयो हजुर कलवरी डाँडामा रगतै बहाएर<br/>उदासै लाग्ने डाँडैमा बसेर भन्न अब छोडिदेऊ हजुर ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. कति हामीले देवी-देवता संसारैमा पुज्दथ्यौं<br/>आखिरमा दुःख पाई संसारैमा मर्र्‍यौं,<br/>हामीले सधैँ संसारको भर पर्नेछैनौं<br/>संसारको थोकले सधैँ शान्ति पाउनेछैनौं ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. हाम्रो जीवन अघि सारी प्रभुमा बिसाउँछौं<br/>गरूङ्गो भारी क्रूसको छेउमा अघि सारी ल्याउँछौं<br/>यही प्रभु क्रूसमा मेरो उपहार लिई मृत्युसम्मै आज्ञाकारी बनेर । </lines>
+		</verse>
+	</lyrics>
+</song>

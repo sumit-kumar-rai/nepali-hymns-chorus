@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 87(Jayjay Yeshu Jay Mritu)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः जयजय येशू (२) जय मृत्यु जय, जय जयकार<br/>सृजनहार, पालनहार, तारणहार जयजय येशू (२)</lines></verse><verse name="v2"><lines>१. दुःखीको दुःख हरनेवाला हृदयमा शान्ति दिनेवाला<br/>जय सब मन दुःख मेटियो जयजयकार,<br/>सृजनहार, पालनहार, तारणहार जयजय येशू (२)</lines></verse><verse name="v3"><lines>२. मनुष्य स्वरूप धारण गरी नीच गरीबलाई दियौ छुटकारा<br/>जयजय त्राता, जय सुखदाता जयजयकार,<br/>सृजनहार, पालनहार, तारणहार जयजय येशू (२)</lines></verse><verse name="v4"><lines>३. मृत्यु बन्धन तोड्नेवाला, सबै जीवन दिनेवाला<br/>रोगी अशान्तिको एक आधार जयजयकार,<br/>सृजनहार, पालनहार, तारणहार जयजय येशू (२)</lines></verse><verse name="v5"><lines>४. जयजयकार गरौं सबै प्यार नर-नारी एकसँग पुकार<br/>नारा लगाऊ जयजयकार,<br/>सृजनहार, पालनहार, तारणहार जयजय येशू (२) </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 87(Jayjay Yeshu Jay Mritu)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः जयजय येशू (२) जय मृत्यु जय, जय जयकार<br/>सृजनहार, पालनहार, तारणहार जयजय येशू (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. दुःखीको दुःख हरनेवाला हृदयमा शान्ति दिनेवाला<br/>जय सब मन दुःख मेटियो जयजयकार,<br/>सृजनहार, पालनहार, तारणहार जयजय येशू (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. मनुष्य स्वरूप धारण गरी नीच गरीबलाई दियौ छुटकारा<br/>जयजय त्राता, जय सुखदाता जयजयकार,<br/>सृजनहार, पालनहार, तारणहार जयजय येशू (२)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. मृत्यु बन्धन तोड्नेवाला, सबै जीवन दिनेवाला<br/>रोगी अशान्तिको एक आधार जयजयकार,<br/>सृजनहार, पालनहार, तारणहार जयजय येशू (२)</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. जयजयकार गरौं सबै प्यार नर-नारी एकसँग पुकार<br/>नारा लगाऊ जयजयकार,<br/>सृजनहार, पालनहार, तारणहार जयजय येशू (२) </lines>
+		</verse>
+	</lyrics>
+</song>

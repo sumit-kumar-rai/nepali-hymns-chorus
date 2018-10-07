@@ -1,2 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 289(Ma Hu Yeshuko)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>म हुँ येशूको औ येशू मेरा, संसारमा अरू केही थोक चाहिँदैन<br/>उहाँको काखमा लुटु र पुटु गरेर बिसाउँछु<br/>जीवनको पानी पिएर यसै तृष्णा मेटाउँछु<br/>येशूको गीत प्रेमको भाका गाएर सुनाउँछु<br/>फरिया र चोली लाएकै दुलही म उनकी हुनेछु । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 289(Ma Hu Yeshuko)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>म हुँ येशूको औ येशू मेरा, संसारमा अरू केही थोक चाहिँदैन<br/>उहाँको काखमा लुटु र पुटु गरेर बिसाउँछु<br/>जीवनको पानी पिएर यसै तृष्णा मेटाउँछु<br/>येशूको गीत प्रेमको भाका गाएर सुनाउँछु<br/>फरिया र चोली लाएकै दुलही म उनकी हुनेछु । </lines>
+		</verse>
+	</lyrics>
+</song>

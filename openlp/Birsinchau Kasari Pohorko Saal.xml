@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 468(Birsinchau Kasari Pohorko Saal)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. बिर्सिन्छौं कसरी पोहोरको साल यो घडी मान्दै थियौ नयाँ साल यसरी<br/>यति चाँडै त्यो साल बित्यो आज पनि<br/>शक्ति छैन त्यो साललाई थाम्ने एक पल पनि ।</lines></verse><verse name="v2"><lines>कोः समय छ, समय छ भन्दै थियौ थाहा नभई त्यो साल बितिगयो<br/>अब त्यो साललाई बिदा गरौं र अब पसिजाऊँ हामी नयाँ साल यो<br/>नयाँ सालभरि हिँड्नलाई ईश्वरको अगुवाइमा ।</lines></verse><verse name="v3"><lines>२. धन्यवाद चढाउन सब दानको लागि ईश्वरलाई गरौं जीवन अर्पण उनलाई<br/>लिई उनको साथमा बसी उनको आडमा यो साल मात्र होइन<br/>यो जीवन लगाऊ उनकै जिम्मामा ।</lines></verse><verse name="v4"><lines>३. सम्झनुहोस् हे प्रिय यो जाँदो सालमा, हामी थियौं कुन कुन दशामा<br/>हाम्रो पाप अप्राधको केही ख्याल नगरी,<br/>ईश्वरले हाम्रो रक्षा गरे वितेको सालभरि ।</lines></verse><verse name="v5"><lines>४. अब बिदा लेऊ हे प्रियहरू गर्दै शुभकामना नयाँ सालको<br/>भेट्छौं कि भेट्दैनौं फेरि नयाँ सालमा<br/>भेटौंला कहिले नछुट्ने गरी त्यो अनन्त घरमा । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 468(Birsinchau Kasari Pohorko Saal)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. बिर्सिन्छौं कसरी पोहोरको साल यो घडी मान्दै थियौ नयाँ साल यसरी<br/>यति चाँडै त्यो साल बित्यो आज पनि<br/>शक्ति छैन त्यो साललाई थाम्ने एक पल पनि ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>कोः समय छ, समय छ भन्दै थियौ थाहा नभई त्यो साल बितिगयो<br/>अब त्यो साललाई बिदा गरौं र अब पसिजाऊँ हामी नयाँ साल यो<br/>नयाँ सालभरि हिँड्नलाई ईश्वरको अगुवाइमा ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. धन्यवाद चढाउन सब दानको लागि ईश्वरलाई गरौं जीवन अर्पण उनलाई<br/>लिई उनको साथमा बसी उनको आडमा यो साल मात्र होइन<br/>यो जीवन लगाऊ उनकै जिम्मामा ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. सम्झनुहोस् हे प्रिय यो जाँदो सालमा, हामी थियौं कुन कुन दशामा<br/>हाम्रो पाप अप्राधको केही ख्याल नगरी,<br/>ईश्वरले हाम्रो रक्षा गरे वितेको सालभरि ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. अब बिदा लेऊ हे प्रियहरू गर्दै शुभकामना नयाँ सालको<br/>भेट्छौं कि भेट्दैनौं फेरि नयाँ सालमा<br/>भेटौंला कहिले नछुट्ने गरी त्यो अनन्त घरमा । </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 726(Premle Garda Kalbarima)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः प्रेमले गर्दा कलवरीमा, दुई चोरको माझमा<br/>मेरो निम्ति प्राण दिए, बहाइ रगत क्रूर क्रूसमा (२)</lines></verse><verse name="v2"><lines>१. सुनको जडले पैसा पोखी भएन मुक्ति मेरो<br/>मुक्ति मेरो स्वर्गीय पाठो ख्रीष्टको रगतद्वारा भो (२)</lines></verse><verse name="v3"><lines>२. पापका मैला काला दागलाई धुँदैन चीजले कुनै,<br/>केबल रगतले धुन्छ सबलाई पार्दछ श्वेत हिउँझैँ (२)</lines></verse><verse name="v4"><lines>३. हिउँझैँ वस्त्र पहिरेका सन्तगण स्वर्गमा छन्,<br/>बलि हुने प्रेमी ख्रीष्टलाई युग युग स्तुति गर्छन् (२)</lines></verse><verse name="v5"><lines>४. उनी आफै पाप बने, पापबाट छुटाउनलाई<br/>मृत्यु जिती बौरिउठे विजयी बनाउनलाई (२) । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 726(Premle Garda Kalbarima)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः प्रेमले गर्दा कलवरीमा, दुई चोरको माझमा<br/>मेरो निम्ति प्राण दिए, बहाइ रगत क्रूर क्रूसमा (२)</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. सुनको जडले पैसा पोखी भएन मुक्ति मेरो<br/>मुक्ति मेरो स्वर्गीय पाठो ख्रीष्टको रगतद्वारा भो (२)</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. पापका मैला काला दागलाई धुँदैन चीजले कुनै,<br/>केबल रगतले धुन्छ सबलाई पार्दछ श्वेत हिउँझैँ (२)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>३. हिउँझैँ वस्त्र पहिरेका सन्तगण स्वर्गमा छन्,<br/>बलि हुने प्रेमी ख्रीष्टलाई युग युग स्तुति गर्छन् (२)</lines>
+		</verse>
+		<verse name="v5">
+			<lines>४. उनी आफै पाप बने, पापबाट छुटाउनलाई<br/>मृत्यु जिती बौरिउठे विजयी बनाउनलाई (२) । </lines>
+		</verse>
+	</lyrics>
+</song>

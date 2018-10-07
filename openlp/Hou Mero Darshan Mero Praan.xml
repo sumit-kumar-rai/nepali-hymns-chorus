@@ -1,2 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 349(Hou Mero Darshan Mero Praan)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>१. होऊ मेरो दर्शन, मेरो प्राण हे प्रभु, तपाईंबाहेक आनन्द छैन अरू<br/>रातमा या दिनमा होस् सोच तपाईंकै, सुत्दा वा ब्यूँझँदा ज्योति तपाईं नै ।</lines></verse><verse name="v2"><lines>२. होऊ मेरो बुद्धि, मेरो साँचो बात, म सदा तपाईंसाथ, तपाईं मसाथ<br/>तपाईं नै पिता, म छोरो, साँच्चै वास गर्नोस् ममा, मचाहिँ तपाईंमै ।</lines></verse><verse name="v3"><lines>३. होऊ मेरो तरवार र ढाल लडाइँको, होऊ मेरो मर्यादा, आनन्द मेरो<br/>होऊ मेरो गढी, धरहरा अग्लो स्वर्गतिर उठाऊ, हे बलवान प्रभु ।</lines></verse><verse name="v4"><lines>४. धन म खोज्दिनँ न त प्रशंसा, तपाईं नै मेरो सर्वस्व सदा<br/>तपाईंलाई मात्र मेरो पहिले मान स्वर्गको राजा, तपाईं मेरो धन ।</lines></verse><verse name="v5"><lines>५. स्वर्गको राजा विजय भइगयो स्वर्गीय आनन्द पाउँछु घाम चम्किलो<br/>मेरो प्राण प्यारो भुल भए हाम्रो अझै होऊ दर्शन, हे सबका राजा । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 349(Hou Mero Darshan Mero Praan)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>१. होऊ मेरो दर्शन, मेरो प्राण हे प्रभु, तपाईंबाहेक आनन्द छैन अरू<br/>रातमा या दिनमा होस् सोच तपाईंकै, सुत्दा वा ब्यूँझँदा ज्योति तपाईं नै ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>२. होऊ मेरो बुद्धि, मेरो साँचो बात, म सदा तपाईंसाथ, तपाईं मसाथ<br/>तपाईं नै पिता, म छोरो, साँच्चै वास गर्नोस् ममा, मचाहिँ तपाईंमै ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>३. होऊ मेरो तरवार र ढाल लडाइँको, होऊ मेरो मर्यादा, आनन्द मेरो<br/>होऊ मेरो गढी, धरहरा अग्लो स्वर्गतिर उठाऊ, हे बलवान प्रभु ।</lines>
+		</verse>
+		<verse name="v4">
+			<lines>४. धन म खोज्दिनँ न त प्रशंसा, तपाईं नै मेरो सर्वस्व सदा<br/>तपाईंलाई मात्र मेरो पहिले मान स्वर्गको राजा, तपाईं मेरो धन ।</lines>
+		</verse>
+		<verse name="v5">
+			<lines>५. स्वर्गको राजा विजय भइगयो स्वर्गीय आनन्द पाउँछु घाम चम्किलो<br/>मेरो प्राण प्यारो भुल भए हाम्रो अझै होऊ दर्शन, हे सबका राजा । </lines>
+		</verse>
+	</lyrics>
+</song>

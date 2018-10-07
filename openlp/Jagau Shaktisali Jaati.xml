@@ -1,2 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Chorus 97(Jagau Shaktisali Jaati)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>जागौँ शक्तिशाली जाति खड़ा हौँ यो धर्तीमा,<br/>लिऔँ तरवार आत्माको, भत्काऊँ योजना शत्रुको</lines></verse><verse name="v2"><lines>(जब उहाँ बिउँतनुभो) २ येशू बिउँतनुभो<br/>(हराउनुभो) २ शत्रुहरूलाई । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Chorus 97(Jagau Shaktisali Jaati)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>जागौँ शक्तिशाली जाति खड़ा हौँ यो धर्तीमा,<br/>लिऔँ तरवार आत्माको, भत्काऊँ योजना शत्रुको</lines>
+		</verse>
+		<verse name="v2">
+			<lines>(जब उहाँ बिउँतनुभो) २ येशू बिउँतनुभो<br/>(हराउनुभो) २ शत्रुहरूलाई । </lines>
+		</verse>
+	</lyrics>
+</song>

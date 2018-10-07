@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song"><properties><titles><title>Bhajan 98(Satya Sundar Sidha Manis)</title></titles><authors><author>Author Unknown</author></authors></properties><lyrics><verse name="v1"><lines><br/>कोः सत्य सुन्दर सिद्ध मानिस हुनुहुन्छ, प्रभु ख्रीष्ट (२)<br/>उहाँसँग साटें मैले, अनन्त–अनन्तलाई चोखो प्रीत ।</lines></verse><verse name="v2"><lines>१. सिद्ध ईश्वर सिद्ध मानिस, मेरो जीवन स्वामीलाई<br/>अन्तरात्मादेखि श्रद्धा–भक्ति छ तपाईंलाई ।</lines></verse><verse name="v3"><lines>२. तपाईं मेरो म तपाईंको, अनन्तलाई हाम्रो प्रीत (२)<br/>दुःख–सुखमा दिलोज्यानले, रात–दिन गाउँछु ख्रीष्टको गीत । </lines></verse></lyrics></song>
+<?xml version="1.0" ?>
+<song createdIn="OpenLP 2.4.4" modifiedDate="2016-12-15T13:21:53" modifiedIn="OpenLP 2.4.4" version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+	<properties>
+		<titles>
+			<title>Bhajan 98(Satya Sundar Sidha Manis)</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>कोः सत्य सुन्दर सिद्ध मानिस हुनुहुन्छ, प्रभु ख्रीष्ट (२)<br/>उहाँसँग साटें मैले, अनन्त–अनन्तलाई चोखो प्रीत ।</lines>
+		</verse>
+		<verse name="v2">
+			<lines>१. सिद्ध ईश्वर सिद्ध मानिस, मेरो जीवन स्वामीलाई<br/>अन्तरात्मादेखि श्रद्धा–भक्ति छ तपाईंलाई ।</lines>
+		</verse>
+		<verse name="v3">
+			<lines>२. तपाईं मेरो म तपाईंको, अनन्तलाई हाम्रो प्रीत (२)<br/>दुःख–सुखमा दिलोज्यानले, रात–दिन गाउँछु ख्रीष्टको गीत । </lines>
+		</verse>
+	</lyrics>
+</song>
